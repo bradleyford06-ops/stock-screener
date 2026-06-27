@@ -48,17 +48,21 @@ def determine_strategy(signals, fundamental_score, sentiment_score):
     """Label a stock as Swing Trade, Position Trade, or None based on signal profile."""
     tech_score = score_technicals(signals)
 
-    # Position Trade: strong technicals + fundamentals + smart money signals
-    if tech_score >= 50 and fundamental_score >= 40 and sentiment_score >= 0.1:
+    # Position Trade: strong technicals + fundamentals
+    if tech_score >= 30 and fundamental_score >= 40:
         return "Position Trade"
 
-    # Swing Trade: strong technical breakout, less emphasis on fundamentals
-    if tech_score >= 60:
+    # Swing Trade: technical breakout signals dominate
+    if tech_score >= 40:
         return "Swing Trade"
 
-    # Position Trade with very strong fundamentals even if technicals are moderate
-    if fundamental_score >= 70 and tech_score >= 30 and sentiment_score >= 0.0:
+    # Position Trade with strong fundamentals even if technicals are moderate
+    if fundamental_score >= 60 and tech_score >= 10:
         return "Position Trade"
+
+    # Show best available even on quiet days — always surface something
+    if fundamental_score >= 50 or tech_score >= 20:
+        return "Watch List"
 
     return None
 

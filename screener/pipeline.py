@@ -56,7 +56,7 @@ def run_screener(tickers_csv, skip_sentiment=False):
             continue
 
         # Step 4: Fundamentals
-        fundamentals = extract_fundamentals(info)
+        fundamentals = extract_fundamentals(symbol, info)
         fundamental_score = score_fundamentals(fundamentals)
 
         # Step 5: Sentiment (optional — slow due to FinBERT)

@@ -1,16 +1,53 @@
 import logging
+import yfinance as yf
 
 logger = logging.getLogger(__name__)
 
 
-def extract_fundamentals(info):
-    """Pull key fundamental metrics from Yahoo Finance info dict."""
+def _calculate_revenue_growth(symbol):
+    """Compute revenue growth from actual annual income statement data (more reliable than Yahoo's field)."""
+    try:
+        ticker = yf.Ticker(symbol)
+        financials = ticker.financials  # annual income statement, columns = fiscal year dates
+
+        if financials is None or financials.empty:
+            return 0.0
+
+        # Look for a revenue row — Yahoo uses different labels
+        revenue_labels = ["Total Revenue", "Revenue", "Net Revenue"]
+        revenue_row = None
+        for label in revenue_labels:
+            if label in financials.index:
+                revenue_row = financials.loc[label]
+                break
+
+        if revenue_row is None or len(revenue_row) < 2:
+            return 0.0
+
+        # Most recent year vs prior year (columns are sorted newest first)
+        recent = float(revenue_row.iloc[0])
+        prior = float(revenue_row.iloc[1])
+
+        if prior <= 0 or recent <= 0:
+            return 0.0
+
+        growth = (recent - prior) / abs(prior)
+
+        # Cap at ±5x to filter out distortions from near-zero base years
+        return round(max(min(growth, 5.0), -1.0), 4)
+
+    except Exception as e:
+        logger.debug(f"Revenue growth calc failed for {symbol}: {e}")
+        return 0.0
+
+
+def extract_fundamentals(symbol, info):
+    """Pull key fundamental metrics from Yahoo Finance info dict and income statement."""
     try:
         fundamentals = {}
 
-        # Revenue and growth
-        fundamentals["revenue"] = info.get("totalRevenue") or 0
-        fundamentals["revenue_growth"] = info.get("revenueGrowth") or 0  # decimal, e.g. 0.25 = 25%
+        # Revenue growth — calculated from actual statements, not Yahoo's field
+        fundamentals["revenue_growth"] = _calculate_revenue_growth(symbol)
 
         # Cash and debt
         fundamentals["cash"] = info.get("totalCash") or 0
@@ -28,14 +65,16 @@ def extract_fundamentals(info):
         # Company basics
         fundamentals["sector"] = info.get("sector") or "Unknown"
         fundamentals["industry"] = info.get("industry") or "Unknown"
-        fundamentals["name"] = info.get("longName") or info.get("shortName") or ""
+        fundamentals["name"] = info.get("longName") or info.get("shortName") or symbol
         fundamentals["market_cap"] = info.get("marketCap") or 0
+        fundamentals["revenue"] = info.get("totalRevenue") or 0
 
         return fundamentals
 
     except Exception as e:
-        logger.warning(f"Fundamentals extraction error: {e}")
-        return {}
+        logger.warning(f"Fundamentals extraction error for {symbol}: {e}")
+        return {"name": symbol, "revenue_growth": 0, "cash": 0, "total_debt": 0,
+                "debt_to_equity": 0, "operating_cashflow": 0, "market_cap": 0}
 
 
 def score_fundamentals(fundamentals):

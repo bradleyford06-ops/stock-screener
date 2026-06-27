@@ -1,488 +1,3694 @@
 symbol,name,exchange
-ABX.TO,Barrick Gold Corporation,TSX
+IGBT.UN.TO,2028 Investment Grade Bond Trust,TSX
+BTCQ.TO,3iQ Bitcoin ETF,TSX
+ETHQ.TO,3iQ Ether Staking ETF,TSX
+SOLQ.TO,3iQ Solana Staking ETF,TSX
+XRPQ.TO,3iQ XRP ETF,TSX
+MMMM.TO,3M CDR (CAD Hedged),TSX
+VNP.TO,5N Plus Inc.,TSX
+AW.TO,A & W Food Services of Canada Inc.,TSX
+ABXX.TO,Abaxx Technologies Inc.,TSX
+ABT.TO,Abbott Labs CDR (CAD Hedged),TSX
+ABBV.TO,AbbVie CDR (CAD Hedged),TSX
+AAB.TO,Aberdeen International Inc.,TSX
+ABRA.TO,AbraSilver Resource Corp.,TSX
+FAP.TO,abrdn Asia-Pacific Income Fund VCC,TSX
+ADN.TO,Acadian Timber Corp.,TSX
+HDGE.TO,Accelerate Absolute Return Fund,TSX
+ARB.TO,Accelerate Arbitrage Fund,TSX
+ATSX.TO,Accelerate Canadian Long Short Equity Fund,TSX
+INCM.TO,Accelerate Diversified Credit Income Fund,TSX
+ONEC.TO,Accelerate OneChoice Alternative Multi-Asset Fund,TSX
+ACD.TO,Accord Financial Corp.,TSX
+ARA.TO,Aclara Resources Inc.,TSX
+ACX.TO,ACT Energy Technologies Ltd.,TSX
+ADCO.TO,Adcore Inc.,TSX
+ADEN.TO,ADENTRA Inc.,TSX
+DRX.TO,ADF Group Inc.,TSX
+ADBE.TO,Adobe CDR (CAD Hedged),TSX
+ACT.TO,Aduro Clean Technologies Inc.,TSX
+AMD.TO,Advanced Micro Devices CDR (CAD Hedged),TSX
+AAV.TO,Advantage Energy Ltd.,TSX
+ARE.TO,Aecon Group Inc.,TSX
+AEG.TO,Aegis Brands Inc.,TSX
+AFN.TO,Ag Growth International Inc.,TSX
+AMGR.TO,AGF American Growth Fund,TSX
+AENP.TO,AGF Enhanced U.S. Income Plus Fund,TSX
+AGSL.TO,AGF Global Select Fund,TSX
+AGF.B.TO,AGF Management Limited,TSX
+QBTL.TO,AGF US Market Neutral Anti-Beta CAD-Hedged ETF,TSX
 AEM.TO,Agnico Eagle Mines Limited,TSX
-AG.TO,First Majestic Silver Corp,TSX
-AGI.TO,Alamos Gold Inc,TSX
+AGTF.TO,AGT Food and Ingredients Inc.,TSX
+AIM.TO,Aimia Inc.,TSX
+AC.TO,Air Canada,TSX
+ABNB.TO,Airbnb CDR (CAD Hedged),TSX
+BOS.TO,AirBoss of America Corp.,TSX
+AKT.A.TO,Akita Drilling Ltd.,TSX
+AGI.TO,Alamos Gold Inc.,TSX
+AD.DB.A.TO,Alaris Equity Partners Income Trust,TSX
+ALC.TO,Algoma Central Corporation,TSX
+ASTL.TO,Algoma Steel Group Inc.,TSX
+AQN.TO,Algonquin Power & Utilities Corp.,TSX
+ATD.TO,Alimentation Couche-Tard Inc.,TSX
+ALYA.TO,Alithya Group inc.,TSX
+ALK.TO,Alkane Resources Limited,TSX
+COIL.TO,All-Canadian Oil & Gas ETF,TSX
+ALZ.TO,Allianz CDR (CAD Hedged),TSX
+AAUC.TO,Allied Gold Corporation,TSX
+AP.UN.TO,Allied Properties Real Estate Investment Trust,TSX
+AII.TO,Almonty Industries Inc.,TSX
+GOOG.TO,Alphabet CDR (CAD Hedged),TSX
+ALA.TO,AltaGas Ltd.,TSX
 ALS.TO,Altius Minerals Corporation,TSX
-AMY.TO,Amaya Inc,TSX
-AND.TO,Andean Precious Metals Corp,TSX
-ANG.TO,Angold Resources Ltd,TSX
-ANX.TO,Anaconda Mining Inc,TSX
-AR.TO,Argonaut Gold Inc,TSX
-ARE.TO,Aris Mining Corporation,TSX
-ARG.TO,Abitibi Royalties Inc,TSX
-ARL.TO,Ardmore Resources Corp,TSX
-ART.V,Artemis Gold Inc,TSX-V
-ASM.TO,Avino Silver & Gold Mines Ltd,TSX
+AIF.TO,Altus Group Limited,TSX
+AMZN.TO,Amazon.com CDR (CAD Hedged),TSX
+AXP.TO,American Express CDR (CAD Hedged),TSX
+HOT.DB.V.TO,American Hotel Income Properties REIT LP,TSX
+USA.TO,Americas Gold and Silver Corporation,TSX
+ARG.TO,Amerigo Resources Ltd.,TSX
+AMGN.TO,Amgen CDR (CAD Hedged),TSX
+APH.TO,Amphenol CDR (CAD Hedged),TSX
+ANRG.TO,Anaergia Inc.,TSX
+APM.TO,Andean Precious Metals Corp.,TSX
+ADW.A.TO,Andrew Peller Limited/Andrew Peller Limitee,TSX
+APTX.TO,Apotex Health Corp.,TSX
+APLI.TO,Appili Therapeutics Inc.,TSX
+AAPL.TO,Apple CDR (CAD Hedged),TSX
+AMAT.TO,Applied Materials CDR (CAD Hedged),TSX
+APPS.TO,AppLovin CDR (CAD Hedged),TSX
+APS.TO,Aptose Biosciences Inc.,TSX
+ARX.TO,ARC Resources Ltd.,TSX
+ARIS.TO,Aris Mining Corporation,TSX
+ANET.TO,Arista Networks CDR (CAD Hedged),TSX
+ATZ.TO,Aritzia Inc.,TSX
+AMC.TO,Arizona Metals Corp.,TSX
+ADIV.TO,Arrow EC Equity Advantage Alternative Fund,TSX
+RATE.TO,Arrow EC Income Advantage Alternative Fund,TSX
+ACAA.TO,Arrow Long/Short Alternative Fund,TSX
+ASML.TO,ASML CDR (CAD Hedged),TSX
+ACO.X.TO,ATCO Ltd.,TSX
+ATX.TO,ATEX Resources Inc.,TSX
 ATH.TO,Athabasca Oil Corporation,TSX
-ATZ.TO,Aritzia Inc,TSX
-AUG.TO,Augmented Reality Concepts Inc,TSX
-AUM.TO,Gold Mountain Mining Corp,TSX
-AUZ.TO,Australian Vanadium Limited,TSX
-AVL.TO,Avalon Advanced Materials Inc,TSX
-AYM.TO,Azteca Gold Corp,TSX
-BAR.TO,Barsele Minerals Corp,TSX
-BBD.B.TO,Bombardier Inc,TSX
-BEI.UN.TO,Boardwalk Real Estate Investment Trust,TSX
-BFC.TO,BFC Capital Trust,TSX
-BGD.TO,Birchcliff Energy Ltd,TSX
-BLU.TO,BELLUS Health Inc,TSX
-BNE.TO,Bonterra Energy Corp,TSX
-BNT.V,Bonterra Resources Inc,TSX-V
-BOS.TO,BOS Holdings Inc,TSX
-BRY.TO,Torchlight Energy Resources Inc,TSX
-BSX.TO,Belo Sun Mining Corp,TSX
-BTB.UN.TO,BTB Real Estate Investment Trust,TSX
-BTO.TO,B2Gold Corp,TSX
-BUF.TO,Buffalo Coal Corp,TSX
-CAD.TO,Corsa Coal Corp,TSX
-CAE.TO,CAE Inc,TSX
-CAN.TO,Canacol Energy Ltd,TSX
-CANN.TO,Cannex Capital Holdings Inc,TSX
-CAR.UN.TO,Canadian Apartment Properties REIT,TSX
-CAS.TO,Cascades Inc,TSX
-CCO.TO,Cameco Corporation,TSX
-CDH.TO,Caldas Gold Corp,TSX
-CE.TO,Cenovus Energy Inc,TSX
-CF.TO,Canaccord Genuity Group Inc,TSX
-CFP.TO,Canfor Corporation,TSX
-CGX.TO,Cineplex Inc,TSX
-CHE.UN.TO,Chemtrade Logistics Income Fund,TSX
-CHR.TO,Chorus Aviation Inc,TSX
-CI.TO,CI Financial Corp,TSX
-CIX.TO,CI Financial Corp,TSX
-CLQ.TO,Clean Air Power Ltd,TSX
-CLR.TO,Clearwater Seafoods Incorporated,TSX
-CMC.TO,Comet Industries Ltd,TSX
-CMG.TO,Computer Modelling Group Ltd,TSX
-CNL.TO,Canacol Energy Ltd,TSX
-CNQ.TO,Canadian Natural Resources Limited,TSX
-CNX.V,Condor Gold plc,TSX-V
-COB.TO,Cobalt 27 Capital Corp,TSX
-COG.TO,Condor Gold plc,TSX
-COP.V,Copper Fox Metals Inc,TSX-V
-CPG.TO,Crescent Point Energy Corp,TSX
-CPX.TO,Capital Power Corporation,TSX
-CQE.TO,Calvalley Petroleum Corp,TSX
-CRE.TO,Critical Elements Lithium Corporation,TSX
-CRJ.TO,Caledonia Mining Corporation,TSX
-CRT.UN.TO,CT Real Estate Investment Trust,TSX
-CS.TO,Capstone Mining Corp,TSX
-CSH.UN.TO,Chartwell Retirement Residences,TSX
-CSU.TO,Constellation Software Inc,TSX
-CWB.TO,Canadian Western Bank,TSX
-CXB.TO,Calibre Mining Corp,TSX
-DAY.TO,Dayforce Inc,TSX
-DCM.TO,Data Communications Management Corp,TSX
-DFY.TO,Definity Financial Corporation,TSX
-DGC.TO,Detour Gold Corporation,TSX
-DHT.V,District Metals Corp,TSX-V
-DII.B.TO,Dorel Industries Inc,TSX
-DML.TO,Denison Mines Corp,TSX
-DNG.TO,Dynacor Gold Mines Inc,TSX
-DSG.TO,Descartes Systems Group Inc,TSX
-DXG.V,Duncastle Gold Corp,TSX-V
-ECO.TO,Eco Atlantic Oil & Gas Ltd,TSX
-EDR.TO,Endeavour Silver Corp,TSX
-EFR.TO,Energy Fuels Inc,TSX
-ELD.TO,Eldorado Gold Corporation,TSX
-ELO.TO,Eloro Resources Ltd,TSX
-EMX.TO,EMX Royalty Corporation,TSX
-ENB.TO,Enbridge Inc,TSX
-EOG.TO,Escape Hunt plc,TSX
-ERO.TO,Ero Copper Corp,TSX
-ESM.V,Eagle Sun Minerals Corp,TSX-V
-ETG.TO,Entree Resources Ltd,TSX
-EV.TO,Evanachan Ltd,TSX
-EXP.TO,Excelsior Mining Corp,TSX
-EXS.TO,ExGen Resources Inc,TSX
-FAR.TO,Faraday Copper Corp,TSX
-FCX.TO,Foran Mining Corporation,TSX
-FDY.TO,Foundry Metals Inc,TSX
-FEC.TO,Frontera Energy Corporation,TSX
-FIL.TO,Filo Mining Corp,TSX
-FLO.TO,Flora Growth Corp,TSX
-FM.TO,First Quantum Minerals Ltd,TSX
-FNV.TO,Franco-Nevada Corporation,TSX
-FOM.V,Foran Mining Corporation,TSX-V
-FOR.TO,Foraco International SA,TSX
-FRX.TO,Fennec Pharmaceuticals Inc,TSX
-FSM.TO,Fortuna Silver Mines Inc,TSX
-FTS.TO,Fortis Inc,TSX
-FVI.TO,Fortuna Silver Mines Inc,TSX
-GAU.TO,Galiano Gold Inc,TSX
-GBR.V,Gold Bull Resources Corp,TSX-V
-GCM.TO,Gran Colombia Gold Corp,TSX
-GDX.TO,VanEck Gold Miners ETF,TSX
-GFL.TO,GFL Environmental Inc,TSX
-GGD.TO,GoGold Resources Inc,TSX
-GGI.V,Garibaldi Resources Corp,TSX-V
-GIB.A.TO,CGI Inc,TSX
-GLD.TO,Goldex Resources Corporation,TSX
-GLG.TO,Golden Star Resources Ltd,TSX
-GLO.TO,Global Atomic Corporation,TSX
-GMR.TO,Gold Mineral Resources Ltd,TSX
-GNG.TO,GreenFirst Forest Products Inc,TSX
-GOD.TO,Gold Standard Ventures Corp,TSX
-GOG.V,Giga Metals Corporation,TSX-V
-GOT.TO,Goldgroup Mining Inc,TSX
-GPR.TO,Gran Tierra Energy Inc,TSX
-GRA.TO,Graphite One Inc,TSX
-GRG.V,GreenFirst Forest Products Inc,TSX-V
-GRS.TO,Guyana Goldfields Inc,TSX
-GSC.TO,Golden Star Resources Ltd,TSX
-GSP.V,Giga Metals Corporation,TSX-V
-GSS.TO,Golden Star Resources Ltd,TSX
-GTR.V,GT Resources Inc,TSX-V
-GTT.V,Gold Terra Resource Corp,TSX-V
-GUY.TO,Guyana Goldfields Inc,TSX
-GWA.TO,Grounded Lithium Corp,TSX
-GXS.TO,Goldex Resources Corporation,TSX
-GXU.V,GoviEx Uranium Inc,TSX-V
-H.TO,Hydro One Limited,TSX
-HAI.TO,Haivision Systems Inc,TSX
-HAM.V,Hammer Metals Ltd,TSX-V
-HBM.TO,Hudbay Minerals Inc,TSX
-HCG.TO,Home Capital Group Inc,TSX
-HER.TO,Hercules Capital Inc,TSX
-HEX.V,Highgold Mining Inc,TSX-V
-HGM.V,High Gold Mining Inc,TSX-V
-HLS.TO,HLS Therapeutics Inc,TSX
-HLX.TO,Heliogen Inc,TSX
-HME.V,Heliostar Metals Ltd,TSX-V
-HND.TO,BetaPro Natural Gas Inverse Leveraged Daily Bear ETF,TSX
+ATRL.TO,AtkinsRéalis Group Inc.,TSX
+AI.TO,Atrium Mortgage Investment Corporation,TSX
+ATS.TO,ATS Corporation,TSX
+ACB.TO,Aurora Cannabis Inc.,TSX
+ACQ.TO,AutoCanada Inc.,TSX
+APR.UN.TO,Automotive Properties Real Estate Investment Trust,TSX
+AZO.TO,AutoZone CDR (CAD Hedged),TSX
+XLY.TO,Auxly Cannabis Group Inc.,TSX
+AVL.TO,Avalon Advanced Materials Inc.,TSX
+AVNT.TO,Avant Brands Inc.,TSX
+CAGE.TO,Avantis CIBC All-Equity Asset Allocation ETF,TSX
+CACE.TO,Avantis CIBC Canadian Equity ETF,TSX
+CAEM.TO,Avantis CIBC Emerging Markets Equity ETF,TSX
+CASV.TO,Avantis CIBC Global Small Cap Value ETF,TSX
+CADE.TO,Avantis CIBC International Equity ETF,TSX
+CAUS.TO,Avantis CIBC U.S. All-Cap Equity ETF,TSX
+CALV.TO,Avantis CIBC U.S. Large Cap Value ETF,TSX
+CAUV.TO,Avantis CIBC U.S. Small Cap Value ETF,TSX
+AVCN.TO,Avicanna Inc.,TSX
+ASM.TO,Avino Silver & Gold Mines Ltd.,TSX
+AYA.TO,Aya Gold & Silver Inc.,TSX
+BTO.TO,B2Gold Corp.,TSX
+BDGI.TO,Badger Infrastructure Solutions Ltd.,TSX
+BLDP.TO,Ballard Power Systems Inc.,TSX
+BOFA.TO,Bank of America CDR (CAD Hedged),TSX
+BMO.TO,Bank of Montreal,TSX
+BNS.TO,Bank of Nova Scotia (The),TSX
+ABX.TO,Barrick Mining Corporation,TSX
+BLCO.TO,Bausch + Lomb Corporation,TSX
+BHC.TO,Bausch Health Companies Inc.,TSX
+BYL.TO,Baylin Technologies Inc.,TSX
+BTE.TO,Baytex Energy Corp.,TSX
+BCE.TO,BCE Inc.,TSX
+BEK.B.TO,Becker Milk Company Ltd. (The),TSX
+BSX.TO,Belo Sun Mining Corp.,TSX
+BNG.TO,Bengal Energy Ltd.,TSX
+BRK.TO,Berkshire Hathaway CDR (CAD Hedged),TSX
+SQQQ.TO,BetaPro -3x Nasdaq-100 Daily Leveraged Bear Alternative ETF,TSX
+SRSL.TO,BetaPro -3x Russell 2000 Daily Leveraged Bear Alternative ETF,TSX
+SSPX.TO,BetaPro -3x S&P 500 Daily Leveraged Bear Alternative ETF,TSX
+SCND.TO,BetaPro -3x S&P/TSX 60 Daily Leveraged Bear Alternative ETF,TSX
+TQQQ.TO,BetaPro 3x Nasdaq-100 Daily Leveraged Bull Alternative ETF,TSX
+TRSL.TO,BetaPro 3x Russell 2000 Daily Leveraged Bull Alternative ETF,TSX
+TSPX.TO,BetaPro 3x S&P 500 Daily Leveraged Bull Alternative ETF,TSX
+TCND.TO,BetaPro 3x S&P/TSX 60 Daily Leveraged Bull Alternative ETF,TSX
+GDXD.TO,BetaPro Canadian Gold Miners -2x Daily Bear ETF,TSX
+GDXU.TO,BetaPro Canadian Gold Miners 2x Daily Bull ETF,TSX
 HOD.TO,BetaPro Crude Oil Inverse Leveraged Daily Bear ETF,TSX
-HOG.V,Hog Capital Corp,TSX-V
-HQD.TO,HQ Sustainable Maritime Industries Inc,TSX
-HR.UN.TO,H&R Real Estate Investment Trust,TSX
-HUM.TO,Humanigen Inc,TSX
-HUT.TO,Hut 8 Mining Corp,TSX
-IAG.TO,iamgold Corporation,TSX
-IAMG.TO,iamgold Corporation,TSX
-IBI.TO,IBI Group Inc,TSX
-IFP.TO,Interfor Corporation,TSX
-IGO.TO,Integra Gold Corp,TSX
-ILC.TO,International Lithium Corp,TSX
-IMO.TO,Imperial Oil Limited,TSX
-IMG.TO,iamgold Corporation,TSX
-IPL.TO,Inter Pipeline Ltd,TSX
-IR.TO,Irwin Naturals Inc,TSX
-IRC.V,International Resources Holding RSC Ltd,TSX-V
-IRV.TO,Irving Resources Inc,TSX
-ISR.V,Itafos Inc,TSX-V
-ITR.TO,Itsuki Holdings Inc,TSX
-JAG.TO,Jaguar Mining Inc,TSX
-JDN.V,Juggernaut Exploration Ltd,TSX-V
-JET.TO,Jetlines Group Holdings Inc,TSX
-JOY.TO,Journey Medical Corporation,TSX
-K.TO,Kinross Gold Corporation,TSX
-KAM.V,Kamloops Zinc Corp,TSX-V
-KDX.TO,Klondex Mines Ltd,TSX
-KEL.TO,Kelt Exploration Ltd,TSX
-KEX.TO,Kelt Exploration Ltd,TSX
-KGC.TO,Kinross Gold Corporation,TSX
-KGS.V,Kings Bay Gold Corp,TSX-V
-KID.TO,Kidoz Inc,TSX
-KL.TO,Kirkland Lake Gold Ltd,TSX
-KLS.V,Kali-Extrakt AG,TSX-V
-KNT.TO,K92 Mining Inc,TSX
-KOR.TO,Kore Mining Ltd,TSX
-KRN.V,Kiran Resources Inc,TSX-V
-KSP.TO,KSP Holdings Ltd,TSX
-KUB.TO,Kubota Corporation,TSX
-KWG.V,KWG Resources Inc,TSX-V
-LAB.TO,Labrador Iron Ore Royalty Corporation,TSX
-LAC.TO,Lithium Americas Corp,TSX
-LAN.V,Lantheus Holdings Inc,TSX-V
-LAR.V,Laurion Mineral Exploration Inc,TSX-V
-LAS.TO,Lassonde Industries Inc,TSX
-LAUR.TO,Laurentian Bank of Canada,TSX
-LB.TO,Laurentian Bank of Canada,TSX
-LGD.TO,Liberty Gold Corp,TSX
-LGO.TO,Largo Inc,TSX
-LIF.TO,Labrador Iron Ore Royalty Corporation,TSX
-LIO.V,Lion One Metals Limited,TSX-V
-LIT.TO,Lithium Americas Corp,TSX
-LKY.TO,Lucky Minerals Inc,TSX
-LMC.TO,Laramide Resources Ltd,TSX
-LNF.TO,Leon's Furniture Limited,TSX
-LNR.TO,Linamar Corporation,TSX
-LNT.V,Lingo Media Inc,TSX-V
-LOC.V,Collective Mining Ltd,TSX-V
-LON.TO,Lundin Gold Inc,TSX
-LUC.TO,Lucara Diamond Corp,TSX
-LUN.TO,Lundin Mining Corporation,TSX
-LVS.TO,Labrador Uranium Inc,TSX
-LYL.V,Loyal Pharma Inc,TSX-V
-MAG.TO,MAG Silver Corp,TSX
-MAI.V,Minera Alamos Inc,TSX-V
-MAN.TO,Manulife Financial Corporation,TSX
-MAR.TO,Maritime Resources Corp,TSX
-MAS.TO,Massy Holdings Ltd,TSX
-MAU.TO,Matica Enterprises Inc,TSX
-MAW.TO,Mawson Gold Limited,TSX
-MBX.V,Murchison Minerals Ltd,TSX-V
-MCB.TO,McCoy Global Inc,TSX
-MCI.V,Macro Enterprises Inc,TSX-V
-MCO.V,Mincor Resources NL,TSX-V
-MDI.TO,Major Drilling Group International Inc,TSX
-MDP.TO,Midland Exploration Inc,TSX
-MDW.V,Midway Gold Corp,TSX-V
-MED.TO,Medaro Mining Corp,TSX
-MEG.TO,MEG Energy Corp,TSX
-MGR.TO,Magna Resources Ltd,TSX
-MHR.TO,Mahindra & Mahindra Financial Services Limited,TSX
-MIC.TO,Microforum Inc,TSX
-MIL.V,Millennial Lithium Corp,TSX-V
-MIN.V,Minera Alamos Inc,TSX-V
-MIO.V,Minto Metals Corp,TSX-V
-MKO.V,Mako Mining Corp,TSX-V
-MLX.V,Metals X Limited,TSX-V
-MMX.TO,Murchison Minerals Ltd,TSX
-MND.TO,Mandalay Resources Corporation,TSX
-MNT.TO,Royal Canadian Mint,TSX
-MON.TO,Monument Mining Limited,TSX
-MOZ.TO,Marathon Gold Corporation,TSX
-MRC.TO,Matica Enterprises Inc,TSX
-MRD.TO,Melior Resources Inc,TSX
-MRE.TO,Martinrea International Inc,TSX
-MRS.V,Millennial Precious Metals Corp,TSX-V
-MRT.UN.TO,Morguard Real Estate Investment Trust,TSX
-MSB.TO,Medusa Mining Limited,TSX
-MSQ.V,Mason Graphite Inc,TSX-V
-MTB.TO,Mountain Province Diamonds Inc,TSX
-MTL.TO,Mullen Group Ltd,TSX
-MTO.TO,Metals Creek Resources Corp,TSX
-MTS.TO,Metso Corporation,TSX
-MUX.TO,McEwen Mining Inc,TSX
-MVC.TO,Minco Silver Corporation,TSX
-MX.TO,Methanex Corporation,TSX
-NAM.V,Nanominerals Corp,TSX-V
-NAR.TO,Nanosonics Limited,TSX
-NB.TO,Nihon Kohden Corporation,TSX
-NCU.TO,Nevada Copper Corp,TSX
-NDA.TO,Northland Power Inc,TSX
-NDP.TO,Nuvista Energy Ltd,TSX
-NEO.TO,Neo Performance Materials Inc,TSX
-NET.TO,Nextech AR Solutions Corp,TSX
-NGD.TO,New Gold Inc,TSX
-NHC.TO,New Horizons Capital Corp,TSX
-NII.TO,Nickel Industries Limited,TSX
-NIM.V,Nighthawk Gold Corp,TSX-V
-NLC.TO,New Look Vision Group Inc,TSX
-NLH.TO,Namdeb Diamond Corporation,TSX
-NMC.TO,Nickel Mines Limited,TSX
-NOA.TO,North American Construction Group Ltd,TSX
-NPA.V,NPA Gold Corp,TSX-V
-NPK.TO,Namaska Petroleum Limited,TSX
-NPS.TO,NPS Pharmaceuticals Inc,TSX
-NRI.TO,Napier Jones Infrastructure Ltd,TSX
-NRN.TO,NovaBay Pharmaceuticals Inc,TSX
-NTO.TO,Nvida Corporation,TSX
-NTR.TO,Nutrien Ltd,TSX
-NUF.TO,Nuvista Energy Ltd,TSX
-NUG.V,NuLegacy Gold Corporation,TSX-V
-NUS.TO,Nunavut Gold Corp,TSX
-NVO.TO,Novo Resources Corp,TSX
-NVX.V,Nexus Gold Corp,TSX-V
-NXE.TO,NexGen Energy Ltd,TSX
-NXJ.V,Nexus Gold Corp,TSX-V
-NXO.V,Nex-Tech Wireless LLC,TSX-V
-OBE.TO,Obsidian Energy Ltd,TSX
-ODV.TO,Osisko Development Corp,TSX
-OGC.TO,OceanaGold Corporation,TSX
-OGD.TO,Osisko Gold Royalties Ltd,TSX
-OGI.TO,Organigram Holdings Inc,TSX
-OR.TO,Osisko Gold Royalties Ltd,TSX
-ORE.V,Osino Resources Corp,TSX-V
-ORX.TO,Orex Minerals Inc,TSX
-OSK.TO,Osisko Mining Inc,TSX
-OVV.TO,Ovintiv Inc,TSX
-OWL.TO,Owlet Inc,TSX
-PAA.TO,Pan American Silver Corp,TSX
-PAAS.TO,Pan American Silver Corp,TSX
-PAR.TO,Paramount Resources Ltd,TSX
-PBH.TO,Premium Brands Holdings Corporation,TSX
-PBL.TO,Pollard Banknote Limited,TSX
-PCX.TO,Perpetua Resources Corp,TSX
-PDS.TO,Precision Drilling Corporation,TSX
-PDX.V,Prime Meridian Resources Corp,TSX-V
-PEI.V,Pacific Empire Minerals Corp,TSX-V
-PGM.V,Platinum Group Metals Ltd,TSX-V
-PHO.TO,Pesorama Inc,TSX
-PIF.TO,Polaris Infrastructure Inc,TSX
-PJX.V,PJX Resources Inc,TSX-V
-PKI.TO,Parkland Corporation,TSX
-PLB.V,Plata Latina Minerals Corporation,TSX-V
-PLC.TO,Pan Orient Energy Corp,TSX
-PLG.TO,Platinum Group Metals Ltd,TSX
-PLS.V,Pioneering Technology Corp,TSX-V
-PLZ.UN.TO,Plaza Retail REIT,TSX
-PMD.TO,Paladin Energy Ltd,TSX
-POW.TO,Power Corporation of Canada,TSX
-PPL.TO,Pembina Pipeline Corporation,TSX
-PPX.V,PPX Mining Corp,TSX-V
-PRA.TO,Prairie Mining Limited,TSX
-PRB.TO,Probe Metals Inc,TSX
-PRG.V,Precipitate Gold Corp,TSX-V
-PRN.TO,Profound Medical Corp,TSX
-PRS.V,Precipitate Gold Corp,TSX-V
-PSI.TO,Pason Systems Inc,TSX
-PTM.TO,Platinum Group Metals Ltd,TSX
-PVG.TO,Pretium Resources Inc,TSX
-PWF.TO,Power Financial Corporation,TSX
-PYR.TO,PyroGenesis Canada Inc,TSX
-QBE.TO,QBE Insurance Group Limited,TSX
-QCX.TO,QcX Gold Corp,TSX
-QRC.TO,Questerre Energy Corporation,TSX
-QSP.UN.TO,Slate Grocery REIT,TSX
-QST.TO,Questcor Pharmaceuticals Inc,TSX
-RCH.V,Rockhaven Resources Ltd,TSX-V
-RCI.B.TO,Rogers Communications Inc,TSX
-RDX.V,Redde Northgate plc,TSX-V
-REI.UN.TO,RioCan Real Estate Investment Trust,TSX
-REM.TO,Reunion Gold Corporation,TSX
-RGL.TO,Reconnaissance Energy Africa Ltd,TSX
-RGX.V,Renforth Resources Inc,TSX-V
-RIO.TO,Rio Tinto Limited,TSX
-RKR.V,Rokmaster Resources Corp,TSX-V
-RLG.V,Rimini Street Inc,TSX-V
-RMC.TO,Rogue Metals Corp,TSX
-RML.TO,Resverlogix Corp,TSX
-ROG.TO,Rogers Sugar Inc,TSX
-RPM.V,Ramp Metals Inc,TSX-V
-RRX.TO,Raging River Exploration Inc,TSX
-RSG.V,Reunion Gold Corporation,TSX-V
-RTG.V,RTG Mining Inc,TSX-V
-RUS.TO,Russel Metals Inc,TSX
-RYU.V,Recon Technology Ltd,TSX-V
-SAM.TO,Sama Resources Inc,TSX
-SAP.TO,Saputo Inc,TSX
-SAR.TO,Sarama Resources Ltd,TSX
-SBB.TO,Sabina Gold & Silver Corp,TSX
-SC.TO,Shopify Inc,TSX
-SCL.TO,Shawcor Ltd,TSX
-SCLT.TO,Shawcor Ltd,TSX
-SCP.TO,Scandium International Mining Corp,TSX
-SDX.V,SDX Energy Inc,TSX-V
-SES.TO,Secure Energy Services Inc,TSX
-SES.V,SES AI Corporation,TSX-V
-SEV.TO,Supremex Inc,TSX
-SG.TO,Sunridge Gold Corp,TSX
-SGN.V,Sievert Logistik SE,TSX-V
-SGR.TO,Silver Grail Resources Ltd,TSX
-SGY.TO,Surge Energy Inc,TSX
-SHM.V,Sherwood Silver Corp,TSX-V
-SHS.TO,Shawcor Ltd,TSX
-SIA.TO,Sienna Senior Living Inc,TSX
-SIL.TO,SilverCrest Metals Inc,TSX
-SILV.TO,SilverCrest Metals Inc,TSX
-SIS.TO,Savaria Corporation,TSX
-SJR.B.TO,Shaw Communications Inc,TSX
-SKE.TO,Skeena Resources Limited,TSX
-SLF.TO,Sun Life Financial Inc,TSX
-SLR.V,Sulliden Mining Capital Inc,TSX-V
-SLS.TO,Solaris Resources Inc,TSX
-SMF.TO,Supremex Inc,TSX
-SMT.TO,Sierra Metals Inc,TSX
-SNC.TO,SNC-Lavalin Group Inc,TSX
-SNX.V,Sievert Logistik SE,TSX-V
-SOT.UN.TO,Slate Office REIT,TSX
-SOX.V,Southern Silver Exploration Corp,TSX-V
-SPE.V,Spearmint Resources Inc,TSX-V
-SPG.TO,Sprott Physical Gold Trust,TSX
-SPT.TO,Sprott Inc,TSX
-SRA.V,Sierra Madre Gold and Silver Ltd,TSX-V
-SRX.V,Star Royalties Ltd,TSX-V
-SSL.TO,Sandstorm Gold Ltd,TSX
-SSO.TO,First Trust UltraShort Government ETF,TSX
-SSP.V,Searchlight Resources Inc,TSX-V
-STC.TO,Sangoma Technologies Corporation,TSX
-STN.TO,Stantec Inc,TSX
-STX.TO,Sterling Mining Company,TSX
-SU.TO,Suncor Energy Inc,TSX
-SVM.TO,Silvercorp Metals Inc,TSX
-SVR.V,Silver Range Resources Ltd,TSX-V
-SXP.V,Stellar AfricaGold Inc,TSX-V
-SYH.TO,Sayona Mining Limited,TSX
-SYZ.TO,Sylogist Ltd,TSX
-T.TO,TELUS Corporation,TSX
-TCM.TO,Taseko Mines Limited,TSX
-TD.TO,Toronto-Dominion Bank,TSX
-TDG.V,Torchlight Energy Resources Inc,TSX-V
-TER.V,Terran Orbital Corporation,TSX-V
-TGZ.TO,Teranga Gold Corporation,TSX
-THO.V,Thor Explorations Ltd,TSX-V
-TIG.V,Tiger Royalties and Investments plc,TSX-V
-TIL.TO,Tilibit Nanosystems GmbH,TSX
-TKO.TO,Tronox Holdings plc,TSX
-TLA.V,Tla'amin Resources Ltd,TSX-V
-TM.TO,Toyota Motor Corporation,TSX
-TMR.TO,Treasury Metals Inc,TSX
-TNX.V,Tenax Therapeutics Inc,TSX-V
-TOC.TO,Talisman Energy Inc,TSX
-TOI.TO,Topicus.com Inc,TSX
-TOS.V,Toscana Energy Income Corporation,TSX-V
-TRE.TO,Trilogy Metals Inc,TSX
-TRQ.TO,Turquoise Hill Resources Ltd,TSX
-TRX.V,Torchlight Energy Resources Inc,TSX-V
-TSL.TO,Torchlight Energy Resources Inc,TSX
-TUF.V,TUF Group Public Company Limited,TSX-V
-TUO.TO,Turmalina Metals Corp,TSX
-TVE.TO,Tamarack Valley Energy Ltd,TSX
-TVO.V,TV2U International Ltd,TSX-V
-TXG.TO,Torex Gold Resources Inc,TSX
-TYE.V,Tychon Energy Corp,TSX-V
-UAE.TO,Union Agriculture Group Corp,TSX
-UGD.V,Unigold Inc,TSX-V
-UNS.TO,Unisel Gold Inc,TSX
-UQM.TO,UQM Technologies Inc,TSX
-URC.V,Ur-Energy Inc,TSX-V
-URE.TO,Ur-Energy Inc,TSX
-USA.V,U.S. Gold Corp,TSX-V
-UTX.TO,Uranium Royalty Corp,TSX
-UVX.V,Uranium Royalty Corp,TSX-V
-VAB.TO,Vanguard Canadian Aggregate Bond Index ETF,TSX
-VET.TO,Vermilion Energy Inc,TSX
-VGZ.TO,Vista Gold Corp,TSX
-VIC.TO,Victory Nickel Inc,TSX
-VIQ.TO,VIQ Solutions Inc,TSX
-VIT.TO,VIQ Solutions Inc,TSX
-VLN.TO,Valens Company Inc,TSX
-VMC.V,Vicinity Motor Corp,TSX-V
-VRN.TO,Veren Inc,TSX
-VTX.V,Vertex Resource Group Ltd,TSX-V
-WAM.TO,Western Asset Mortgage Capital Corporation,TSX
-WAT.TO,Waterloo Brewing Ltd,TSX
-WCM.TO,West Coast Mining Corp,TSX
-WDO.TO,Wesdome Gold Mines Ltd,TSX
-WFG.TO,West Fraser Timber Co Ltd,TSX
-WGO.TO,Wallbridge Mining Company Limited,TSX
-WHY.V,Whitehorse Gold Corp,TSX-V
-WIL.V,Willowglen Systems Inc,TSX-V
-WM.TO,Waste Connections Inc,TSX
-WML.TO,Wealth Minerals Ltd,TSX
+HOU.TO,BetaPro Crude Oil Leveraged Daily Bull ETF,TSX
+GLDD.TO,BetaPro Gold Bullion -2x Daily Bear ETF,TSX
+GLDU.TO,BetaPro Gold Bullion 2x Daily Bull ETF,TSX
+BITI.TO,BetaPro Inverse Bitcoin ETF,TSX
+QQD.TO,BetaPro NASDAQ-100 -2x Daily Bear ETF,TSX
+QQU.TO,BetaPro NASDAQ-100 2x Daily Bull ETF,TSX
+QQI.TO,BetaPro Nasdaq-100 Daily Inverse ETF,TSX
+HND.TO,BetaPro Natural Gas Inverse Leveraged Daily Bear ETF,TSX
+HNU.TO,BetaPro Natural Gas Leveraged Daily Bull ETF,TSX
+SPXD.TO,BetaPro S&P 500 -2x Daily Bear ETF,TSX
+SPXU.TO,BetaPro S&P 500 2x Daily Bull ETF,TSX
+SPXI.TO,BetaPro S&P 500 Daily Inverse ETF,TSX
+VOLX.TO,BetaPro S&P 500 VIX Short-Term Futures ETF,TSX
+CNDD.TO,BetaPro S&P/TSX 60 -2x Daily Bear ETF,TSX
+CNDU.TO,BetaPro S&P/TSX 60 2x Daily Bull ETF,TSX
+CNDI.TO,BetaPro S&P/TSX 60 Daily Inverse ETF,TSX
+NRGD.TO,BetaPro S&P/TSX Capped Energy -2x Daily Bear ETF,TSX
+NRGU.TO,BetaPro S&P/TSX Capped Energy 2x Daily Bull ETF,TSX
+CFOD.TO,BetaPro S&P/TSX Capped Financials -2x Daily Bear ETF,TSX
+CFOU.TO,BetaPro S&P/TSX Capped Financials 2x Daily Bull ETF,TSX
+SLVD.TO,BetaPro Silver -2x Daily Bear ETF,TSX
+SLVU.TO,BetaPro Silver 2x Daily Bull ETF,TSX
+BOIL.TO,Beyond Oil Ltd.,TSX
+BNK.TO,Big Banc Split Corp.,TSX
+PRM.TO,Big Pharma Split Corp.,TSX
+BR.TO,Big Rock Brewery Inc.,TSX
+BIR.TO,Birchcliff Energy Ltd.,TSX
+BCHT.TO,Birchtech Corp.,TSX
+BDT.TO,Bird Construction Inc.,TSX
+QBTC.TO,"Bitcoin Fund, The",TSX
+BDI.TO,Black Diamond Group Limited,TSX
+BKI.TO,Black Iron Inc.,TSX
+BB.TO,BlackBerry Limited,TSX
+BLN.TO,Blackline Safety Corp.,TSX
+BLK.TO,BlackRock CDR (CAD Hedged),TSX
+BX.TO,Blackstone CDR (CAD Hedged),TSX
+HBLK.TO,Blockchain Technologies ETF,TSX
+BGAU.TO,Blossom Gold Inc.,TSX
+BAMI.TO,Blue Ant Media Corporation,TSX
+RBN.UN.TO,Blue Ribbon Income Fund,TSX
+ZAG.TO,BMO Aggregate Bond Index ETF,TSX
+ZEQT.TO,BMO All-Equity ETF,TSX
+ZESG.TO,BMO Balanced ESG ETF,TSX
+ZBAL.TO,BMO Balanced ETF,TSX
+ZBI.TO,BMO Canadian Bank Income Index ETF,TSX
+ZDV.TO,BMO Canadian Dividend ETF,TSX
+ZWC.TO,BMO Canadian High Dividend Covered Call ETF,TSX
+ZMBS.TO,BMO Canadian MBS Index ETF,TSX
+ZCLN.TO,BMO Clean Energy Index ETF,TSX
+ZCON.TO,BMO Conservative ETF,TSX
+ZCB.TO,BMO Corporate Bond Index ETF,TSX
+ZCDB.TO,BMO Corporate Discount Bond ETF,TSX
+ZWB.TO,BMO Covered Call Canadian Banks ETF,TSX
+ZWA.TO,BMO Covered Call Dow Jones Industrial Average Hedged to CAD ETF,TSX
+ZWEN.TO,BMO Covered Call Energy ETF,TSX
+ZWHC.TO,BMO Covered Call Health Care ETF,TSX
+ZWGD.TO,BMO Covered Call Spread Gold Bullion ETF,TSX
+ZWT.TO,BMO Covered Call Technology ETF,TSX
+ZWK.TO,BMO Covered Call US Banks ETF,TSX
+ZWU.TO,BMO Covered Call Utilities ETF,TSX
+ZDB.TO,BMO Discount Bond Index ETF,TSX
+ZDJ.TO,BMO Dow Jones Industrial Average Hedged to CAD Index ETF,TSX
+ZEF.TO,BMO Emerging Markets Bond Hedged to CAD Index ETF,TSX
+ZEB.TO,BMO Equal Weight Banks Index ETF,TSX
+ZMT.TO,BMO Equal Weight Global Base Metals Hedged to CAD Index ETF,TSX
+ZGD.TO,BMO Equal Weight Global Gold Index ETF,TSX
+ZIN.TO,BMO Equal Weight Industrials Index ETF,TSX
+ZEO.TO,BMO Equal Weight Oil & Gas Index ETF,TSX
+ZRE.TO,BMO Equal Weight REITs Index ETF,TSX
+ZUB.TO,BMO Equal Weight US Banks Hedged to CAD Index ETF,TSX
+ZBK.TO,BMO Equal Weight US Banks Index ETF,TSX
+ZUH.TO,BMO Equal Weight US Health Care Hedged to CAD Index ETF,TSX
+ZHU.TO,BMO Equal Weight US Health Care Index ETF,TSX
+ZUT.TO,BMO Equal Weight Utilities Index ETF,TSX
+ESGB.TO,BMO ESG Corporate Bond Index ETF,TSX
+ESGF.TO,BMO ESG US Corporate Bond Hedged to CAD Index ETF,TSX
+ZWP.TO,BMO Europe High Dividend Covered Call ETF,TSX
+ZWE.TO,BMO Europe High Dividend Covered Call Hedged to CAD ETF,TSX
+ZFH.TO,BMO Floating Rate High Yield ETF,TSX
+COMM.TO,BMO Global Communications Index ETF,TSX
+DISC.TO,BMO Global Consumer Discretionary Hedged to CAD Index ETF,TSX
+STPL.TO,BMO Global Consumer Staples Hedged to CAD Index ETF,TSX
+ZWQT.TO,BMO Global Enhanced Income Fund,TSX
+ZWG.TO,BMO Global High Dividend Covered Call ETF,TSX
+ZGI.TO,BMO Global Infrastructure Index ETF,TSX
+ZGLD.TO,BMO Gold Bullion ETF,TSX
+ZGLH.TO,BMO Gold Bullion Hedged to CAD ETF,TSX
+ZGB.TO,BMO Government Bond Index ETF,TSX
+ZGRO.TO,BMO Growth ETF,TSX
+ZQB.TO,BMO High Quality Corporate Bond Index ETF,TSX
+ZHY.TO,BMO High Yield US Corporate Bond Hedged to CAD Index ETF,TSX
+ZJK.TO,BMO High Yield US Corporate Bond Index ETF,TSX
+ZDI.TO,BMO International Dividend ETF,TSX
+ZDH.TO,BMO International Dividend Hedged to CAD ETF,TSX
+ZJPN.TO,BMO Japan Index ETF,TSX
+ZJG.TO,BMO Junior Gold Index ETF,TSX
+ZPR.TO,BMO Laddered Preferred Share Index ETF,TSX
+ZLC.TO,BMO Long Corporate Bond Index ETF,TSX
+ZFL.TO,BMO Long Federal Bond Index ETF,TSX
+ZPL.TO,BMO Long Provincial Bond Index ETF,TSX
+ZLSC.TO,BMO Long Short Canadian Equity ETF,TSX
+ZLSU.TO,BMO Long Short US Equity ETF,TSX
+ZLB.TO,BMO Low Volatility Canadian Equity ETF,TSX
+ZLE.TO,BMO Low Volatility Emerging Markets Equity ETF,TSX
+ZLI.TO,BMO Low Volatility International Equity ETF,TSX
+ZLD.TO,BMO Low Volatility International Equity Hedged to CAD ETF,TSX
+ZLU.TO,BMO Low Volatility US Equity ETF,TSX
+ZLH.TO,BMO Low Volatility US Equity Hedged to CAD ETF,TSX
+ZCM.TO,BMO Mid Corporate Bond Index ETF,TSX
+ZFM.TO,BMO Mid Federal Bond Index ETF,TSX
+ZMP.TO,BMO Mid Provincial Bond Index ETF,TSX
+ZMU.TO,BMO Mid-Term US IG Corporate Bond Hedged to CAD Index ETF,TSX
+ZIC.TO,BMO Mid-Term US IG Corporate Bond Index ETF,TSX
+ZMMK.TO,BMO Money Market Fund,TSX
+ZMI.TO,BMO Monthly Income ETF,TSX
+ZGQ.TO,BMO MSCI All Country World High Quality Index ETF,TSX
+ZDIV.TO,BMO MSCI Canada IMI High Dividend Yield Index ETF,TSX
+ESGA.TO,BMO MSCI Canada Selection Equity Index ETF,TSX
+ZVC.TO,BMO MSCI Canada Value Index ETF,TSX
+ZCH.TO,BMO MSCI China Selection Equity Index ETF,TSX
+ZDM.TO,BMO MSCI EAFE Hedged to CAD Index ETF,TSX
+ZIQ.TO,BMO MSCI EAFE High Quality Index ETF,TSX
+ZEA.TO,BMO MSCI EAFE Index ETF,TSX
+ESGE.TO,BMO MSCI EAFE Selection Equity Index ETF,TSX
+ZESM.TO,BMO MSCI EAFE Small-Mid Cap Index ETF,TSX
+ZEM.TO,BMO MSCI Emerging Markets Index ETF,TSX
+ZEQ.TO,BMO MSCI Europe High Quality Hedged to CAD Index ETF,TSX
+ESGG.TO,BMO MSCI Global Selection Equity Index ETF,TSX
+ZID.TO,BMO MSCI India Selection Equity Index ETF,TSX
+ZEQL.TO,BMO MSCI USA Equal Weight Index ETF,TSX
+ZUQ.TO,BMO MSCI USA High Quality Index ETF,TSX
+ESGY.TO,BMO MSCI USA Selection Equity Index ETF,TSX
+ZVU.TO,BMO MSCI USA Value Index ETF,TSX
+ZQQ.TO,BMO Nasdaq 100 Equity Hedged To CAD Index ETF,TSX
+ZNQ.TO,BMO Nasdaq 100 Equity Index ETF,TSX
+ZPAY.TO,BMO Premium Yield ETF,TSX
+ZRR.TO,BMO Real Return Bond Index ETF,TSX
+ZUE.TO,BMO S&P 500 Hedged to CAD Index ETF,TSX
+ZSP.TO,BMO S&P 500 Index ETF,TSX
+ZMID.TO,BMO S&P US Mid Cap Index ETF,TSX
+ZSML.TO,BMO S&P US Small Cap Index ETF,TSX
+ZIU.TO,BMO S&P/TSX 60 Index ETF,TSX
+ZCN.TO,BMO S&P/TSX Capped Composite Index ETF,TSX
+ZCS.TO,BMO Short Corporate Bond Index ETF,TSX
+ZFS.TO,BMO Short Federal Bond Index ETF,TSX
+ZPS.TO,BMO Short Provincial Bond Index ETF,TSX
+ZSB.TO,BMO Short-Term Bond Index ETF,TSX
+ZSDB.TO,BMO Short-Term Discount Bond ETF,TSX
+ZSU.TO,BMO Short-Term US IG Corporate Bond Hedged to CAD Index ETF,TSX
+ZTIP.TO,BMO Short-Term US TIPS Index ETF,TSX
+ZFC.TO,BMO SIA Focused Canadian Equity Fund,TSX
+ZFN.TO,BMO SIA Focused North American Equity Fund,TSX
+ZXLC.TO,BMO SPDR Communication Services Select Sector Index ETF,TSX
+ZXLY.TO,BMO SPDR Consumer Discretionary Select Sector Index ETF,TSX
+ZXLP.TO,BMO SPDR Consumer Staples Select Sector Index ETF,TSX
+ZXLE.TO,BMO SPDR Energy Select Sector Index ETF,TSX
+ZXLF.TO,BMO SPDR Financials Select Sector Index ETF,TSX
+ZXLV.TO,BMO SPDR Health Care Select Sector Index ETF,TSX
+ZXLI.TO,BMO SPDR Industrials Select Sector Index ETF,TSX
+ZXLB.TO,BMO SPDR Materials Select Sector Index ETF,TSX
+ZXLR.TO,BMO SPDR Real Estate Select Sector Index ETF,TSX
+ZXLK.TO,BMO SPDR Technology Select Sector Index ETF,TSX
+ZXLU.TO,BMO SPDR Utilities Select Sector Index ETF,TSX
+ZZZD.TO,BMO Tactical Dividend ETF Fund,TSX
+ZXCO.TO,BMO Target 2027 Canadian Corporate Bond ETF,TSX
+ZXCP.TO,BMO Target 2028 Canadian Corporate Bond ETF,TSX
+ZXCQ.TO,BMO Target 2029 Canadian Corporate Bond ETF,TSX
+ZACE.TO,BMO U.S. All Cap Equity Fund,TSX
+ZST.TO,BMO Ultra Short-Term Bond ETF,TSX
+ZUS.U.TO,BMO Ultra Short-Term US Bond ETF,TSX
+ZUAG.TO,BMO US Aggregate Bond Index ETF,TSX
+ZDY.TO,BMO US Dividend ETF,TSX
+ZUD.TO,BMO US Dividend Hedged to CAD ETF,TSX
+ZWH.TO,BMO US High Dividend Covered Call ETF,TSX
+ZWS.TO,BMO US High Dividend Covered Call Hedged to CAD ETF,TSX
+ZHP.TO,BMO US Preferred Share Hedged to CAD Index ETF,TSX
+ZUP.TO,BMO US Preferred Share Index ETF,TSX
+ZPW.TO,BMO US Put Write ETF,TSX
+ZPH.TO,BMO US Put Write Hedged to CAD ETF,TSX
+ZUCM.TO,BMO USD Cash Management ETF,TSX
+GBT.TO,BMTC Group Inc.,TSX
+BMW.TO,BMW CDR (CAD Hedged),TSX
+BEI.UN.TO,Boardwalk Real Estate Investment Trust,TSX
+BA.TO,Boeing CDR (CAD Hedged),TSX
+BBD.A.TO,Bombardier Inc.,TSX
+BNE.TO,Bonterra Energy Corp.,TSX
+BKNG.TO,Booking CDR (CAD Hedged),TSX
+BLX.TO,Boralex Inc.,TSX
+BPF.UN.TO,Boston Pizza Royalties Income Fund,TSX
+BYD.TO,Boyd Group Services Inc.,TSX
+BRAG.TO,Bragg Gaming Group Inc.,TSX
+BRY.TO,Bri-Chem Corp.,TSX
+BCT.TO,BriaCell Therapeutics Corp.,TSX
+BRE.TO,Bridgemarq Real Estate Services Inc.,TSX
+BGC.TO,Bristol Gate Concentrated Canadian Equity ETF,TSX
+BGU.TO,Bristol Gate Concentrated US Equity ETF,TSX
+AVGO.TO,Broadcom CDR (CAD Hedged),TSX
+KNGC.TO,Brompton Canadian Cash Flow Kings ETF,TSX
+ESP.TO,Brompton Energy Split Corp.,TSX
+BMAX.TO,Brompton Enhanced Multi-Asset Income ETF,TSX
+EDGF.TO,Brompton European Dividend Growth ETF,TSX
+BEPR.TO,Brompton Flaherty & Crumrine Enhanced Investment Grade Preferred ETF,TSX
+BPRF.TO,Brompton Flaherty & Crumrine Investment Grade Preferred ETF,TSX
+KNGG.TO,Brompton Global Cash Flow Kings ETF,TSX
+BDIV.TO,Brompton Global Dividend Growth ETF,TSX
+PAYG.TO,Brompton Global Equity HighPay ETF,TSX
+HIG.TO,Brompton Global Healthcare Income & Growth ETF,TSX
+BGIE.TO,Brompton Global Infrastructure ETF,TSX
+KNGX.TO,Brompton International Cash Flow Kings ETF,TSX
+LCS.TO,Brompton Lifeco Split Corp.,TSX
+BFIN.TO,Brompton North American Financials Dividend ETF,TSX
+BLOV.TO,Brompton North American Low Volatility Dividend ETF,TSX
+SBC.TO,Brompton Split Banc Corp.,TSX
+CLSA.TO,Brompton Split Corp. Enhanced Equity Income ETF,TSX
+SPLT.TO,Brompton Split Corp. Preferred Share ETF,TSX
+TLF.TO,Brompton Tech Leaders Income ETF,TSX
+KNGU.TO,Brompton U.S. Cash Flow Kings ETF,TSX
+BAAA.TO,Brompton Wellington Square AAA CLO ETF,TSX
+BBBB.TO,Brompton Wellington Square Investment Grade CLO ETF,TSX
+BAM.TO,Brookfield Asset Management Ltd.,TSX
+BBUC.TO,Brookfield Business Corporation,TSX
+BN.TO,Brookfield Corporation,TSX
+BGI.UN.TO,Brookfield Global Infrastructure Securities Income Fund,TSX
+BIPC.TO,Brookfield Infrastructure Corporation,TSX
+BIP.PR.E.TO,Brookfield Infrastructure Partners L.P.,TSX
+BPO.PR.A.TO,Brookfield Office Properties Inc.,TSX
+BPYP.PR.A.TO,Brookfield Property Preferred L.P.,TSX
+BPS.PR.A.TO,Brookfield Property Split Corp.,TSX
+BEPC.TO,Brookfield Renewable Corporation,TSX
+BEP.PR.M.TO,Brookfield Renewable Partners L.P.,TSX
+BRF.PR.A.TO,Brookfield Renewable Power Preferred Equity Inc.,TSX
+BNT.TO,Brookfield Wealth Solutions Ltd.,TSX
+DOO.TO,BRP Inc.,TSX
+HOM.U.TO,BSR Real Estate Investment Trust,TSX
+BTB.DB.I.TO,BTB Real Estate Investment Trust,TSX
+BNKR.TO,Bunker Hill Mining Corp.,TSX
+BU.TO,Burcon Nutrascience Corporation,TSX
+CAE.TO,CAE Inc.,TSX
+CWL.TO,Caldwell Partners International Inc. (The),TSX
+UDA.TO,Caldwell U.S. Dividend Advantage Fund,TSX
+CFW.TO,Calfrac Well Services Ltd.,TSX
+CGY.TO,Calian Group Ltd.,TSX
+CCO.TO,Cameco Corporation,TSX
+CF.TO,Canaccord Genuity Group Inc.,TSX
+GOOS.TO,Canada Goose Holdings Inc.,TSX
+CPKR.TO,Canada Packers Inc.,TSX
+CAR.UN.TO,Canadian Apartment Properties Real Estate Investment Trust,TSX
+BK.TO,Canadian Banc Corp.,TSX
+CGI.TO,"Canadian General Investments, Limited",TSX
+CM.TO,Canadian Imperial Bank Of Commerce,TSX
+NPS.TO,Canadian Large Cap Leaders Split Corp.,TSX
+LFE.TO,Canadian Life Companies Split Corp.,TSX
+CNR.TO,Canadian National Railway Company,TSX
+CNQ.TO,Canadian Natural Resources Limited,TSX
+CP.TO,Canadian Pacific Kansas City Limited,TSX
+CTC.TO,"Canadian Tire Corporation, Limited",TSX
+CU.TO,Canadian Utilities Limited,TSX
+CCM.TO,Canagold Resources Ltd.,TSX
+CFP.TO,Canfor Corporation,TSX
+ICE.TO,Canlan Ice Sports Corp.,TSX
+LOVE.TO,Cannara Biotech Inc.,TSX
+EIT.PR.A.TO,Canoe EIT Income Fund,TSX
+WEED.TO,Canopy Growth Corporation,TSX
+PBY.UN.TO,Canso Credit Income Fund,TSX
+CAPG.TO,Capital Group Global Equity Select ETFTM (Canada),TSX
+CAPI.TO,Capital Group International Equity Select ETFTM (Canada),TSX
+CAPM.TO,Capital Group Multi-Sector Income Select ETFTM (Canada),TSX
+CAPW.TO,Capital Group World Bond Select ETFTM (Canada),TSX
+CPX.TO,Capital Power Corporation,TSX
+BIVC.TO,Capstone Biblically Informed Canadian Equity Fund,TSX
+BIVU.TO,Capstone Biblically Informed U.S. Equity Fund,TSX
+CS.TO,Capstone Copper Corp.,TSX
+CSE.PR.A.TO,Capstone Infrastructure Corporation,TSX
+CJ.TO,Cardinal Energy Ltd.,TSX
+CRDL.TO,Cardiol Therapeutics Inc.,TSX
+CRRX.TO,CareRx Corporation,TSX
+CJT.TO,Cargojet Inc.,TSX
+CUP.U.TO,"Caribbean Utilities Company, Ltd.",TSX
+CAS.TO,Cascades Inc.,TSX
+CATR.TO,Caterpillar CDR (CAD Hedged),TSX
+CVVY.TO,Cavvy Energy Ltd.,TSX
+CCL.A.TO,CCL Industries Inc.,TSX
+CLS.TO,Celestica Inc.,TSX
+CEMX.TO,CEMATRIX Corporation,TSX
+CVE.TO,Cenovus Energy Inc.,TSX
+CG.TO,Centerra Gold Inc.,TSX
+CNT.TO,Century Global Commodities Corporation,TSX
+CEU.TO,CES Energy Solutions Corp.,TSX
+GIB.A.TO,CGI Inc.,TSX
+CIA.TO,Champion Iron Limited,TSX
+SCHW.TO,Charles Schwab CDR (CAD Hedged),TSX
+CWEB.TO,"Charlotte's Web Holdings, Inc.",TSX
+CSH.UN.TO,Chartwell Retirement Residences,TSX
+CHE.DB.H.TO,Chemtrade Logistics Income Fund,TSX
+CHEV.TO,Chevron CDR (CAD Hedged),TSX
+CGG.TO,China Gold International Resources Corp. Ltd.,TSX
+CMGS.TO,Chipotle CDR (CAD Hedged),TSX
+CHP.UN.TO,Choice Properties Real Estate Investment Trust,TSX
+CHR.TO,Chorus Aviation Inc.,TSX
+BXF.TO,CI 1-5 Year Laddered Government Strip Bond Index ETF,TSX
+CMDO.TO,CI Alternative Diversified Opportunities Fund,TSX
+CRED.TO,CI Alternative Investment Grade Credit Fund,TSX
+CNAO.TO,CI Alternative North American Opportunities Fund,TSX
+CCOM.TO,CI Auspice Broad Commodity Fund,TSX
+CBAL.TO,CI Balanced Asset Allocation ETF,TSX
+CBGR.TO,CI Balanced Growth Asset Allocation ETF,TSX
+CBIN.TO,CI Balanced Income Asset Allocation ETF,TSX
+CBAP.TO,CI Balanced+ Asset Allocation ETF Fund,TSX
+DGRC.TO,CI Canada Quality Dividend Growth Index ETF,TSX
+CAGG.TO,CI Canadian Aggregate Bond Index ETF,TSX
+CIC.TO,CI Canadian Banks Covered Call Income Class ETF,TSX
+CXF.TO,CI Canadian Convertible Bond ETF,TSX
+RIT.TO,CI Canadian REIT ETF,TSX
+CAGS.TO,CI Canadian Short-Term Aggregate Bond Index ETF,TSX
+CCNV.TO,CI Conservative Asset Allocation ETF,TSX
+CBUG.TO,CI Digital Security Index ETF,TSX
+CDLB.TO,CI DoubleLine Total Return Bond US$ Fund,TSX
+CIEM.TO,CI Emerging Markets Alpha ETF,TSX
+EMV.B.TO,CI Emerging Markets Dividend Index ETF,TSX
+NXF.TO,CI Energy Giants Covered Call ETF,TSX
+FGO.TO,CI Enhanced Government Bond ETF,TSX
+FSB.TO,CI Enhanced Short Duration Bond Fund,TSX
+CEQT.TO,CI Equity Asset Allocation ETF,TSX
+CEQP.TO,CI Equity+ Asset Allocation ETF Fund,TSX
+EHE.TO,CI Europe Hedged Equity Index ETF,TSX
+CFRT.TO,CI Floating Rate Income Fund,TSX
+BTCX.TO,CI Galaxy Bitcoin ETF,TSX
+CBCX.TO,CI Galaxy Blockchain Index ETF,TSX
+CCCX.TO,CI Galaxy Core Multi-Crypto ETF,TSX
+ETHX.TO,CI Galaxy Ethereum ETF,TSX
+CMCX.TO,CI Galaxy Multi-Crypto Navigator ETF,TSX
+SOLX.TO,CI Galaxy Solana ETF,TSX
+CINV.TO,CI Global Alpha Innovators ETF,TSX
+CIAI.TO,CI Global Artificial Intelligence Fund,TSX
+CGAA.TO,CI Global Asset Allocation Private Pool,TSX
+CLML.TO,CI Global Climate Leaders Fund,TSX
+ONEQ.TO,CI Global Core Plus Equity ETF,TSX
+CGDI.TO,CI Global Dividend Private Pool,TSX
+FSF.TO,CI Global Financial Sector ETF,TSX
+CGRB.TO,CI Global Green Bond Fund,TSX
+CINF.TO,CI Global Infrastructure Private Pool,TSX
+CGIN.TO,CI Global Investment Grade ETF,TSX
+LONG.TO,CI Global Longevity Economy Fund,TSX
+CGDV.TO,CI Global Minimum Downside Volatility Index Fund,TSX
+CGQD.B.TO,CI Global Quality Dividend Growth Index ETF,TSX
+CGRA.TO,CI Global Real Asset Private Pool,TSX
+CGRE.TO,CI Global REIT Private Pool,TSX
+CGRN.TO,CI Global Sustainable Infrastructure Fund,TSX
+CUBD.TO,CI Global Unconstrained Bond Fund,TSX
+VALT.TO,CI Gold Bullion ETF,TSX
+CGXF.TO,CI Gold+ Giants Covered Call ETF,TSX
+CGRO.TO,CI Growth Asset Allocation ETF,TSX
+FHI.TO,CI Health Care Giants Covered Call ETF,TSX
+CSAV.TO,CI High Interest Savings ETF,TSX
+CGHY.TO,CI High Yield Bond Private Pool,TSX
+CHNA.B.TO,CI ICBCUBS S&P China 500 Index ETF,TSX
+IQD.TO,CI International Quality Dividend Growth Index ETF,TSX
+FIG.TO,CI Investment Grade Bond ETF,TSX
+JAPN.TO,CI Japan Equity Index ETF,TSX
+CMAR.TO,CI Marret Alternative Absolute Return Bond Fund,TSX
+CMEY.TO,CI Marret Alternative Enhanced Yield Fund,TSX
+CMNY.TO,CI Money Market ETF,TSX
+WXM.TO,CI Morningstar Canada Momentum Index ETF,TSX
+FXM.TO,CI Morningstar Canada Value Index ETF,TSX
+ZXM.TO,CI Morningstar International Momentum Index ETF,TSX
+VXM.TO,CI Morningstar International Value Index ETF,TSX
+QXM.TO,CI Morningstar National Bank Quebec Index ETF,TSX
+CMAG.TO,CI Munro Alternative Global Growth Fund,TSX
+CMGG.TO,CI Munro Global Growth Equity Fund,TSX
+ONEB.TO,CI North American Core Plus Bond ETF,TSX
+FPR.TO,CI Preferred Share ETF,TSX
+CTMA.TO,CI Target 2028 Investment Grade Bond Fund,TSX
+CTMB.TO,CI Target 2029 Investment Grade Bond Fund,TSX
+CTMC.TO,CI Target 2030 Investment Grade Bond Fund,TSX
+TXF.TO,CI Tech Giants Covered Call ETF,TSX
+FLI.TO,CI U.S. & Canada Lifeco Covered Call ETF,TSX
+CCBD.TO,CI U.S. Aggregate Bond Covered Call ETF,TSX
+CMOM.TO,CI U.S. Enhanced Momentum Index ETF,TSX
+CVLU.TO,CI U.S. Enhanced Value Index Fund,TSX
+UMI.TO,CI U.S. MidCap Dividend Index ETF,TSX
+CUDV.TO,CI U.S. Minimum Downside Volatility Index ETF,TSX
+UMNY.U.TO,CI U.S. Money Market ETF,TSX
+CUIG.TO,CI U.S. Monthly Income Private Pool,TSX
+DGR.TO,CI U.S. Quality Dividend Growth Index ETF,TSX
+CSMD.TO,CI U.S. Small/Mid Cap Equity Private Pool,TSX
+CUTL.TO,CI Utilities Giants Covered Call ETF,TSX
+CACB.TO,CIBC Active Investment Grade Corporate Bond ETF,TSX
+CFRN.TO,CIBC Active Investment Grade Floating Rate Bond ETF,TSX
+CEQY.TO,CIBC All-Equity ETF Portfolio,TSX
+CBLN.TO,CIBC Balanced ETF Portfolio,TSX
+CGRW.TO,CIBC Balanced Growth ETF Portfolio,TSX
+CCCB.TO,CIBC Canadian Banks Covered Call ETF,TSX
+CCBI.TO,CIBC Canadian Bond Index ETF,TSX
+CALB.TO,CIBC Canadian Government Long-Term Bond ETF,TSX
+CCDC.TO,CIBC Canadian High Dividend Covered Call ETF,TSX
+CSBI.TO,CIBC Canadian Short-Term Bond Index ETF,TSX
+CCON.TO,CIBC Conservative ETF Portfolio,TSX
+CCNS.TO,CIBC Conservative Fixed Income Pool,TSX
+CCRE.TO,CIBC Core Fixed Income Pool,TSX
+CPLS.TO,CIBC Core Plus Fixed Income Pool,TSX
+CFLX.TO,CIBC Flexible Yield ETF (CAD-Hedged),TSX
+CGBI.TO,CIBC Global Bond ex-Canada Index ETF (CAD-Hedged),TSX
+CGLO.TO,CIBC Global Growth ETF,TSX
+CINT.TO,CIBC International Equity ETF,TSX
+CCEI.TO,CIBC MSCI Canada Equity Index ETF,TSX
+CIEI.TO,CIBC MSCI EAFE Equity Index ETF,TSX
+CIEH.TO,CIBC MSCI EAFE Equity Index ETF (CAD Hedged),TSX
+CEMI.TO,CIBC MSCI Emerging Markets Equity Index ETF,TSX
+CUEI.TO,CIBC MSCI USA Equity Index ETF,TSX
+CUEH.TO,CIBC MSCI USA Equity Index ETF (CAD Hedged),TSX
+CCAD.TO,CIBC Premium Cash Management ETF,TSX
+CUDC.TO,CIBC U.S. High Dividend Covered Call ETF,TSX
+CUSD.U.TO,CIBC USD Premium Cash Management ETF,TSX
+CGX.TO,Cineplex Inc.,TSX
+CPH.TO,Cipher Pharmaceuticals Inc.,TSX
+CSCO.TO,Cisco CDR (CAD Hedged),TSX
+CTF.UN.TO,Citadel Income Fund,TSX
+CITI.TO,Citigroup CDR (CAD Hedged),TSX
+CVG.TO,Clairvest Group Inc.,TSX
+CKI.TO,Clarke Inc.,TSX
+CLCH.TO,Clinch Resources Ltd.,TSX
+CCS.PR.C.TO,Co-operators General Insurance Company,TSX
+COLA.TO,Coca-Cola CDR (CAD Hedged),TSX
+CDE.TO,"Coeur Mining, Inc.",TSX
+CCA.TO,Cogeco Communications Inc.,TSX
+CGO.TO,Cogeco Inc.,TSX
+COIN.TO,Coinbase CDR (CAD Hedged),TSX
+CNL.TO,Collective Mining Ltd.,TSX
+CIGI.TO,Colliers International Group Inc.,TSX
+YCM.TO,Commerce Split Corp.,TSX
+CMG.TO,Computer Modelling Group Ltd.,TSX
+CDR.TO,Condor Energies Inc.,TSX
+CFF.TO,Conifex Timber Inc.,TSX
+STZ.TO,Constellation Brands CDR (CAD Hedged),TSX
+CEGS.TO,Constellation Energy CDR (CAD Hedged),TSX
+CSU.TO,Constellation Software Inc.,TSX
+CTGO.TO,Contango Silver & Gold Inc.,TSX
+COPR.TO,Coppernico Metals Inc.,TSX
+CSW.A.TO,Corby Spirit and Wine Limited,TSX
+CRWV.TO,CoreWeave CDR (CAD Hedged),TSX
+RAAA.TO,Corton Enhanced Income Fund,TSX
+CJR.B.TO,Corus Entertainment Inc.,TSX
+CSCI.TO,COSCIENS Biopharma Inc.,TSX
+COST.TO,Costco CDR (CAD Hedged),TSX
+CCGP.TO,Counterpoint Global CIBC Global Permanence ETF,TSX
+CCIP.TO,Counterpoint Global CIBC International Permanence ETF,TSX
+CCUL.TO,Counterpoint Global CIBC U.S. Large Cap Growth ETF,TSX
+CCUS.TO,Counterpoint Global CIBC U.S. Small Cap Growth ETF,TSX
+CVO.TO,Coveo Solutions Inc.,TSX
+CRR.UN.TO,Crombie Real Estate Investment Trust,TSX
+CRON.TO,Cronos Group Inc.,TSX
+CRWD.TO,CrowdStrike CDR (CAD Hedged),TSX
+CRWN.TO,Crown Capital Partners Inc.,TSX
+CRT.UN.TO,CT Real Estate Investment Trust,TSX
+CIU.PR.A.TO,CU Inc.,TSX
+CURA.TO,"Curaleaf Holdings, Inc.",TSX
+CXI.TO,"Currency Exchange International, Corp.",TSX
+CHLT.TO,Custom Health Holdings Inc.,TSX
+CVS.TO,CVS Health CDR (CAD Hedged),TSX
+CYB.TO,Cymbria Corporation,TSX
+DBO.TO,D-Box Technologies Inc.,TSX
+DHI.TO,D.R. Horton CDR (CAD Hedged),TSX
+DTOL.TO,D2L Inc.,TSX
+DCM.TO,Data Communications Management Corp.,TSX
+DEER.TO,Deere CDR (CAD Hedged),TSX
+DFY.TO,Definity Financial Corporation,TSX
+DML.TO,Denison Mines Corp.,TSX
+DSG.TO,Descartes Systems Group Inc. (The),TSX
+DCC.TO,Desjardins 1-5 year Laddered Canadian Corporate Bond Index ETF,TSX
+DCG.TO,Desjardins 1-5 year Laddered Canadian Government Bond Index ETF,TSX
+DAMG.TO,Desjardins Absolute Return Global Equity Markets ETF,TSX
+DMEU.TO,Desjardins American Equity Index ETF,TSX
+DMID.TO,Desjardins American Mid Cap Equity Index ETF,TSX
+DCBC.TO,Desjardins Canadian Corporate Bond Index ETF,TSX
+DMEC.TO,Desjardins Canadian Equity Index ETF,TSX
+DCP.TO,Desjardins Canadian Preferred Share Index ETF,TSX
+DCS.TO,Desjardins Canadian Short Term Bond Index ETF,TSX
+DCU.TO,Desjardins Canadian Universe Bond Index ETF,TSX
+DMEE.TO,Desjardins Emerging Markets Equity Index ETF,TSX
+DGGB.TO,Desjardins Global Government Bond Index ETF,TSX
+DGLM.TO,Desjardins Global Macro ETF,TSX
+DMEI.TO,Desjardins International Equity Index ETF,TSX
+DANC.TO,Desjardins Market Neutral ETF,TSX
+DMQC.TO,Desjardins Quebec Equity ETF,TSX
+DRCU.TO,Desjardins RI Active Canadian Bond - Net-Zero Emissions Pathway ETF,TSX
+DRMC.TO,Desjardins RI Canada - Net-Zero Emissions Pathway ETF,TSX
+DRFC.TO,Desjardins RI Canada Multifactor - Net-Zero Emissions Pathway ETF,TSX
+DRMD.TO,Desjardins RI Developed ex-USA ex-Canada - Net-Zero Emissions Pathway ETF,TSX
+DRME.TO,Desjardins RI Emerging Markets - Net-Zero Emissions Pathway ETF,TSX
+DRFE.TO,Desjardins RI Emerging Markets Multifactor - Net-Zero Emissions Pathway ETF,TSX
+DRFG.TO,Desjardins RI Global Multifactor - Fossil Fuel Reserves Free ETF,TSX
+DRMU.TO,Desjardins RI USA - Net-Zero Emissions Pathway ETF,TSX
+DRFU.TO,Desjardins RI USA Multifactor - Net-Zero Emissions Pathway ETF,TSX
+DUIG.TO,Desjardins US Investment Grade Corporate Bond Index ETF,TSX
+DRFD.TO,DesjardinsRIDeveloped ex-USAex-Canada Multifactor-Net-ZeroEmissionsPathwayETF,TSX
+DXT.TO,Dexterra Group Inc.,TSX
+DRT.TO,DIRTT Environmental Solutions Ltd.,TSX
+DSV.TO,Discovery Silver Corp.,TSX
+DIV.TO,Diversified Royalty Corp.,TSX
+DFN.TO,Dividend 15 Split Corp.,TSX
+DF.TO,Dividend 15 Split Corp. II,TSX
+DGS.TO,Dividend Growth Split Corp.,TSX
+DS.TO,Dividend Select 15 Corp.,TSX
+DCBO.TO,Docebo Inc.,TSX
+DOL.TO,Dollarama Inc.,TSX
+DBM.TO,Doman Building Materials Group Ltd.,TSX
+DLCG.TO,Dominion Lending Centres Inc.,TSX
+DII.A.TO,Dorel Industries Inc.,TSX
+DPM.TO,DPM Metals Inc.,TSX
+MPCT.DB.TO,Dream Impact Trust,TSX
+DIR.UN.TO,Dream Industrial Real Estate Investment Trust,TSX
+D.UN.TO,Dream Office Real Estate Investment Trust,TSX
+DRM.TO,DREAM Unlimited Corp.,TSX
+DHT.U.TO,DRI Healthcare Trust,TSX
+DC.A.TO,Dundee Corporation,TSX
+DND.TO,Dye & Durham Limited,TSX
+DYA.TO,dynaCERT Inc.,TSX
+DNG.TO,Dynacor Group Inc.,TSX
+DXBB.TO,Dynamic Active Bond ETF,TSX
+DXBC.TO,Dynamic Active Canadian Bond ETF,TSX
+DXC.TO,Dynamic Active Canadian Dividend ETF,TSX
+DXCB.TO,Dynamic Active Corporate Bond ETF,TSX
+DXO.TO,Dynamic Active Crossover Bond ETF,TSX
+DXDB.TO,Dynamic Active Discount Bond ETF,TSX
+DXEM.TO,Dynamic Active Emerging Markets ETF,TSX
+DXQ.TO,Dynamic Active Enhanced Yield Covered Options ETF,TSX
+DXG.TO,Dynamic Active Global Dividend ETF,TSX
+DXGE.TO,Dynamic Active Global Equity Income ETF,TSX
+DXF.TO,Dynamic Active Global Financial Services ETF,TSX
+DXAU.TO,Dynamic Active Global Gold ETF,TSX
+DXN.TO,Dynamic Active Global Infrastructure ETF,TSX
+DXID.TO,Dynamic Active Innovation and Disruption ETF,TSX
+DXW.TO,Dynamic Active International Dividend ETF,TSX
+DXIF.TO,Dynamic Active International ETF,TSX
+DXMO.TO,Dynamic Active Mining Opportunities ETF,TSX
+DXP.TO,Dynamic Active Preferred Shares ETF,TSX
+DXRE.TO,Dynamic Active Real Estate ETF,TSX
+DXB.TO,Dynamic Active Tactical Bond ETF,TSX
+DXDU.U.TO,Dynamic Active U.S. Discount Bond ETF,TSX
+DXU.TO,Dynamic Active U.S. Dividend ETF,TSX
+DXUS.TO,Dynamic Active U.S. Equity ETF,TSX
+DXBU.TO,Dynamic Active U.S. Investment Grade Corporate Bond ETF,TSX
+DXZ.TO,Dynamic Active U.S. Mid-Cap ETF,TSX
+DXV.TO,Dynamic Active Ultra Short Term Bond ETF,TSX
+DXCO.TO,Dynamic Credit Opportunities Fund,TSX
+DXBG.TO,Dynamic Global Fixed Income Fund,TSX
+DXR.TO,Dynamic Retirement Income Fund,TSX
+DXCP.TO,Dynamic Short Term Credit PLUS Fund,TSX
+ENS.TO,E Split Corp.,TSX
+ELF.TO,E-L Financial Corporation Limited,TSX
+EAGR.TO,East Side Games Group Inc.,TSX
+ELR.TO,Eastern Platinum Limited,TSX
+ECN.DB.A.TO,ECN Capital Corp.,TSX
+EVT.TO,Economic Investment Trust Limited,TSX
+ECOR.TO,Ecora Royalties PLC,TSX
+ECO.TO,EcoSynthetix Inc.,TSX
+ELD.TO,Eldorado Gold Corporation,TSX
+ELVA.TO,Electrovaya Inc.,TSX
+EFN.TO,Element Fleet Management Corp.,TSX
+ELE.TO,Elemental Royalty Corporation,TSX
+LLY.TO,Eli Lilly CDR (CAD Hedged),TSX
+ELO.TO,Eloro Resources Ltd.,TSX
+BABY.TO,Else Nutrition Holdings Inc.,TSX
+EMA.TO,Emera Incorporated,TSX
+EMP.A.TO,Empire Company Limited,TSX
+ENB.TO,Enbridge Inc.,TSX
+EDV.TO,Endeavour Mining plc,TSX
+EDR.TO,Endeavour Silver Corp.,TSX
+EFX.TO,Enerflex Ltd.,TSX
+EFR.TO,Energy Fuels Inc.,TSX
+ENI.UN.TO,Energy Income Fund,TSX
+ENGH.TO,Enghouse Systems Limited,TSX
+ESI.TO,Ensign Energy Services Inc.,TSX
+E.TO,"Enterprise Group, Inc.",TSX
+EGLX.TO,Enthusiast Gaming Holdings Inc.,TSX
+ETG.TO,Entree Resources Ltd.,TSX
+EQB.TO,EQB Inc.,TSX
+EQX.TO,Equinox Gold Corp.,TSX
+ERD.TO,Erdene Resource Development Corporation,TSX
+ERO.TO,Ero Copper Corp.,TSX
+EPRX.TO,Eupraxia Pharmaceuticals Inc.,TSX
+ESM.TO,Euro Sun Mining Inc.,TSX
+ET.TO,Evertz Technologies Limited,TSX
+DIVS.TO,Evolve Active Canadian Preferred Share Fund,TSX
+EARN.TO,Evolve Active Global Fixed Income Fund,TSX
+EASY.TO,Evolve All-in-One UltraYield ETF,TSX
+ARTI.TO,Evolve Artificial Intelligence Fund,TSX
+CARS.TO,Evolve Automobile Innovation Index Fund,TSX
+SIXY.TO,Evolve Big Six Canadian Banks UltraYield Index ETF,TSX
+EBIT.TO,Evolve Bitcoin ETF,TSX
+AGG.TO,Evolve Canadian Aggregate Bond Enhanced Yield Fund,TSX
+BANK.TO,Evolve Canadian Banks and Lifecos Enhanced Yield Index Fund,TSX
+OILY.TO,Evolve Canadian Energy Enhanced Yield Index Fund,TSX
+CANY.TO,Evolve Canadian Equity UltraYield ETF,TSX
+UTES.TO,Evolve Canadian Utilities Enhanced Yield Index Fund,TSX
+DATA.TO,Evolve Cloud Computing Index Fund,TSX
+ETC.TO,Evolve Cryptocurrencies ETF,TSX
+CYBR.TO,Evolve Cyber Security Index Fund,TSX
+HERO.TO,Evolve E-Gaming Index ETF,TSX
+BOND.TO,Evolve Enhanced Yield Bond Fund,TSX
+MIDB.TO,Evolve Enhanced Yield Mid Term Bond Fund,TSX
+ETHR.TO,Evolve Ether ETF,TSX
+EBNK.TO,Evolve European Banks Enhanced Yield ETF,TSX
+TECH.TO,Evolve FANGMA Index ETF,TSX
+LEAD.TO,Evolve Future Leadership Fund,TSX
+LIFE.TO,Evolve Global Healthcare Enhanced Yield Fund,TSX
+BASE.TO,Evolve Global Materials & Mining Enhanced Yield Index ETF,TSX
+EDGE.TO,Evolve Innovation Index Fund,TSX
+INTY.TO,Evolve International Equity UltraYield ETF,TSX
+LBIT.TO,Evolve Levered Bitcoin ETF,TSX
+LETH.TO,Evolve Levered Ether ETF,TSX
+QQQY.TO,Evolve NASDAQ Technology Enhanced Yield Index Fund,TSX
+QQQT.TO,Evolve NASDAQ Technology Index Fund,TSX
+ESPX.TO,Evolve S&P 500® Enhanced Yield Fund,TSX
+ETSX.TO,Evolve S&P/TSX 60 Enhanced Yield Fund,TSX
+SOLA.TO,Evolve Solana ETF,TSX
+CALL.TO,Evolve US Banks Enhanced Yield Fund,TSX
+BIGY.TO,Evolve US Equity UltraYield ETF,TSX
+XRP.TO,Evolve XRP ETF,TSX
+EVO.TO,Evovest Global Equity ETF,TSX
+EIF.TO,Exchange Income Corporation,TSX
+XTC.TO,Exco Technologies Limited,TSX
+EGIF.TO,Exemplar Growth and Income Fund,TSX
+EXE.TO,Extendicare Inc.,TSX
+XOM.TO,Exxon Mobil CDR (CAD Hedged),TSX
+FFH.TO,Fairfax Financial Holdings Limited,TSX
+FIH.U.TO,Fairfax India Holdings Corporation,TSX
+FDY.TO,Faraday Copper Corp.,TSX
+FRX.TO,Fennec Pharmaceuticals Inc.,TSX
+FCAB.TO,Fidelity Absolute Income Fund,TSX
+FAUS.TO,Fidelity Advanced U.S. Equity Fund,TSX
+FBTC.TO,Fidelity Advantage Bitcoin ETF,TSX
+FETH.TO,Fidelity Advantage Ether ETF,TSX
+FFAB.TO,Fidelity Alternative Bond Fund,TSX
+FCAE.TO,Fidelity American Equity Fund,TSX
+FCCD.TO,Fidelity Canadian High Dividend ETF,TSX
+FCCQ.TO,Fidelity Canadian High Quality ETF,TSX
+FCMI.TO,Fidelity Canadian Monthly High Income ETF,TSX
+FCCV.TO,Fidelity Canadian Value ETF,TSX
+FCUB.TO,Fidelity Core U.S. Bond ETF,TSX
+FEMO.TO,Fidelity Emerging Markets Opportunities Fund,TSX
+FMPB.TO,Fidelity Global Balanced Portfolio,TSX
+FGCV.TO,Fidelity Global Concentrated Value Fund,TSX
+FGEB.TO,Fidelity Global Equity+ Balanced Fund,TSX
+FGEP.TO,Fidelity Global Equity+ Fund,TSX
+FMPG.TO,Fidelity Global Growth Portfolio,TSX
+FMPI.TO,Fidelity Global Income Portfolio,TSX
+FCGI.TO,Fidelity Global Monthly High Income ETF,TSX
+FLSE.TO,Fidelity Global Opportunities Long/Short Fund,TSX
+FGSM.TO,Fidelity Global Small-Mid Cap Equity Fund,TSX
+FCID.TO,Fidelity International High Dividend ETF,TSX
+FCIQ.TO,Fidelity International High Quality ETF,TSX
+FCIV.TO,Fidelity International Value ETF,TSX
+FMAB.TO,Fidelity Multi-Alt Balanced Fund,TSX
+FMAE.TO,Fidelity Multi-Alt Equity Fund,TSX
+FTHI.TO,Fidelity Tactical High Income Fund,TSX
+FCRR.TO,Fidelity U.S. Dividend for Rising Rates ETF,TSX
+FCUH.TO,Fidelity U.S. High Dividend Currency Neutral ETF,TSX
+FCUD.TO,Fidelity U.S. High Dividend ETF,TSX
+FCQH.TO,Fidelity U.S. High Quality Currency Neutral ETF,TSX
+FCUQ.TO,Fidelity U.S. High Quality ETF,TSX
+FCVH.TO,Fidelity U.S. Value Currency Neutral ETF,TSX
+FCUV.TO,Fidelity U.S. Value ETF,TSX
+FSZ.TO,Fiera Capital Corporation,TSX
+FTN.TO,Financial 15 Split Corp.,TSX
+FTT.TO,Finning International Inc.,TSX
+FTG.TO,Firan Technology Group Corporation,TSX
+FFM.TO,FireFly Metals Ltd.,TSX
+FC.TO,Firm Capital Mortgage Investment Corporation,TSX
+FCD.UN.TO,Firm Capital Property Trust,TSX
+FCR.UN.TO,First Capital Real Estate Investment Trust,TSX
+AG.TO,First Majestic Silver Corp.,TSX
+FF.TO,First Mining Gold Corp.,TSX
+FM.TO,First Quantum Minerals Ltd.,TSX
+FHH.TO,First Trust AlphaDEX U.S. Health Care Sector Index ETF,TSX
+FHG.TO,First Trust AlphaDEX U.S. Industrials Sector Index ETF,TSX
+FHQ.TO,First Trust AlphaDEX U.S. Technology Sector Index ETF,TSX
+RCTR.TO,First Trust Bloomberg Nuclear Power ETF,TSX
+FST.TO,First Trust Canadian Capital Strength ETF,TSX
+SKYY.TO,First Trust Cloud Computing ETF,TSX
+FDN.TO,First Trust Dow Jones Internet ETF,TSX
+ETP.TO,First Trust Global Risk Managed Income Index ETF,TSX
+BLCK.TO,First Trust Indxx Innovative Transaction and Process ETF,TSX
+NXTG.TO,First Trust Indxx NextG ETF,TSX
+FINT.TO,First Trust International Capital Strength ETF,TSX
+FTLS.TO,First Trust Long/Short Equity ETF,TSX
+FDL.TO,First Trust Morningstar Dividend Leaders ETF (CAD-Hedged),TSX
+QCLN.TO,First Trust NASDAQ Clean Edge Green Energy ETF,TSX
+CIBR.TO,First Trust Nasdaq Cybersecurity ETF,TSX
+SGRD.TO,First Trust Nasdaq® Clean Edge® Smart Grid Infrastructure ETF,TSX
+FBT.TO,First Trust NYSE Arca Biotechnology ETF,TSX
+FSL.TO,First Trust Senior Loan ETF (CAD-Hedged),TSX
+FUD.TO,First Trust Value Line Dividend Index ETF (CAD-Hedged),TSX
+AUGB.F.TO,First Trust Vest U.S. Equity Buffer ETF - August,TSX
+FEBB.F.TO,First Trust Vest U.S. Equity Buffer ETF - February,TSX
+MAYB.F.TO,First Trust Vest U.S. Equity Buffer ETF - May,TSX
+NOVB.F.TO,First Trust Vest U.S. Equity Buffer ETF - November,TSX
+FSV.TO,FirstService Corporation,TSX
+FISV.TO,Fiserv CDR (CAD Hedged),TSX
+MHC.U.TO,Flagship Communities Real Estate Investment Trust,TSX
+FLNT.TO,FLINT Corp.,TSX
+FAR.TO,Foraco International SA,TSX
+F.TO,Ford CDR (CAD Hedged),TSX
+FGBL.TO,Forstrong Global Balanced ETF,TSX
+FGRW.TO,Forstrong Global Growth ETF,TSX
+FINC.TO,Forstrong Global Income ETF,TSX
+FSY.TO,Forsys Metals Corp.,TSX
+FTS.TO,Fortis Inc.,TSX
+FVI.TO,Fortuna Mining Corp.,TSX
+FT.TO,Fortune Minerals Limited,TSX
+FNV.TO,Franco-Nevada Corporation,TSX
+EQY.TO,Franklin All-Equity ETF,TSX
+FBGO.TO,Franklin Brandywine Global Income Optimiser Fund,TSX
+FCRC.TO,Franklin Canadian Core Equity Fund,TSX
+FLCP.TO,Franklin Canadian Core Plus Bond Fund,TSX
+FLCI.TO,Franklin Canadian Corporate Bond Fund,TSX
+FGOV.TO,Franklin Canadian Government Bond Fund,TSX
+FLSD.TO,Franklin Canadian Short Term Bond Fund,TSX
+FHIS.TO,Franklin Canadian Ultra Short Term Bond Fund,TSX
+FCII.TO,Franklin ClearBridge Global Infrastructure Income Fund,TSX
+CNV.TO,Franklin Conservative Income ETF Portfolio,TSX
+CBL.TO,Franklin Core ETF Portfolio,TSX
+FLGA.TO,Franklin Global Core Bond Fund,TSX
+GRO.TO,Franklin Growth ETF Portfolio,TSX
+FINO.TO,Franklin Innovation Fund,TSX
+FCRI.TO,Franklin International Core Equity Fund,TSX
+FCRU.TO,Franklin U.S. Core Equity Fund,TSX
+FLUS.TO,Franklin U.S. Large Cap Multifactor Index ETF,TSX
+FVL.TO,Freegold Ventures Limited,TSX
+FRU.TO,Freehold Royalties Ltd.,TSX
+FCXS.TO,Freeport-McMoRan CDR (CAD Hedged,TSX
+FEC.TO,Frontera Energy Corporation,TSX
+FURY.TO,Fury Gold Mines Limited,TSX
+FMR.TO,Future Mineral Resources Inc.,TSX
+GMIN.TO,G Mining Ventures Corp.,TSX
+GTWO.TO,G2 Goldfields Inc.,TSX
+GAU.TO,Galiano Gold Inc.,TSX
+GH.TO,Gamehost Inc.,TSX
+GE.TO,GE Aerospace CDR (CAD Hedged),TSX
+GEV.TO,GE Vernova CDR (CAD Hedged),TSX
+GENM.TO,Generation Mining Limited,TSX
+GDC.TO,Genesis Land Development Corp.,TSX
+GEO.TO,Geodrill Limited,TSX
 WN.TO,George Weston Limited,TSX
-WPM.TO,Wheaton Precious Metals Corp,TSX
-WRN.TO,Western Copper and Gold Corporation,TSX
-WS.TO,Winshear Gold Corp,TSX
-WSP.TO,WSP Global Inc,TSX
-WTE.TO,Westshore Terminals Investment Corporation,TSX
-WTM.TO,White Tiger Gold Ltd,TSX
-WVS.TO,WesternOne Inc,TSX
-XAM.TO,Orvana Minerals Corp,TSX
-XAU.TO,SPDR Gold Shares,TSX
-XBC.TO,Bombardier Inc,TSX
-XCG.V,XCORPOREAL INC,TSX-V
-XIM.V,Ximen Mining Corp,TSX-V
-XME.TO,SPDR S&P Metals and Mining ETF,TSX
-XOM.TO,ExxonMobil Corporation,TSX
-XRE.TO,iShares S&P/TSX Capped REIT Index ETF,TSX
+GFL.TO,GFL Environmental Inc.,TSX
+GEI.TO,Gibson Energy Inc.,TSX
+GIL.TO,Gildan Activewear Inc.,TSX
+GILD.TO,Gilead Sciences CDR (CAD Hedged),TSX
+GVC.TO,Glacier Media Inc.,TSX
+GLO.TO,Global Atomic Corporation,TSX
+GDV.TO,Global Dividend Growth Split Corp.,TSX
+GEC.TO,Global Education Communities Corp.,TSX
+GLRA.PR.A.TO,Global Real Assets Trust,TSX
+CBIL.TO,Global X 0-3 Month T-Bill ETF,TSX
+UBIL.U.TO,Global X 0-3 Month U.S. T-Bill ETF,TSX
+TSTX.TO,Global X 1-3 Year U.S. Treasury Bond Index ETF,TSX
+TLTX.TO,Global X 20+ Year U.S. Treasury Bond Index ETF,TSX
+HAD.TO,Global X Active Canadian Bond ETF,TSX
+HAL.TO,Global X Active Canadian Dividend ETF,TSX
+HMP.TO,Global X Active Canadian Municipal Bond ETF,TSX
+HAB.TO,Global X Active Corporate Bond ETF,TSX
+HAZ.TO,Global X Active Global Dividend ETF,TSX
+HAF.TO,Global X Active Global Fixed Income ETF,TSX
+HYBR.TO,Global X Active Hybrid Bond and Preferred Share ETF,TSX
+HPR.TO,Global X Active Preferred Share ETF,TSX
+DIVY.TO,Global X Active U.S. Dividend ETF,TSX
+HFR.TO,Global X Active Ultra-Short Term Investment Grade Bond ETF,TSX
+EQCC.TO,Global X All-Equity Asset Allocation Covered Call ETF,TSX
+HEQT.TO,Global X All-Equity Asset Allocation ETF,TSX
+CMCC.TO,Global X All-In-One Commodity Producers Equity Covered Call ETF,TSX
+COMX.TO,Global X All-In-One Commodity Producers Equity ETF,TSX
+AIQ.TO,Global X Artificial Intelligence & Technology Index ETF,TSX
+MTRX.TO,Global X Artificial Intelligence Infrastructure Index ETF,TSX
+CHPS.TO,Global X Artificial Intelligence Semiconductor Index ETF,TSX
+HBAL.TO,Global X Balanced Asset Allocation ETF,TSX
+HBGD.TO,Global X Big Data & Hardware Index ETF,TSX
+HXH.TO,Global X Canadian High Dividend Index Corporate Class ETF,TSX
+ENCC.TO,Global X Canadian Oil and Gas Equity Covered Call ETF,TSX
+HBB.TO,Global X Canadian Select Universe Bond Index Corporate Class ETF,TSX
+HSAV.TO,Global X Cash Maximizer Corporate Class ETF,TSX
+CHQQ.TO,Global X China Hang Seng TECH Index ETF,TSX
+HCON.TO,Global X Conservative Asset Allocation ETF,TSX
+CPCC.TO,Global X Copper Producer Equity Covered Call ETF,TSX
+COPP.TO,Global X Copper Producers Index ETF,TSX
+HUC.TO,Global X Crude Oil ETF,TSX
+SHLD.TO,Global X Defence Tech Index ETF,TSX
+HXEM.TO,Global X Emerging Markets Equity Index Corporate Class ETF,TSX
+EQCL.TO,Global X Enhanced All-Equity Asset Allocation Covered Call ETF,TSX
+HEQL.TO,Global X Enhanced All-Equity Asset Allocation ETF,TSX
+CMCL.TO,Global X Enhanced All-In-One Commodity Producers Equity Covered Call ETF,TSX
+ENCL.TO,Global X Enhanced Canadian Oil and Gas Equity Covered Call ETF,TSX
+BNKL.TO,Global X Enhanced Equal Weight Banks Index ETF,TSX
+BKCL.TO,Global X Enhanced Equal Weight Canadian Banks Covered Call ETF,TSX
+RNCL.TO,Global X Enhanced Equal Weight Canadian Telecommunications Covered Call ETF,TSX
+GLCL.TO,Global X Enhanced Gold Producer Equity Covered Call ETF,TSX
+QQCL.TO,Global X Enhanced Nasdaq-100 Covered Call ETF,TSX
+QQQL.TO,Global X Enhanced Nasdaq-100 Index ETF,TSX
+USCL.TO,Global X Enhanced S&P 500 Covered Call ETF,TSX
+USSL.TO,Global X Enhanced S&P 500 Index ETF,TSX
+CNCL.TO,Global X Enhanced S&P/TSX 60 Covered Call ETF,TSX
+CANL.TO,Global X Enhanced S&P/TSX 60 Index ETF,TSX
+SVCL.TO,Global X Enhanced Silver Miners Covered Call ETF,TSX
+BKCC.TO,Global X Equal Weight Canadian Bank Covered Call ETF,TSX
+HEWB.TO,Global X Equal Weight Canadian Banks Index Corporate Class ETF,TSX
+HBNK.TO,Global X Equal Weight Canadian Banks Index ETF,TSX
+MART.TO,Global X Equal Weight Canadian Groceries & Staples Index ETF,TSX
+SAFE.TO,Global X Equal Weight Canadian Insurance Index ETF,TSX
+NRGY.TO,Global X Equal Weight Canadian Oil & Gas Index ETF,TSX
+PPLN.TO,Global X Equal Weight Canadian Pipelines Index ETF,TSX
+HCRE.TO,Global X Equal Weight Canadian REITs Index Corporate Class ETF,TSX
+REIT.TO,Global X Equal Weight Canadian REITs Index ETF,TSX
+RNCC.TO,Global X Equal Weight Canadian Telecommunications Covered Call ETF,TSX
+RING.TO,Global X Equal Weight Canadian Telecommunications Index ETF,TSX
+UTIL.TO,Global X Equal Weight Canadian Utilities Index ETF,TSX
+MEDX.TO,Global X Equal Weight Global Healthcare Index ETF,TSX
+UBNK.TO,Global X Equal Weight U.S. Banks Index ETF,TSX
+UMRT.TO,Global X Equal Weight U.S. Groceries & Staples Index ETF,TSX
+HXX.TO,Global X Europe 50 Index Corporate Class ETF,TSX
+ETHI.TO,Global X Global Sustainability Leaders Index ETF,TSX
+HUG.TO,Global X Gold ETF,TSX
+GLCC.TO,Global X Gold Producer Equity Covered Call ETF,TSX
+GLDX.TO,Global X Gold Producers Index ETF,TSX
+HGY.TO,Global X Gold Yield ETF,TSX
+GRCC.TO,Global X Growth Asset Allocation Covered Call ETF,TSX
+HGRW.TO,Global X Growth Asset Allocation ETF,TSX
+CASH.TO,Global X High Interest Savings ETF,TSX
+TTTX.TO,Global X Innovative Bluechip Top 10 Index ETF,TSX
+INOC.TO,Global X Inovestor Canadian Equity Index ETF,TSX
+HXDM.TO,Global X Intl Developed Markets Equity Index Corporate Class ETF,TSX
+HLPR.TO,Global X Laddered Canadian Preferred Share Index Corporate Class ETF,TSX
+HLIT.TO,Global X Lithium Producers Index ETF,TSX
+PAYL.TO,Global X Long-Term Government Bond Premium Yield ETF,TSX
+LPAY.TO,Global X Long-Term U.S. Treasury Premium Yield ETF,TSX
+HMMJ.TO,Global X Marijuana Life Sciences Index ETF,TSX
+PAYM.TO,Global X Mid-Term Government Bond Premium Yield ETF,TSX
+MPAY.TO,Global X Mid-Term U.S. Treasury Premium Yield ETF,TSX
+QQCC.TO,Global X Nasdaq-100 Covered Call ETF,TSX
+HXQ.TO,Global X Nasdaq-100 Index Corporate Class ETF,TSX
+QQQX.TO,Global X Nasdaq-100 Index ETF,TSX
+HUN.TO,Global X Natural Gas ETF,TSX
+NYSX.TO,Global X NYSE 100 Index ETF,TSX
+RBOT.TO,Global X Robotics & AI Index ETF,TSX
+HSH.TO,Global X S&P 500 CAD Hedged Index Corporate Class ETF,TSX
+USCC.TO,Global X S&P 500 Covered Call ETF,TSX
+HXS.TO,Global X S&P 500 Index Corporate Class ETF,TSX
+USSX.TO,Global X S&P 500 Index ETF,TSX
+CNCC.TO,Global X S&P/TSX  60 Covered Call ETF,TSX
+HXT.TO,Global X S&P/TSX 60 Index Corporate Class ETF,TSX
+CNDX.TO,Global X S&P/TSX 60 Index ETF,TSX
+HXCN.TO,Global X S&P/TSX Capped Composite Index Corporate Class ETF,TSX
+HXE.TO,Global X S&P/TSX Capped Energy Index Corporate Class ETF,TSX
+HXF.TO,Global X S&P/TSX Capped Financials Index Corporate Class ETF,TSX
+HAC.TO,Global X Seasonal Rotation ETF,TSX
+PAYS.TO,Global X Short-Term Government Bond Premium Yield ETF,TSX
+SPAY.TO,Global X Short-Term U.S. Treasury Premium Yield ETF,TSX
+AGCC.TO,Global X Silver Covered Call ETF,TSX
+HUZ.TO,Global X Silver ETF,TSX
+SVCC.TO,Global X Silver Miners Covered Call ETF,TSX
+SLVX.TO,Global X Silver Miners Index ETF,TSX
+ORBX.TO,Global X Space Tech Index ETF,TSX
+TOKN.TO,Global X Tokenization Ecosystem Index ETF,TSX
+PAVE.TO,Global X U.S. Infrastructure Development Index ETF,TSX
+URCC.TO,Global X Uranium Covered Call ETF,TSX
+HURA.TO,Global X Uranium Index ETF,TSX
+HTB.TO,Global X US 7-10 Year Treasury Bond Index Corporate Class ETF,TSX
+DLR.TO,Global X US Dollar Currency ETF,TSX
+HULC.TO,Global X US Large Cap Index Corporate Class ETF,TSX
+HSUV.U.TO,Global X USD Cash Maximizer Corporate Class ETF,TSX
+UCSH.U.TO,Global X USD High Interest Savings ETF,TSX
+GMX.TO,Globex Mining Enterprises Inc.,TSX
+GO.U.TO,GO Residential Real Estate Investment Trust,TSX
+GSY.TO,goeasy Ltd.,TSX
+GGD.TO,GoGold Resources Inc.,TSX
+GRC.TO,Gold Springs Resource Corp.,TSX
+AUMN.TO,Golden Minerals Company,TSX
+GS.TO,Goldman Sachs CDR (CAD Hedged),TSX
+GOLD.TO,GoldMining Inc.,TSX
+XAU.TO,GoldMoney Inc.,TSX
+GDL.TO,Goodfellow Inc.,TSX
+FOOD.TO,Goodfood Market Corp.,TSX
+GTE.TO,Gran Tierra Energy Inc.,TSX
+GRT.UN.TO,Granite Real Estate Investment Trust,TSX
+GWO.TO,Great-West Lifeco Inc.,TSX
+GFR.TO,Greenfire Resources Ltd.,TSX
+GFP.TO,GreenFirst Forest Products Inc.,TSX
+MOLY.TO,Greenland Resources Inc.,TSX
+GRN.TO,Greenlane Renewables Inc.,TSX
+GRGD.TO,Groupe Dynamite Inc.,TSX
+GCBD.TO,Guardian Canadian Bond Fund,TSX
+GCSC.TO,Guardian Canadian Diversified Core Equity Fund,TSX
+GCEI.TO,Guardian Canadian Equity Income Fund,TSX
+GCFE.TO,Guardian Canadian Focused Equity Fund,TSX
+GGEP.TO,Guardian Directed Equity Path Portfolio,TSX
+GGPY.TO,Guardian Directed Premium Yield Portfolio,TSX
+GFGE.TO,Guardian Fundamental Global Equity Fund,TSX
+GICD.TO,Guardian i3 Canadian Dividend Growth Fund,TSX
+GIGD.TO,Guardian i3 Global Dividend Growth Fund,TSX
+GIDY.TO,Guardian i3 Global Dividend Premium Yield Fund,TSX
+GIQG.TO,Guardian i3 Global Quality Growth ETF,TSX
+GIUS.TO,Guardian i3 U.S. Core Equity Fund,TSX
+GIES.TO,Guardian International Equity Select Fund,TSX
+GIGC.TO,Guardian Investment Grade Corporate Bond Fund,TSX
+GSDB.TO,Guardian Short Duration Bond Fund,TSX
+GCTB.TO,Guardian Ultra-Short Canadian T-Bill Fund,TSX
+GUTB.U.TO,Guardian Ultra-Short U.S. T-Bill Fund,TSX
+GCU.TO,Gunnison Copper Corp,TSX
+GURU.TO,GURU Organic Energy Corp.,TSX
+HR.UN.TO,H&R Real Estate Investment Trust,TSX
+HAI.TO,Haivision Systems Inc.,TSX
+HBA.TO,Hamilton Australian Bank Equal-Weight Index ETF,TSX
+HCA.TO,Hamilton Canadian Bank Mean Reversion Index ETF,TSX
+CMAX.TO,Hamilton Canadian Equity YIELD MAXIMIZER TM ETF,TSX
+HMAX.TO,Hamilton Canadian Financials YIELD MAXIMIZER TM ETF,TSX
+HEB.TO,HAMILTON CHAMPIONS TM Canadian Bank Equal-Weight Index ETF,TSX
+CMVP.TO,HAMILTON CHAMPIONS TM Canadian Dividend Index ETF,TSX
+HFN.TO,HAMILTON CHAMPIONS TM Canadian Financials Index ETF,TSX
+CWIN.TO,HAMILTON CHAMPIONS TM Enhanced Canadian Dividend ETF,TSX
+SWIN.TO,HAMILTON CHAMPIONS TM Enhanced U.S. Dividend ETF,TSX
+SMVP.TO,HAMILTON CHAMPIONS TM U.S. Dividend Index ETF,TSX
+QMVP.TO,HAMILTON CHAMPIONS TM U.S. Technology Index ETF,TSX
+UMVP.TO,HAMILTON CHAMPIONS TM Utilities Index ETF,TSX
+EMAX.TO,Hamilton Energy YIELD MAXIMIZER TM ETF,TSX
+HCAL.TO,Hamilton Enhanced Canadian Bank ETF,TSX
+HDIV.TO,Hamilton Enhanced Canadian Covered Call ETF,TSX
+HFIN.TO,Hamilton Enhanced Canadian Financials ETF,TSX
+MIX.TO,Hamilton Enhanced Mixed Asset Allocation ETF,TSX
+HYLD.TO,Hamilton Enhanced U.S. Covered Call ETF,TSX
+HUTS.TO,Hamilton Enhanced Utilities ETF,TSX
+HFG.TO,Hamilton Global Financials ETF,TSX
+AMAX.TO,Hamilton Gold Producer YIELD MAXIMIZER TM ETF,TSX
+LMAX.TO,Hamilton Healthcare YIELD MAXIMIZER TM ETF,TSX
+IMAX.TO,Hamilton International Equity YIELD MAXIMIZER TM ETF,TSX
+RMAX.TO,Hamilton REITs YIELD MAXIMIZER TM ETF,TSX
+QMAX.TO,Hamilton Technology YIELD MAXIMIZER TM ETF,TSX
+HBND.TO,Hamilton U.S. Bond YIELD MAXIMIZER TM ETF,TSX
+SMAX.TO,Hamilton U.S. Equity YIELD MAXIMIZER TM ETF,TSX
+FMAX.TO,Hamilton U.S. Financials YIELD MAXIMIZER TM ETF,TSX
+HUM.TO,Hamilton U.S. Mid-Cap Financials ETF,TSX
+HBIL.TO,Hamilton U.S. T-Bill YIELD MAXIMIZER TM ETF,TSX
+UMAX.TO,Hamilton Utilities YIELD MAXIMIZER TM ETF,TSX
+HMM.A.TO,Hammond Manufacturing Company Limited,TSX
+HPS.A.TO,Hammond Power Solutions Inc.,TSX
+AEME.TO,Harvest Agnico Eagle Enhanced High Income Shares ETF,TSX
+GOGY.TO,Harvest Alphabet Enhanced High Income Shares ETF,TSX
+AMHE.TO,Harvest Amazon Enhanced High Income Shares ETF,TSX
+AMZH.TO,Harvest Amazon High Income Shares ETF,TSX
+AMDY.TO,Harvest AMD Enhanced High Income Shares ETF,TSX
+APLE.TO,Harvest Apple Enhanced High Income Shares ETF,TSX
+HBIE.TO,Harvest Balanced Income & Growth Enhanced ETF,TSX
+HBIG.TO,Harvest Balanced Income & Growth ETF,TSX
+BCEE.TO,Harvest BCE Enhanced High Income Shares ETF,TSX
+BLKY.TO,Harvest Block Enhanced High Income Shares ETF,TSX
+AVGY.TO,Harvest Broadcom Enhanced High Income Shares ETF,TSX
+CCOE.TO,Harvest Cameco Enhanced High Income Shares ETF,TSX
+HLIF.TO,Harvest Canadian Dividend Leaders Income ETF,TSX
+HHIC.TO,Harvest Canadian High Income Shares ETF,TSX
+TBIL.TO,Harvest Canadian T-Bill ETF,TSX
+CRCY.TO,Harvest Circle Enhanced High Income Shares ETF,TSX
+HCLN.TO,Harvest Clean Energy ETF,TSX
+CNQE.TO,Harvest CNQ Enhanced High Income Shares ETF,TSX
+CNYE.TO,Harvest Coinbase Enhanced High Income Shares ETF,TSX
+CONY.TO,Harvest Coinbase High Income Shares ETF,TSX
+COSY.TO,Harvest Costco Enhanced High Income Shares ETF,TSX
+CRWY.TO,Harvest CrowdStrike Enhanced High Income Shares ETF,TSX
+HRIF.TO,Harvest Diversified Equity Income ETF,TSX
+HHIS.TO,Harvest Diversified High Income Shares ETF,TSX
+HDIF.TO,Harvest Diversified Monthly Income ETF,TSX
+LLHE.TO,Harvest Eli Lilly Enhanced High Income Shares ETF,TSX
+LLYH.TO,Harvest Eli Lilly High Income Shares ETF,TSX
+ENBE.TO,Harvest Enbridge Enhanced High Income Shares ETF,TSX
+HPF.TO,Harvest Energy Leaders Income ETF,TSX
+RYHE.TO,Harvest Enhanced High Income RY-Linked Shares ETF,TSX
+TDHE.TO,Harvest Enhanced High Income TD-Linked Shares ETF,TSX
+HGGG.TO,Harvest Global Gold Giants Index ETF,TSX
+HHLE.TO,Harvest Healthcare Leaders Enhanced Income ETF,TSX
+HHL.TO,Harvest Healthcare Leaders Income ETF,TSX
+HHIH.TO,Harvest High Income Equity Shares ETF,TSX
+HIND.TO,Harvest Industrial Leaders Income ETF,TSX
+JNJY.TO,Harvest JnJ Enhanced High Income Shares ETF,TSX
+JPHE.TO,Harvest JPHE Enhanced High Income Shares ETF,TSX
+HVOL.TO,Harvest Low Volatility Canadian Equity ETF,TSX
+HVOI.TO,Harvest Low Volatility Canadian Equity Income ETF,TSX
+METE.TO,Harvest Meta Enhanced High Income Shares ETF,TSX
+MSHE.TO,Harvest Microsoft Enhanced High Income Shares ETF,TSX
+MSFH.TO,Harvest Microsoft High Income Shares ETF,TSX
+NFLY.TO,Harvest Netflix Enhanced High Income Shares ETF,TSX
+NOVY.TO,Harvest Novo Enhanced High Income Shares ETF,TSX
+NVHE.TO,Harvest NVIDIA Enhanced High Income Shares ETF,TSX
+NVDH.TO,Harvest NVIDIA High Income Shares ETF,TSX
+ORCY.TO,Harvest Oracle Enhanced High Income Shares ETF,TSX
+PLTE.TO,Harvest Palantir Enhanced High Income Shares ETF,TSX
+HPYM.TO,Harvest Premium Yield 7-10 Year Treasury ETF,TSX
+HPYB.TO,Harvest Premium Yield Canadian Bank ETF,TSX
+HPYE.TO,Harvest Premium Yield Enhanced ETF,TSX
+HPYT.TO,Harvest Premium Yield Treasury ETF,TSX
+RDDY.TO,Harvest Reddit Enhanced High Income Shares ETF,TSX
+HGR.TO,Harvest REIT Leaders Income ETF,TSX
+HODY.TO,Harvest Robinhood Enhanced High Income Shares ETF,TSX
+SHPE.TO,Harvest Shopify Enhanced High Income Shares ETF,TSX
+SOFY.TO,Harvest SoFi Enhanced High Income Shares ETF,TSX
+SPXE.TO,Harvest SpaceX Enhanced High Income Shares ETF,TSX
+MSTE.TO,Harvest Strategy Inc. Enhanced High Income Shares ETF,TSX
+MSTY.TO,Harvest Strategy Inc. High Income Shares ETF,TSX
+SUHE.TO,Harvest Suncor Enhanced High Income Shares ETF,TSX
+HTAE.TO,Harvest Tech Leaders Enhanced Income ETF,TSX
+HTA.TO,Harvest Tech Leaders Income ETF,TSX
+TEHE.TO,Harvest TELUS Enhanced High Income Shares ETF,TSX
+TSLY.TO,Harvest Tesla Enhanced High Income Shares ETF,TSX
+TRVI.TO,Harvest Travel & Leisure Income ETF,TSX
+TRVL.TO,Harvest Travel & Leisure Index ETF,TSX
+HUBL.TO,Harvest US Bank Leaders Income ETF,TSX
+HBF.TO,Harvest US Equity Leaders Income ETF,TSX
+HUTE.TO,Harvest Utilities Leaders Enhanced Income ETF,TSX
+HUTL.TO,Harvest Utilities Leaders Income ETF,TSX
+HWX.TO,Headwater Exploration Inc.,TSX
+MDS.UN.TO,Healthcare Special Opportunities Fund,TSX
+AIDX.TO,HealWELL AI Inc.,TSX
+HFPC.U.TO,Helios Fairfax Partners Corporation,TSX
+HBP.TO,Helix BioPharma Corp.,TSX
+HMMC.TO,Hemlo Mining Corp.,TSX
+HRMS.TO,Hermès CDR (CAD Hedged),TSX
+HWO.TO,High Arctic Energy Services Inc.,TSX
+HLF.TO,High Liner Foods Incorporated,TSX
+HSLV.TO,Highlander Silver Corp.,TSX
+HIVE.TO,HIVE Digital Technologies Ltd.,TSX
+HLS.TO,HLS Therapeutics Inc.,TSX
+HD.TO,Home Depot CDR (CAD Hedged),TSX
+HON.TO,Honeywell CDR (CAD Hedged),TSX
+HBM.TO,Hudbay Minerals Inc.,TSX
+HBOP.TO,Humilis Fundamental Opportunities ETF,TSX
+HBDV.TO,Humilis North American Dividend Growth ETF,TSX
+HBTA.TO,Humilis North American Tactical Equity Fund,TSX
+HUT.TO,Hut 8 Corp.,TSX
+H.TO,Hydro One Limited,TSX
+IAU.TO,i-80 Gold Corp.,TSX
+ICPB.TO,IA Clarington Agile Core Plus Bond Fund,TSX
+GTRI.TO,IA Clarington Agile Global Total Return Income Fund,TSX
+IMFE.TO,IA Clarington Global Multifactor Equity Fund,TSX
+IFRF.TO,IA Clarington Loomis Floating Rate Income Fund,TSX
+IGAF.TO,IA Clarington Loomis Global Allocation Fund,TSX
+IGEO.TO,IA Clarington Loomis Global Equity Opportunities Fund,TSX
+ILGB.TO,IA Clarington Loomis Global Multisector Bond Fund,TSX
+ISCB.TO,IA Clarington Strategic Corporate Bond Fund,TSX
+ISIF.TO,IA Clarington Strategic Income Fund,TSX
+ITIN.TO,IA Clarington Thematic Innovation Class,TSX
+IAG.TO,iA Financial Corporation Inc.,TSX
+IWEB.TO,IA Wealth Enhanced Bond Pool,TSX
+IMG.TO,IAMGOLD Corporation,TSX
+IBM.TO,IBM CDR (CAD Hedged),TSX
+IFA.TO,iFabric Corp.,TSX
+IGM.TO,IGM Financial Inc.,TSX
+ILLM.TO,illumin Holdings Inc.,TSX
+III.TO,Imperial Metals Corporation,TSX
+IMO.TO,Imperial Oil Limited,TSX
+INC.UN.TO,Income Financial Trust,TSX
+ISC.TO,Information Services Corporation,TSX
+IS.TO,Infrastructure Dividend Split Corp.,TSX
+INGS.TO,ING CDR (CAD Hedged),TSX
+INO.UN.TO,Inovalis Real Estate Investment Trust,TSX
+IPO.TO,InPlay Oil Corp.,TSX
+IFC.TO,Intact Financial Corporation,TSX
+INTC.TO,Intel CDR (CAD Hedged),TSX
+IFP.TO,Interfor Corporation,TSX
+IMP.TO,Intermap Technologies Corporation,TSX
+IPCO.TO,International Petroleum Corporation,TSX
+ITH.TO,International Tower Hill Mines Ltd.,TSX
+IIP.UN.TO,InterRent Real Estate Investment Trust,TSX
+INTU.TO,Intuit CDR (CAD Hedged),TSX
+ISRG.TO,Intuitive Surgical CDR (CAD Hedged),TSX
+PSB.TO,Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF,TSX
+ICCB.TO,Invesco Canadian Core Plus Bond ETF,TSX
+PDC.TO,Invesco Canadian Dividend Index ETF,TSX
+PFL.TO,Invesco Canadian Government Floating Rate Index ETF,TSX
+BESG.TO,Invesco ESG Canadian Core Plus Bond ETF,TSX
+IWBE.TO,Invesco ESG Global Bond ETF,TSX
+QQCE.TO,Invesco ESG NASDAQ 100 Index ETF,TSX
+ICGB.TO,Invesco Global Bond ETF,TSX
+IIMF.TO,Invesco International Developed Multifactor Index ETF,TSX
+IGET.TO,Invesco Morningstar Global Energy Transition Index ETF,TSX
+INAI.TO,Invesco Morningstar Global Next Gen AI Index ETF,TSX
+QQEQ.TO,Invesco NASDAQ 100 Equal Weight Index ETF,TSX
+QQCI.TO,Invesco NASDAQ 100 Income Advantage ETF,TSX
+QQC.TO,Invesco NASDAQ 100 Index ETF,TSX
+QQJR.TO,Invesco NASDAQ Next Gen 100 Index ETF,TSX
+PXC.TO,Invesco RAFI Canadian Index ETF,TSX
+PZW.TO,Invesco RAFI Global Small-Mid ETF,TSX
+PXU.F.TO,Invesco RAFI U.S. Index ETF,TSX
+PXS.TO,Invesco RAFI U.S. Index ETF II,TSX
+IUMF.TO,Invesco Russell 1000 Multifactor Index ETF,TSX
+EQLI.TO,Invesco S&P 500 Equal Weight Income Advantage ETF,TSX
+EQL.TO,Invesco S&P 500 Equal Weight Index ETF,TSX
+ESG.TO,Invesco S&P 500 ESG Index ETF,TSX
+ULV.C.TO,Invesco S&P 500 Low Volatility Index ETF,TSX
+IIAE.TO,Invesco S&P International Developed Dividend Aristocrats ESG Index ETF,TSX
+IICE.TO,Invesco S&P International Developed ESG Index ETF,TSX
+IUAE.TO,Invesco S&P US Dividend Aristocrats ESG Index ETF,TSX
+EQLT.TO,Invesco S&P/TSX 60 Equal Weight Index ETF,TSX
+ICAE.TO,Invesco S&P/TSX Canadian Dividend Aristocrats ESG Index ETF,TSX
+ESGC.TO,Invesco S&P/TSX Composite ESG Index ETF,TSX
+TLV.TO,Invesco S&P/TSX Composite Low Volatility Index ETF,TSX
+IUFR.U.TO,Invesco US Treasury Floating Rate Note Index ETF (USD),TSX
+IVQ.TO,Invesque Inc.,TSX
+XSTP.TO,iShares 0-5 Year TIPS Bond Index ETF,TSX
+XSTH.TO,iShares 0-5 Year TIPS Bond Index ETF (CAD-Hedged),TSX
+CBH.TO,iShares 1-10 Year Laddered Corporate Bond Index ETF,TSX
+CLG.TO,iShares 1-10 Year Laddered Government Bond Index ETF,TSX
+CBO.TO,iShares 1-5 Year Laddered Corporate Bond Index ETF,TSX
+CLF.TO,iShares 1-5 Year Laddered Government Bond Index ETF,TSX
+XSHU.TO,iShares 1-5 Year U.S. IG Corporate Bond Index ETF,TSX
+XIGS.TO,iShares 1-5 Year U.S. IG Corporate Bond Index ETF (CAD-Hedged),TSX
+XTLT.TO,iShares 20+ Year U.S. Treasury Bond Index ETF,TSX
+XTLH.TO,iShares 20+ Year U.S. Treasury Bond Index ETF (CAD-Hedged),TSX
+FIE.TO,iShares Canadian Financial Monthly Income ETF,TSX
+XCG.TO,iShares Canadian Growth Index ETF,TSX
+XHB.TO,iShares Canadian HYBrid Corporate Bond Index ETF,TSX
+XRB.TO,iShares Canadian Real Return Bond Index ETF,TSX
+XDV.TO,iShares Canadian Select Dividend Index ETF,TSX
+XCV.TO,iShares Canadian Value Index ETF,TSX
+XCH.TO,iShares China Index ETF,TSX
+XSC.TO,iShares Conservative Short Term Strategic Fixed Income ETF,TSX
+XSE.TO,iShares Conservative Strategic Fixed Income ETF,TSX
+CVD.TO,iShares Convertible Bond Index ETF,TSX
+XBAL.TO,iShares Core Balanced ETF Portfolio,TSX
+XFLB.TO,iShares Core Canadian 15+ Year Federal Bond Index ETF,TSX
+XCB.TO,iShares Core Canadian Corporate Bond Index ETF,TSX
+XGB.TO,iShares Core Canadian Government Bond Index ETF,TSX
+XLB.TO,iShares Core Canadian Long Term Bond Index ETF,TSX
 XSB.TO,iShares Core Canadian Short Term Bond Index ETF,TSX
-YAK.V,American Manganese Inc,TSX-V
-YNV.TO,Yangibana Nickel Corp,TSX
-YRI.TO,Yamana Gold Inc,TSX
-ZAR.V,ZaZa Energy Corporation,TSX-V
-ZCL.TO,ZCL Composites Inc,TSX
-ZIM.TO,Zimtu Capital Corp,TSX
-ZMT.TO,Zymeworks Inc,TSX
+XSH.TO,iShares Core Canadian Short Term Corporate Bond Index ETF,TSX
+XSMB.TO,iShares Core Canadian Short-Mid Term Universe Bond Index ETF,TSX
+XBB.TO,iShares Core Canadian Universe Bond Index ETF,TSX
+XCNS.TO,iShares Core Conservative Balanced ETF Portfolio,TSX
+XEQT.TO,iShares Core Equity ETF Portfolio,TSX
+XGRO.TO,iShares Core Growth ETF Portfolio,TSX
+XINC.TO,iShares Core Income Balanced ETF Portfolio,TSX
+XAW.TO,iShares Core MSCI All Country World ex Canada Index ETF,TSX
+XDIV.TO,iShares Core MSCI Canadian Quality Dividend Index ETF,TSX
+XEF.TO,iShares Core MSCI EAFE IMI Index ETF,TSX
+XFH.TO,iShares Core MSCI EAFE IMI Index ETF (CAD-Hedged),TSX
+XEC.TO,iShares Core MSCI Emerging Markets IMI Index ETF,TSX
+XDG.TO,iShares Core MSCI Global Quality Dividend Index ETF,TSX
+XDGH.TO,iShares Core MSCI Global Quality Dividend Index ETF (CAD-Hedged),TSX
+XDU.TO,iShares Core MSCI US Quality Dividend Index ETF,TSX
+XDUH.TO,iShares Core MSCI US Quality Dividend Index ETF (CAD-Hedged),TSX
+XUS.TO,iShares Core S&P 500 Index ETF,TSX
+XSP.TO,iShares Core S&P 500 Index ETF (CAD-Hedged),TSX
+XTOT.TO,iShares Core S&P Total U.S. Stock Market Index ETF,TSX
+XTOH.TO,iShares Core S&P Total U.S. Stock Market Index ETF (CAD-Hedged),TSX
+XUU.TO,iShares Core S&P U.S. Total Market Index ETF,TSX
+XUH.TO,iShares Core S&P U.S. Total Market Index ETF (CAD-Hedged),TSX
+XIC.TO,iShares Core S&P/TSX Capped Composite Index ETF,TSX
+XHAK.TO,iShares Cybersecurity and Tech Index ETF,TSX
+XTR.TO,iShares Diversified Monthly Income ETF,TSX
+CEW.TO,iShares Equal Weight Banc & Lifeco ETF,TSX
+XSHG.TO,iShares ESG Advanced 1-5 Year Canadian Corporate Bond Index ETF,TSX
+XCBG.TO,iShares ESG Advanced Canadian Corporate Bond Index ETF,TSX
+XCSR.TO,iShares ESG Advanced MSCI Canada Index ETF,TSX
+XDSR.TO,iShares ESG Advanced MSCI EAFE Index ETF,TSX
+XUSR.TO,iShares ESG Advanced MSCI USA Index ETF,TSX
+XSAB.TO,iShares ESG Aware Canadian Aggregate Bond Index ETF,TSX
+XSTB.TO,iShares ESG Aware Canadian Short Term Bond Index ETF,TSX
+XESG.TO,iShares ESG Aware MSCI Canada Index ETF,TSX
+XSEA.TO,iShares ESG Aware MSCI EAFE Index ETF,TSX
+XSEM.TO,iShares ESG Aware MSCI Emerging Markets Index ETF,TSX
+XSUS.TO,iShares ESG Aware MSCI USA Index ETF,TSX
+GBAL.TO,iShares ESG Balanced ETF Portfolio,TSX
+GCNS.TO,iShares ESG Conservative Balanced ETF Portfolio,TSX
+GEQT.TO,iShares ESG Equity ETF Portfolio,TSX
+GGRO.TO,iShares ESG Growth ETF Portfolio,TSX
+XEXP.TO,iShares Exponential Technologies Index ETF,TSX
+XFLI.TO,iShares Flexible Monthly Income ETF,TSX
+XFLX.TO,iShares Flexible Monthly Income ETF (CAD-Hedged),TSX
+XFR.TO,iShares Floating Rate Index ETF,TSX
+XDNA.TO,iShares Genomics Immunology and Healthcare Index ETF,TSX
+COW.TO,iShares Global Agriculture Index ETF,TSX
+XCLN.TO,iShares Global Clean Energy Index ETF,TSX
+XDRV.TO,iShares Global Electric and Autonomous Vehicles Index ETF,TSX
+XHC.TO,iShares Global Healthcare Index ETF (CAD-Hedged),TSX
+CIF.TO,iShares Global Infrastructure Index ETF,TSX
+CYH.TO,iShares Global Monthly Dividend Index ETF (CAD-Hedged),TSX
+CGR.TO,iShares Global Real Estate Index ETF,TSX
+CWW.TO,iShares Global Water Index ETF,TSX
+CGL.TO,iShares Gold Bullion ETF,TSX
+XQB.TO,iShares High Quality Canadian Bond Index ETF,TSX
+XID.TO,iShares India Index ETF,TSX
+XEB.TO,iShares J.P. Morgan USD Emerging Markets Bond Index ETF (CAD-Hedged),TSX
+XEN.TO,iShares Jantzi Social Index ETF,TSX
+XIN.TO,iShares MSCI EAFE Index ETF (CAD-Hedged),TSX
+XEMC.TO,iShares MSCI Emerging Markets ex China Index ETF,TSX
+XEM.TO,iShares MSCI Emerging Markets Index ETF,TSX
+XEU.TO,iShares MSCI Europe IMI Index ETF,TSX
+XEH.TO,iShares MSCI Europe IMI Index ETF (CAD-Hedged),TSX
+XMV.TO,iShares MSCI Min Vol Canada Index ETF,TSX
+XMI.TO,iShares MSCI Min Vol EAFE Index ETF,TSX
+XML.TO,iShares MSCI Min Vol EAFE Index ETF (CAD-Hedged),TSX
+XMM.TO,iShares MSCI Min Vol Emerging Markets Index ETF,TSX
+XMW.TO,iShares MSCI Min Vol Global Index ETF,TSX
+XMY.TO,iShares MSCI Min Vol Global Index ETF (CAD-Hedged),TSX
+XMU.TO,iShares MSCI Min Vol USA Index ETF,TSX
+XMS.TO,iShares MSCI Min Vol USA Index ETF (CAD-Hedged),TSX
+XMTM.TO,iShares MSCI USA Momentum Factor Index ETF,TSX
+XQLT.TO,iShares MSCI USA Quality Factor Index ETF,TSX
+XVLU.TO,iShares MSCI USA Value Factor Index ETF,TSX
+XWD.TO,iShares MSCI World Index ETF,TSX
+XQQU.TO,iShares NASDAQ 100 Index ETF,TSX
+XQQ.TO,iShares NASDAQ 100 Index ETF (CAD-Hedged),TSX
+CMR.TO,iShares Premium Money Market ETF,TSX
+XUSC.TO,iShares S&P 500 3% Capped Index ETF,TSX
+XSPC.TO,iShares S&P 500 3% Capped Index ETF (CAD-Hedged),TSX
+XCD.TO,iShares S&P Global Consumer Discretionary Index ETF (CAD-Hedged),TSX
+XGI.TO,iShares S&P Global Industrials Index ETF(CAD-Hedged),TSX
+XUSF.TO,iShares S&P U.S. Financials Index ETF,TSX
+XMC.TO,iShares S&P U.S. Mid-Cap Index ETF,TSX
+XMH.TO,iShares S&P U.S. Mid-Cap Index ETF (CAD-Hedged),TSX
+XSMC.TO,iShares S&P U.S. Small-Cap Index ETF,TSX
+XSMH.TO,iShares S&P U.S. Small-Cap Index ETF (CAD-Hedged),TSX
+XIU.TO,iShares S&P/TSX 60 Index ETF,TSX
+CDZ.TO,iShares S&P/TSX Canadian Dividend Aristocrats Index ETF,TSX
+CPD.TO,iShares S&P/TSX Canadian Preferred Share Index ETF,TSX
+XST.TO,iShares S&P/TSX Capped Consumer Staples Index ETF,TSX
+XEG.TO,iShares S&P/TSX Capped Energy Index ETF,TSX
+XFN.TO,iShares S&P/TSX Capped Financials Index ETF,TSX
+XIT.TO,iShares S&P/TSX Capped Information Technology Index ETF,TSX
+XMA.TO,iShares S&P/TSX Capped Materials Index ETF,TSX
+XRE.TO,iShares S&P/TSX Capped REIT Index ETF,TSX
+XUT.TO,iShares S&P/TSX Capped Utilities Index ETF,TSX
+XMD.TO,iShares S&P/TSX Completion Index ETF,TSX
+XEI.TO,iShares S&P/TSX Composite High Dividend Index ETF,TSX
+XETM.TO,iShares S&P/TSX Energy Transition Materials Index ETF,TSX
+XBM.TO,iShares S&P/TSX Global Base Metals Index ETF,TSX
+XGD.TO,iShares S&P/TSX Global Gold Index ETF,TSX
+XPF.TO,iShares S&P/TSX North American Preferred Stock Index ETF (CAD-Hedged),TSX
+XCS.TO,iShares S&P/TSX SmallCap Index ETF,TSX
+XCHP.TO,iShares Semiconductor Index ETF,TSX
+XSI.TO,iShares Short Term Strategic Fixed Income ETF,TSX
+SVR.TO,iShares Silver Bullion ETF,TSX
+XAD.TO,iShares U.S. Aerospace & Defense Index ETF,TSX
+XAGG.TO,iShares U.S. Aggregate Bond Index ETF,TSX
+XAGH.TO,iShares U.S. Aggregate Bond Index ETF (CAD-Hedged),TSX
+XHU.TO,iShares U.S. High Dividend Equity Index ETF,TSX
+XHD.TO,iShares U.S. High Dividend Equity Index ETF (CAD-Hedged),TSX
+XHY.TO,iShares U.S. High Yield Bond Index ETF (CAD-Hedged),TSX
+XCBU.TO,iShares U.S. IG Corporate Bond Index ETF,TSX
+XIG.TO,iShares U.S. IG Corporate Bond Index ETF (CAD-Hedged),TSX
+XSU.TO,iShares U.S. Small Cap Index ETF (CAD-Hedged),TSX
+CUD.TO,iShares US Dividend Growers Index ETF (CAD-Hedged),TSX
+ISO.TO,IsoEnergy Ltd.,TSX
+IE.TO,Ivanhoe Electric Inc.,TSX
+IVN.TO,Ivanhoe Mines Ltd.,TSX
+JAG.TO,Jaguar Mining Inc.,TSX
+JWEL.TO,Jamieson Wellness Inc.,TSX
+JFS.UN.TO,JFT Strategies Fund,TSX
+JNJ.TO,Johnson & Johnson CDR (CAD Hedged),TSX
+JOY.TO,Journey Energy Inc.,TSX
+JPM.TO,JPMorgan CDR (CAD Hedged),TSX
+JGLO.TO,JPMorgan Global Select Equity Active ETF,TSX
+JPIE.TO,JPMorgan Income Active ETF,TSX
+JIDE.TO,JPMorgan International Developed Equity Active ETF,TSX
+JEPQ.TO,JPMorgan Nasdaq Equity Premium Income Active ETF,TSX
+JPQH.TO,JPMorgan Nasdaq Equity Premium Income Active ETF - CAD Hedged,TSX
+JBND.TO,JPMorgan US Bond Active ETF,TSX
+JCOR.TO,JPMorgan US Core Active ETF,TSX
+JEPI.TO,JPMorgan US Equity Premium Income Active ETF,TSX
+JEPH.TO,JPMorgan US Equity Premium Income Active ETF - CAD Hedged,TSX
+JGRO.TO,JPMorgan US Growth Active ETF,TSX
+JPST.TO,JPMorgan US Ultra-Short Income Active ETF,TSX
+JAVA.TO,JPMorgan US Value Active ETF,TSX
+KBL.TO,K-Bro Linen Inc.,TSX
+KNT.TO,K92 Mining Inc.,TSX
+KRN.TO,Karnalyte Resources Inc.,TSX
+KEEL.TO,Keel Infrastructure Corp.,TSX
+KLS.TO,Kelso Technologies Inc.,TSX
+KEL.TO,Kelt Exploration Ltd.,TSX
+KEY.TO,Keyera Corp.,TSX
+KMP.UN.TO,Killam Apartment Real Estate Investment Trust,TSX
+KXS.TO,Kinaxis Inc.,TSX
+K.TO,Kinross Gold Corporation,TSX
+KITS.TO,Kits Eyecare Ltd.,TSX
+KKR.TO,KKR CDR (CAD Hedged),TSX
+KLAC.TO,KLA CDR (CAD Hedged),TSX
+KSI.TO,"kneat.com, inc.",TSX
+GUD.TO,Knight Therapeutics Inc.,TSX
+KEI.TO,Kolibri Global Energy Inc.,TSX
+KPT.TO,KP Tissue Inc.,TSX
+LIF.TO,Labrador Iron Ore Royalty Corporation,TSX
+LRCX.TO,Lam Research CDR (CAD Hedged),TSX
+LAM.TO,Laramide Resources Ltd.,TSX
+LGO.TO,Largo Inc.,TSX
+LAS.A.TO,Lassonde Industries Inc.,TSX
+LB.TO,Laurentian Bank of Canada,TSX
+LNF.TO,Leon's Furniture Limited,TSX
+LGD.TO,Liberty Gold Corp.,TSX
+LBS.TO,Life & Banc Split Corp.,TSX
+LSPD.TO,Lightspeed Commerce Inc.,TSX
+LNR.TO,Linamar Corporation,TSX
+LAC.TO,Lithium Americas Corp.,TSX
+LAR.TO,Lithium Argentina AG,TSX
+L.TO,Loblaw Companies Limited,TSX
+LMT.TO,Lockheed Martin CDR (CAD Hedged),TSX
+LUC.TO,Lucara Diamond Corp.,TSX
+LULU.TO,lululemon CDR (CAD Hedged),TSX
+LMCU.TO,Lumina Metals Corp.,TSX
+LUG.TO,Lundin Gold Inc.,TSX
+LUN.TO,Lundin Mining Corporation,TSX
+LUNR.TO,LunR Royalties Corp.,TSX
+LVMH.TO,LVMH CDR (CAD Hedged),TSX
+LYCT.TO,Lysander-Canso Corporate Treasury ActivETF,TSX
+LYFR.TO,Lysander-Canso Floating Rate ActivETF,TSX
+LYUV.U.TO,Lysander-Canso U.S. Corporate Value Bond Fund,TSX
+PR.TO,Lysander-Slater Preferred Share ActivETF,TSX
+LORL.TO,L’Oréal CDR (CAD Hedged),TSX
+XMF.A.TO,M Split Corp.,TSX
+MAAA.TO,Mackenzie AAA CLO ETF,TSX
+MEQT.TO,Mackenzie All-Equity Allocation ETF,TSX
+MBAL.TO,Mackenzie Balanced Allocation ETF,TSX
+MNXT.TO,Mackenzie Bluewater Next Gen Growth ETF,TSX
+QBB.TO,Mackenzie Canadian Aggregate Bond Index ETF,TSX
+QCN.TO,Mackenzie Canadian Equity Index ETF,TSX
+QLB.TO,Mackenzie Canadian Government Long Bond Index ETF,TSX
+MHDC.TO,Mackenzie Canadian High Dividend Yield ETF,TSX
+QCE.TO,Mackenzie Canadian Large Cap Equity Index ETF,TSX
+MCSB.TO,Mackenzie Canadian Short Term Fixed Income ETF,TSX
+QSB.TO,Mackenzie Canadian Short-Term Bond Index ETF,TSX
+MKB.TO,Mackenzie Canadian Strategic Fixed Income ETF,TSX
+QASH.TO,Mackenzie Canadian Ultra Short Bond Index ETF,TSX
+MCON.TO,Mackenzie Conservative Allocation ETF,TSX
+MGB.TO,Mackenzie Core Plus Global Fixed Income ETF,TSX
+MORE.TO,Mackenzie Core Resources ETF,TSX
+MCYC.TO,Mackenzie Cyclical Tilt ETF,TSX
+MDEF.TO,Mackenzie Defensive Tilt ETF,TSX
+QDXB.TO,Mackenzie Developed ex-North America Aggregate Bond Index ETF (CAD-Hedged),TSX
+QRET.TO,Mackenzie Developed Markets Real Estate Index ETF,TSX
+QEBH.TO,Mackenzie Emerging Markets Bond Index ETF (CAD-Hedged),TSX
+QEE.TO,Mackenzie Emerging Markets Equity Index ETF,TSX
+QEBL.TO,Mackenzie Emerging Markets Local Currency Bond Index ETF,TSX
+MFT.TO,Mackenzie Floating Rate Income ETF,TSX
+MGDV.TO,Mackenzie Global Dividend ETF,TSX
+MGAB.TO,Mackenzie Global Fixed Income Allocation ETF,TSX
+QINF.TO,Mackenzie Global Infrastructure Index ETF,TSX
+MAGV.TO,Mackenzie Global Value ETF,TSX
+MCLV.TO,Mackenzie GQE Canada Low Volatility ETF,TSX
+MBQG.TO,Mackenzie GQE Global Balanced ETF,TSX
+MGQE.TO,Mackenzie GQE Global Equity ETF,TSX
+MIQE.TO,Mackenzie GQE International Equity ETF,TSX
+MALX.TO,Mackenzie GQE US Alpha Extension ETF,TSX
+MULV.TO,Mackenzie GQE US Low Volatility ETF,TSX
+MWLV.TO,Mackenzie GQE World Low Volatility ETF,TSX
+MGRW.TO,Mackenzie Growth Allocation ETF,TSX
+QDX.TO,Mackenzie International Equity Index ETF,TSX
+QDXH.TO,Mackenzie International Equity Index ETF (CAD-Hedged),TSX
+MIVG.TO,Mackenzie Ivy Global Equity ETF,TSX
+MKZ.UN.TO,Mackenzie Master Limited Partnership,TSX
+QQQQ.TO,Mackenzie NASDAQ 100 Index ETF,TSX
+MTBA.TO,Mackenzie Target 2027 North American IG Corporate Bond ETF,TSX
+MTBB.TO,Mackenzie Target 2029 North American IG Corporate Bond ETF,TSX
+QUB.TO,Mackenzie U.S. Aggregate Bond Index ETF (CAD-Hedged),TSX
+MUB.TO,Mackenzie Unconstrained Bond ETF,TSX
+MAUG.TO,Mackenzie US All Cap Growth ETF,TSX
+QTLT.TO,Mackenzie US Government Long Bond Index ETF,TSX
+MHDU.TO,Mackenzie US High Dividend Yield ETF,TSX
+QHY.TO,Mackenzie US High Yield Bond Index ETF (CAD-Hedged),TSX
+QUIG.TO,Mackenzie US Investment Grade Corporate Bond Index ETF (CAD-Hedged),TSX
+QUU.TO,Mackenzie US Large Cap Equity Index ETF,TSX
+QAH.TO,Mackenzie US Large Cap Equity Index ETF (CAD-Hedged),TSX
+MAUV.TO,Mackenzie US Value ETF,TSX
+MPC.TO,Madison Pacific Properties Inc.,TSX
+MAL.TO,Magellan Aerospace Corporation,TSX
+MG.TO,Magna International Inc.,TSX
+NICU.TO,Magna Mining Inc.,TSX
+MEQ.TO,Mainstreet Equity Corp.,TSX
+MDI.TO,Major Drilling Group International Inc.,TSX
+MAK.U.TO,MAK Acquisition Corp.,TSX
+MBAP.TO,Manulife Balanced ETF Portfolio,TSX
+MCAN.TO,Manulife Canadian Equity Class,TSX
+MCAP.TO,Manulife Conservative ETF Portfolio,TSX
+MCOR.TO,Manulife Core Plus Bond Fund,TSX
+MMAC.TO,Manulife CQS Multi Asset Credit Fund,TSX
+MDIF.TO,Manulife Dividend Income Fund,TSX
+MFC.TO,Manulife Financial Corporation,TSX
+MFUN.TO,Manulife Fundamental Equity Fund,TSX
+MGAP.TO,Manulife Growth ETF Portfolio,TSX
+MCLC.TO,Manulife Multifactor Canadian Large Cap Index ETF,TSX
+MCSM.TO,Manulife Multifactor Canadian SMID Cap Index ETF,TSX
+MINT.TO,Manulife Multifactor Developed International Index ETF,TSX
+MEME.B.TO,Manulife Multifactor Emerging Markets Index ETF,TSX
+MULC.TO,Manulife Multifactor U.S. Large Cap Index ETF,TSX
+MUMC.TO,Manulife Multifactor U.S. Mid Cap Index ETF,TSX
+MUSC.TO,Manulife Multifactor U.S. Small Cap Index ETF,TSX
+BSKT.TO,Manulife Smart Core Bond ETF,TSX
+CBND.TO,Manulife Smart Corporate Bond ETF,TSX
+CDEF.TO,Manulife Smart Defensive Equity ETF,TSX
+CDIV.TO,Manulife Smart Dividend ETF,TSX
+IDEF.B.TO,Manulife Smart International Defensive Equity ETF,TSX
+IDIV.B.TO,Manulife Smart International Dividend ETF,TSX
+TERM.TO,Manulife Smart Short-Term Bond ETF,TSX
+UDEF.TO,Manulife Smart U.S. Defensive Equity ETF,TSX
+UDIV.TO,Manulife Smart U.S. Dividend ETF,TSX
+MFI.TO,Maple Leaf Foods Inc.,TSX
+MARI.TO,Marimaca Copper Corp.,TSX
+MRE.TO,Martinrea International Inc.,TSX
+MRV.TO,Marvell Technology CDR (CAD Hedged),TSX
+MA.TO,Mastercard CDR (CAD Hedged),TSX
+MATR.TO,Mattr Corp.,TSX
+MXG.TO,Maxim Power Corp.,TSX
+MKP.TO,MCAN Mortgage Corporation,TSX
+MCB.TO,McCoy Global Inc.,TSX
+MCDS.TO,McDonald’s CDR (CAD Hedged),TSX
+MUX.TO,McEwen Inc.,TSX
+MDA.TO,MDA Space Ltd.,TSX
+MDP.TO,Medexus Pharmaceuticals Inc.,TSX
+DR.TO,Medical Facilities Corporation,TSX
+MDNA.TO,Medicenna Therapeutics Corp.,TSX
+LABS.TO,MediPharm Labs Corp.,TSX
+MGA.TO,Mega Uranium Ltd.,TSX
+BNKU.TO,MegaLong (3X) Canadian Banks Daily Leveraged Alternative ETF,TSX
+CGMU.TO,MegaLong (3X) Canadian Gold Miners Daily Leveraged Alternative ETF,TSX
+QQQU.TO,MegaLong (3X) NASDAQ-100® Daily Leveraged Alternative ETF,TSX
+SPYU.TO,MegaLong (3X) S&P 500® Daily Leveraged Alternative ETF,TSX
+SOXU.TO,MegaLong (3X) US Semiconductors Daily Leveraged Alternative ETF,TSX
+CGMD.TO,MegaShort (-3X) Canadian Gold Miners Daily Leveraged Alternative ETF,TSX
+QQQD.TO,MegaShort (-3X) NASDAQ-100® Daily Leveraged Alternative ETF,TSX
+SPYD.TO,MegaShort (-3X) S&P 500® Daily Leveraged Alternative ETF,TSX
+SOXD.TO,MegaShort (-3X) US Semiconductors Daily Leveraged Alternative ETF,TSX
+MRD.TO,Melcor Developments Ltd.,TSX
+BENZ.TO,Mercedes-Benz CDR (CAD Hedged),TSX
+MRK.TO,Merck CDR (CAD Hedged),TSX
+MER.TO,Meren Energy Inc.,TSX
+MNO.TO,Meridian Mining plc,TSX
+NMBL.TO,Meritage Tactical ETF Balanced Portfolio,TSX
+NMEQ.TO,Meritage Tactical ETF Equity Portfolio,TSX
+NMGR.TO,Meritage Tactical ETF Growth Portfolio,TSX
+NMMO.TO,Meritage Tactical ETF Moderate Portfolio,TSX
+META.TO,Meta CDR (CAD Hedged),TSX
+MTEK.TO,Metatek-Group Ltd.,TSX
+MX.TO,Methanex Corporation,TSX
+MRU.TO,Metro Inc.,TSX
+MBX.TO,Microbix Biosystems Inc.,TSX
+MU.TO,Micron CDR (CAD Hedged),TSX
+MSFT.TO,Microsoft CDR (CAD Hedged),TSX
+MAEC.TO,Middlefield ActivEnergy Dividend Class,TSX
+MDIV.TO,Middlefield Global Dividend Growers ETF,TSX
+MINF.TO,Middlefield Global Infrastructure Dividend ETF,TSX
+MHCD.TO,Middlefield Healthcare Dividend ETF,TSX
+MIPC.TO,Middlefield Income Plus Class,TSX
+MREL.TO,Middlefield Real Estate Dividend ETF,TSX
+MSBP.TO,Middlefield Short Duration Bond Plus ETF,TSX
+MUSA.TO,Middlefield U.S. Equity Dividend ETF,TSX
+MSV.TO,Minco Silver Corporation,TSX
+MSA.TO,Mineros S.A.,TSX
+MID.UN.TO,MINT Income Fund,TSX
+MI.UN.TO,Minto Apartment Real Estate Investment Trust,TSX
+MOAT.TO,Moat Active Premium Yield ETF,TSX
+TPX.A.TO,Molson Coors Canada Inc.,TSX
+MAU.TO,Montage Gold Corp.,TSX
+MS.TO,Morgan Stanley CDR (CAD Hedged),TSX
+MRC.TO,Morguard Corporation,TSX
+MRG.DB.B.TO,Morguard North American Residential Real Estate Investment Trust,TSX
+MRT.DB.A.TO,Morguard Real Estate Investment Trust,TSX
+MPVD.TO,Mountain Province Diamonds Inc.,TSX
+MTY.TO,MTY Food Group Inc.,TSX
+MTL.TO,Mullen Group Ltd.,TSX
+CBNK.TO,Mulvihill Canadian Bank Enhanced Yield ETF,TSX
+MBNK.TO,Mulvihill Canadian Bank ETF,TSX
+SPFD.TO,Mulvihill Enhanced Split Preferred Share ETF,TSX
+MPY.TO,Mulvihill Premium Yield Fund,TSX
+ASHR.TO,Mulvihill Split Capital Share ETF,TSX
+PFRD.TO,Mulvihill Split Preferred Share ETF,TSX
+NANO.TO,Nano One Materials Corp.,TSX
+GRA.TO,NanoXplore Inc.,TSX
+NA.TO,National Bank of Canada,TSX
+NPRF.TO,NBI Active Canadian Preferred Shares ETF,TSX
+NINT.TO,NBI Active International Equity ETF,TSX
+NUSA.TO,NBI Active U.S. Equity ETF,TSX
+NBLD.TO,NBI Balanced ETF Portfolio,TSX
+NBBX.TO,NBI Canadian Bond Index Fund,TSX
+NCPB.TO,NBI Canadian Core Plus Bond Fund,TSX
+NDIV.TO,NBI Canadian Dividend Income ETF,TSX
+NBCG.TO,NBI Canadian Equity Growth Fund,TSX
+NBCX.TO,NBI Canadian Equity Index Fund,TSX
+NCNS.TO,NBI Conservative ETF Portfolio,TSX
+NBEM.TO,NBI Diversified Emerging Markets Equity Fund,TSX
+NEQT.TO,NBI Equity ETF Portfolio,TSX
+NBGE.TO,NBI Global Equity Fund,TSX
+NGPE.TO,NBI Global Private Equity ETF,TSX
+NREA.TO,NBI Global Real Assets Income Fund,TSX
+NBSC.TO,NBI Global Small Cap Fund,TSX
+NGRW.TO,NBI Growth ETF Portfolio,TSX
+NHYB.TO,NBI High Yield Bond ETF,TSX
+NINV.TO,NBI Innovators Fund,TSX
+NBIE.TO,NBI International Equity Fund,TSX
+NBIX.TO,NBI International Equity Index Fund,TSX
+NBIV.TO,NBI International Value Fund,TSX
+NALT.TO,NBI Liquid Alternatives ETF,TSX
+NBQC.TO,NBI Quebec Growth Fund,TSX
+NSDG.TO,NBI SmartData Global Equity Fund,TSX
+NSDI.TO,NBI SmartData International Equity Fund,TSX
+NSDU.TO,NBI SmartData U.S. Equity Fund,TSX
+NSCB.TO,NBI Sustainable Canadian Bond ETF,TSX
+NSCC.TO,NBI Sustainable Canadian Corporate Bond ETF,TSX
+NSCE.TO,NBI Sustainable Canadian Equity ETF,TSX
+NSSB.TO,NBI Sustainable Canadian Short Term Bond ETF,TSX
+NSGE.TO,NBI Sustainable Global Equity ETF,TSX
+NTGA.TO,NBI Target 2026 Investment Grade Bond Fund,TSX
+NTGB.TO,NBI Target 2027 Investment Grade Bond Fund,TSX
+NTGC.TO,NBI Target 2028 Investment Grade Bond Fund,TSX
+NTGD.TO,NBI Target 2029 Investment Grade Bond Fund,TSX
+NTGE.TO,NBI Target 2030 Investment Grade Bond Fund,TSX
+NTGF.TO,NBI Target 2031 Investment Grade Bond Fund,TSX
+NTHM.TO,NBI Thematic Rotation ETF,TSX
+NBUE.TO,NBI U.S. Equity Fund,TSX
+NBUX.TO,NBI U.S. Equity Index Fund,TSX
+NUBF.TO,NBI Unconstrained Fixed Income ETF,TSX
+NEO.TO,Neo Performance Materials Inc.,TSX
+NSTL.TO,Nestlé CDR (CAD Hedged),TSX
+NFLX.TO,Netflix CDR (CAD Hedged),TSX
+AIAI.TO,NetraMark Holdings Inc.,TSX
+NUAG.TO,New Pacific Metals Corp.,TSX
+NXE.TO,NexGen Energy Ltd.,TSX
+NEE.TO,NextEra Energy CDR (CAD Hedged),TSX
+NEXT.TO,NextSource Materials Inc.,TSX
+NXR.UN.TO,Nexus Industrial REIT,TSX
+NFI.TO,NFI Group Inc.,TSX
+GASX.TO,NG Energy International Corp.,TSX
+NGEX.TO,NGEx Minerals Ltd.,TSX
+NKE.TO,NIKE CDR (CAD Hedged),TSX
+GOHI.TO,Ninepoint Alphabet HighShares ETF,TSX
+NACO.TO,Ninepoint Alternative Credit Opportunities Fund,TSX
+NBAL.TO,Ninepoint Balanced+ Fund,TSX
+ABHI.TO,Ninepoint Barrick HighShares ETF,TSX
+BCHI.TO,Ninepoint BCE HighShares ETF,TSX
+CCHI.TO,Ninepoint Cameco HighShares ETF,TSX
+CQHI.TO,Ninepoint Canadian Natural Resources HighShares ETF,TSX
+NSAV.TO,Ninepoint Cash Management Fund,TSX
+CLHI.TO,Ninepoint Celestica HighShares ETF,TSX
+CRHI.TO,Ninepoint CNR HighShares ETF,TSX
+CSUC.TO,Ninepoint Constellation Software CoreShares ETF,TSX
+CSHI.TO,Ninepoint Constellation Software HighShares ETF,TSX
+TKN.TO,Ninepoint Crypto and AI Leaders ETF,TSX
+NBND.TO,Ninepoint Diversified Bond Fund,TSX
+ENHI.TO,Ninepoint Enbridge HighShares ETF,TSX
+NNRG.TO,Ninepoint Energy Fund,TSX
+NRGI.TO,Ninepoint Energy Income Fund,TSX
+ECHI.TO,Ninepoint Enhanced Canadian HighShares ETF,TSX
+INFR.TO,Ninepoint Global Infrastructure Fund,TSX
+GBSL.TO,Ninepoint Global Select Fund,TSX
+GLDE.TO,Ninepoint Gold and Precious Minerals Fund,TSX
+GBUL.TO,Ninepoint Gold Bullion Fund,TSX
+INHI.TO,Ninepoint Intel HighShares ETF,TSX
+KGHI.TO,Ninepoint Kinross Gold HighShares ETF,TSX
+NMNG.TO,Ninepoint Mining Evolution Fund,TSX
+NVHI.TO,Ninepoint NVIDIA HighShares ETF,TSX
+PLHI.TO,Ninepoint Palantir HighShares ETF,TSX
+RYHI.TO,Ninepoint Royal Bank HighShares ETF,TSX
+SHHI.TO,Ninepoint Shopify HighShares ETF,TSX
+SBUL.TO,Ninepoint Silver Bullion Fund,TSX
+SXHI.TO,Ninepoint SpaceX HighShares ETF,TSX
+SUHI.TO,Ninepoint Suncor HighShares ETF,TSX
+TIF.TO,Ninepoint Target Income Fund,TSX
+TDHI.TO,Ninepoint TD HighShares ETF,TSX
+TSHI.TO,Ninepoint Tesla HighShares ETF,TSX
+NOA.TO,North American Construction Group Ltd.,TSX
+FFN.TO,North American Financial 15 Split Corp.,TSX
+NWC.TO,North West Company Inc. (The),TSX
+NCF.TO,Northcliff Resources Ltd.,TSX
+NDM.TO,Northern Dynasty Minerals Ltd.,TSX
+NPI.TO,Northland Power Inc.,TSX
+NOC.TO,Northrop Grumman CDR (CAD Hedged),TSX
+NRR.UN.TO,Northview Residential REIT,TSX
+NOU.TO,Nouveau Monde Graphite Inc.,TSX
+NG.TO,NovaGold Resources Inc.,TSX
+NVS.TO,Novartis CDR (CAD Hedged),TSX
+NOVO.TO,Novo Nordisk CDR (CAD Hedged),TSX
+NVO.TO,Novo Resources Corp.,TSX
+NTR.TO,Nutrien Ltd.,TSX
+NVDA.TO,Nvidia CDR (CAD Hedged),TSX
+SFD.TO,NXT Energy Solutions Inc.,TSX
+OBE.TO,Obsidian Energy Ltd.,TSX
+OXY.TO,Occidental Petroleum CDR (CAD Hedged),TSX
+OGC.TO,OceanaGold Corporation,TSX
+OLY.TO,Olympia Financial Group Inc.,TSX
+ONEX.TO,ONEX Corporation,TSX
+OTEX.TO,Open Text Corporation,TSX
+OR.TO,OR Royalties Inc.,TSX
+ORAC.TO,Oracle CDR (CAD Hedged),TSX
+OGD.TO,Orbit Garant Drilling Inc.,TSX
+ORE.TO,Orezone Gold Corporation,TSX
+OGI.TO,Organigram Global Inc.,TSX
+ORIO.TO,Orion Digital Corp.,TSX
+OLA.TO,Orla Mining Ltd,TSX
+ORV.TO,Orvana Minerals Corp.,TSX
+OM.TO,Osisko Metals Incorporated,TSX
+OCG.TO,Outcrop Silver & Gold Corporation,TSX
+OVV.TO,Ovintiv Inc.,TSX
+PDN.TO,Paladin Energy Ltd.,TSX
+PLTR.TO,Palantir CDR (CAD Hedged),TSX
+PANW.TO,Palo Alto Networks CDR (CAD Hedged),TSX
+PAAS.TO,Pan American Silver Corp.,TSX
+POU.TO,Paramount Resources Ltd.,TSX
+PXT.TO,Parex Resources Inc.,TSX
+PVS.PR.H.TO,Partners Value Split Corp.,TSX
+PSI.TO,Pason Systems Inc.,TSX
+PYPL.TO,PayPal CDR (CAD Hedged),TSX
+PPL.TO,Pembina Pipeline Corporation,TSX
+PEP.TO,Pepsi CDR (CAD Hedged),TSX
+PPTA.TO,Perpetua Resources Corp.,TSX
+PRU.TO,Perseus Mining Limited,TSX
+PET.TO,Pet Valu Holdings Ltd.,TSX
+TAL.TO,PetroTal Corp.,TSX
+PRQ.TO,Petrus Resources Ltd.,TSX
+PEY.TO,Peyto Exploration & Development Corp.,TSX
+PFE.TO,Pfizer CDR (CAD Hedged),TSX
+ZYNS.TO,Philip Morris CDR (CAD Hedged),TSX
+PHX.TO,PHX Energy Services Corp.,TSX
+PFIA.TO,PICTON  Long Short Income  Alternative Fund,TSX
+PFCB.TO,PICTON Core Bond Fund,TSX
+PFCO.TO,PICTON Credit Opportunities Alternative Fund,TSX
+PFIN.TO,PICTON Income Fund,TSX
+PFIG.TO,PICTON Investment Grade Alternative Fund,TSX
+PFAE.TO,PICTON Long Short Equity (130/30) Alternative Fund,TSX
+PFLS.TO,PICTON Long Short Equity Alternative Fund,TSX
+PFMN.TO,PICTON Market Neutral Equity Alternative Fund,TSX
+PFAA.TO,PICTON Multi-Strategy Alpha Alternative Fund,TSX
+PFMS.TO,PICTON Multi-Strategy Alternative Fund,TSX
+CORE.TO,PIMCO Canadian Core Bond Fund,TSX
+PGI.UN.TO,PIMCO Global Income Opportunities Fund,TSX
+PMNT.TO,PIMCO Global Short Maturity Fund (Canada),TSX
+IGCF.TO,PIMCO Investment Grade Credit Fund (Canada),TSX
+PLDI.TO,PIMCO Low Duration Monthly Income Fund (Canada),TSX
+PBAL.TO,PIMCO Managed Balanced Portfolio,TSX
+PCON.TO,PIMCO Managed Conservative Bond Pool,TSX
+PCOR.TO,PIMCO Managed Core Bond Pool,TSX
+PMEI.UN.TO,PIMCO Monthly Enhanced Income Fund,TSX
+PMIF.TO,PIMCO Monthly Income Fund (Canada),TSX
+PNE.TO,Pine Cliff Energy Ltd.,TSX
+PNP.TO,Pinetree Capital Ltd.,TSX
+PZA.TO,Pizza Pizza Royalty Corp.,TSX
+PTM.TO,Platinum Group Metals Ltd.,TSX
+PLZ.UN.TO,Plaza Retail REIT,TSX
+PMET.TO,PMET Resources Inc.,TSX
+PIF.TO,Polaris Renewable Energy Inc.,TSX
+PBL.TO,Pollard Banknote Limited,TSX
+PNC.A.TO,Postmedia Network Canada Corp.,TSX
+PWI.TO,Power & Infrastructure Split Corp.,TSX
+POW.TO,Power Corporation of Canada,TSX
+PWF.PF.A.TO,Power Financial Corporation,TSX
+PPR.TO,Prairie Provident Resources Inc.,TSX
+PSK.TO,PrairieSky Royalty Ltd.,TSX
+MMP.UN.TO,Precious Metals and Mining Trust,TSX
+PD.TO,Precision Drilling Corporation,TSX
+PDI.TO,Predictive Discovery Limited,TSX
+PBH.TO,Premium Brands Holdings Corporation,TSX
+MCAD.TO,Premium Cash Management Fund,TSX
+PGIC.TO,Premium Global Income Split Fund,TSX
+PIC.A.TO,Premium Income Corporation,TSX
+PMZ.UN.TO,Primaris Real Estate Investment Trust,TSX
+PDV.TO,Prime Dividend Corp.,TSX
+PRV.DB.TO,PRO Real Estate Investment Trust,TSX
+PG.TO,Procter & Gamble CDR (CAD Hedged),TSX
+PRN.TO,Profound Medical Corp.,TSX
+PRL.TO,Propel Holdings Inc.,TSX
+PSD.TO,Pulse Seismic Inc.,TSX
+PABF.TO,Purpose Active Balanced Fund,TSX
+PACF.TO,Purpose Active Conservative Fund,TSX
+PAGF.TO,Purpose Active Growth Fund,TSX
+PBI.TO,Purpose Best Ideas Fund,TSX
+BTCC.TO,Purpose Bitcoin ETF,TSX
+BTCY.TO,Purpose Bitcoin Yield ETF,TSX
+BNC.TO,Purpose Canadian Financial Income Fund,TSX
+MNY.TO,Purpose Cash Management Fund,TSX
+PRP.TO,Purpose Conservative Income Fund,TSX
+BTCO.B.TO,Purpose Core Bitcoin ETF,TSX
+PDF.TO,Purpose Core Dividend Fund,TSX
+ETHO.B.TO,Purpose Core Ether ETF,TSX
+CROC.TO,Purpose Credit Opportunities Class,TSX
+CROP.TO,Purpose Credit Opportunities Fund,TSX
+PRA.TO,Purpose Diversified Real Asset Fund,TSX
+PDIV.TO,Purpose Enhanced Dividend Fund,TSX
+PAYF.TO,Purpose Enhanced Premium Yield Fund,TSX
+ETHH.TO,Purpose Ether ETF,TSX
+ETHY.TO,Purpose Ether Yield ETF,TSX
+IGB.TO,Purpose Global Bond Class,TSX
+BND.TO,Purpose Global Bond Fund,TSX
+FLX.TO,Purpose Global Flexible Credit Fund,TSX
+PINV.TO,Purpose Global Innovators Fund,TSX
+PGRX.TO,Purpose Global Resource Fund,TSX
+KILO.TO,Purpose Gold Bullion Fund,TSX
+PSA.TO,Purpose High Interest Savings Fund,TSX
+PID.TO,Purpose International Dividend Fund,TSX
+PHW.TO,Purpose International Enhanced Equity Income Fund,TSX
+PIN.TO,Purpose Monthly Income Fund,TSX
+PINC.TO,Purpose Multi-Asset Income Fund,TSX
+PMM.TO,Purpose Multi-Strategy Market Neutral Fund,TSX
+PYF.TO,Purpose Premium Yield Fund,TSX
+PHR.TO,Purpose Real Estate Income Fund,TSX
+SBT.TO,Purpose Silver Bullion Fund,TSX
+SOLL.TO,Purpose Solana ETF,TSX
+SYLD.TO,Purpose Strategic Yield Fund,TSX
+PHE.TO,Purpose Tactical Hedged Equity Fund,TSX
+PBD.TO,Purpose Total Return Bond Fund,TSX
+PSU.U.TO,Purpose US Cash Fund,TSX
+MNU.U.TO,Purpose USD Cash Management Fund,TSX
+XRPP.TO,Purpose XRP ETF,TSX
+PYR.TO,PyroGenesis Inc.,TSX
+PREF.TO,Quadravest Preferred Split Share ETF,TSX
+QCOM.TO,Qualcomm CDR (CAD Hedged),TSX
+PWRS.TO,Quanta Services CDR (CAD Hedged),TSX
+QTRH.TO,Quarterhill Inc.,TSX
+QBR.A.TO,Quebecor Inc.,TSX
+QRC.TO,Queen's Road Capital Investment Ltd.,TSX
+QEC.TO,Questerre Energy Corporation,TSX
+RAV.UN.TO,Ravensource Fund,TSX
+RBA.TO,"RB Global, Inc.",TSX
+RLB.TO,RBC 1-5 Year Laddered Canadian Bond ETF,TSX
+RBO.TO,RBC 1-5 Year Laddered Canadian Corporate Bond ETF,TSX
+RBNK.TO,RBC Canadian Bank Yield Index ETF,TSX
+RCDC.TO,RBC Canadian Dividend Covered Call ETF,TSX
+RCAN.TO,RBC Canadian Equity ETF,TSX
+RPF.TO,RBC Canadian Preferred Share ETF,TSX
+RUST.TO,RBC Canadian Ultra Short Term Bond ETF,TSX
+RCD.TO,RBC Quant Canadian Dividend Leaders ETF,TSX
+RIDH.TO,RBC Quant EAFE Dividend Leaders (CAD Hedged) ETF,TSX
+RID.TO,RBC Quant EAFE Dividend Leaders ETF,TSX
+RPDH.TO,RBC Quant European Dividend Leaders (CAD Hedged) ETF,TSX
+RPD.TO,RBC Quant European Dividend Leaders ETF,TSX
+RUDH.TO,RBC Quant U.S. Dividend Leaders (CAD Hedged) ETF,TSX
+RUD.TO,RBC Quant U.S. Dividend Leaders ETF,TSX
+RUSB.TO,RBC Short Term U.S. Corporate Bond ETF,TSX
+RQO.TO,RBC Target 2026 Canadian Corporate Bond Index ETF,TSX
+RGQO.TO,RBC Target 2026 Canadian Government Bond ETF,TSX
+RUQO.TO,RBC Target 2026 U.S. Corporate Bond ETF,TSX
+RQP.TO,RBC Target 2027 Canadian Corporate Bond Index ETF,TSX
+RGQP.TO,RBC Target 2027 Canadian Government Bond ETF,TSX
+RUQP.TO,RBC Target 2027 U.S. Corporate Bond ETF,TSX
+RQQ.TO,RBC Target 2028 Canadian Corporate Bond Index ETF,TSX
+RGQQ.TO,RBC Target 2028 Canadian Government Bond ETF,TSX
+RUQQ.TO,RBC Target 2028 U.S. Corporate Bond ETF,TSX
+RQR.TO,RBC Target 2029 Canadian Corporate Bond Index ETF,TSX
+RGQR.TO,RBC Target 2029 Canadian Government Bond ETF,TSX
+RUQR.TO,RBC Target 2029 U.S. Corporate Bond ETF,TSX
+RQS.TO,RBC Target 2030 Canadian Corporate Bond Index ETF,TSX
+RGQS.TO,RBC Target 2030 Canadian Government Bond ETF,TSX
+RUQS.TO,RBC Target 2030 U.S. Corporate Bond ETF,TSX
+RQT.TO,RBC Target 2031 Canadian Corporate Bond ETF,TSX
+RGQT.TO,RBC Target 2031 Canadian Government Bond ETF,TSX
+RUQT.TO,RBC Target 2031 U.S. Corporate Bond ETF,TSX
+RQU.TO,RBC Target 2032 Canadian Corporate Bond ETF,TSX
+RGQU.TO,RBC Target 2032 Canadian Government Bond ETF,TSX
+RUQU.TO,RBC Target 2032 U.S. Corporate Bond ETF,TSX
+RDBH.TO,RBC U.S. Discount Bond (CAD Hedged) ETF,TSX
+RUDB.TO,RBC U.S. Discount Bond ETF,TSX
+RUDC.TO,RBC U.S. Dividend Covered Call ETF,TSX
+RUSA.TO,RBC U.S. Large-Cap Equity ETF,TSX
+RS.TO,Real Estate Split Corp.,TSX
+REAL.TO,Real Matters Inc.,TSX
+RDDT.TO,Reddit CDR (CAD Hedged),TSX
+QSR.TO,Restaurant Brands International Inc.,TSX
+QSP.UN.TO,Restaurant Brands International Limited Partnership,TSX
+RVX.TO,Resverlogix Corp.,TSX
+RGBM.TO,Return Stacked® Global Balanced & Macro ETF,TSX
+RFA.TO,RFA Financial Inc.,TSX
+RIC.TO,Richards Group Inc.,TSX
+RCH.TO,Richelieu Hardware Ltd.,TSX
+RIO.TO,Rio2 Limited,TSX
+REI.UN.TO,RioCan Real Estate Investment Trust,TSX
+HOOD.TO,Robinhood CDR (CAD Hedged),TSX
+ROG.TO,Roche CDR (CAD Hedged),TSX
+RKLC.TO,Rocklinc Principled Equity ETF,TSX
+RGSI.TO,Rockpoint Gas Storage Inc.,TSX
+RCI.A.TO,Rogers Communications Inc.,TSX
+RSI.TO,Rogers Sugar Inc.,TSX
+ROOT.TO,Roots Corporation,TSX
+RM.TO,Roxmore Resources Inc.,TSX
+RY.TO,Royal Bank of Canada,TSX
+MNT.TO,Royal Canadian Mint - Canadian Gold Reserves,TSX
+MNS.TO,Royal Canadian Mint - Canadian Silver Reserves,TSX
+RTG.TO,RTG Mining Inc.,TSX
+RTX.TO,RTX CDR (CAD Hedged),TSX
+RUA.TO,Rua Gold Inc.,TSX
+RBY.TO,Rubellite Energy Corp.,TSX
+RUS.TO,Russel Metals Inc.,TSX
+RBND.TO,Russell Investments Core Plus Fixed Income ETF,TSX
+HALO.TO,Russell Investments Fallen Angels ETF,TSX
+RIFI.TO,Russell Investments Fixed Income Pool,TSX
+RIGE.TO,Russell Investments Global Equity Pool,TSX
+RIIN.TO,Russell Investments Global Infrastructure Pool,TSX
+RQCA.TO,Russell Investments Multi-Factor Canadian Equity Pool,TSX
+RQIN.TO,Russell Investments Multi-Factor International Equity Pool,TSX
+RQUS.TO,Russell Investments Multi-Factor US Equity Pool,TSX
+RIRA.TO,Russell Investments Real Assets,TSX
+SPGI.TO,S&P Global CDR (CAD Hedged),TSX
+MIC.PR.A.TO,Sagen MI Canada Inc.,TSX
+SFC.TO,Sagicor Financial Company Ltd.,TSX
+CRM.TO,Salesforce CDR (CAD Hedged),TSX
+SLT.TO,Saltire Capital Ltd.,TSX
+SNDK.TO,Sandisk CDR (CAD Hedged),TSX
+STC.TO,Sangoma Technologies Corporation,TSX
+SNY.TO,Sanofi CDR (CAD Hedged),TSX
+SAPS.TO,SAP CDR (CAD Hedged),TSX
+SAP.TO,Saputo Inc.,TSX
+MSCL.TO,Satellos Bioscience Inc.,TSX
+SOIL.TO,Saturn Oil & Gas Inc.,TSX
+SIS.TO,Savaria Corporation,TSX
+AAPU.TO,SavvyLong (2X) AAPL ETF,TSX
+AMDU.TO,SavvyLong (2X) AMD ETF,TSX
+AMZU.TO,SavvyLong (2X) AMZN ETF,TSX
+ABXU.TO,SavvyLong (2X) Barrick ETF,TSX
+CCOU.TO,SavvyLong (2X) Cameco ETF,TSX
+CNQU.TO,SavvyLong (2X) Cdn Natural Resources ETF,TSX
+COIU.TO,SavvyLong (2X) COIN ETF,TSX
+CSUU.TO,SavvyLong (2X) Constellation Software ETF,TSX
+ALPU.TO,SavvyLong (2X) GOOGL ETF,TSX
+RBNU.TO,SavvyLong (2X) HOOD ETF,TSX
+METU.TO,SavvyLong (2X) META ETF,TSX
+MUU.TO,SavvyLong (2X) Micron ETF,TSX
+MSFU.TO,SavvyLong (2X) MSFT ETF,TSX
+MSTU.TO,SavvyLong (2X) MSTR ETF,TSX
+NVDU.TO,SavvyLong (2X) NVDA ETF,TSX
+PLTU.TO,SavvyLong (2X) PLTR ETF,TSX
+SHPU.TO,SavvyLong (2X) Shopify ETF,TSX
+ORBU.TO,SavvyLong (2X) SpaceX ETF,TSX
+TSLU.TO,SavvyLong (2X) TSLA ETF,TSX
+COMU.TO,SavvyLong 2X CIBC (CM) Equity-Linked ETF,TSX
+NBCU.TO,SavvyLong 2X NBC (NA) Equity-Linked ETF,TSX
+RBCU.TO,SavvyLong 2X RBC (RY) Equity-Linked ETF,TSX
+TDU.TO,SavvyLong 2X TDB (TD) Equity-Linked ETF,TSX
+OILU.TO,SavvyLong Geared Crude Oil ETF,TSX
+GASU.TO,SavvyLong Geared Natural Gas ETF,TSX
+COID.TO,SavvyShort (-2X) COIN ETF,TSX
+MSTZ.TO,SavvyShort (-2X) MSTR ETF,TSX
+NVDD.TO,SavvyShort (-2X) NVDA ETF,TSX
+SHPD.TO,SavvyShort (-2X) Shopify ETF,TSX
+TSLD.TO,SavvyShort (-2X) TSLA ETF,TSX
+OILD.TO,SavvyShort Geared Crude Oil ETF,TSX
+GASD.TO,SavvyShort Geared Natural Gas ETF,TSX
+SCHN.TO,Schneider Electric CDR (CAD Hedged),TSX
+SEA.TO,Seabridge Gold Inc.,TSX
+SES.TO,Secure Waste Infrastructure Corp.,TSX
+PME.TO,Sentry Select Primary Metals Corp.,TSX
+SEC.TO,Senvest Capital Inc.,TSX
+SBI.TO,Serabi Gold plc,TSX
+SVA.TO,Sernova Biotherapeutics Inc.,TSX
+NOWS.TO,ServiceNow CDR (CAD Hedged),TSX
+S.TO,Sherritt International Corporation,TSX
+SHOP.TO,Shopify Inc.,TSX
+SMNS.TO,Siemens CDR (CAD Hedged),TSX
+SIA.TO,Sienna Senior Living Inc.,TSX
+SVB.TO,"Silver Bull Resources, Inc.",TSX
+ELEF.TO,Silver Elephant Mining Corp.,TSX
+AGMR.TO,Silver Mountain Resources Inc.,TSX
+SLVR.TO,Silver Tiger Metals Inc.,TSX
+SVM.TO,Silvercorp Metals Inc.,TSX
+SRV.UN.TO,SIR Royalty Income Fund,TSX
+SKE.TO,Skeena Resources Limited,TSX
+SGR.U.TO,Slate Grocery REIT,TSX
+SBLG.TO,SLGI MFS Blended Research Low Vol Global Fund,TSX
+SBLI.TO,SLGI MFS Blended Research Low Vol International Fund,TSX
+SRU.UN.TO,SmartCentres Real Estate Investment Trust,TSX
+SGD.TO,Snowline Gold Corp.,TSX
+SLS.TO,Solaris Resources Inc.,TSX
+SLR.TO,Solitario Resources Corp.,TSX
+SFI.TO,Solution Financial Inc.,TSX
+SHLE.TO,Source Energy Services Ltd.,TSX
+SOBO.TO,South Bow Corporation,TSX
+SXGC.TO,Southern Cross Gold Consolidated Ltd.,TSX
+SPCX.TO,SpaceX CDR (CAD Hedged),TSX
+SDE.TO,Spartan Delta Corp.,TSX
+EDT.TO,Spectral Medical Inc.,TSX
+TOY.TO,Spin Master Corp.,TSX
+SII.TO,Sprott Inc.,TSX
+COP.U.TO,Sprott Physical Copper Trust,TSX
+CEF.TO,Sprott Physical Gold and Silver Trust,TSX
+PHYS.TO,Sprott Physical Gold Trust,TSX
+SPPP.TO,Sprott Physical Platinum and Palladium Trust,TSX
+PSLV.TO,Sprott Physical Silver Trust,TSX
+U.U.TO,Sprott Physical Uranium Trust,TSX
+SSRM.TO,SSR Mining Inc.,TSX
+SAU.TO,St. Augustine Gold and Copper Limited,TSX
+STCK.TO,Stack Capital Group Inc.,TSX
+STN.TO,Stantec Inc.,TSX
+DIAM.TO,Star Diamond Corporation,TSX
+SBUX.TO,Starbucks CDR (CAD Hedged),TSX
+SAM.TO,Starcore International Mines Ltd.,TSX
+SJ.TO,Stella-Jones Inc.,TSX
+STGO.TO,Steppe Gold Ltd.,TSX
+RAY.TO,Stingray Group Inc.,TSX
+STLR.TO,STLLR Gold Inc.,TSX
+SVI.TO,StorageVault Canada Inc.,TSX
+STG.TO,STRACON Group Holding Inc.,TSX
+MSTR.TO,Strategy CDR (CAD Hedged),TSX
+SCR.TO,Strathcona Resources Ltd.,TSX
+SYK.TO,Stryker CDR (CAD Hedged),TSX
+SLCA.TO,Sun Life Core Advantage Credit Private Pool,TSX
+SLSC.TO,Sun Life Crescent Specialty Credit Private Pool,TSX
+SLF.TO,Sun Life Financial Inc.,TSX
+SLGC.TO,Sun Life MFS Global Core Plus Bond Fund,TSX
+SU.TO,Suncor Energy Inc.,TSX
+SPB.TO,Superior Plus Corp.,TSX
+SMCI.TO,Supermicro CDR (CAD Hedged),TSX
+SXP.TO,Supremex Inc.,TSX
+SGY.TO,Surge Energy Inc.,TSX
+SIH.UN.TO,Sustainable Innovation & Health Dividend Fund,TSX
+SWP.TO,Swiss Water Decaffeinated Coffee Inc.,TSX
+SYZ.TO,Sylogist Ltd.,TSX
+TMUS.TO,T-Mobile CDR (CAD Hedged),TSX
+TBL.TO,Taiga Building Products Ltd.,TSX
+TSK.TO,Talisker Resources Ltd.,TSX
+TLO.TO,Talon Metals Corp.,TSX
+TVE.TO,Tamarack Valley Energy Ltd.,TSX
+GRID.TO,Tantalus Systems Holding Inc.,TSX
+TKO.TO,Taseko Mines Limited,TSX
+TRP.TO,TC Energy Corporation,TSX
+TGED.TO,TD Active Global Enhanced Dividend ETF,TSX
+TGGR.TO,TD Active Global Equity Growth ETF,TSX
+TGFI.TO,TD Active Global Income ETF,TSX
+TINF.TO,TD Active Global Infrastructure Equity ETF,TSX
+TGRE.TO,TD Active Global Real Estate Equity ETF,TSX
+TPRF.TO,TD Active Preferred Share ETF,TSX
+TUEX.TO,TD Active U.S. Enhanced Dividend CAD Hedged ETF,TSX
+TUED.TO,TD Active U.S. Enhanced Dividend ETF,TSX
+TUHY.TO,TD Active U.S. High Yield Bond ETF,TSX
+TEQT.TO,TD All-Equity ETF Portfolio,TSX
+TCOM.TO,TD Alternative Commodities Pool,TSX
+TBAL.TO,TD Balanced ETF Portfolio,TSX
+TDB.TO,TD Canadian Aggregate Bond Index ETF,TSX
+TBNK.TO,TD Canadian Bank Dividend Index ETF,TSX
+TCCB.TO,TD Canadian Corporate Bond Fund,TSX
+TTP.TO,TD Canadian Equity Index ETF,TSX
+TCLB.TO,TD Canadian Long Term Federal Bond ETF,TSX
+TCSH.TO,TD Cash Management ETF,TSX
+TCON.TO,TD Conservative ETF Portfolio,TSX
+TDOC.TO,TD Global Healthcare Leaders Index ETF,TSX
+TECI.TO,TD Global Technology Innovators Index ETF,TSX
+TECX.TO,TD Global Technology Leaders CAD Hedged Index ETF,TSX
+TEC.TO,TD Global Technology Leaders Index ETF,TSX
+TGRO.TO,TD Growth ETF Portfolio,TSX
+THE.TO,TD International Equity CAD Hedged Index ETF,TSX
+TPE.TO,TD International Equity Index ETF,TSX
+TDNA.TO,TD North American Dividend Fund,TSX
+TQCD.TO,TD Q Canadian Dividend ETF,TSX
+TCLV.TO,TD Q Canadian Low Volatility ETF,TSX
+TQGD.TO,TD Q Global Dividend ETF,TSX
+TQGM.TO,TD Q Global Multifactor ETF,TSX
+TILV.TO,TD Q International Low Volatility ETF,TSX
+TULV.TO,TD Q U.S. Low Volatility ETF,TSX
+TQSM.TO,TD Q U.S. Small-Mid-Cap Equity ETF,TSX
+TCSB.TO,TD Select Short Term Corporate Bond Ladder ETF,TSX
+TUSB.TO,TD Select U.S. Short Term Corporate Bond Ladder ETF,TSX
+TSTB.TO,TD Short Term Bond Fund,TSX
+TBCF.TO,TD Target 2026 Investment Grade Bond ETF,TSX
+TBUF.U.TO,TD Target 2026 U.S. Investment Grade Bond ETF,TSX
+TBCG.TO,TD Target 2027 Investment Grade Bond ETF,TSX
+TBUG.U.TO,TD Target 2027 U.S. Investment Grade Bond ETF,TSX
+TBCH.TO,TD Target 2028 Investment Grade Bond ETF,TSX
+TBCI.TO,TD Target 2029 Investment Grade Bond ETF,TSX
+TBCJ.TO,TD Target 2030 Investment Grade Bond ETF,TSX
+TUSD.U.TO,TD U.S. Cash Management ETF,TSX
+THU.TO,TD U.S. Equity CAD Hedged Index ETF,TSX
+TPU.TO,TD U.S. Equity Index ETF,TSX
+TULB.TO,TD U.S. Long Term Treasury Bond ETF,TSX
+TUST.TO,TD Ultra Short Term Bond Fund,TSX
+XTD.TO,TDb Split Corp.,TSX
+TECK.A.TO,Teck Resources Limited,TSX
+TCS.TO,TECSYS Inc.,TSX
+TSAT.TO,Telesat Corporation,TSX
+T.TO,TELUS Corporation,TSX
+TELY.TO,TelyRx Holdings Inc.,TSX
+TNZ.TO,Tenaz Energy Corp.,TSX
+TGO.TO,TeraGo Inc.,TSX
+TSND.TO,TerrAscend Corp.,TSX
+TVK.TO,TerraVest Industries Inc.,TSX
+TSLA.TO,Tesla CDR (CAD Hedged),TSX
+TXN.TO,Texas Instruments CDR (CAD Hedged),TSX
+TFII.TO,TFI International Inc.,TSX
+QETH.U.TO,The Ether Fund,TSX
+TMO.TO,Thermo Fisher CDR (CAD Hedged),TSX
+THNC.TO,Thinkific Labs Inc.,TSX
+TRI.TO,Thomson Reuters Corporation,TSX
+TWM.TO,Tidewater Midstream and Infrastructure Ltd.,TSX
+LCFS.TO,Tidewater Renewables Ltd.,TSX
+TLRY.TO,"Tilray Brands, Inc.",TSX
+TF.TO,Timbercreek Financial Corp.,TSX
+TINY.TO,Tiny Ltd.,TSX
+TI.TO,Titan Mining Corporation,TSX
+TJX.TO,TJX CDR (CAD Hedged),TSX
+X.TO,TMX Group Limited,TSX
+TPZ.TO,Topaz Energy Corp.,TSX
+TXG.TO,Torex Gold Resources Inc.,TSX
+TIH.TO,Toromont Industries Ltd.,TSX
+TD.TO,Toronto-Dominion Bank (The),TSX
+TOT.TO,Total Energy Services Inc.,TSX
+TTES.TO,TotalEnergies CDR (CAD Hedged),TSX
+TXP.TO,Touchstone Exploration Inc.,TSX
+TOU.TO,Tourmaline Oil Corp.,TSX
+TCCA.TO,Trading Central Quant Canada 50 Equity Index ETF,TSX
+TCEU.TO,Trading Central Quant Europe 50 Equity Index ETF,TSX
+TCWW.TO,Trading Central Quant Global 50 Equity Index ETF,TSX
+TCUS.TO,Trading Central Quant U.S. 50 Equity Index ETF,TSX
+TGAF.TO,Tralucent Global Alt (Long/Short) Equity Fund,TSX
+TA.TO,TransAlta Corporation,TSX
+TRZ.TO,Transat A.T. Inc.,TSX
+TCL.A.TO,Transcontinental Inc.,TSX
+TSL.TO,Tree Island Steel Ltd.,TSX
+TCW.TO,Trican Well Service Ltd.,TSX
+TMQ.TO,Trilogy Metals Inc.,TSX
+TFPM.TO,Triple Flag Precious Metals Corp.,TSX
+TSU.TO,Trisura Group Ltd.,TSX
+TLG.TO,Troilus Mining Corp.,TSX
+TERP.TO,TRU.X Exogenous Risk Pool,TSX
+TNT.UN.TO,True North Commercial Real Estate Investment Trust,TSX
+TRX.TO,TRX Gold Corporation,TSX
+TC.TO,Tucows Inc.,TSX
+TVA.B.TO,TVA Group Inc.,TSX
+TWC.TO,TWC Enterprises Limited,TSX
+UBER.TO,Uber CDR (CAD Hedged),TSX
+UBSS.TO,UBS CDR (CAD Hedged),TSX
+UNP.TO,Union Pacific CDR (CAD Hedged),TSX
+UNI.TO,Unisync Corp.,TSX
+UNC.TO,United Corporations Limited,TSX
+UNH.TO,UnitedHealth CDR (CAD Hedged),TSX
+UPS.TO,UPS CDR (CAD Hedged),TSX
+URE.TO,Ur-Energy Inc.,TSX
+URC.TO,Uranium Royalty Corp.,TSX
+URB.TO,Urbana Corporation,TSX
+FTU.TO,US Financial 15 Split Corp.,TSX
+HISU.U.TO,US High Interest Savings Account Fund,TSX
+MUSD.U.TO,US Premium Cash Management Fund,TSX
+VLE.TO,Valeura Energy Inc.,TSX
+VGC.TO,Valor Gold Corp.,TSX
+VEQT.TO,Vanguard All-Equity ETF Portfolio,TSX
+VBAL.TO,Vanguard Balanced ETF Portfolio,TSX
+VAB.TO,Vanguard Canadian Aggregate Bond Index ETF,TSX
+VCB.TO,Vanguard Canadian Corporate Bond Index ETF,TSX
+VGV.TO,Vanguard Canadian Government Bond Index ETF,TSX
+VLB.TO,Vanguard Canadian Long-Term Bond Index ETF,TSX
+VSB.TO,Vanguard Canadian Short-Term Bond Index ETF,TSX
+VSC.TO,Vanguard Canadian Short-Term Corporate Bond Index ETF,TSX
+VVSG.TO,Vanguard Canadian Ultra-Short Government Bond Index ETF,TSX
+VCNS.TO,Vanguard Conservative ETF Portfolio,TSX
+VCIP.TO,Vanguard Conservative Income ETF Portfolio,TSX
+VIGG.TO,Vanguard Developed ex-North America Dividend Appreciation Index ETF,TSX
+VCN.TO,Vanguard FTSE Canada All Cap Index ETF,TSX
+VCE.TO,Vanguard FTSE Canada Index ETF,TSX
+VRE.TO,Vanguard FTSE Canadian Capped REIT Index ETF,TSX
+VDY.TO,Vanguard FTSE Canadian High Dividend Yield Index ETF,TSX
+VIU.TO,Vanguard FTSE Developed All Cap ex North America Index ETF,TSX
+VI.TO,Vanguard FTSE Developed All Cap ex North America Index ETF (CAD-Hedged),TSX
+VDU.TO,Vanguard FTSE Developed All Cap Ex U.S. Index ETF,TSX
+VEF.TO,Vanguard FTSE Developed All Cap Ex U.S. Index ETF (CAD-hedged),TSX
+VA.TO,Vanguard FTSE Developed Asia Pacific All Cap Index ETF,TSX
+VE.TO,Vanguard FTSE Developed Europe All Cap Index ETF,TSX
+VIDY.TO,Vanguard FTSE Developed ex North America High Dividend Yield Index ETF,TSX
+VEE.TO,Vanguard FTSE Emerging Markets All Cap Index ETF,TSX
+VXC.TO,Vanguard FTSE Global All Cap ex Canada Index ETF,TSX
+VVO.TO,Vanguard Global Minimum Volatility ETF,TSX
+VMO.TO,Vanguard Global Momentum Factor ETF,TSX
+VVL.TO,Vanguard Global Value Factor ETF,TSX
+VGRO.TO,Vanguard Growth ETF Portfolio,TSX
+VRIF.TO,Vanguard Retirement Income ETF Portfolio,TSX
+VFV.TO,Vanguard S&P 500 Index ETF,TSX
+VSP.TO,Vanguard S&P 500 Index ETF (CAD-hedged),TSX
+VGG.TO,Vanguard U.S. Dividend Appreciation Index ETF,TSX
+VGH.TO,Vanguard U.S. Dividend Appreciation Index ETF (CAD-hedged),TSX
+VUDV.TO,Vanguard U.S. High Dividend Yield Index ETF,TSX
+VUDH.TO,Vanguard U.S. High Dividend Yield Index ETF (CAD-hedged),TSX
+VUN.TO,Vanguard U.S. Total Market Index ETF,TSX
+VUS.TO,Vanguard U.S. Total Market Index ETF (CAD-hedged),TSX
+VCM.TO,Vecima Networks Inc.,TSX
+VLN.TO,Velan Inc.,TSX
+NPK.TO,Verde Agritech Ltd.,TSX
+VZ.TO,Verizon CDR (CAD Hedged),TSX
+VET.TO,Vermilion Energy Inc.,TSX
+VBNK.TO,VersaBank,TSX
+VMET.TO,Versamet Royalties Corporation,TSX
+FORA.TO,VerticalScope Holdings Inc.,TSX
+VRTS.TO,Vertiqal Studios Corp.,TSX
+VRT.TO,Vertiv CDR (CAD Hedged),TSX
+VISA.TO,Visa CDR (CAD Hedged),TSX
+VGZ.TO,Vista Gold Corp.,TSX
+VITL.DB.H.TO,Vital Infrastructure Property Trust,TSX
+VHI.TO,Vitalhub Corp.,TSX
+VZLA.TO,Vizsla Silver Corp.,TSX
+FLT.TO,Volatus Aerospace Inc.,TSX
+VOXR.TO,Vox Royalty Corp.,TSX
+WJX.TO,Wajax Corporation,TSX
+WFC.TO,Wall Financial Corporation,TSX
+WM.TO,Wallbridge Mining Company Limited,TSX
+WMT.TO,Walmart CDR (CAD Hedged),TSX
+DIS.TO,Walt Disney CDR (CAD Hedged),TSX
+WCN.TO,"Waste Connections, Inc.",TSX
+WAST.TO,Waste Management CDR (CAD Hedged),TSX
+WAAV.TO,WaveFront All-Weather Alternative Fund,TSX
+WSRD.TO,Wealthsimple Developed Markets ex North America Socially Responsible Index ETF,TSX
+WSRI.TO,Wealthsimple North America Socially Responsible Index ETF,TSX
+WELL.TO,WELL Health Technologies Corp.,TSX
+WFCS.TO,Wells Fargo CDR (CAD Hedged),TSX
+WDO.TO,Wesdome Gold Mines Ltd.,TSX
+WFG.TO,West Fraser Timber Co. Ltd.,TSX
+WRN.TO,Western Copper and Gold Corporation,TSX
+WDC.TO,Western Digital CDR (CAD Hedged),TSX
+WRG.TO,Western Energy Services Corp.,TSX
+WEF.TO,Western Forest Products Inc.,TSX
+WRX.TO,Western Resources Corp.,TSX
+WGX.TO,Westgold Resources Limited,TSX
+WPRT.TO,Westport Fuel Systems Inc.,TSX
+WTE.TO,Westshore Terminals Investment Corporation,TSX
+WPM.TO,Wheaton Precious Metals Corp.,TSX
+WCP.TO,Whitecap Resources Inc.,TSX
+WILD.TO,WildBrain Ltd.,TSX
+WCM.A.TO,Wilmington Capital Management Inc.,TSX
+WPK.TO,Winpak Ltd.,TSX
+WSP.TO,WSP Global Inc.,TSX
+XNDU.TO,Xanadu Quantum Technologies Limited,TSX
+XTG.TO,Xtra-Gold Resources Corp.,TSX
+XTRA.TO,Xtract One Technologies Inc.,TSX
+YGR.TO,Yangarra Resources Ltd.,TSX
+Y.TO,Yellow Pages Limited,TSX
+YRB.TO,Yorbeau Resources Inc.,TSX
+ONE.V,01 Quantum Inc.,TSX-V
+EFF.V,1844 Resources Inc.,TSX-V
+AUMB.V,1911 Gold Corporation,TSX-V
+FNR.V,49 North Resources Inc.,TSX-V
+FIVD.P.V,5D Acquisition Corp.,TSX-V
+ALAB.P.V,A-Labs Capital II Corp.,TSX-V
+ACL.V,A.C.L. Construction Ltd.,TSX-V
+AIS.V,A.I.S. Resources Limited,TSX-V
+AUAU.V,A2 Gold Corp.,TSX-V
+AZC.P.V,A2ZCryptocap Inc.,TSX-V
+AAAJ.P.V,AAJ Capital 3 Corp.,TSX-V
+AME.V,Abacus Mining & Exploration Corporation,TSX-V
+ABA.V,Abasca Resources Inc.,TSX-V
+ABI.V,Abcourt Mines Inc.,TSX-V
+ABM.V,Aben Gold Corp.,TSX-V
+ABC.V,Absolutely Critical Resources Corp.,TSX-V
+ACDC.V,AC/DC Battery Metals Inc.,TSX-V
+AXE.V,Acceleware Ltd.,TSX-V
+ADJ.P.V,AD4 Capital Corp.,TSX-V
+ADAD.P.V,Adagio 2 Capital Inc.,TSX-V
+ADZ.V,Adamera Minerals Corp.,TSX-V
+ADE.V,Adex Mining Inc.,TSX-V
+AWI.V,Advent-AWI Holdings Inc.,TSX-V
+ADY.V,Adyton Resources Corporation,TSX-V
+AEF.V,AE Fuels Corporation,TSX-V
+ALTN.V,Aeonian Resources Corp.,TSX-V
+AF.P.V,AF2 Capital Corp.,TSX-V
+AFC.P.V,AF3 Capital Corp.,TSX-V
+AFE.V,Africa Energy Corp.,TSX-V
+AAG.V,Aftermath Silver Ltd.,TSX-V
+AGET.V,AGEDB Technology Ltd.,TSX-V
+AUTO.V,Agereh Technologies Inc.,TSX-V
+AIVC.V,AI Artificial Intelligence Ventures Inc.,TSX-V
+AIME.P.V,AIM5 Ventures Inc.,TSX-V
+AIP.U.V,AIP Realty Trust,TSX-V
+IQ.V,AirIQ Inc.,TSX-V
+AISX.V,Aisix Solutions Inc.,TSX-V
+AML.V,Akwaaba Mining Ltd.,TSX-V
+AEMC.V,Alaska Energy Metals Corporation,TSX-V
+WAM.V,Alaska Silver Corp.,TSX-V
+ALBT.P.V,Albatros Acquisition Corporation Inc.,TSX-V
+ALDD.P.V,ALDD Ventures Corp.,TSX-V
+ALDE.V,Aldebaran Resources Inc.,TSX-V
+ALGR.V,Algo Grande Copper Corp.,TSX-V
+ALM.V,Alliance Mining Corp.,TSX-V
+AMM.V,Almaden Minerals Ltd.,TSX-V
+DEX.V,Almadex Minerals Ltd.,TSX-V
+AORO.V,Aloro Mining Corp.,TSX-V
+ALEX.V,Alpha Exploration Ltd.,TSX-V
+AFM.V,Alphamin Resources Corp.,TSX-V
+GPUS.V,Alset AI Ventures Inc.,TSX-V
+AVX.V,Altair Resources Inc.,TSX-V
+ALTA.V,Altamira Gold Corp.,TSX-V
+ALTR.P.V,Alterego Ventures 24 Corp.,TSX-V
+APN.V,Altiplano Metals Inc.,TSX-V
+ALTU.V,Altura Energy Corp.,TSX-V
+ALT.V,Alturas Minerals Corp.,TSX-V
+AUUA.V,Aluula Composites Inc.,TSX-V
+ALV.V,Alvopetro Energy Ltd.,TSX-V
+ALZI.V,Alzai Health Corp.,TSX-V
+AHR.V,Amarc Resources Ltd.,TSX-V
+AMYA.P.V,Amaya Big Sky Capital Corp.,TSX-V
+MEGO.P.V,Amego Capital Corp.,TSX-V
+AE.V,American Eagle Gold Corp.,TSX-V
+LI.V,American Lithium Corp.,TSX-V
+TUNG.V,American Tungsten Corp.,TSX-V
+AMCO.V,Americore Resources Corp.,TSX-V
+AMT.V,AmeriTrust Financial Technologies Inc.,TSX-V
+AMX.V,Amex Exploration Inc.,TSX-V
+AMG.P.V,AMG Acquisition Corp,TSX-V
+AMV.P.V,AMV II Capital Corporation,TSX-V
+ANDC.V,Andina Copper Corporation,TSX-V
+EESH.P.V,Aneesh Capital Corp.,TSX-V
+AEC.V,Anfield Energy Inc.,TSX-V
+AWM.V,Angel Wing Metals Inc.,TSX-V
+ANK.V,Angkor Resources Corp.,TSX-V
+AUNK.P.V,Ankh II Capital Inc.,TSX-V
+ANOR.V,AnorTech Inc.,TSX-V
+AVII.P.V,Antera Ventures II Corp.,TSX-V
+ANTL.V,Antler Gold Inc.,TSX-V
+APX.V,Apex Resources Inc.,TSX-V
+APMI.V,Apogee Minerals Ltd.,TSX-V
+APGO.V,Apollo Silver Corp.,TSX-V
+AIV.P.V,Apolo IV Acquisition Corp.,TSX-V
+APL.V,Appulse Corporation,TSX-V
+ABR.V,Arbor Metals Corp.,TSX-V
+ARCH.V,Arch Biopartners Inc.,TSX-V
+ACS.V,Archon Minerals Limited,TSX-V
+ARC.V,ARCpoint Inc.,TSX-V
+ADG.V,Arcus Development Group Inc.,TSX-V
+AWX.V,Arcwest Exploration Inc.,TSX-V
+AGAG.V,Argenta Silver Corp.,TSX-V
+LIT.V,Argentina Lithium & Energy Corp.,TSX-V
+VLLC.V,Argentina Metals Corp.,TSX-V
+ASL.V,Argentum Silver Corp.,TSX-V
+ARGH.V,Argo Corporation,TSX-V
+AROC.P.V,Argo Opportunity Corp.,TSX-V
+DAN.V,Arianne Phosphate Inc.,TSX-V
+AZEM.V,Arizona Eagle Mining Corp.,TSX-V
+AZS.V,Arizona Gold & Silver Inc.,TSX-V
+ARK.V,Arras Minerals Corp.,TSX-V
+AXL.V,Arrow Exploration Corp.,TSX-V
+ARTG.V,Artemis Gold Inc.,TSX-V
+AOCC.P.V,Artrari One Capital Corp.,TSX-V
+RBZ.V,Arya Resources Ltd.,TSX-V
+ASE.V,Asante Gold Corporation,TSX-V
+ABZ.V,AsiaBaseMetals Inc.,TSX-V
+SAT.V,Asian Television Network International Ltd.,TSX-V
+ATR.P.V,Aster Acquisition Corp.,TSX-V
+BAY.V,Aston Bay Holdings Ltd.,TSX-V
+ASTR.V,Astra Exploration Inc.,TSX-V
+AST.V,Astron Connect Inc.,TSX-V
+SASK.V,Atha Energy Corp.,TSX-V
+ATY.V,Atico Mining Corporation,TSX-V
+ATLH.P.V,Atlantic Horizon Capital Corp.,TSX-V
+ATLE.V,Atlas Energy Corp.,TSX-V
+AEP.V,Atlas Engineered Products Ltd.,TSX-V
+ACAP.P.V,Atlas One Capital Corporation,TSX-V
+SALT.V,Atlas Salt Inc.,TSX-V
+ATOM.V,Atomic Minerals Corporation,TSX-V
+AAN.V,Aton Resources Inc.,TSX-V
+AUGC.V,Au Gold Corp.,TSX-V
+AUM.V,AuMega Metals Ltd.,TSX-V
+AUQ.V,AuQ Gold Mining Inc.,TSX-V
+ARU.V,Aurania Resources Ltd.,TSX-V
+AURA.V,Auranova Resources Inc.,TSX-V
+RES.V,Auric Resources Corp.,TSX-V
+AUME.V,Auriginal Mining Corp.,TSX-V
+AURO.V,Auro Metals Inc.,TSX-V
+ACU.V,Aurora Solar Technologies Inc.,TSX-V
+ASG.V,Aurora Spine Corporation,TSX-V
+ARL.V,Aurum Lake Mining Corporation,TSX-V
+ASTN.P.V,Auston Capital Corp.,TSX-V
+AGLD.V,Austral Gold Limited,TSX-V
+XX.V,Avante Corp.,TSX-V
+AVN.V,Avanti Helium Corp.,TSX-V
+AVR.V,Avaron Mining Corp.,TSX-V
+AVG.V,Avidian Gold Corp.,TSX-V
+AVCR.V,Avricore Health Inc.,TSX-V
+AVU.V,Avrupa Minerals Ltd.,TSX-V
+ARIC.V,Awale Resources Limited,TSX-V
+AXET.P.V,Axe2 Acquisitions Inc.,TSX-V
+AXO.V,Axo Metals Corp.,TSX-V
+AZR.V,Azarga Metals Corp.,TSX-V
+AZM.V,Azimut Exploration Inc.,TSX-V
+AAZ.V,Azincourt Energy Corp.,TSX-V
+AZT.V,Aztec Minerals Corp.,TSX-V
+BLDS.V,Badlands Resources Inc.,TSX-V
+BLTC.P.V,Baltic I Acquisition Corp.,TSX-V
+BYN.V,Banyan Gold Corp.,TSX-V
+BRO.V,Barksdale Resources Corp.,TSX-V
+BARU.V,Baru Gold Corp.,TSX-V
+BAT.V,Batero Gold Corp.,TSX-V
+BMV.V,Bathurst Metals Corp.,TSX-V
+BMR.V,Battery Mineral Resources Corp.,TSX-V
+BHS.V,Bayhorse Silver Inc.,TSX-V
+BM.V,BC Moly Ltd.,TSX-V
+B.V,BCM Resources Corporation,TSX-V
+BECN.V,Beacn Wizardry & Magic Inc.,TSX-V
+BCM.WT.V,Bear Creek Mining Corporation,TSX-V
+BGF.V,Beauce Gold Fields Inc.,TSX-V
+BFM.V,Bedford Metals Corp.,TSX-V
+BCU.V,Bell Copper Corporation,TSX-V
+BEA.V,Belmont Resources Inc.,TSX-V
+BMET.V,Bemetals Corp.,TSX-V
+BEX.V,Benton Resources Inc.,TSX-V
+BZ.V,Benz Mining Corp.,TSX-V
+BST.V,Bessor Minerals Inc.,TSX-V
+BEW.V,BeWhere Holdings Inc.,TSX-V
+BEAR.V,Big Bear Gold Corp.,TSX-V
+BRAU.V,Big Ridge Gold Corp.,TSX-V
+BIGT.V,Big Tree Carbon Inc.,TSX-V
+BIGG.V,BIGG Digital Assets Inc.,TSX-V
+BRM.V,Biorem Inc.,TSX-V
+RX.V,BioSyent Inc.,TSX-V
+BTCT.V,Bitcoin Treasury Corporation,TSX-V
+BTCW.V,Bitcoin Well Inc.,TSX-V
+BTT.V,Bitterroot Resources Ltd.,TSX-V
+BMM.V,Black Mammoth Metals Corporation,TSX-V
+BARK.V,Black Spruce Exploration Inc.,TSX-V
+SWAN.V,Black Swan Graphene Inc.,TSX-V
+BRC.V,Blackrock Silver Corp.,TSX-V
+BAG.V,Blende Silver Corp.,TSX-V
+BITK.V,Blockchaink2 Corp.,TSX-V
+MATE.V,Blockmate Ventures Inc.,TSX-V
+BKMT.V,Blockmint Technologies Inc.,TSX-V
+JAY.V,Blue Jay Gold Corp.,TSX-V
+MOON.V,Blue Moon Metals Inc.,TSX-V
+BSK.V,Blue Sky Uranium Corp.,TSX-V
+BAU.V,Blue Star Gold Corp.,TSX-V
+BLU.V,BluEnergies Ltd.,TSX-V
+BLM.V,BluMetric Environmental Inc.,TSX-V
+BWLK.V,Boardwalktech Software Corp.,TSX-V
+BOCA.V,Bocana Resources Corp.,TSX-V
+BOL.V,Bold Ventures Inc.,TSX-V
+BNZ.V,Bonanza Mining Corporation,TSX-V
+BTR.V,BonTerra Resources Inc.,TSX-V
+BOGO.V,Borealis Mining Company Limited,TSX-V
+BONE.V,Boron One Holdings Inc.,TSX-V
+BLCC.P.V,Bow Lake Capital Corp.,TSX-V
+BPAG.V,BP Silver Corp.,TSX-V
+BQE.V,BQE Water Inc.,TSX-V
+BRCB.P.V,Brachium2 Capital Corp.,TSX-V
+BES.V,Braille Energy Systems Inc.,TSX-V
+BEM.V,Brasnova Energy Materials Inc.,TSX-V
+BVA.V,Bravada Gold Corporation,TSX-V
+BRVO.V,Bravo Mining Corp.,TSX-V
+BBB.V,Brixton Metals Corporation,TSX-V
+BRON.V,Bronco Resources Corp.,TSX-V
+BRN.PR.A.V,Brookfield Investments Corporation,TSX-V
+BRW.V,Brunswick Exploration Inc.,TSX-V
+BTU.V,BTU Metals Corp.,TSX-V
+BUFF.V,Buffalo Potash Corporation,TSX-V
+BILD.V,BuildDirect.Com Technologies Inc.,TSX-V
+BCF.V,Builders Capital Mortgage Corp.,TSX-V
+ZLTO.V,BULGOLD Inc.,TSX-V
+FROG.V,Bullfrog Gold Corporation,TSX-V
+BGD.V,Bullion Gold Discoveries Corp.,TSX-V
+BUZH.P.V,Buzz Capital 2 Inc.,TSX-V
+BUZ.P.V,Buzz Capital Inc.,TSX-V
+BWR.V,BWR Exploration Inc.,TSX-V
+CMI.V,C-COM Satellite Systems Inc.,TSX-V
+CCCM.V,C3 Metals Inc.,TSX-V
+CBR.V,Cabral Gold Inc.,TSX-V
+CNO.V,California Nanotechnologies Corp.,TSX-V
+CAMB.V,Cambria Gold Mines Inc.,TSX-V
+COR.V,Camino Minerals Corporation,TSX-V
+CNC.V,Canada Nickel Company Inc.,TSX-V
+CONE.V,Canada One Mining Corp.,TSX-V
+CCMI.V,Canadian Critical Minerals Inc.,TSX-V
+CAN.V,Canadian Gold Resources Ltd.,TSX-V
+CGM.V,Canadian Goldfields Discovery Corp.,TSX-V
+NET.UN.V,Canadian Net Real Estate Investment Trust,TSX-V
+CNRI.V,Canadian North Resources Inc.,TSX-V
+CPS.V,Canadian Premium Sand Inc.,TSX-V
+SPI.V,Canadian Spirit Resources Inc.,TSX-V
+CAF.V,Canaf Investments Inc.,TSX-V
+CVV.V,CanAlaska Uranium Ltd.,TSX-V
+CEC.V,Canasia Energy Corp.,TSX-V
+CLZ.V,Canasil Resources Inc.,TSX-V
+CCEC.V,CanCambria Energy Corp.,TSX-V
+CANX.V,Canex Metals Inc,TSX-V
+NIS.P.V,Cann-is Capital Corp.,TSX-V
+RCR.P.V,Canna 8 Investment Trust,TSX-V
+CLV.V,Canoe Mining Ventures Corp.,TSX-V
+WPR.V,CANPR Technology LTD.,TSX-V
+CSOC.A.V,Canso Select Opportunities Corporation,TSX-V
+ROX.V,Canstar Resources Inc.,TSX-V
+CTM.V,Canterra Minerals Corporation,TSX-V
+CD.V,Cantex Mine Development Corp.,TSX-V
+CDA.V,Canuc Resources Corporation,TSX-V
+CYF.V,Canyon Creek Food Company Ltd.,TSX-V
+CMIL.V,Capella Minerals Limited,TSX-V
+CAI.V,Capitan Investment Ltd.,TSX-V
+CAPT.V,Capitan Silver Corp.,TSX-V
+CAPL.P.V,Caplink Ventures Inc.,TSX-V
+CT.P.V,CarbonTech Capital Corp.,TSX-V
+EKG.V,"CardioComm Solutions, Inc.",TSX-V
+CRB.V,Cariboo Rose Resources Ltd.,TSX-V
+CGD.V,Carlin Gold Corporation,TSX-V
+CPI.V,Carlton Precious Inc.,TSX-V
+RUSH.V,Carolina Rush Corporation,TSX-V
+CCDS.V,Carrier Connect Data Solutions Inc.,TSX-V
+ECR.V,Cartier Resources Inc.,TSX-V
+CASA.V,CASA Minerals Inc.,TSX-V
+CCD.V,Cascadero Copper Corporation,TSX-V
+CAM.V,Cascadia Minerals Ltd.,TSX-V
+GLDC.V,Cassiar Gold Corp.,TSX-V
+CBAR.P.V,Castlebar Capital Corp.,TSX-V
+CSTL.P.V,Castlecap Capital Inc.,TSX-V
+CBLT.V,CBLT Inc.,TSX-V
+CES.P.V,Celestial Acquisition Corp.,TSX-V
+CTA.V,Centaurus Energy Inc.,TSX-V
+CTG.V,Centenario Gold Corp.,TSX-V
+CIO.V,Central Iron Ore Limited,TSX-V
+CTN.V,Centurion Minerals Ltd.,TSX-V
+LCE.V,Century Lithium Corp.,TSX-V
+CERT.V,Cerrado Gold Inc.,TSX-V
+CDPR.V,Cerro de Pasco Resources Inc.,TSX-V
+CFY.V,CF Energy Corp.,TSX-V
+OYL.V,CGX Energy Inc.,TSX-V
+PERU.V,Chakana Copper Corp.,TSX-V
+CBA.V,Champion Bear Resources Ltd.,TSX-V
+YES.V,Char Technologies Ltd.,TSX-V
+CH.V,Charbone Corporation,TSX-V
+NZP.V,Chatham Rock Phosphate Limited,TSX-V
+CHER.V,Cheelcare Inc.,TSX-V
+CKG.V,Chesapeake Gold Corp.,TSX-V
+CBG.V,Chibougamau Independent Mines Inc.,TSX-V
+CCIC.P.V,Chicane Capital I Corp.,TSX-V
+CHII.P.V,Chicane Capital II Corp.,TSX-V
+CMCG.V,Chilean Metals Inc.,TSX-V
+RTO.P.V,Chrysalis 12 Inc.,TSX-V
+CRI.V,Churchill Resources Inc.,TSX-V
+CMC.V,Cielo Waste Solutions Corp.,TSX-V
+CAC.P.V,Cinaport Acquisition Corp. III,TSX-V
+AIR.V,Clean Air Metals Inc.,TSX-V
+TRAN.V,Clean Energy Transition Inc.,TSX-V
+CSX.V,Clean Seed Capital Group Ltd.,TSX-V
+CTV.V,CleanTech Vanadium Mining Corp.,TSX-V
+CTEK.V,Cleantek Industries Inc.,TSX-V
+CBLU.V,Clear Blue Technologies International Inc.,TSX-V
+CZZ.V,Cleghorn Minerals Ltd.,TSX-V
+CLIP.V,Clip Money Inc.,TSX-V
+CNJ.P.V,CNJ Capital Investments Inc.,TSX-V
+COCO.V,Coast Copper Corp.,TSX-V
+CEI.V,Coelacanth Energy Inc.,TSX-V
+CBI.V,Colibri Resource Corporation,TSX-V
+COLL.P.V,Collingwood Resources Corp.,TSX-V
+CAD.V,Colonial Coal International Corp.,TSX-V
+CLUS.V,Colossus Resources Corp.,TSX-V
+TIE.V,Coloured Ties Capital Inc.,TSX-V
+CMU.V,Comet Industries Ltd.,TSX-V
+CLIC.V,Comet Lithium Corporation,TSX-V
+CVB.V,Compass Gold Corporation,TSX-V
+CVI.P.V,Compass Venture Inc.,TSX-V
+CAG.V,Composite Alliance Group Inc.,TSX-V
+CHS.V,Comprehensive Healthcare Systems Inc.,TSX-V
+CNVI.V,Conavi Medical Corp.,TSX-V
+CN.V,Condor Resources Inc.,TSX-V
+COS.V,Coniagas Battery Metals Inc.,TSX-V
+CQR.V,Conquest Resources Limited,TSX-V
+FFP.V,Consolidated Firstfund Capital Corp.,TSX-V
+CLM.V,Consolidated Lithium Metals Inc.,TSX-V
+CNST.P.V,Constellation Capital Corp.,TSX-V
+CNS.V,Contagious Gaming Inc.,TSX-V
+CPAU.V,Copaur Minerals Inc.,TSX-V
+CUU.V,Copper Fox Metals Inc.,TSX-V
+CGNT.V,Copper Giant Resources Corp.,TSX-V
+CPL.V,Copper Lake Resources Ltd.,TSX-V
+CRD.V,Copper Road Resources Inc.,TSX-V
+CPER.V,CopperCorp Resources Inc.,TSX-V
+CUEX.V,CopperEx Resources Corporation,TSX-V
+CDB.V,Cordoba Minerals Corp.,TSX-V
+CCMC.V,Core Critical Metals Corp.,TSX-V
+COSA.V,Cosa Resources Corp.,TSX-V
+CSG.V,Cosigo Resources Ltd.,TSX-V
+CTH.V,CoTec Holdings Corp.,TSX-V
+COV.V,Covalon Technologies Ltd.,TSX-V
+CCMM.V,Coyote Copper Mines Inc.,TSX-V
+CEQ.V,Criterium Energy Ltd.,TSX-V
+CRE.V,Critical Elements Lithium Corporation,TSX-V
+CRG.V,Crossroads Gold Corp.,TSX-V
+CWV.V,Crown Point Energy Inc.,TSX-V
+CSTR.V,Cryptostar Corp.,TSX-V
+CLCO.V,Culico Metals Inc.,TSX-V
+CVW.V,CVW Sustainable Royalties Inc.,TSX-V
+CYBE.V,"CyberCatch Holdings, Inc.",TSX-V
+CYG.V,Cygnus Metals Limited,TSX-V
+CYM.V,Cymat Technologies Ltd.,TSX-V
+DTWO.V,D2 Lithium Corp.,TSX-V
+DAR.V,Darelle Online Solutions Inc.,TSX-V
+DM.V,Datametrex AI Limited,TSX-V
+DGC.V,Daura Gold Corp.,TSX-V
+DTEA.V,DAVIDsTEA Inc.,TSX-V
+DEC.V,Decade Resources Ltd.,TSX-V
+DB.V,Decibel Cannabis Company Inc.,TSX-V
+WCSB.V,Decimus Oil Corp.,TSX-V
+DE.V,Decisive Dividend Corporation,TSX-V
+DEFN.V,Defense Metals Corp.,TSX-V
+DEF.V,Defiance Silver Corp.,TSX-V
+DFSC.V,DEFSEC Technologies Inc.,TSX-V
+DHB.V,Delivra Health Brands Inc.,TSX-V
+DELX.V,DelphX Capital Markets Inc.,TSX-V
+DLTA.V,Delta Resources Limited,TSX-V
+DAU.V,Desert Gold Ventures Inc.,TSX-V
+DME.V,Desert Mountain Energy Corp.,TSX-V
+DSY.V,Destiny Media Technologies Inc.,TSX-V
+GSD.V,Devonian Health Group Inc.,TSX-V
+DFR.V,DFR Gold Inc.,TSX-V
+DGL.P.V,DGL Investments No.1 Inc,TSX-V
+ADK.V,Diagnos Inc.,TSX-V
+DWS.V,Diamond Estates Wines & Spirits Inc.,TSX-V
+DNO.V,Dinero Ventures Ltd.,TSX-V
+DOS.V,Dios Exploration Inc.,TSX-V
+DCY.V,Discovery-Corp Enterprises Inc.,TSX-V
+DCOP.V,District Copper Corp.,TSX-V
+DMX.V,District Metals Corp.,TSX-V
+DG.V,Dixie Gold Inc.,TSX-V
+DLC.V,DLC Holdings Corp.,TSX-V
+DLP.V,DLP Resources Inc.,TSX-V
+DMGI.V,DMG Blockchain Solutions Inc.,TSX-V
+DMCU.V,Domestic Metals Corp.,TSX-V
+DAQ.P.V,Dominus Acquisition Corp.,TSX-V
+DBG.V,Doubleview Gold Corp.,TSX-V
+DPF.V,Dr. Phone Fix Canada Corporation,TSX-V
+DRAX.P.V,Draxos Capital Corp.,TSX-V
+DRY.V,Dryden Gold Corp.,TSX-V
+DYG.V,Dynasty Gold Corp.,TSX-V
+ETL.V,E3 Lithium Ltd.,TSX-V
+EPL.V,Eagle Plains Resources Ltd.,TSX-V
+SPOT.V,EarthLabs Inc,TSX-V
+EWK.V,Earthworks Industries Inc.,TSX-V
+EAM.V,East Africa Metals Inc.,TSX-V
+EW.V,East West Minerals Ltd.,TSX-V
+ETF.V,Eastfield Resources Ltd.,TSX-V
+EVI.V,Eastport Critical Metals Corp.,TSX-V
+EBM.V,Eastwood Bio-Medical Canada Inc.,TSX-V
+ECCF.P.V,ECC Ventures 4 Corp.,TSX-V
+ECCV.P.V,ECC Ventures 5 Corp.,TSX-V
+ECCS.P.V,ECC Ventures 6 Corp.,TSX-V
+EOG.V,Eco (Atlantic) Oil & Gas Ltd.,TSX-V
+EDY.V,Eddy Smart Home Solutions Ltd.,TSX-V
+EDCU.V,Edge Copper Corporation,TSX-V
+CTRL.V,Edge Total Intelligence Inc.,TSX-V
+YFI.V,Edgewater Wireless Systems Inc.,TSX-V
+EDDY.V,Edison Lithium Corp.,TSX-V
+EDM.V,EDM Resources Inc.,TSX-V
+EGR.V,EGR Exploration Ltd.,TSX-V
+ERA.V,Elcora Advanced Materials Corp.,TSX-V
+ELBM.V,Electra Battery Materials Corporation,TSX-V
+EML.V,Electric Metals (USA) Limited,TSX-V
+ELEC.V,Electric Royalties Ltd.,TSX-V
+ECU.V,Element 29 Resources Inc.,TSX-V
+ELM.V,Element Lifestyle Retirement Inc.,TSX-V
+SERV.V,Elevate Service Group Inc.,TSX-V
+ELC.V,Elysee Development Corp.,TSX-V
+ECOM.V,Emerge Commerce Ltd.,TSX-V
+EMR.V,Emergent Metals Corp.,TSX-V
+EMO.V,Emerita Resources Corp.,TSX-V
+EMNT.V,Eminent Gold Corp.,TSX-V
+EMPR.V,Empress Royalty Corp.,TSX-V
+ENA.V,Enablence Technologies Inc.,TSX-V
+EU.V,Encore Energy Corp.,TSX-V
+ECAP.P.V,Endurance Capital Corp.,TSX-V
+EDG.V,Endurance Gold Corporation,TSX-V
+ENDR.V,Enduro Metals Corporation,TSX-V
+ENEV.V,Enerev5 Metals Inc.,TSX-V
+EAU.V,Engineer Gold Mines Ltd.,TSX-V
+EGM.V,Engold Mines Ltd.,TSX-V
+ENW.V,EnWave Corporation,TSX-V
+EQ.V,EQ Inc.,TSX-V
+EQTY.V,Equity Metals Corporation,TSX-V
+NOVA.V,EraNova Metals Inc.,TSX-V
+EM.V,Errington Metals Corp.,TSX-V
+ESBL.V,Eshbal Functional Food Inc.,TSX-V
+ESK.V,Eskay Mining Corp.,TSX-V
+ESXR.V,Essex Resources Corp.,TSX-V
+EBCD.P.V,Eureka Capital Corp.,TSX-V
+EMN.V,Euro Manganese Inc.,TSX-V
+EOX.V,Euromax Resources Ltd.,TSX-V
+EVNI.V,EV Nickel Inc.,TSX-V
+EVNT.V,Eventer Technologies Ltd.,TSX-V
+EVGN.V,Evergen Infrastructure Corp.,TSX-V
+EVER.V,Evergold Corp.,TSX-V
+EPF.V,Everyday People Financial Corp.,TSX-V
+EVOC.P.V,Evocati Capital Resources Inc.,TSX-V
+EXCL.V,Excalibur Metals Corp.,TSX-V
+EXN.V,Excellon Resources Inc.,TSX-V
+XCAP.P.V,Exelerate Capital Corp.,TSX-V
+EXG.V,ExGen Resources Inc.,TSX-V
+FUU.V,F3 Uranium Corp.,TSX-V
+FFU.V,F4 Uranium Corp.,TSX-V
+FBF.V,Fab-Form Industries Ltd.,TSX-V
+FINV.P.V,Faction Investment Group Corp.,TSX-V
+FAIR.V,Fairchild Gold Corp.,TSX-V
+FPY.P.V,Fairplay Ventures Inc.,TSX-V
+FPC.V,Falco Resources Ltd.,TSX-V
+FLCN.V,Falcon Energy Materials plc,TSX-V
+FG.V,Falcon Gold Corp.,TSX-V
+FNC.V,Fancamp Exploration Ltd.,TSX-V
+FHR.V,Fiddlehead Resources Corp.,TSX-V
+FMN.V,Fidelity Minerals Corp.,TSX-V
+FFC.P.V,Fife Capital Corp.,TSX-V
+FDI.V,Findev Inc.,TSX-V
+FINX.V,FinEx Metals Ltd.,TSX-V
+FYL.V,Finlay Minerals Ltd.,TSX-V
+FTEC.V,Fintech Select Ltd.,TSX-V
+FFOX.V,Firefox Gold Corp.,TSX-V
+FWZ.V,Fireweed Metals Corp.,TSX-V
+FCA.U.V,Firm Capital Apartment Real Estate Investment Trust,TSX-V
+FAS.V,First Andes Silver Ltd.,TSX-V
+FAN.V,First Atlantic Nickel & Cobalt Corp.,TSX-V
+FCI.V,First Canadian Graphite Inc.,TSX-V
+HELI.V,First Helium Inc.,TSX-V
+FHYD.V,First Hydrogen Corp.,TSX-V
+AAA.P.V,First Tidal Acquisition Corp.,TSX-V
+FTZ.V,Fitzroy Minerals Inc.,TSX-V
+FEX.V,Fjordland Exploration Inc.,TSX-V
+FONC.P.V,Florence One Capital Inc.,TSX-V
+FMS.V,Focus Graphite Inc.,TSX-V
+FTJ.V,Fort St. James Nickel Corp.,TSX-V
+FORT.V,Fort Technology Inc.,TSX-V
+FOR.V,Fortune Bay Corp.,TSX-V
+FWTC.V,Forward Water Technologies Corp.,TSX-V
+FDR.V,Founders Metals Inc.,TSX-V
+FA.V,Fountain Asset Corp.,TSX-V
+FUN.P.V,Fountainhall Capital Corp.,TSX-V
+AROW.P.V,Four Arrows Capital Corp.,TSX-V
+FOXT.V,Fox Tungsten Ltd.,TSX-V
+FP.V,FP Newspapers Inc.,TSX-V
+FPX.V,FPX Nickel Corp.,TSX-V
+FRAS.P.V,Fraser Big Sky Capital Corp.,TSX-V
+FRED.V,Fredonia Mining Inc.,TSX-V
+FMAN.V,Freeman Gold Corp.,TSX-V
+FRI.V,Freeport Resources Inc.,TSX-V
+FREQ.V,Frequency Exchange Corp.,TSX-V
+FRNT.V,FRNT Financial Inc.,TSX-V
+FL.V,Frontier Lithium Inc.,TSX-V
+NHHH.V,FuelPositive Corporation,TSX-V
+FCLI.V,Full Circle Lithium Corp.,TSX-V
+FMM.V,Full Metal Minerals Ltd.,TSX-V
+FUSE.V,Fuse Battery Metals Inc.,TSX-V
+FTUR.V,Future Fuels Inc.,TSX-V
+LITT.V,Futuregen Industries Corp.,TSX-V
+GBU.V,Gabriel Resources Ltd.,TSX-V
+GGAU.V,Galactic Gold Corp.,TSX-V
+GAL.V,Galantas Gold Corporation,TSX-V
+GXY.P.V,Galaxy Ventures Inc.,TSX-V
+GGO.V,Galleon Gold Corp.,TSX-V
+GRI.V,Galore Resources Inc.,TSX-V
+GWM.V,Galway Metals Inc.,TSX-V
+GAMA.V,Gamma Resources Ltd.,TSX-V
+GGI.V,Garibaldi Resources Corp.,TSX-V
+GSI.V,Gatekeeper Systems Inc.,TSX-V
+GKO.V,Geekco Technologies Corporation,TSX-V
+BEEP.V,Geiger Energy Corporation,TSX-V
+GEMG.V,Gemdale Gold Inc.,TSX-V
+GEN.V,Generation Uranium Inc.,TSX-V
+REBL.P.V,Genesis Acquisition Corp.,TSX-V
+GENX.V,Genix Pharmaceuticals Corporation,TSX-V
+GSP.V,Gensource Potash Corporation,TSX-V
+GMA.V,Geomega Resources Inc.,TSX-V
+GTC.V,Getty Copper Inc.,TSX-V
+GFG.V,GFG Resources Inc.,TSX-V
+GGL.V,GGL Resources Corp.,TSX-V
+GGX.V,GGX Gold Corp.,TSX-V
+GIGA.V,Giga Metals Corporation,TSX-V
+GOK.V,GINSMS Inc.,TSX-V
+EMM.V,Giyani Metals Corp.,TSX-V
+GLAD.V,Gladiator Metals Corp.,TSX-V
+GBML.V,Global Battery Metals Ltd.,TSX-V
+CUCU.V,Global Copper Corp.,TSX-V
+GEMC.V,Global Energy Metals Corporation,TSX-V
+PWER.V,Global Power Solutions Corp.,TSX-V
+GMV.V,GMV Minerals Inc.,TSX-V
+GG.V,Golconda Gold Ltd.,TSX-V
+GLD.V,Gold Finder Resources Ltd.,TSX-V
+HART.V,Gold Hart Copper Corp.,TSX-V
+GRZ.V,Gold Reserve Ltd.,TSX-V
+GST.V,Gold Strategy Inc.,TSX-V
+GSR.V,Gold Strike Resources Corp.,TSX-V
+YGT.V,Gold Terra Resource Corp.,TSX-V
+AUXX.V,Gold X2 Mining Inc.,TSX-V
+GLB.V,Goldbank Mining Corporation,TSX-V
+GCN.V,Goldcliff Resource Corporation,TSX-V
+GRG.V,Golden Arrow Resources Corporation,TSX-V
+AUX.V,Golden Cross Resources Inc.,TSX-V
+GNG.V,Golden Goliath Resources Ltd.,TSX-V
+GDP.V,Golden Pursuit Resources Ltd.,TSX-V
+GLDN.V,Golden Ridge Resources Ltd.,TSX-V
+AUEN.V,Golden Sky Minerals Corp.,TSX-V
+GCV.P.V,Golden Star Capital Ventures Inc.,TSX-V
+GOFL.V,Goldflare Exploration Inc.,TSX-V
+GGA.V,Goldgroup Mining Inc.,TSX-V
+GHL.V,Goldhills Holding Ltd.,TSX-V
+GQC.V,GoldQuest Mining Corp.,TSX-V
+GSKR.V,Goldsky Resources Corp.,TSX-V
+GSTM.V,Goldstorm Metals Corp.,TSX-V
+GOT.V,Goliath Resources Limited,TSX-V
+GOOD.V,Good Gamer Entertainment Inc.,TSX-V
+GFOR.P.V,Good2Go4 Corp.,TSX-V
+GSS.V,Gossan Resources Limited,TSX-V
+GPM.V,GPM Metals Inc.,TSX-V
+GRSL.V,GR Silver Mining Ltd.,TSX-V
+GGM.V,Granada Gold Mine Inc.,TSX-V
+GPG.V,Grande Portage Resources Ltd.,TSX-V
+GEL.V,Graphano Energy Ltd.,TSX-V
+GMG.V,Graphene Manufacturing Group Ltd.,TSX-V
+GPH.V,Graphite One Inc.,TSX-V
+GR.V,Great Atlantic Resources Corp.,TSX-V
+GPAC.V,Great Pacific Gold Corp.,TSX-V
+GPS.V,Great Plains Metals Corp.,TSX-V
+GPCC.P.V,Green Panda Capital Corp.,TSX-V
+GRF.V,Green Rise Foods Inc.,TSX-V
+GCOM.V,Green Shift Commodities Ltd.,TSX-V
+GRB.V,Greenbriar Sustainable Living Inc.,TSX-V
+VGN.V,Greencastle Resources Ltd.,TSX-V
+GHRT.V,Greenheart Gold Inc.,TSX-V
+GRL.V,GreenLight Metals Inc.,TSX-V
+WOLF.V,Grey Wolf Animal Health Corp.,TSX-V
+CELL.V,Grid Battery Metals Inc.,TSX-V
+GRDM.V,Grid Metals Corp.,TSX-V
+FIN.V,Grit Metals Corp.,TSX-V
+GZD.V,Grizzly Discoveries Inc.,TSX-V
+GRVA.P.V,Grosvenor CPC I Inc.,TSX-V
+GVR.V,Grosvenor Resource Corporation,TSX-V
+GRD.V,Grounded Lithium Corp.,TSX-V
+ZNG.V,Group Eleven Resources Corp.,TSX-V
+GSPR.V,GSP Resource Corp.,TSX-V
+GT.V,GT Resources Inc.,TSX-V
+GSVR.V,Guanajuato Silver Company Ltd.,TSX-V
+GX.V,Guardian Exploration Inc.,TSX-V
+GUF.V,Gulf & Pacific Equities Corp.,TSX-V
+GUG.V,Gungnir Resources Inc.,TSX-V
+GUN.V,Gunpoint Exploration Ltd.,TSX-V
+HO.P.V,H2 Ventures 1 Inc.,TSX-V
+HPM.V,Halcones Precious Metals Corp.,TSX-V
+HMT.V,Halmont Properties Corporation,TSX-V
+HFC.V,Hampton Financial Corporation,TSX-V
+HAN.V,Hannan Metals Ltd.,TSX-V
+HCO.P.V,Hansco Capital Corp.,TSX-V
+HANS.V,Hanstone Gold Corp.,TSX-V
+HAR.V,Harfang Exploration inc.,TSX-V
+MONY.P.V,Harmony Acquisitions Corp.,TSX-V
+HVG.V,Harvest Gold Corp.,TSX-V
+HEC.P.V,Haviland Enviro Corp.,TSX-V
+HAW.P.V,HAW Capital 2 Corp.,TSX-V
+HAWK.V,Hawkeye Gold & Diamond Inc.,TSX-V
+HAY.V,Hayasa Metals Inc.,TSX-V
+HSTR.V,Heliostar Metals Ltd.,TSX-V
+HEVI.V,Helium Evolution Incorporated,TSX-V
+HHH.V,Helius Minerals Limited,TSX-V
+HME.V,Hemisphere Energy Corporation,TSX-V
+HEM.V,Hemostemix Inc.,TSX-V
+BIG.V,Hercules Metals Corp.,TSX-V
+HOH.V,High Arctic Overseas Holdings Corp.,TSX-V
+HMCC.P.V,High Mountain 2 Capital Corporation,TSX-V
+HITI.V,High Tide Inc.,TSX-V
+HI.V,Highland Copper Company Inc.,TSX-V
+HWY.V,Highway 50 Gold Corp.,TSX-V
+HAM.V,Highwood Asset Management Ltd.,TSX-V
+ESPN.V,Hispania Resources Inc.,TSX-V
+SHL.V,Homeland Nickel Inc.,TSX-V
+HLU.V,Homeland Uranium Corp.,TSX-V
+HMR.V,Homerun Resources Inc.,TSX-V
+TUF.V,Honey Badger Silver Inc.,TSX-V
+HPL.V,Horizon Petroleum Ltd.,TSX-V
+HRC.P.V,Hoshi Resource Corp.,TSX-V
+HCH.V,Hot Chili Limited,TSX-V
+HPQ.V,HPQ Silicon Inc.,TSX-V
+HIDE.V,Hydaway Digital Corp.,TSX-V
+NURS.V,Hydreight Technologies Inc.,TSX-V
+HC.V,Hypercharge Networks Corp.,TSX-V
+IB.V,IBC Advanced Alloys Corp.,TSX-V
+ICGH.V,IC Group Holdings Inc.,TSX-V
+ICRS.V,Icarus Capital Corp.,TSX-V
+ICM.V,Iconic Minerals Ltd.,TSX-V
+ICWY.P.V,ICWHY Capital Ventures Inc.,TSX-V
+IDEX.V,IDEX Metals Corp.,TSX-V
+IRI.V,IEMR Resources Inc.,TSX-V
+IKC.P.V,Ikigai Capital Corp.,TSX-V
+ILC.V,ILC Critical Minerals Ltd.,TSX-V
+UVC.V,Illumisoft Lighting Corp.,TSX-V
+ILI.V,Imagine Lithium Inc.,TSX-V
+IDL.V,Imaging Dynamics Company Ltd.,TSX-V
+IMR.V,iMetal Resources Inc.,TSX-V
+IMPT.V,Impact Development Group Inc.,TSX-V
+IPT.V,IMPACT Silver Corp.,TSX-V
+IEI.V,Imperial Equities Inc.,TSX-V
+IGO.V,Independence Gold Corp.,TSX-V
+INEO.V,INEO Tech Corp.,TSX-V
+IN.V,Infield Minerals Corp.,TSX-V
+INFM.V,Infinico Metals Corp.,TSX-V
+INFI.V,Infinitum Copper Corp.,TSX-V
+IOT.V,Innovotech Inc.,TSX-V
+MINE.V,Inomin Mines Inc.,TSX-V
+ISGI.V,Insuraguest Technologies Inc.,TSX-V
+ITR.V,Integra Resources Corp.,TSX-V
+IRO.V,Inter-Rock Minerals Inc.,TSX-V
+IBAT.V,International Battery Metals Ltd.,TSX-V
+IFR.V,International Frontier Resources Corporation,TSX-V
+ICON.V,International Iconic Gold Exploration Corp.,TSX-V
+IMM.V,International Metals Mining Corp.,TSX-V
+IPD.V,International Parkside Products Inc.,TSX-V
+IZZ.V,International Prospect Ventures Ltd.,TSX-V
+TIDE.P.V,Intertidal Capital Corp.,TSX-V
+INX.V,Intouch Insight Ltd.,TSX-V
+INTR.V,Intrepid Metals Corp.,TSX-V
+IVX.V,Inventronics Limited,TSX-V
+IVS.V,Inventus Mining Corp.,TSX-V
+IZN.V,InZinc Mining Ltd.,TSX-V
+INIK.V,Ionik Corporation,TSX-V
+IMI.V,Ironman International Ltd.,TSX-V
+IFOS.V,Itafos Inc.,TSX-V
+JTWO.V,J2 Metals Inc.,TSX-V
+JJJJ.V,J4 Ventures Resources Corp.,TSX-V
+JAB.P.V,Jabbo Capital Corp.,TSX-V
+JJ.V,Jackpot Digital Inc.,TSX-V
+JADE.V,Jade Leader Corp.,TSX-V
+JG.V,Japan Gold Corp.,TSX-V
+JSPX.V,JasperX Technologies Inc.,TSX-V
+JDN.V,Jayden Resources Inc.,TSX-V
+JTC.V,Jemtec Inc.,TSX-V
+JEV.V,Jericho Energy Ventures Inc.,TSX-V
+JES.P.V,Jesmond Capital Ltd.,TSX-V
+JOJO.P.V,Jo-Jo Capital Canada Ltd.,TSX-V
+JUGR.V,Juggernaut Exploration Ltd.,TSX-V
+JUN.A.V,Juno International Corporation,TSX-V
+JEC.V,Jura Energy Corporation,TSX-V
+JVR.P.V,JVR Ventures Inc.,TSX-V
+JZR.V,JZR Gold Inc.,TSX-V
+KTO.V,K2 Gold Corporation,TSX-V
+KDSX.V,Kadestone Capital Corp.,TSX-V
+KIRO.V,Kairos Gold Inc.,TSX-V
+KALM.P.V,Kalma Capital Corp.,TSX-V
+KALO.V,Kalo Gold Corp.,TSX-V
+KNE.V,Kane Biotech Inc.,TSX-V
+KAPA.V,Kapa Gold Inc.,TSX-V
+KDA.V,KDA Group Inc.,TSX-V
+KEEK.V,KEEK Social Inc.,TSX-V
+KKL.P.V,Kelly Ventures Ltd.,TSX-V
+KLD.V,Kenorland Minerals Ltd.,TSX-V
+KGC.V,Kestrel Gold Inc.,TSX-V
+KIB.V,Kiboko Gold Inc.,TSX-V
+KDOZ.V,Kidoz Inc.,TSX-V
+KCC.V,Kincora Copper Limited,TSX-V
+KCP.V,King Copper Discovery Corp.,TSX-V
+KFR.V,Kingfisher Metals Corp.,TSX-V
+KGS.V,Kingman Minerals Ltd.,TSX-V
+KNG.V,Kingsmen Resources Ltd.,TSX-V
+KIP.V,Kiplin Metals Inc.,TSX-V
+KLDC.V,Kirkland Lake Discoveries Corp.,TSX-V
+KSM.V,Kirkstone Metals Corp.,TSX-V
+KG.V,Klondike Gold Corp.,TSX-V
+KS.V,Klondike Silver Corp.,TSX-V
+KRI.V,Kobo Resources Inc.,TSX-V
+KDK.V,Kodiak Copper Corp.,TSX-V
+KTRI.V,Kootenay Resources Inc.,TSX-V
+KTN.V,Kootenay Silver Inc.,TSX-V
+KORE.V,Kore Mining Ltd.,TSX-V
+KRY.V,Koryx Copper S.A.,TSX-V
+KOVO.V,Kovo+ Holdings Inc.,TSX-V
+KPEN.P.V,KP3993 Resources Inc.,TSX-V
+PNG.V,Kraken Robotics Inc.,TSX-V
+KUAI.P.V,Kua Investments Inc.,TSX-V
+KBRA.V,Kubera Gold Corp.,TSX-V
+KC.V,Kutcho Copper Corp.,TSX-V
+LAB.V,Labrador Gold Corp.,TSX-V
+LTX.V,Labrador Resources Inc.,TSX-V
+LG.V,Lahontan Gold Corp.,TSX-V
+LVG.V,Lake Victoria Gold Ltd.,TSX-V
+LWR.V,Lake Winn Resources Corp.,TSX-V
+LRA.V,Lara Exploration Ltd.,TSX-V
+VAND.V,Largo Physical Vanadium Corp,TSX-V
+LALI.V,Latam Lithium Corp.,TSX-V
+LXE.V,Latin Explore Inc.,TSX-V
+LMS.V,Latin Metals Inc.,TSX-V
+LME.V,Laurion Mineral Exploration Inc.,TSX-V
+LGC.V,Lavras Gold Corp.,TSX-V
+LEM.V,Leading Edge Materials Corp.,TSX-V
+LFC.P.V,Left Field Capital Corp.,TSX-V
+LEGY.V,Legacy Gold Mines Ltd.,TSX-V
+LPS.V,Legend Power Systems Inc.,TSX-V
+LTV.V,LeoNovus Inc.,TSX-V
+LVX.V,Leviathan Metals Corp.,TSX-V
+LIFT.V,Li-FT Power Ltd.,TSX-V
+SCAN.V,"Liberty Defense Holdings, Ltd.",TSX-V
+LIB.V,LibertyStream Infrastructure Partners Inc.,TSX-V
+LFST.V,Lifeist Wellness Inc.,TSX-V
+LMG.V,Lincoln Gold Mining Inc.,TSX-V
+LIO.V,Lion One Metals Limited,TSX-V
+ROAR.V,Lion Rock Resources Inc.,TSX-V
+LBI.V,Lions Bay Capital Inc.,TSX-V
+LAF.V,Lithium Africa Corp.,TSX-V
+LITH.V,Lithium Chile Inc.,TSX-V
+LTH.V,Lithium Ionic Corp.,TSX-V
+LBNK.V,LithiumBank Resources Corp.,TSX-V
+LILL.P.V,Little Fish Acquisition I Corp.,TSX-V
+LOD.V,Lode Gold Resources Inc.,TSX-V
+LSTR.V,Lodestar Metals Corp.,TSX-V
+LGN.V,Logan Energy Corp.,TSX-V
+LMR.V,Lomiko Metals Inc.,TSX-V
+LA.V,Los Andes Copper Ltd.,TSX-V
+LTC.V,Lotus Creek Exploration Inc.,TSX-V
+LQWD.V,LQWD Technologies Corp.,TSX-V
+LSL.V,LSL Pharma Group Inc.,TSX-V
+LUCA.V,Luca Mining Corp.,TSX-V
+LMN.V,Lumine Group Inc.,TSX-V
+LPK.V,Lupaka Gold Corp.,TSX-V
+LXM.V,Lux Metals Corp.,TSX-V
+LUXR.V,Luxor Metals Ltd.,TSX-V
+LCX.V,Lycos Energy Inc.,TSX-V
+MCT.P.V,M3 Capital Corp.,TSX-V
+MT.V,M3 Metals Corp.,TSX-V
+MACK.V,Mackay Gold & Silver Corp.,TSX-V
+MDM.V,Madoro Metals Corp.,TSX-V
+MGMA.V,Magma Silver Corp.,TSX-V
+MTT.V,Magna Terra Minerals Inc.,TSX-V
+MJS.V,Majestic Gold Corp.,TSX-V
+MKO.V,Mako Mining Corp.,TSX-V
+MTH.V,Mammoth Resources Corp.,TSX-V
+MAN.P.V,Mandala Capital Inc.,TSX-V
+MAND.P.V,Mandeville Ventures Inc.,TSX-V
+MN.V,Manganese X Energy Corp.,TSX-V
+MANU.V,Manhattan Uranium Discovery Corp.,TSX-V
+MGM.V,Maple Gold Mines Ltd.,TSX-V
+MAP.V,Maple Peak Investments Inc.,TSX-V
+ALFA.UN.V,Margaux Real Estate Investment Trust,TSX-V
+MAH.V,Marksmen Energy Inc.,TSX-V
+MTLO.V,Martello Technologies Group Inc.,TSX-V
+MRVL.V,Marvel Biosciences Corp.,TSX-V
+MAR.UN.V,Marwest Apartment Real Estate Investment Trust,TSX-V
+MASS.V,Masivo Silver Corp.,TSX-V
+MCM.A.V,"Matachewan Consolidated Mines, Limited",TSX-V
+MATA.V,Matador Technologies Inc.,TSX-V
+MPV.P.V,Matchpoint Ventures Corp.,TSX-V
+MAX.V,MAX Resource Corp.,TSX-V
+MFA.P.V,Mayfair Acquisition Corp.,TSX-V
+MFG.V,Mayfair Gold Corp.,TSX-V
+MCS.V,McChip Resources Inc.,TSX-V
+MCF.V,MCF Energy Ltd.,TSX-V
+MDK.P.V,MDK Acquisition Inc.,TSX-V
+MPH.V,Medicure Inc.,TSX-V
+MIR.V,MedMira Inc.,TSX-V
+MDX.V,MedX Health Corp.,TSX-V
+MEED.P.V,Meed Growth Corp.,TSX-V
+MKR.V,Melkior Resources Inc.,TSX-V
+MENE.V,Mene Inc.,TSX-V
+MRKI.P.V,"Meraki Acquisition One, Inc.",TSX-V
+MUSH.V,Mercanto Holdings Inc.,TSX-V
+MERG.V,Metal Energy Corp.,TSX-V
+MLO.V,Metalero Mining Corp.,TSX-V
+MTX.V,Metalex Ventures Ltd.,TSX-V
+MTA.V,Metalla Royalty & Streaming Ltd.,TSX-V
+MMG.V,Metallic Minerals Corp.,TSX-V
+MTS.V,Metallis Resources Inc.,TSX-V
+MET.V,Metalore Resources Limited,TSX-V
+MQM.V,Metalquest Mining Inc.,TSX-V
+MEK.V,Metals Creek Resources Corp.,TSX-V
+DDD.V,Metavista3D Inc.,TSX-V
+MEX.V,Mexican Gold Mining Corp.,TSX-V
+MMET.V,Miata Metals Corp.,TSX-V
+MCCP.P.V,Michichi Capital Corp.,TSX-V
+MD.V,Midland Exploration Inc.,TSX-V
+MMA.V,Midnight Sun Mining Corp.,TSX-V
+MIVO.V,Miivo AI Inc,TSX-V
+MLP.V,Millennial Potash Corp.,TSX-V
+MSC.V,Millennium Silver Corp.,TSX-V
+MIM.V,MiMedia Holdings Inc.,TSX-V
+MGG.V,Minaurum Silver Inc.,TSX-V
+MMM.V,Minco Capital Corp.,TSX-V
+MHUB.V,Minehub Technologies Inc.,TSX-V
+MAI.V,Minera Alamos Inc.,TSX-V
+MNLX.V,Miniluxe Holding Corp.,TSX-V
+MINK.V,Mink Ventures Corporation,TSX-V
+MCI.V,Minnova Corp.,TSX-V
+MSR.V,Minsud Resources Corp.,TSX-V
+MRZ.V,Mirasol Resources Ltd.,TSX-V
+MSG.V,Mithril Silver and Gold Limited,TSX-V
+MKA.V,Mkango Resources Ltd.,TSX-V
+MBO.V,Mobio Technologies Inc.,TSX-V
+MOG.V,Mogotes Metals Inc.,TSX-V
+EIRE.P.V,Monaghan Capital Fund Ltd.,TSX-V
+MONA.P.V,Monarch West Ventures Inc.,TSX-V
+MRZL.V,Mont Royal Resources Limited.,TSX-V
+MON.V,Montero Mining and Exploration Ltd.,TSX-V
+MMY.V,Monument Mining Limited,TSX-V
+MNRG.V,Monumental Energy Corp.,TSX-V
+MOO.V,Moon River Moly Ltd.,TSX-V
+MOX.V,Morien Resources Corp.,TSX-V
+MCC.V,Morocco Strategic Minerals Corporation,TSX-V
+MUN.V,Mundoro Capital Inc.,TSX-V
+MUR.V,Murchison Minerals Ltd.,TSX-V
+MMX.V,Mustang Minerals Limited,TSX-V
+MGRO.V,MustGrow Biologics Corp.,TSX-V
+NMI.V,Namibia Critical Metals Inc.,TSX-V
+CTZ.V,Namsys Inc.,TSX-V
+NSCI.V,Nanalysis Scientific Corp.,TSX-V
+NAP.V,Napoleon Resources Inc.,TSX-V
+NRC.V,Nations Royalty Corp.,TSX-V
+NAV.V,NAVCO Pharmaceuticals Inc.,TSX-V
+NAQ.P.V,Navigator Acquisition Corp.,TSX-V
+NVN.P.V,Navion Capital II Inc.,TSX-V
+NBM.V,NEO Battery Materials Ltd.,TSX-V
+NTX.V,NeoTerrex Minerals Inc.,TSX-V
+NDA.V,Neptune Digital Assets Corp.,TSX-V
+NTE.V,Network Media Group Inc.,TSX-V
+NPTH.V,Neupath Health Inc.,TSX-V
+NTLX.V,NeuroThera Labs Inc.,TSX-V
+NKG.V,Nevada King Gold Corp.,TSX-V
+NVLH.V,Nevada Lithium Resources Inc.,TSX-V
+NEV.V,Nevada Sunrise Metals Corporation,TSX-V
+NAU.V,Nevgold Corp.,TSX-V
+NAM.V,New Age Metals Inc.,TSX-V
+NED.V,New Destiny Mining Corp.,TSX-V
+ENRG.V,New Energy Metals Corp.,TSX-V
+NFG.V,New Found Gold Corp.,TSX-V
+NEME.P.V,New Media Capital 2.0 Inc.,TSX-V
+NSE.V,New Stratus Energy Inc.,TSX-V
+NTB.V,New Tymbal Resources Ltd.,TSX-V
+NZ.V,New Zealand Energy Corp.,TSX-V
+NCAU.V,Newcore Gold Ltd.,TSX-V
+NWX.V,Newport Exploration Ltd.,TSX-V
+NEXE.V,Nexe Innovations Inc.,TSX-V
+NXG.V,NexgenRx Inc.,TSX-V
+NEXG.V,NeXGold Mining Corp.,TSX-V
+NXLV.V,NexLiving Communities Inc.,TSX-V
+NEXM.V,NexMetals Mining Corp.,TSX-V
+NXH.V,Next Hydrogen Solutions Inc.,TSX-V
+NPV.V,Next Phase Ventures Ltd.,TSX-V
+NXS.V,Nexus Gold Corp.,TSX-V
+NICN.V,NICAN Limited,TSX-V
+NKL.V,Nickel 28 Capital Corp.,TSX-V
+NCP.V,Nickel Creek Platinum Corp.,TSX-V
+NNX.V,Nickel North Exploration Corp.,TSX-V
+NIM.V,Nicola Mining Inc.,TSX-V
+NIO.V,Nio Strategic Metals Inc.,TSX-V
+NBY.V,Niobay Metals Inc.,TSX-V
+NLII.P.V,NL2 Capital Inc.,TSX-V
+NOAL.V,NOA Lithium Brines Inc,TSX-V
+NBLC.V,Nobel Resources Corp.,TSX-V
+NOB.V,Noble Mineral Exploration Inc.,TSX-V
+NOBL.V,Noble Plains Uranium Corp.,TSX-V
+NRM.V,Noram Lithium Corp.,TSX-V
+NTH.V,Nord Precious Metals Mining Inc.,TSX-V
+VKG.V,Norse Gold Corp.,TSX-V
+NVT.V,Nortec Minerals Corp.,TSX-V
+NAR.V,North Arrow Minerals Inc.,TSX-V
+NPR.V,North Peak Resources Ltd.,TSX-V
+NSU.V,North Shore Uranium Ltd.,TSX-V
+NGC.V,Northern Graphite Corporation,TSX-V
+NL.V,Northern Lion Gold Corp.,TSX-V
+NRN.V,Northern Shield Resources Inc.,TSX-V
+NCX.V,NorthIsle Copper and Gold Inc.,TSX-V
+NMB.V,NorthMin Corporation,TSX-V
+ROOF.V,Northstar Clean Technologies Inc.,TSX-V
+NWST.V,Northwest Copper Corp.,TSX-V
+NLH.V,Nova Leap Health Corp.,TSX-V
+NVI.V,Novra Technologies Inc.,TSX-V
+NOW.V,NowVertical Group Inc.,TSX-V
+NCI.V,NTG Clarity Networks Inc.,TSX-V
+NBVA.V,Nubeva Technologies Ltd.,TSX-V
+NGMD.V,Nugen Medical Devices Inc.,TSX-V
+NUG.V,NuLegacy Gold Corporation,TSX-V
+NRX.V,NurExone Biologic Inc.,TSX-V
+NMC.V,Nuvau Minerals Inc.,TSX-V
+NVX.V,NV Gold Corporation,TSX-V
+NVRO.V,NVRO Metals Limited,TSX-V
+OAC.P.V,Oa Capital Corp.,TSX-V
+OCAP.P.V,Ocean Shore Capital Corp.,TSX-V
+FEO.V,Oceanic Iron Ore Corp.,TSX-V
+OVT.V,Oculus Inc.,TSX-V
+OTC.V,Ocumetics Technology Corp.,TSX-V
+OC.V,Olive Resource Capital Inc.,TSX-V
+OLV.V,Olivut Resources Ltd.,TSX-V
+OMG.V,Omai Gold Mines Corp.,TSX-V
+OMM.V,Omineca Mining and Metals Ltd.,TSX-V
+OML.V,Omni-Lite Industries Canada Inc.,TSX-V
+OBUL.V,One Bullion Limited,TSX-V
+ONAU.V,OnGold Resources Ltd.,TSX-V
+OGW.V,Ongwe Minerals Inc.,TSX-V
+ONYX.V,Onyx Gold Corp.,TSX-V
+OPW.V,Opawica Explorations Inc.,TSX-V
+OPHR.V,Ophir Metals Corp.,TSX-V
+OOR.V,Opus One Gold Corporation,TSX-V
+ORCL.V,Oracle Commodity Holding Corp.,TSX-V
+ORC.A.V,Orca Energy Group Inc.,TSX-V
+OCI.V,Orecap Invest Corp.,TSX-V
+ORS.V,Orestone Mining Corp.,TSX-V
+OTMC.V,Oreterra Metals Corp.,TSX-V
+REX.V,Orex Minerals Inc.,TSX-V
+OGO.V,Organto Foods Inc.,TSX-V
+OCO.V,Oroco Resource Corp.,TSX-V
+OGN.V,Orogen Royalties Inc.,TSX-V
+OMI.V,Orosur Mining Inc.,TSX-V
+OSM.V,Osiris One Metals Ltd.,TSX-V
+ODV.V,Osisko Development Corp.,TSX-V
+COO.V,Ostrom Climate Solutions Inc.,TSX-V
+OAM.V,OverActive Media Corp.,TSX-V
+PGLD.V,P2 Gold Inc.,TSX-V
+PBM.V,Pacific Bay Minerals Ltd.,TSX-V
+BKM.V,Pacific Booker Minerals Inc.,TSX-V
+PEMC.V,Pacific Empire Minerals Corp.,TSX-V
+PPM.V,Pacific Imperial Mines Inc.,TSX-V
+PEX.V,Pacific Ridge Exploration Ltd.,TSX-V
+PA.V,Palamina Corp.,TSX-V
+PALI.V,Palisades Goldcorp Ltd.,TSX-V
+PGZ.V,Pan Global Resources Inc.,TSX-V
+PANO.P.V,Panorama Capital Corp.,TSX-V
+PML.V,Panoro Minerals Ltd.,TSX-V
+PNTR.V,Pantera Silver Corp.,TSX-V
+PDQ.V,Paradigm Gold Corporation,TSX-V
+PALS.V,Paragon Advanced Labs Inc.,TSX-V
+PDVN.P.V,Pardus Ventures Inc.,TSX-V
+PKT.V,Parkit Enterprise Inc.,TSX-V
+PVF.A.V,Partners Value Investments L.P.,TSX-V
+PVIS.V,Parvis Invest Inc.,TSX-V
+PGDC.V,Patagonia Gold Corp.,TSX-V
+PAT.V,Patterson Metals Corp.,TSX-V
+PCAA.P.V,PC 1 Corp.,TSX-V
+PCU.V,Pecoy Copper Corp.,TSX-V
+PX.V,Pelangio Exploration Inc.,TSX-V
+PTF.V,Pender Growth Fund Inc.,TSX-V
+PCP.P.V,Pender Street Capital Corp.,TSX-V
+PNTI.P.V,Pentagon I Capital Corp.,TSX-V
+PINK.V,"Perimeter Medical Imaging AI, Inc.",TSX-V
+PMI.V,Perseverance Metals Inc.,TSX-V
+PER.V,Peruvian Metals Corp.,TSX-V
+PESO.V,Pesorama Inc.,TSX-V
+VRY.V,Petro-Victory Energy Corp.,TSX-V
+PCQ.V,Petrolympic Ltd.,TSX-V
+PTC.V,Petrox Resources Corp.,TSX-V
+PCLO.V,Pharmacielo Ltd.,TSX-V
+PCRX.V,PharmaCorp Rx Inc.,TSX-V
+PHNM.V,Phenom Resources Corp.,TSX-V
+PINE.U.V,Pine Trail Real Estate Investment Trust,TSX-V
+PINN.V,Pinnacle Silver and Gold Corp.,TSX-V
+PTE.V,Pioneering Technology Corp.,TSX-V
+YARR.V,Pirate Gold Corp.,TSX-V
+PVT.V,Pivotree Inc.,TSX-V
+PJX.V,PJX Resources Inc.,TSX-V
+XOX.P.V,Planet X Capital Corp.,TSX-V
+PLXX.P.V,Planet X II Capital Corp.,TSX-V
+PTFY.V,"Plantify Foods, Inc.",TSX-V
+PGC.V,Plato Gold Corp.,TSX-V
+PLY.V,Playfair Mining Ltd.,TSX-V
+DEAL.V,Playgon Games Inc.,TSX-V
+PLUR.V,Plurilock Security Inc.,TSX-V
+POND.V,Pond Technologies Holdings Inc.,TSX-V
+POOL.V,Pool Safe Inc.,TSX-V
+PGP.V,Power Group Projects Corp.,TSX-V
+PNPN.V,Power Metallic Mines Inc.,TSX-V
+PWM.V,Power Metals Corp.,TSX-V
+PWRO.V,Power One Resources Corp.,TSX-V
+PPX.V,PPX Mining Corp.,TSX-V
+PRG.V,Precipitate Gold Corp.,TSX-V
+PUR.V,Premier American Uranium Inc.,TSX-V
+PHA.V,Premier Health of America Inc.,TSX-V
+HDRO.V,Primary Hydrogen Corp.,TSX-V
+PTEC.V,Principal Technologies Inc.,TSX-V
+PMX.V,ProAm Explorations Corporation,TSX-V
+PLAN.V,Progressive Planet Solutions Inc.,TSX-V
+MKT.V,Prospect Prediction Markets Inc.,TSX-V
+PPP.V,Prospector Metals Corp.,TSX-V
+PGX.V,Prosper Gold Corp.,TSX-V
+PEI.V,Prospera Energy Inc.,TSX-V
+MAPS.V,ProStar Holdings Inc.,TSX-V
+PHD.V,Providence Gold Mines Inc.,TSX-V
+PTX.V,PTX Metals Inc.,TSX-V
+PLSR.V,Pulsar Helium Inc.,TSX-V
+PUL.V,Pulse Oil Corp.,TSX-V
+PUMA.V,Puma Exploration Inc.,TSX-V
+PE.V,Pure Energy Minerals Limited,TSX-V
+BRED.V,Purebread Brands Inc.,TSX-V
+PTU.V,Purepoint Uranium Group Inc.,TSX-V
+QGR.V,Q-Gold Resources Ltd.,TSX-V
+QTWO.V,Q2 Metals Corp.,TSX-V
+QCX.V,QCX Gold Corp.,TSX-V
+QMC.V,QMC Quantum Minerals Corp.,TSX-V
+QRO.V,Quadro Resources Ltd.,TSX-V
+LEAP.V,Quantum Critical Metals Corp.,TSX-V
+QNC.V,Quantum Emotion Corp.,TSX-V
+QZM.V,Quartz Mountain Resources Ltd.,TSX-V
+QPT.V,Quest PharmaTech Inc.,TSX-V
+QST.V,Questor Technology Inc.,TSX-V
+QURI.V,Quri-Mayu Developments Ltd.,TSX-V
+QYOU.V,Qyou Media Inc.,TSX-V
+RRR.UN.V,R&R Real Estate Investment Trust,TSX-V
+RAK.V,Rackla Metals Inc.,TSX-V
+RDS.V,Radisson Mining Resources Inc.,TSX-V
+RDU.V,Radius Gold Inc.,TSX-V
+RRCC.P.V,Raging Rhino Capital Corp.,TSX-V
+RMO.V,Rainy Mountain Royalty Corp.,TSX-V
+RKV.V,Rakovina Therapeutics Inc.,TSX-V
+RAMP.V,Ramp Metals Inc.,TSX-V
+RNCH.V,Ranchero Gold Corp.,TSX-V
+RTH.V,Rathdowney Resources Ltd.,TSX-V
+RE.V,RE Royalties Ltd.,TSX-V
+XBOT.V,Realbotix Corp.,TSX-V
+RGI.V,Reco International Group Inc.,TSX-V
+RECO.V,Reconnaissance Energy Africa Ltd.,TSX-V
+REC.V,Record Resources Inc.,TSX-V
+AMY.V,RecycLiCo Battery Materials Inc.,TSX-V
+RFX.V,Reeflex Solutions Inc.,TSX-V
+REE.V,ReeXploration Inc.,TSX-V
+GIII.V,ReGen III Corp.,TSX-V
+RSMX.V,Regency Silver Corp.,TSX-V
+RPP.V,Regent Pacific Properties Inc.,TSX-V
+REG.V,Regulus Resources Inc.,TSX-V
+RET.V,Reitmans (Canada) Limited,TSX-V
+MYID.V,Reklaim Ltd.,TSX-V
+REKO.V,Reko International Group Inc.,TSX-V
+RGC.V,Relevant Gold Corp.,TSX-V
+RAGE.V,Renegade Gold Inc.,TSX-V
+RW.V,RenoWorks Software Inc.,TSX-V
+RSS.V,Resaas Services Inc.,TSX-V
+RSM.V,Resouro Strategic Metals Inc.,TSX-V
+REVX.V,Rev Exploration Corp.,TSX-V
+RVG.V,Revival Gold Inc.,TSX-V
+OWN.V,Rex Resources Corp.,TSX-V
+RYE.V,Rhyolite Resources Ltd.,TSX-V
+RMD.V,Richmond Minerals Inc.,TSX-V
+RDG.V,Ridgeline Minerals Corp.,TSX-V
+RMI.V,Ridgestone Mining Inc.,TSX-V
+RLYG.V,Riley Gold Corp.,TSX-V
+RYO.V,Rio Silver Inc.,TSX-V
+RRRL.V,River Road Resources Ltd.,TSX-V
+RRI.V,Riverside Resources Inc.,TSX-V
+RAC.P.V,Riverwalk Acquisition Corp.,TSX-V
+RIWI.V,RIWI Corp.,TSX-V
+RJX.A.V,RJK Explorations Ltd.,TSX-V
+ROB.V,Robinson Energy Limited,TSX-V
+RCT.V,Rochester Resources Ltd.,TSX-V
+RCK.V,Rock Tech Lithium Inc.,TSX-V
+RK.V,Rockhaven Resources Ltd.,TSX-V
+RSC.P.V,Rockmount Capital Corporation,TSX-V
+R.P.V,Rockport Capital Corp.,TSX-V
+RUM.V,Rocky Mountain Liquor Inc.,TSX-V
+ROK.V,ROK Resources Inc.,TSX-V
+RKR.V,Rokmaster Resources Corp.,TSX-V
+RME.V,Roland Mineral Enterprises Corp.,TSX-V
+RVC.P.V,Ronin Ventures Corp.,TSX-V
+ROS.V,Roscan Gold Corporation,TSX-V
+ROSH.P.V,Roshni Capital Inc.,TSX-V
+RTE.V,Route 109 Resources Inc.,TSX-V
+ROI.V,Route1 Inc.,TSX-V
+RYR.V,Royal Road Minerals Limited,TSX-V
+RPX.V,RPX Gold Inc.,TSX-V
+RTM.V,RT Minerals Corp.,TSX-V
+ROMJ.V,Rubicon Organics Inc.,TSX-V
+RMB.V,Rumbu Holdings Ltd.,TSX-V
+RUCC.P.V,Rupert's Crossing Capital Inc.,TSX-V
+RML.V,Rusoro Mining Ltd.,TSX-V
+RZL.V,RZOLV Technologies Inc.,TSX-V
+SABA.V,Saba Energy Ltd.,TSX-V
+SBIO.V,Sabio Holdings Inc.,TSX-V
+SAE.V,Sable Resources Ltd.,TSX-V
+SF.V,Safi Silver Corp.,TSX-V
+SAGA.V,Saga Metals Corp.,TSX-V
+SAGE.V,Sage Potash Corp.,TSX-V
+FISH.V,Sailfish Royalty Corp.,TSX-V
+SRL.V,Salazar Resources Limited,TSX-V
+SCAI.V,SalesCloser Technologies Ltd.,TSX-V
+SME.V,Sama Resources Inc.,TSX-V
+SLG.V,San Lorenzo Gold Corp.,TSX-V
+SFR.V,Sandfire Resources America Inc.,TSX-V
+SCZ.V,Santacruz Silver Mining Ltd.,TSX-V
+SWA.V,Sarama Resources Ltd.,TSX-V
+SATO.V,SATO Technologies Corp.,TSX-V
+SAC.P.V,Savanna Capital Corp.,TSX-V
+SAWC.P.V,Sayward Capital Corp.,TSX-V
+SCD.V,Scandium Canada Ltd.,TSX-V
+SCY.V,Scandium International Mining Corp.,TSX-V
+SMCD.P.V,SCD Capital Corp.,TSX-V
+SGN.V,Scorpio Gold Corporation,TSX-V
+SCOT.V,Scottie Resources Corp.,TSX-V
+SMY.V,Search Minerals Inc.,TSX-V
+SLX.P.V,Searchlight Innovations Inc.,TSX-V
+SCLT.V,Searchlight Resources Inc.,TSX-V
+ID.V,Secure Blockchain Development Corp.,TSX-V
+SEGN.V,Seegnal Inc.,TSX-V
+SGZ.V,Sego Resources Inc.,TSX-V
+SCMI.V,Selkirk Copper Mines Inc.,TSX-V
+SEND.V,Sendero Resources Corp.,TSX-V
+SEVA.V,Seva Mining Corp.,TSX-V
+SEVN.P.V,Seven Oaks Capital Corp.,TSX-V
+SHRX.V,Sharp Therapeutics Corp.,TSX-V
+SHLL.P.V,Shellron Capital Ltd.,TSX-V
+SHRP.V,Sherpa II Holdings Corp.,TSX-V
+SSSS.P.V,Shooting Star Acquisition Corp.,TSX-V
+SIEN.V,Sienna Resources Inc.,TSX-V
+SM.V,Sierra Madre Gold and Silver Ltd.,TSX-V
+SGML.V,Sigma Lithium Corporation,TSX-V
+SGU.V,Signature Resources Ltd.,TSX-V
+SBMI.V,Silver Bullet Mines Corp.,TSX-V
+SVG.V,Silver Grail Resources Ltd.,TSX-V
+SNAG.V,Silver North Resources Ltd.,TSX-V
+SVE.V,Silver One Resources Inc.,TSX-V
+SPD.V,Silver Predator Corp.,TSX-V
+SNG.V,Silver Range Resources Ltd.,TSX-V
+SSE.V,Silver Spruce Resources Inc.,TSX-V
+SVRS.V,Silver Storm Mining Ltd.,TSX-V
+SILV.V,Silver Valley Metals Corp.,TSX-V
+VIPR.V,Silver Viper Minerals Corp.,TSX-V
+SWLF.V,Silver Wolf Exploration Ltd.,TSX-V
+AGX.V,Silver X Mining Corp.,TSX-V
+AGA.V,Silver47 Exploration Corp.,TSX-V
+SICO.V,Silverco Mining Ltd.,TSX-V
+HASH.V,Simply Solventless Concentrates Ltd.,TSX-V
+SEI.V,Sintana Energy Inc.,TSX-V
+SOI.V,Sirios Resources Inc.,TSX-V
+SIG.V,Sitka Gold Corp.,TSX-V
+SKEL.V,Skeleton Coast Uranium Corp.,TSX-V
+SKRR.V,SKRR Exploration Inc.,TSX-V
+SKYG.V,Sky Gold Corp.,TSX-V
+SYH.V,Skyharbour Resources Ltd.,TSX-V
+SXL.V,SLAM Exploration Ltd.,TSX-V
+SSX.V,Sleeping Giant Capital Corp.,TSX-V
+SMAR.P.V,Smartset Services Inc.,TSX-V
+SMWE.V,Smartwell Technology Corp.,TSX-V
+SMRV.V,Smooth Rock Ventures Corp.,TSX-V
+SPN.V,Snipp Interactive Inc.,TSX-V
+SOLI.P.V,Solid Impact Investments Corp.,TSX-V
+SGC.V,Solstice Gold Corp.,TSX-V
+SOMA.V,Soma Gold Corp.,TSX-V
+SNI.PR.A.V,Sonor Investments Limited,TSX-V
+SNV.V,Sonoro Energy Ltd.,TSX-V
+SGO.V,Sonoro Gold Corp.,TSX-V
+SRR.V,Source Rock Royalties Ltd.,TSX-V
+SAO.V,South Atlantic Gold Inc.,TSX-V
+SPMC.V,South Pacific Metals Corp.,TSX-V
+STS.V,South Star Battery Metals Corp.,TSX-V
+SMP.V,Southern Empire Resources Corp.,TSX-V
+SOU.V,Southern Energy Corp.,TSX-V
+SSV.V,Southern Silver Exploration Corp.,TSX-V
+SGQ.V,SouthGobi Resources Ltd,TSX-V
+SML.V,Southstone Minerals Limited,TSX-V
+SPSA.P.V,SP Strategic Acquisition Corp.,TSX-V
+YSK.P.V,Space Kingdom Digital Capital Corp.,TSX-V
+SQG.V,Spackman Equities Group Inc.,TSX-V
+SPA.V,Spanish Mountain Gold Ltd.,TSX-V
+SPRQ.V,Sparq Systems Inc.,TSX-V
+SHK.P.V,Sparrowhawk Opportunity Corp.,TSX-V
+W.V,Spartan Metals Corp.,TSX-V
+SRI.V,Sparton Resources Inc.,TSX-V
+SPC.V,SPC Nickel Corp.,TSX-V
+SSA.V,Spectra Products Inc.,TSX-V
+SOO.P.V,Spectre Capital Corp.,TSX-V
+SRQ.V,SRQ Resources Inc.,TSX-V
+SECU.V,SSC Security Services Corp.,TSX-V
+LORD.V,St. James Gold Corp.,TSX-V
+SRC.V,Stakeholder Gold Corp.,TSX-V
+STUD.V,Stallion Uranium Corp.,TSX-V
+SDI.V,Stampede Drilling Inc.,TSX-V
+STMP.V,Stamper Oil & Gas Corp.,TSX-V
+SLI.V,Standard Lithium Ltd.,TSX-V
+STND.V,Standard Uranium Ltd.,TSX-V
+STRR.V,Star Royalties Ltd.,TSX-V
+SUN.V,Stardust Solar Energy Inc.,TSX-V
+SURF.UN.V,Starlight U.S. Residential Fund (Multi-Family) Investment LP,TSX-V
+STE.V,Starr Peak Mining Ltd.,TSX-V
+SPX.V,Stellar AfricaGold Inc.,TSX-V
+SAG.V,Sterling Metals Corp.,TSX-V
+PGE.V,Stillwater Critical Minerals Corp.,TSX-V
+STW.V,Stockworks Gold Inc.,TSX-V
+STRM.V,Storm Exploration Inc.,TSX-V
+SGE.V,Strategem Capital Corporation,TSX-V
+SMD.V,Strategic Metals Ltd.,TSX-V
+SR.V,Strategic Resources Inc.,TSX-V
+SRA.V,Stria Lithium Inc.,TSX-V
+SKP.V,Strikepoint Gold Inc.,TSX-V
+SKK.V,Strikewell Energy Corp.,TSX-V
+SDR.V,Stroud Resources Ltd.,TSX-V
+STUV.V,Stuve Gold Corp.,TSX-V
+SUGR.V,Sucro Limited,TSX-V
+SUM.V,Summit Royalties Ltd.,TSX-V
+PEAK.V,Sun Peak Metals Corp.,TSX-V
+SMN.V,Sun Summit Minerals Corp.,TSX-V
+SPZ.V,SuperBuzz Inc.,TSX-V
+SUI.V,Superior Mining International Corporation,TSX-V
+NILI.V,Surge Battery Metals Inc.,TSX-V
+SURG.V,Surge Copper Corp.,TSX-V
+SYG.V,Sylla Gold Corp.,TSX-V
+ESAF.V,Syntholene Energy Corp.,TSX-V
+TWO.V,T2 Metals Corp.,TSX-V
+RARE.V,Tactical Resources Corp.,TSX-V
+TAO.V,TAG Oil Ltd.,TSX-V
+TAJ.V,Tajiri Resources Corp.,TSX-V
+TALA.V,Talamore Mining Corp.,TSX-V
+TRO.V,Taranis Resources Inc.,TSX-V
+TDG.V,TDG Gold Corp.,TSX-V
+TECT.V,Tectonic Metals Inc.,TSX-V
+TELO.V,Telo Genomics Corp.,TSX-V
+TNX.V,TenX Protocols Inc.,TSX-V
+TRR.V,Terra Rossa Gold Ltd.,TSX-V
+TES.V,Tesoro Minerals Corp.,TSX-V
+TPL.V,Tethys Petroleum Limited,TSX-V
+TUO.V,Teuton Resources Corp.,TSX-V
+TGX.V,TGX Energy & Resources Inc.,TSX-V
+FRSH.V,The Fresh Factory B.C. Ltd.,TSX-V
+FTRC.V,The FUTR Corporation,TSX-V
+WED.V,The Westaim Corporation,TSX-V
+WI.V,The Western Investment Company of Canada Limited,TSX-V
+TLT.V,Theralase Technologies Inc.,TSX-V
+THRM.V,Therma Bright Inc.,TSX-V
+TMG.V,Thermal Energy International Inc.,TSX-V
+THY.P.V,Thermopylae Capital Inc.,TSX-V
+TAU.V,Thesis Gold & Silver Inc.,TSX-V
+TTI.V,"Thiogenesis Therapeutics, Corp.",TSX-V
+TRCG.V,Thistle Resources Inc.,TSX-V
+THX.V,Thor Explorations Ltd.,TSX-V
+YAY.V,THS Maple Holdings Ltd.,TSX-V
+TGOL.V,Thunder Gold Corp.,TSX-V
+THM.V,"Thunder Mountain Gold, Inc.",TSX-V
+BIRD.V,Thunderbird Minerals Corp.,TSX-V
+AWE.V,Thunderstruck Resources Ltd.,TSX-V
+TSLV.V,Tier One Silver Inc.,TSX-V
+TNGD.V,Tiernan Gold Corp.,TSX-V
+TIGR.V,Tiger Gold Corp.,TSX-V
+TLC.P.V,Timeless Capital Corp.,TSX-V
+TK.V,Tinka Resources Limited,TSX-V
+TORC.V,TinOne Resources Inc.,TSX-V
+TTS.V,Tintina Mines Ltd.,TSX-V
+TLA.V,Titan Logix Corp.,TSX-V
+TITI.V,Titiminas Silver Inc.,TSX-V
+TNR.V,TNR Gold Corp.,TSX-V
+LOT.V,TomaGold Corporation,TSX-V
+TBLL.V,Tombill Mines Limited,TSX-V
+TGC.V,TooGood Gold Corp.,TSX-V
+TOI.V,Topicus.com Inc.,TSX-V
+TORQ.V,Torq Resources Inc.,TSX-V
+TMET.V,Torr Metals Inc.,TSX-V
+TORR.V,Torrent Capital Ltd.,TSX-V
+TT.V,Total Metals Corp.,TSX-V
+TTZ.V,Total Telcom Inc.,TSX-V
+TOTC.V,Totec Resources Ltd.,TSX-V
+TWR.V,Tower Resources Ltd.,TSX-V
+TBLZ.P.V,Trail Blazer Capital Corp.,TSX-V
+TBK.V,Trailbreaker Resources Ltd.,TSX-V
+TTG.V,Trans Canada Gold Corp.,TSX-V
+TCO.V,Transatlantic Mining Corp.,TSX-V
+TCG.P.V,Transcontinental Gold Corp.,TSX-V
+XTM.V,Transition Metals Corp.,TSX-V
+TOP.P.V,Transition Opportunities Corp.,TSX-V
+OCEN.V,Transoceanic Investments Inc.,TSX-V
+TRS.V,Tres-Or Resources Ltd.,TSX-V
+TRV.P.V,Treviso Capital Corp.,TSX-V
+TRBE.V,Tribe Property Technologies Inc.,TSX-V
+TRBC.V,Tribeca Resources Corporation,TSX-V
+ROCK.V,Trident Resources Corp.,TSX-V
+TG.V,Trifecta Gold Ltd.,TSX-V
+TCK.P.V,Trillium Acquisition Corp.,TSX-V
+TOM.V,Trinity One Metals Ltd.,TSX-V
+TSG.V,TriStar Gold Inc.,TSX-V
+TIG.V,Triumph Gold Corp.,TSX-V
+TR.V,Troubadour Resources Inc.,TSX-V
+TRU.V,TRU Precious Metals Corp.,TSX-V
+TBIX.V,TrustBIX Inc.,TSX-V
+TSD.V,Tsodilo Resources Limited,TSX-V
+TUD.V,Tudor Gold Corp.,TSX-V
+TUK.V,Tuktu Resources Ltd.,TSX-V
+TTGI.V,Turnium Technology Group Inc.,TSX-V
+TVI.V,Tvi Pacific Inc.,TSX-V
+MILE.V,Twenty Mile Metals Inc.,TSX-V
+UTWO.V,U92 Energy Corp.,TSX-V
+UCU.V,Ucore Rare Metals Inc.,TSX-V
+UGD.V,Unigold Inc.,TSX-V
+USS.V,Uniserve Communications Corporation,TSX-V
+UPT.P.V,Upstart Investments Inc.,TSX-V
+UIG.V,Urban Infrastructure Group Inc.,TSX-V
+UFC.V,Urbanfund Corp.,TSX-V
+URZ.V,URZ3 Energy Corp.,TSX-V
+USCU.V,US Copper Corp.,TSX-V
+USHA.V,Usha Resources Ltd.,TSX-V
+VTEN.V,V Ten Metals Corp.,TSX-V
+VZZ.V,Val-d'Or Mining Corporation,TSX-V
+VAL.P.V,Valencia Capital Inc.,TSX-V
+VMXX.V,Valhalla Metals Inc.,TSX-V
+OZ.V,Valkea Resources Corp.,TSX-V
+VO.V,Valore Metals Corp.,TSX-V
+VRB.V,Vanadiumcorp Resource Inc.,TSX-V
+VAX.V,Vantex Resources Ltd.,TSX-V
+VCV.V,Vatic Ventures Corp.,TSX-V
+KNOX.V,Vault Strategic Mining Corp.,TSX-V
+VXL.V,Vaxil Bio Ltd.,TSX-V
+PAIN.V,Vector Science and Therapeutics Corp.,TSX-V
+VLC.V,Velocity Minerals Ltd.,TSX-V
+VLX.V,Velox Energy Materials Inc.,TSX-V
+VTT.V,Vendetta Mining Corp.,TSX-V
+VENT.V,Ventra Metals Corp.,TSX-V
+VPT.V,VentriPoint Diagnostics Ltd.,TSX-V
+V.V,Verdera Energy Corp.,TSX-V
+VTX.V,Vertex Resource Group Ltd.,TSX-V
+VERT.V,Vertical Exploration Inc.,TSX-V
+VCC.P.V,Veteran Capital Corp.,TSX-V
+VLD.V,Vinland Lithium Inc.,TSX-V
+VIO.V,Vior Gold Corporation Inc.,TSX-V
+VQS.V,VIQ Solutions Inc.,TSX-V
+VML.V,Viscount Mining Corp.,TSX-V
+VGD.V,Visible Gold Mines Inc.,TSX-V
+VLI.V,Vision Lithium Inc.,TSX-V
+VMAR.V,Vision Marine Technologies Inc,TSX-V
+VCG.V,Visionary Copper and Gold Mines Inc.,TSX-V
+VIZ.V,Visionary Metals Corp.,TSX-V
+VIS.V,Visionstate Corp.,TSX-V
+VUX.V,Vital Energy Inc.,TSX-V
+VITA.V,Vitalist Inc.,TSX-V
+VPI.V,Vitality Products Inc.,TSX-V
+VCI.V,Vitreous Glass Inc.,TSX-V
+VAU.V,Viva Gold Corp.,TSX-V
+VCU.V,Vizsla Copper Corp.,TSX-V
+VROY.V,Vizsla Royalties Corp.,TSX-V
+VG.V,Volcanic Gold Mines Inc,TSX-V
+VCT.V,Volt Carbon Technologies Inc.,TSX-V
+VMS.V,Vortex Metals Inc.,TSX-V
+VM.V,Voyageur Pharmaceuticals Ltd.,TSX-V
+VRR.V,VR Resources Ltd.,TSX-V
+VUL.V,Vulcan Minerals Inc.,TSX-V
+VVTM.V,VVT Med Inc.,TSX-V
+WRR.V,Walker River Resources Corp.,TSX-V
+WWT.V,Water Ways Technologies Inc.,TSX-V
+WAVE.V,Waverley Pharma Inc.,TSX-V
+WML.V,Wealth Minerals Ltd.,TSX-V
+WCE.V,Wescan Energy Corp.,TSX-V
+WGF.V,Wescan Goldfields Inc.,TSX-V
+WHY.V,West High Yield (W.H.Y.) Resources Ltd.,TSX-V
+WPG.V,West Point Gold Corp.,TSX-V
+WRLG.V,West Red Lake Gold Mines Ltd.,TSX-V
+WVM.V,West Vault Mining Inc.,TSX-V
+WBE.V,WestBond Enterprises Corporation,TSX-V
+WEB.V,Westbridge Renewable Energy Corp.,TSX-V
+WEX.V,Western Exploration Inc.,TSX-V
+WGLD.V,Western Gold Exploration Ltd.,TSX-V
+WMS.V,Western Metallica Resources Corp.,TSX-V
+WP.V,Western Pacific Trust Company,TSX-V
+WGT.V,Westgate Energy Inc.,TSX-V
+WHN.V,Westhaven Gold Corp.,TSX-V
+WAT.P.V,Whatcom Capital II Corp,TSX-V
+WGO.V,White Gold Corp.,TSX-V
+WMK.V,Whitemud Resources Inc.,TSX-V
+WWA.P.V,Whitewater Acquisition Corp.,TSX-V
+YTY.V,Wi2Wi Corporation,TSX-V
+CANS.V,Wildpack Beverage Inc.,TSX-V
+WSK.V,Wildsky Resources Inc.,TSX-V
+WIL.V,Wilton Resources Inc.,TSX-V
+WEC.V,Winchester Equity Corporation,TSX-V
+WINS.V,Winshear Metals Corp.,TSX-V
+WISH.V,Wishpond Technologies Ltd.,TSX-V
+WITT.P.V,Wittering Capital Corp.,TSX-V
+WLF.V,Wolfden Resources Corporation,TSX-V
+WOOD.P.V,Woodbridge Ventures II Inc.,TSX-V
+WCU.V,World Copper Ltd.,TSX-V
+XGC.V,Xali Gold Corp.,TSX-V
+GIG.V,XAU Resources Inc.,TSX-V
+XIM.V,Ximen Mining Corp.,TSX-V
+XRTX.V,XORTX Therapeutics Inc.,TSX-V
+XPLR.V,Xplore Resources Corp.,TSX-V
+XTAO.U.V,XTAO Inc.,TSX-V
+XXIX.V,XXIX Metal Corp.,TSX-V
+XL.V,XXL Energy Corp.,TSX-V
+YOO.V,Yangaroo Inc.,TSX-V
+YNV.V,Ynvisible Interactive Inc.,TSX-V
+YEG.V,Yorkton Equity Group Inc.,TSX-V
+ZAC.V,Zacatecas Silver Corp.,TSX-V
+ZBNI.V,Zeb Nickel Corp.,TSX-V
+ZDC.V,Zedcor Inc.,TSX-V
+ZENI.P.V,Zenith Capital Corporation,TSX-V
+ZEN.V,Zentek Ltd.,TSX-V
+ZFR.V,Zephyr Minerals Ltd.,TSX-V
+ZCT.V,Zero Candida Technologies Inc.,TSX-V
+ZC.V,Zimtu Capital Corp.,TSX-V
+ZNX.V,Zincx Resources Corp.,TSX-V
+ZAU.V,Zodiac Gold Inc.,TSX-V
+ZONE.V,Zonetail Inc.,TSX-V
+ZON.V,Zonte Metals Inc.,TSX-V
+ZMA.V,ZoomAway Technologies Inc.,TSX-V
+ZOMD.V,Zoomd Technologies Ltd.,TSX-V
