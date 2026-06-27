@@ -1,0 +1,488 @@
+symbol,name,exchange
+ABX.TO,Barrick Gold Corporation,TSX
+AEM.TO,Agnico Eagle Mines Limited,TSX
+AG.TO,First Majestic Silver Corp,TSX
+AGI.TO,Alamos Gold Inc,TSX
+ALS.TO,Altius Minerals Corporation,TSX
+AMY.TO,Amaya Inc,TSX
+AND.TO,Andean Precious Metals Corp,TSX
+ANG.TO,Angold Resources Ltd,TSX
+ANX.TO,Anaconda Mining Inc,TSX
+AR.TO,Argonaut Gold Inc,TSX
+ARE.TO,Aris Mining Corporation,TSX
+ARG.TO,Abitibi Royalties Inc,TSX
+ARL.TO,Ardmore Resources Corp,TSX
+ART.V,Artemis Gold Inc,TSX-V
+ASM.TO,Avino Silver & Gold Mines Ltd,TSX
+ATH.TO,Athabasca Oil Corporation,TSX
+ATZ.TO,Aritzia Inc,TSX
+AUG.TO,Augmented Reality Concepts Inc,TSX
+AUM.TO,Gold Mountain Mining Corp,TSX
+AUZ.TO,Australian Vanadium Limited,TSX
+AVL.TO,Avalon Advanced Materials Inc,TSX
+AYM.TO,Azteca Gold Corp,TSX
+BAR.TO,Barsele Minerals Corp,TSX
+BBD.B.TO,Bombardier Inc,TSX
+BEI.UN.TO,Boardwalk Real Estate Investment Trust,TSX
+BFC.TO,BFC Capital Trust,TSX
+BGD.TO,Birchcliff Energy Ltd,TSX
+BLU.TO,BELLUS Health Inc,TSX
+BNE.TO,Bonterra Energy Corp,TSX
+BNT.V,Bonterra Resources Inc,TSX-V
+BOS.TO,BOS Holdings Inc,TSX
+BRY.TO,Torchlight Energy Resources Inc,TSX
+BSX.TO,Belo Sun Mining Corp,TSX
+BTB.UN.TO,BTB Real Estate Investment Trust,TSX
+BTO.TO,B2Gold Corp,TSX
+BUF.TO,Buffalo Coal Corp,TSX
+CAD.TO,Corsa Coal Corp,TSX
+CAE.TO,CAE Inc,TSX
+CAN.TO,Canacol Energy Ltd,TSX
+CANN.TO,Cannex Capital Holdings Inc,TSX
+CAR.UN.TO,Canadian Apartment Properties REIT,TSX
+CAS.TO,Cascades Inc,TSX
+CCO.TO,Cameco Corporation,TSX
+CDH.TO,Caldas Gold Corp,TSX
+CE.TO,Cenovus Energy Inc,TSX
+CF.TO,Canaccord Genuity Group Inc,TSX
+CFP.TO,Canfor Corporation,TSX
+CGX.TO,Cineplex Inc,TSX
+CHE.UN.TO,Chemtrade Logistics Income Fund,TSX
+CHR.TO,Chorus Aviation Inc,TSX
+CI.TO,CI Financial Corp,TSX
+CIX.TO,CI Financial Corp,TSX
+CLQ.TO,Clean Air Power Ltd,TSX
+CLR.TO,Clearwater Seafoods Incorporated,TSX
+CMC.TO,Comet Industries Ltd,TSX
+CMG.TO,Computer Modelling Group Ltd,TSX
+CNL.TO,Canacol Energy Ltd,TSX
+CNQ.TO,Canadian Natural Resources Limited,TSX
+CNX.V,Condor Gold plc,TSX-V
+COB.TO,Cobalt 27 Capital Corp,TSX
+COG.TO,Condor Gold plc,TSX
+COP.V,Copper Fox Metals Inc,TSX-V
+CPG.TO,Crescent Point Energy Corp,TSX
+CPX.TO,Capital Power Corporation,TSX
+CQE.TO,Calvalley Petroleum Corp,TSX
+CRE.TO,Critical Elements Lithium Corporation,TSX
+CRJ.TO,Caledonia Mining Corporation,TSX
+CRT.UN.TO,CT Real Estate Investment Trust,TSX
+CS.TO,Capstone Mining Corp,TSX
+CSH.UN.TO,Chartwell Retirement Residences,TSX
+CSU.TO,Constellation Software Inc,TSX
+CWB.TO,Canadian Western Bank,TSX
+CXB.TO,Calibre Mining Corp,TSX
+DAY.TO,Dayforce Inc,TSX
+DCM.TO,Data Communications Management Corp,TSX
+DFY.TO,Definity Financial Corporation,TSX
+DGC.TO,Detour Gold Corporation,TSX
+DHT.V,District Metals Corp,TSX-V
+DII.B.TO,Dorel Industries Inc,TSX
+DML.TO,Denison Mines Corp,TSX
+DNG.TO,Dynacor Gold Mines Inc,TSX
+DSG.TO,Descartes Systems Group Inc,TSX
+DXG.V,Duncastle Gold Corp,TSX-V
+ECO.TO,Eco Atlantic Oil & Gas Ltd,TSX
+EDR.TO,Endeavour Silver Corp,TSX
+EFR.TO,Energy Fuels Inc,TSX
+ELD.TO,Eldorado Gold Corporation,TSX
+ELO.TO,Eloro Resources Ltd,TSX
+EMX.TO,EMX Royalty Corporation,TSX
+ENB.TO,Enbridge Inc,TSX
+EOG.TO,Escape Hunt plc,TSX
+ERO.TO,Ero Copper Corp,TSX
+ESM.V,Eagle Sun Minerals Corp,TSX-V
+ETG.TO,Entree Resources Ltd,TSX
+EV.TO,Evanachan Ltd,TSX
+EXP.TO,Excelsior Mining Corp,TSX
+EXS.TO,ExGen Resources Inc,TSX
+FAR.TO,Faraday Copper Corp,TSX
+FCX.TO,Foran Mining Corporation,TSX
+FDY.TO,Foundry Metals Inc,TSX
+FEC.TO,Frontera Energy Corporation,TSX
+FIL.TO,Filo Mining Corp,TSX
+FLO.TO,Flora Growth Corp,TSX
+FM.TO,First Quantum Minerals Ltd,TSX
+FNV.TO,Franco-Nevada Corporation,TSX
+FOM.V,Foran Mining Corporation,TSX-V
+FOR.TO,Foraco International SA,TSX
+FRX.TO,Fennec Pharmaceuticals Inc,TSX
+FSM.TO,Fortuna Silver Mines Inc,TSX
+FTS.TO,Fortis Inc,TSX
+FVI.TO,Fortuna Silver Mines Inc,TSX
+GAU.TO,Galiano Gold Inc,TSX
+GBR.V,Gold Bull Resources Corp,TSX-V
+GCM.TO,Gran Colombia Gold Corp,TSX
+GDX.TO,VanEck Gold Miners ETF,TSX
+GFL.TO,GFL Environmental Inc,TSX
+GGD.TO,GoGold Resources Inc,TSX
+GGI.V,Garibaldi Resources Corp,TSX-V
+GIB.A.TO,CGI Inc,TSX
+GLD.TO,Goldex Resources Corporation,TSX
+GLG.TO,Golden Star Resources Ltd,TSX
+GLO.TO,Global Atomic Corporation,TSX
+GMR.TO,Gold Mineral Resources Ltd,TSX
+GNG.TO,GreenFirst Forest Products Inc,TSX
+GOD.TO,Gold Standard Ventures Corp,TSX
+GOG.V,Giga Metals Corporation,TSX-V
+GOT.TO,Goldgroup Mining Inc,TSX
+GPR.TO,Gran Tierra Energy Inc,TSX
+GRA.TO,Graphite One Inc,TSX
+GRG.V,GreenFirst Forest Products Inc,TSX-V
+GRS.TO,Guyana Goldfields Inc,TSX
+GSC.TO,Golden Star Resources Ltd,TSX
+GSP.V,Giga Metals Corporation,TSX-V
+GSS.TO,Golden Star Resources Ltd,TSX
+GTR.V,GT Resources Inc,TSX-V
+GTT.V,Gold Terra Resource Corp,TSX-V
+GUY.TO,Guyana Goldfields Inc,TSX
+GWA.TO,Grounded Lithium Corp,TSX
+GXS.TO,Goldex Resources Corporation,TSX
+GXU.V,GoviEx Uranium Inc,TSX-V
+H.TO,Hydro One Limited,TSX
+HAI.TO,Haivision Systems Inc,TSX
+HAM.V,Hammer Metals Ltd,TSX-V
+HBM.TO,Hudbay Minerals Inc,TSX
+HCG.TO,Home Capital Group Inc,TSX
+HER.TO,Hercules Capital Inc,TSX
+HEX.V,Highgold Mining Inc,TSX-V
+HGM.V,High Gold Mining Inc,TSX-V
+HLS.TO,HLS Therapeutics Inc,TSX
+HLX.TO,Heliogen Inc,TSX
+HME.V,Heliostar Metals Ltd,TSX-V
+HND.TO,BetaPro Natural Gas Inverse Leveraged Daily Bear ETF,TSX
+HOD.TO,BetaPro Crude Oil Inverse Leveraged Daily Bear ETF,TSX
+HOG.V,Hog Capital Corp,TSX-V
+HQD.TO,HQ Sustainable Maritime Industries Inc,TSX
+HR.UN.TO,H&R Real Estate Investment Trust,TSX
+HUM.TO,Humanigen Inc,TSX
+HUT.TO,Hut 8 Mining Corp,TSX
+IAG.TO,iamgold Corporation,TSX
+IAMG.TO,iamgold Corporation,TSX
+IBI.TO,IBI Group Inc,TSX
+IFP.TO,Interfor Corporation,TSX
+IGO.TO,Integra Gold Corp,TSX
+ILC.TO,International Lithium Corp,TSX
+IMO.TO,Imperial Oil Limited,TSX
+IMG.TO,iamgold Corporation,TSX
+IPL.TO,Inter Pipeline Ltd,TSX
+IR.TO,Irwin Naturals Inc,TSX
+IRC.V,International Resources Holding RSC Ltd,TSX-V
+IRV.TO,Irving Resources Inc,TSX
+ISR.V,Itafos Inc,TSX-V
+ITR.TO,Itsuki Holdings Inc,TSX
+JAG.TO,Jaguar Mining Inc,TSX
+JDN.V,Juggernaut Exploration Ltd,TSX-V
+JET.TO,Jetlines Group Holdings Inc,TSX
+JOY.TO,Journey Medical Corporation,TSX
+K.TO,Kinross Gold Corporation,TSX
+KAM.V,Kamloops Zinc Corp,TSX-V
+KDX.TO,Klondex Mines Ltd,TSX
+KEL.TO,Kelt Exploration Ltd,TSX
+KEX.TO,Kelt Exploration Ltd,TSX
+KGC.TO,Kinross Gold Corporation,TSX
+KGS.V,Kings Bay Gold Corp,TSX-V
+KID.TO,Kidoz Inc,TSX
+KL.TO,Kirkland Lake Gold Ltd,TSX
+KLS.V,Kali-Extrakt AG,TSX-V
+KNT.TO,K92 Mining Inc,TSX
+KOR.TO,Kore Mining Ltd,TSX
+KRN.V,Kiran Resources Inc,TSX-V
+KSP.TO,KSP Holdings Ltd,TSX
+KUB.TO,Kubota Corporation,TSX
+KWG.V,KWG Resources Inc,TSX-V
+LAB.TO,Labrador Iron Ore Royalty Corporation,TSX
+LAC.TO,Lithium Americas Corp,TSX
+LAN.V,Lantheus Holdings Inc,TSX-V
+LAR.V,Laurion Mineral Exploration Inc,TSX-V
+LAS.TO,Lassonde Industries Inc,TSX
+LAUR.TO,Laurentian Bank of Canada,TSX
+LB.TO,Laurentian Bank of Canada,TSX
+LGD.TO,Liberty Gold Corp,TSX
+LGO.TO,Largo Inc,TSX
+LIF.TO,Labrador Iron Ore Royalty Corporation,TSX
+LIO.V,Lion One Metals Limited,TSX-V
+LIT.TO,Lithium Americas Corp,TSX
+LKY.TO,Lucky Minerals Inc,TSX
+LMC.TO,Laramide Resources Ltd,TSX
+LNF.TO,Leon's Furniture Limited,TSX
+LNR.TO,Linamar Corporation,TSX
+LNT.V,Lingo Media Inc,TSX-V
+LOC.V,Collective Mining Ltd,TSX-V
+LON.TO,Lundin Gold Inc,TSX
+LUC.TO,Lucara Diamond Corp,TSX
+LUN.TO,Lundin Mining Corporation,TSX
+LVS.TO,Labrador Uranium Inc,TSX
+LYL.V,Loyal Pharma Inc,TSX-V
+MAG.TO,MAG Silver Corp,TSX
+MAI.V,Minera Alamos Inc,TSX-V
+MAN.TO,Manulife Financial Corporation,TSX
+MAR.TO,Maritime Resources Corp,TSX
+MAS.TO,Massy Holdings Ltd,TSX
+MAU.TO,Matica Enterprises Inc,TSX
+MAW.TO,Mawson Gold Limited,TSX
+MBX.V,Murchison Minerals Ltd,TSX-V
+MCB.TO,McCoy Global Inc,TSX
+MCI.V,Macro Enterprises Inc,TSX-V
+MCO.V,Mincor Resources NL,TSX-V
+MDI.TO,Major Drilling Group International Inc,TSX
+MDP.TO,Midland Exploration Inc,TSX
+MDW.V,Midway Gold Corp,TSX-V
+MED.TO,Medaro Mining Corp,TSX
+MEG.TO,MEG Energy Corp,TSX
+MGR.TO,Magna Resources Ltd,TSX
+MHR.TO,Mahindra & Mahindra Financial Services Limited,TSX
+MIC.TO,Microforum Inc,TSX
+MIL.V,Millennial Lithium Corp,TSX-V
+MIN.V,Minera Alamos Inc,TSX-V
+MIO.V,Minto Metals Corp,TSX-V
+MKO.V,Mako Mining Corp,TSX-V
+MLX.V,Metals X Limited,TSX-V
+MMX.TO,Murchison Minerals Ltd,TSX
+MND.TO,Mandalay Resources Corporation,TSX
+MNT.TO,Royal Canadian Mint,TSX
+MON.TO,Monument Mining Limited,TSX
+MOZ.TO,Marathon Gold Corporation,TSX
+MRC.TO,Matica Enterprises Inc,TSX
+MRD.TO,Melior Resources Inc,TSX
+MRE.TO,Martinrea International Inc,TSX
+MRS.V,Millennial Precious Metals Corp,TSX-V
+MRT.UN.TO,Morguard Real Estate Investment Trust,TSX
+MSB.TO,Medusa Mining Limited,TSX
+MSQ.V,Mason Graphite Inc,TSX-V
+MTB.TO,Mountain Province Diamonds Inc,TSX
+MTL.TO,Mullen Group Ltd,TSX
+MTO.TO,Metals Creek Resources Corp,TSX
+MTS.TO,Metso Corporation,TSX
+MUX.TO,McEwen Mining Inc,TSX
+MVC.TO,Minco Silver Corporation,TSX
+MX.TO,Methanex Corporation,TSX
+NAM.V,Nanominerals Corp,TSX-V
+NAR.TO,Nanosonics Limited,TSX
+NB.TO,Nihon Kohden Corporation,TSX
+NCU.TO,Nevada Copper Corp,TSX
+NDA.TO,Northland Power Inc,TSX
+NDP.TO,Nuvista Energy Ltd,TSX
+NEO.TO,Neo Performance Materials Inc,TSX
+NET.TO,Nextech AR Solutions Corp,TSX
+NGD.TO,New Gold Inc,TSX
+NHC.TO,New Horizons Capital Corp,TSX
+NII.TO,Nickel Industries Limited,TSX
+NIM.V,Nighthawk Gold Corp,TSX-V
+NLC.TO,New Look Vision Group Inc,TSX
+NLH.TO,Namdeb Diamond Corporation,TSX
+NMC.TO,Nickel Mines Limited,TSX
+NOA.TO,North American Construction Group Ltd,TSX
+NPA.V,NPA Gold Corp,TSX-V
+NPK.TO,Namaska Petroleum Limited,TSX
+NPS.TO,NPS Pharmaceuticals Inc,TSX
+NRI.TO,Napier Jones Infrastructure Ltd,TSX
+NRN.TO,NovaBay Pharmaceuticals Inc,TSX
+NTO.TO,Nvida Corporation,TSX
+NTR.TO,Nutrien Ltd,TSX
+NUF.TO,Nuvista Energy Ltd,TSX
+NUG.V,NuLegacy Gold Corporation,TSX-V
+NUS.TO,Nunavut Gold Corp,TSX
+NVO.TO,Novo Resources Corp,TSX
+NVX.V,Nexus Gold Corp,TSX-V
+NXE.TO,NexGen Energy Ltd,TSX
+NXJ.V,Nexus Gold Corp,TSX-V
+NXO.V,Nex-Tech Wireless LLC,TSX-V
+OBE.TO,Obsidian Energy Ltd,TSX
+ODV.TO,Osisko Development Corp,TSX
+OGC.TO,OceanaGold Corporation,TSX
+OGD.TO,Osisko Gold Royalties Ltd,TSX
+OGI.TO,Organigram Holdings Inc,TSX
+OR.TO,Osisko Gold Royalties Ltd,TSX
+ORE.V,Osino Resources Corp,TSX-V
+ORX.TO,Orex Minerals Inc,TSX
+OSK.TO,Osisko Mining Inc,TSX
+OVV.TO,Ovintiv Inc,TSX
+OWL.TO,Owlet Inc,TSX
+PAA.TO,Pan American Silver Corp,TSX
+PAAS.TO,Pan American Silver Corp,TSX
+PAR.TO,Paramount Resources Ltd,TSX
+PBH.TO,Premium Brands Holdings Corporation,TSX
+PBL.TO,Pollard Banknote Limited,TSX
+PCX.TO,Perpetua Resources Corp,TSX
+PDS.TO,Precision Drilling Corporation,TSX
+PDX.V,Prime Meridian Resources Corp,TSX-V
+PEI.V,Pacific Empire Minerals Corp,TSX-V
+PGM.V,Platinum Group Metals Ltd,TSX-V
+PHO.TO,Pesorama Inc,TSX
+PIF.TO,Polaris Infrastructure Inc,TSX
+PJX.V,PJX Resources Inc,TSX-V
+PKI.TO,Parkland Corporation,TSX
+PLB.V,Plata Latina Minerals Corporation,TSX-V
+PLC.TO,Pan Orient Energy Corp,TSX
+PLG.TO,Platinum Group Metals Ltd,TSX
+PLS.V,Pioneering Technology Corp,TSX-V
+PLZ.UN.TO,Plaza Retail REIT,TSX
+PMD.TO,Paladin Energy Ltd,TSX
+POW.TO,Power Corporation of Canada,TSX
+PPL.TO,Pembina Pipeline Corporation,TSX
+PPX.V,PPX Mining Corp,TSX-V
+PRA.TO,Prairie Mining Limited,TSX
+PRB.TO,Probe Metals Inc,TSX
+PRG.V,Precipitate Gold Corp,TSX-V
+PRN.TO,Profound Medical Corp,TSX
+PRS.V,Precipitate Gold Corp,TSX-V
+PSI.TO,Pason Systems Inc,TSX
+PTM.TO,Platinum Group Metals Ltd,TSX
+PVG.TO,Pretium Resources Inc,TSX
+PWF.TO,Power Financial Corporation,TSX
+PYR.TO,PyroGenesis Canada Inc,TSX
+QBE.TO,QBE Insurance Group Limited,TSX
+QCX.TO,QcX Gold Corp,TSX
+QRC.TO,Questerre Energy Corporation,TSX
+QSP.UN.TO,Slate Grocery REIT,TSX
+QST.TO,Questcor Pharmaceuticals Inc,TSX
+RCH.V,Rockhaven Resources Ltd,TSX-V
+RCI.B.TO,Rogers Communications Inc,TSX
+RDX.V,Redde Northgate plc,TSX-V
+REI.UN.TO,RioCan Real Estate Investment Trust,TSX
+REM.TO,Reunion Gold Corporation,TSX
+RGL.TO,Reconnaissance Energy Africa Ltd,TSX
+RGX.V,Renforth Resources Inc,TSX-V
+RIO.TO,Rio Tinto Limited,TSX
+RKR.V,Rokmaster Resources Corp,TSX-V
+RLG.V,Rimini Street Inc,TSX-V
+RMC.TO,Rogue Metals Corp,TSX
+RML.TO,Resverlogix Corp,TSX
+ROG.TO,Rogers Sugar Inc,TSX
+RPM.V,Ramp Metals Inc,TSX-V
+RRX.TO,Raging River Exploration Inc,TSX
+RSG.V,Reunion Gold Corporation,TSX-V
+RTG.V,RTG Mining Inc,TSX-V
+RUS.TO,Russel Metals Inc,TSX
+RYU.V,Recon Technology Ltd,TSX-V
+SAM.TO,Sama Resources Inc,TSX
+SAP.TO,Saputo Inc,TSX
+SAR.TO,Sarama Resources Ltd,TSX
+SBB.TO,Sabina Gold & Silver Corp,TSX
+SC.TO,Shopify Inc,TSX
+SCL.TO,Shawcor Ltd,TSX
+SCLT.TO,Shawcor Ltd,TSX
+SCP.TO,Scandium International Mining Corp,TSX
+SDX.V,SDX Energy Inc,TSX-V
+SES.TO,Secure Energy Services Inc,TSX
+SES.V,SES AI Corporation,TSX-V
+SEV.TO,Supremex Inc,TSX
+SG.TO,Sunridge Gold Corp,TSX
+SGN.V,Sievert Logistik SE,TSX-V
+SGR.TO,Silver Grail Resources Ltd,TSX
+SGY.TO,Surge Energy Inc,TSX
+SHM.V,Sherwood Silver Corp,TSX-V
+SHS.TO,Shawcor Ltd,TSX
+SIA.TO,Sienna Senior Living Inc,TSX
+SIL.TO,SilverCrest Metals Inc,TSX
+SILV.TO,SilverCrest Metals Inc,TSX
+SIS.TO,Savaria Corporation,TSX
+SJR.B.TO,Shaw Communications Inc,TSX
+SKE.TO,Skeena Resources Limited,TSX
+SLF.TO,Sun Life Financial Inc,TSX
+SLR.V,Sulliden Mining Capital Inc,TSX-V
+SLS.TO,Solaris Resources Inc,TSX
+SMF.TO,Supremex Inc,TSX
+SMT.TO,Sierra Metals Inc,TSX
+SNC.TO,SNC-Lavalin Group Inc,TSX
+SNX.V,Sievert Logistik SE,TSX-V
+SOT.UN.TO,Slate Office REIT,TSX
+SOX.V,Southern Silver Exploration Corp,TSX-V
+SPE.V,Spearmint Resources Inc,TSX-V
+SPG.TO,Sprott Physical Gold Trust,TSX
+SPT.TO,Sprott Inc,TSX
+SRA.V,Sierra Madre Gold and Silver Ltd,TSX-V
+SRX.V,Star Royalties Ltd,TSX-V
+SSL.TO,Sandstorm Gold Ltd,TSX
+SSO.TO,First Trust UltraShort Government ETF,TSX
+SSP.V,Searchlight Resources Inc,TSX-V
+STC.TO,Sangoma Technologies Corporation,TSX
+STN.TO,Stantec Inc,TSX
+STX.TO,Sterling Mining Company,TSX
+SU.TO,Suncor Energy Inc,TSX
+SVM.TO,Silvercorp Metals Inc,TSX
+SVR.V,Silver Range Resources Ltd,TSX-V
+SXP.V,Stellar AfricaGold Inc,TSX-V
+SYH.TO,Sayona Mining Limited,TSX
+SYZ.TO,Sylogist Ltd,TSX
+T.TO,TELUS Corporation,TSX
+TCM.TO,Taseko Mines Limited,TSX
+TD.TO,Toronto-Dominion Bank,TSX
+TDG.V,Torchlight Energy Resources Inc,TSX-V
+TER.V,Terran Orbital Corporation,TSX-V
+TGZ.TO,Teranga Gold Corporation,TSX
+THO.V,Thor Explorations Ltd,TSX-V
+TIG.V,Tiger Royalties and Investments plc,TSX-V
+TIL.TO,Tilibit Nanosystems GmbH,TSX
+TKO.TO,Tronox Holdings plc,TSX
+TLA.V,Tla'amin Resources Ltd,TSX-V
+TM.TO,Toyota Motor Corporation,TSX
+TMR.TO,Treasury Metals Inc,TSX
+TNX.V,Tenax Therapeutics Inc,TSX-V
+TOC.TO,Talisman Energy Inc,TSX
+TOI.TO,Topicus.com Inc,TSX
+TOS.V,Toscana Energy Income Corporation,TSX-V
+TRE.TO,Trilogy Metals Inc,TSX
+TRQ.TO,Turquoise Hill Resources Ltd,TSX
+TRX.V,Torchlight Energy Resources Inc,TSX-V
+TSL.TO,Torchlight Energy Resources Inc,TSX
+TUF.V,TUF Group Public Company Limited,TSX-V
+TUO.TO,Turmalina Metals Corp,TSX
+TVE.TO,Tamarack Valley Energy Ltd,TSX
+TVO.V,TV2U International Ltd,TSX-V
+TXG.TO,Torex Gold Resources Inc,TSX
+TYE.V,Tychon Energy Corp,TSX-V
+UAE.TO,Union Agriculture Group Corp,TSX
+UGD.V,Unigold Inc,TSX-V
+UNS.TO,Unisel Gold Inc,TSX
+UQM.TO,UQM Technologies Inc,TSX
+URC.V,Ur-Energy Inc,TSX-V
+URE.TO,Ur-Energy Inc,TSX
+USA.V,U.S. Gold Corp,TSX-V
+UTX.TO,Uranium Royalty Corp,TSX
+UVX.V,Uranium Royalty Corp,TSX-V
+VAB.TO,Vanguard Canadian Aggregate Bond Index ETF,TSX
+VET.TO,Vermilion Energy Inc,TSX
+VGZ.TO,Vista Gold Corp,TSX
+VIC.TO,Victory Nickel Inc,TSX
+VIQ.TO,VIQ Solutions Inc,TSX
+VIT.TO,VIQ Solutions Inc,TSX
+VLN.TO,Valens Company Inc,TSX
+VMC.V,Vicinity Motor Corp,TSX-V
+VRN.TO,Veren Inc,TSX
+VTX.V,Vertex Resource Group Ltd,TSX-V
+WAM.TO,Western Asset Mortgage Capital Corporation,TSX
+WAT.TO,Waterloo Brewing Ltd,TSX
+WCM.TO,West Coast Mining Corp,TSX
+WDO.TO,Wesdome Gold Mines Ltd,TSX
+WFG.TO,West Fraser Timber Co Ltd,TSX
+WGO.TO,Wallbridge Mining Company Limited,TSX
+WHY.V,Whitehorse Gold Corp,TSX-V
+WIL.V,Willowglen Systems Inc,TSX-V
+WM.TO,Waste Connections Inc,TSX
+WML.TO,Wealth Minerals Ltd,TSX
+WN.TO,George Weston Limited,TSX
+WPM.TO,Wheaton Precious Metals Corp,TSX
+WRN.TO,Western Copper and Gold Corporation,TSX
+WS.TO,Winshear Gold Corp,TSX
+WSP.TO,WSP Global Inc,TSX
+WTE.TO,Westshore Terminals Investment Corporation,TSX
+WTM.TO,White Tiger Gold Ltd,TSX
+WVS.TO,WesternOne Inc,TSX
+XAM.TO,Orvana Minerals Corp,TSX
+XAU.TO,SPDR Gold Shares,TSX
+XBC.TO,Bombardier Inc,TSX
+XCG.V,XCORPOREAL INC,TSX-V
+XIM.V,Ximen Mining Corp,TSX-V
+XME.TO,SPDR S&P Metals and Mining ETF,TSX
+XOM.TO,ExxonMobil Corporation,TSX
+XRE.TO,iShares S&P/TSX Capped REIT Index ETF,TSX
+XSB.TO,iShares Core Canadian Short Term Bond Index ETF,TSX
+YAK.V,American Manganese Inc,TSX-V
+YNV.TO,Yangibana Nickel Corp,TSX
+YRI.TO,Yamana Gold Inc,TSX
+ZAR.V,ZaZa Energy Corporation,TSX-V
+ZCL.TO,ZCL Composites Inc,TSX
+ZIM.TO,Zimtu Capital Corp,TSX
+ZMT.TO,Zymeworks Inc,TSX
