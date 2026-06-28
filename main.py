@@ -25,6 +25,7 @@ def main():
     parser = argparse.ArgumentParser(description="Canadian Small-Cap Stock Screener")
     parser.add_argument("--send", action="store_true", help="Send results by email")
     parser.add_argument("--no-sentiment", action="store_true", help="Skip FinBERT sentiment (faster)")
+    parser.add_argument("--cache-only", action="store_true", help="Only use cached data, skip Yahoo Finance")
     args = parser.parse_args()
 
     from dotenv import load_dotenv
@@ -34,20 +35,20 @@ def main():
     from email_report.formatter import format_email
 
     logger.info("Running screener...")
-    previous_symbols = load_previous_symbols()
-    top_stocks = run_screener(TICKERS_CSV, skip_sentiment=args.no_sentiment)
+    previous_position_symbols = load_previous_symbols(strategy_filter="Position Trade")
+    top_stocks = run_screener(TICKERS_CSV, skip_sentiment=args.no_sentiment, cache_only=args.cache_only)
 
     if not top_stocks:
         logger.warning("No stocks passed the screening criteria today.")
         sys.exit(0)
 
-    report = format_email(top_stocks, previous_symbols)
+    report = format_email(top_stocks, previous_position_symbols)
     print("\n" + report)
 
     if args.send:
         from email_report.send import send_report
         logger.info("Sending email...")
-        send_report(top_stocks, previous_symbols)
+        send_report(top_stocks, previous_position_symbols)
         logger.info("Email sent to bradleyford5@hotmail.com")
 
 

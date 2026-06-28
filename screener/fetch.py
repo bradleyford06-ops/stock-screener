@@ -29,7 +29,7 @@ def fetch_stock_data(symbol, period="6mo"):
         return None, None
 
 
-def fetch_all_tickers(tickers_csv, delay=0.3):
+def fetch_all_tickers(tickers_csv, delay=0.3, cache_only=False):
     """Load ticker list from CSV and fetch price data for each, with rate-limit delays."""
     df = pd.read_csv(tickers_csv)
     results = {}
@@ -46,6 +46,9 @@ def fetch_all_tickers(tickers_csv, delay=0.3):
             results[symbol] = {"history": cached_h, "info": cached_i, "exchange": row.get("exchange", "")}
             cached_count += 1
             continue
+
+        if cache_only:
+            continue  # skip symbols not in cache
 
         logger.info(f"Fetching {symbol} ({i+1}/{total})")
         history, info = fetch_stock_data(symbol)

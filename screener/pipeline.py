@@ -1,6 +1,7 @@
 import logging
 import json
 import os
+from datetime import date, timedelta
 from screener.fetch import fetch_all_tickers
 from screener.filters import passes_basic_filters
 from screener.technical import compute_technicals
@@ -11,15 +12,29 @@ from screener.scoring import build_composite_score, determine_strategy, rank_can
 logger = logging.getLogger(__name__)
 
 LAST_REPORT_PATH = os.path.join(os.path.dirname(__file__), "..", ".claude", "memory", "last_report.json")
+MIN_TSX_STOCKS = 3  # guarantee at least this many TSX (not TSX-V) stocks in each report
 
 
-def load_previous_symbols():
-    """Load the list of symbols from the last report for delta tracking."""
+def last_trading_day():
+    """Return the most recent trading day (skips weekends)."""
+    today = date.today()
+    if today.weekday() == 5:   # Saturday
+        return today - timedelta(days=1)
+    elif today.weekday() == 6:  # Sunday
+        return today - timedelta(days=2)
+    return today
+
+
+def load_previous_symbols(strategy_filter="Position Trade"):
+    """Load symbols from the last report, optionally filtered by strategy."""
     try:
         if os.path.exists(LAST_REPORT_PATH):
             with open(LAST_REPORT_PATH) as f:
                 data = json.load(f)
-                return [s["symbol"] for s in data.get("top_stocks", [])]
+                stocks = data.get("top_stocks", [])
+                if strategy_filter:
+                    stocks = [s for s in stocks if s.get("strategy") == strategy_filter]
+                return [s["symbol"] for s in stocks]
     except Exception:
         pass
     return None
@@ -32,12 +47,16 @@ def save_report(top_stocks):
         json.dump({"top_stocks": top_stocks}, f, indent=2, default=str)
 
 
-def run_screener(tickers_csv, skip_sentiment=False):
+def _is_tsx(symbol):
+    """Return True if the symbol is a TSX (not TSX-V) listing."""
+    return symbol.endswith(".TO")
+
+
+def run_screener(tickers_csv, skip_sentiment=False, cache_only=False):
     """Run the full screening pipeline and return ranked top-10 opportunities."""
     logger.info("Starting screening pipeline...")
 
-    # Step 1: Fetch all ticker data
-    all_data = fetch_all_tickers(tickers_csv)
+    all_data = fetch_all_tickers(tickers_csv, cache_only=cache_only)
     logger.info(f"Fetched data for {len(all_data)} tickers")
 
     candidates = []
@@ -46,31 +65,25 @@ def run_screener(tickers_csv, skip_sentiment=False):
         history = data["history"]
         info = data["info"]
 
-        # Step 2: Basic filters (market cap, volume)
         if not passes_basic_filters(symbol, info, history):
             continue
 
-        # Step 3: Technical analysis
         signals = compute_technicals(history)
         if not signals:
             continue
 
-        # Step 4: Fundamentals
         fundamentals = extract_fundamentals(symbol, info)
         fundamental_score = score_fundamentals(fundamentals)
 
-        # Step 5: Sentiment (optional — slow due to FinBERT)
         if skip_sentiment:
             sentiment_score, headlines = 0.0, []
         else:
             sentiment_score, headlines = score_sentiment(symbol, fundamentals.get("name", symbol))
 
-        # Step 6: Strategy label
         strategy = determine_strategy(signals, fundamental_score, sentiment_score)
         if strategy is None:
-            continue  # not strong enough to flag
+            continue
 
-        # Step 7: Composite score
         composite_score = build_composite_score(signals, fundamental_score, sentiment_score)
 
         candidates.append({
@@ -84,13 +97,38 @@ def run_screener(tickers_csv, skip_sentiment=False):
             "fundamental_score": fundamental_score,
             "sentiment_score": sentiment_score,
             "headlines": headlines,
+            "is_tsx": _is_tsx(symbol),
         })
 
     logger.info(f"{len(candidates)} candidates passed all filters")
 
-    # Step 8: Rank and take top 10
     ranked = rank_candidates(candidates)
-    top_10 = ranked[:10]
+    top_10 = _enforce_tsx_minimum(ranked)
 
     save_report(top_10)
+    return top_10
+
+
+def _enforce_tsx_minimum(ranked):
+    """
+    Build a top-10 list that includes at least MIN_TSX_STOCKS TSX stocks.
+    Pulls the best TSX stocks up into the list if needed, displacing lower-ranked TSX-V stocks.
+    """
+    top_10 = ranked[:10]
+    tsx_count = sum(1 for s in top_10 if s["is_tsx"])
+
+    if tsx_count >= MIN_TSX_STOCKS:
+        return top_10
+
+    # Need more TSX stocks — find the best TSX candidates outside top 10
+    tsx_extras = [s for s in ranked[10:] if s["is_tsx"]]
+    needed = MIN_TSX_STOCKS - tsx_count
+
+    for extra in tsx_extras[:needed]:
+        # Replace the lowest-ranked non-TSX stock in current top 10
+        for i in range(len(top_10) - 1, -1, -1):
+            if not top_10[i]["is_tsx"]:
+                top_10[i] = extra
+                break
+
     return top_10

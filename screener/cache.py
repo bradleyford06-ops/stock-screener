@@ -3,6 +3,7 @@ import json
 import os
 import time
 import logging
+from io import StringIO
 
 logger = logging.getLogger(__name__)
 
@@ -43,7 +44,7 @@ def get_cached(symbol):
         if age_hours > CACHE_TTL_HOURS:
             return None, None
 
-        history = pd.read_json(row[0])
+        history = pd.read_json(StringIO(row[0]))
         info = json.loads(row[1])
         return history, info
 

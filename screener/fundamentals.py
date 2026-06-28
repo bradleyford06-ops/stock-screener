@@ -69,6 +69,17 @@ def extract_fundamentals(symbol, info):
         fundamentals["market_cap"] = info.get("marketCap") or 0
         fundamentals["revenue"] = info.get("totalRevenue") or 0
 
+        # Company description — trim to first 2 sentences for email brevity
+        full_desc = info.get("longBusinessSummary") or ""
+        if full_desc:
+            sentences = full_desc.replace("  ", " ").split(". ")
+            short_desc = ". ".join(sentences[:2]).strip()
+            if not short_desc.endswith("."):
+                short_desc += "."
+            fundamentals["description"] = short_desc
+        else:
+            fundamentals["description"] = ""
+
         return fundamentals
 
     except Exception as e:
