@@ -18,7 +18,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install yfinance pandas ta transformers torch requests python-dotenv schedule beautifulsoup4 lxml
+        run: pip install yfinance pandas ta requests python-dotenv beautifulsoup4 lxml
 
       - name: Create .env file
         run: |
