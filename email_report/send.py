@@ -35,10 +35,10 @@ def send_email(subject, body, recipient=RECIPIENT):
     logger.info(f"Email sent to {recipient}")
 
 
-def send_report(top_stocks, previous_symbols=None):
+def send_report(top_stocks, previous_position_symbols=None, previous_swing_symbols=None):
     """Format and send the screener report email."""
     from email_report.formatter import format_email
-    body = format_email(top_stocks, previous_symbols)
+    body = format_email(top_stocks, previous_position_symbols, previous_swing_symbols)
     today = datetime.now().strftime("%b %d")
     subject = f"Small-Cap Stock Screener — {today}"
     send_email(subject, body)

@@ -13,7 +13,7 @@ def _last_trading_day():
     return day.strftime("%A, %B %d, %Y")
 
 
-def format_email(top_stocks, previous_position_symbols=None):
+def format_email(top_stocks, previous_position_symbols=None, previous_swing_symbols=None):
     """Build the plain-text email body. Position Trades first, then Swing Trades."""
     report_date = _last_trading_day()
     lines = []
@@ -54,10 +54,21 @@ def format_email(top_stocks, previous_position_symbols=None):
             lines += _format_position_trade(i, stock)
 
     # ── SWING TRADES ─────────────────────────────────────────────
-    if swing_trades:
+    if swing_trades or (previous_swing_symbols and any(s not in [x["symbol"] for x in swing_trades] for s in previous_swing_symbols)):
         lines.append("SWING TRADES  (hold days – 2 weeks)")
         lines.append("=" * 60)
         lines.append("")
+
+        # Show exited signals at the top so you know if something you were watching fell off
+        if previous_swing_symbols is not None:
+            current_swing_symbols = [s["symbol"] for s in swing_trades]
+            exited = [s for s in previous_swing_symbols if s not in current_swing_symbols]
+            if exited:
+                lines.append("  ⚠  EXITED SIGNAL (no longer showing breakout signals):")
+                lines.append(f"     {', '.join(exited)}")
+                lines.append("     If you hold any of these, consider reviewing your exit.")
+                lines.append("")
+
         for i, stock in enumerate(swing_trades, 1):
             lines += _format_swing_trade(i, stock)
 
