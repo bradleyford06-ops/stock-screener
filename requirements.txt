@@ -1,0 +1,10 @@
+yfinance
+pandas
+ta
+transformers
+torch
+requests
+python-dotenv
+schedule
+beautifulsoup4
+lxml
