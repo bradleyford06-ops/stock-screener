@@ -55,4 +55,18 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import argparse as _ap
+    _args = _ap.ArgumentParser()
+    _args.add_argument("--send", action="store_true")
+    _args.add_argument("--no-sentiment", action="store_true")
+    _args.add_argument("--cache-only", action="store_true")
+    _parsed, _ = _args.parse_known_args()
+
+    try:
+        main()
+    except Exception as crash:
+        logger.error(f"Screener crashed: {crash}")
+        if _parsed.send:
+            from email_report.error_alert import send_error_alert
+            send_error_alert(crash, context="Main screener run")
+        raise
