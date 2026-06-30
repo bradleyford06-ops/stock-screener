@@ -1,6 +1,5 @@
 import requests
 import logging
-from transformers import pipeline
 
 logger = logging.getLogger(__name__)
 
@@ -11,6 +10,7 @@ def get_sentiment_pipeline():
     """Load FinBERT sentiment model once and reuse it (model is ~400MB, slow first load)."""
     global _sentiment_pipeline
     if _sentiment_pipeline is None:
+        from transformers import pipeline
         logger.info("Loading FinBERT sentiment model (first run may take a minute)...")
         _sentiment_pipeline = pipeline(
             "text-classification",
