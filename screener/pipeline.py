@@ -106,6 +106,10 @@ def run_screener(tickers_csv, skip_sentiment=False, cache_only=False):
     top_10 = _enforce_tsx_minimum(ranked)
 
     save_report(top_10)
+
+    from screener.snapshot import save_snapshot
+    save_snapshot(top_10)
+
     return top_10
 
 
