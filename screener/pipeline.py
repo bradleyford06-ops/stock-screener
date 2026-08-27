@@ -110,6 +110,9 @@ def run_screener(tickers_csv, skip_sentiment=False, cache_only=False):
     from screener.snapshot import save_snapshot
     save_snapshot(top_10)
 
+    from screener.dashboard_export import export_dashboard_json
+    export_dashboard_json(top_10)
+
     return top_10
 
 

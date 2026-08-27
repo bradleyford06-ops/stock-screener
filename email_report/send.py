@@ -35,12 +35,35 @@ def send_email(subject, body, recipient=RECIPIENT):
     logger.info(f"Email sent to {recipient}")
 
 
+DASHBOARD_URL = "https://bradleyford06-ops.github.io/stock-screener/"
+
+
 def send_report(top_stocks, previous_position_symbols=None, previous_swing_symbols=None):
-    """Format and send the screener report email."""
-    from email_report.formatter import format_email
-    body = format_email(top_stocks, previous_position_symbols, previous_swing_symbols)
-    today = datetime.now().strftime("%b %d")
-    subject = f"Small-Cap Stock Screener — {today}"
+    """Send a short email linking to the updated dashboard."""
+    today = datetime.now().strftime("%B %d, %Y")
+    top3 = top_stocks[:3] if top_stocks else []
+
+    lines = [f"Canadian Small-Cap Screener — {today}", ""]
+    lines.append(f"The screener ran and the dashboard has been updated with {len(top_stocks)} picks.")
+    lines.append("")
+
+    if top3:
+        lines.append("Top 3 this run:")
+        for i, s in enumerate(top3, 1):
+            score = s.get('composite_score', 0)
+            ticker = s.get('symbol', '')
+            strategy = s.get('strategy', '')
+            lines.append(f"  #{i}  {ticker}  —  Score {score:.0f}/100  ({strategy})")
+        lines.append("")
+
+    lines.append(f"View full results and pick history:")
+    lines.append(f"  {DASHBOARD_URL}")
+    lines.append("")
+    lines.append("—")
+    lines.append("Canadian Small-Cap Screener · Runs Mon/Wed/Fri at 8AM ET")
+
+    subject = f"Canadian Screener Updated — {today}"
+    body = "\n".join(lines)
     send_email(subject, body)
     return body
 
