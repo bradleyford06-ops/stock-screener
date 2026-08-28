@@ -22,6 +22,13 @@ jobs:
       - name: Install dependencies
         run: pip install yfinance pandas ta requests python-dotenv beautifulsoup4 lxml
 
+      - name: Restore snapshot database
+        uses: actions/cache@v4
+        with:
+          path: data/snapshots.db
+          key: snapshots-db-${{ github.run_id }}
+          restore-keys: snapshots-db-
+
       - name: Create .env file
         run: |
           echo "GMAIL_ADDRESS=${{ secrets.GMAIL_ADDRESS }}" >> .env

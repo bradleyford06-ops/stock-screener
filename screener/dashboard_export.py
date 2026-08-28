@@ -60,10 +60,10 @@ def export_dashboard_json(top_stocks: list[dict] = None):
 
 
 def _load_history() -> list[dict]:
-    """Pull all snapshot rows, newest first."""
+    """Pull all snapshot rows, newest first. Returns empty list if DB not yet built."""
     try:
         if not os.path.exists(DB_PATH):
-            return []
+            return []  # history builds up over time as screener runs
         conn = sqlite3.connect(DB_PATH)
         cursor = conn.execute("""
             SELECT run_date, ticker, rank, total_score, price_at_recommendation,
