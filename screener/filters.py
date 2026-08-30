@@ -2,6 +2,7 @@ import logging
 
 logger = logging.getLogger(__name__)
 
+MIN_MARKET_CAP_CAD = 50_000_000     # $50 million CAD
 MAX_MARKET_CAP_CAD = 1_000_000_000  # $1 billion CAD
 MIN_AVG_DAILY_VOLUME = 50_000        # minimum shares/day to avoid illiquid stocks
 MIN_PRICE = 0.10                     # minimum share price — filters out most penny stocks
@@ -20,7 +21,7 @@ def passes_basic_filters(symbol, info, history):
         else:
             market_cap_cad = market_cap
 
-        if market_cap_cad <= 0 or market_cap_cad > MAX_MARKET_CAP_CAD:
+        if market_cap_cad < MIN_MARKET_CAP_CAD or market_cap_cad > MAX_MARKET_CAP_CAD:
             logger.debug(f"{symbol}: filtered out — market cap {market_cap_cad:,.0f} CAD")
             return False
 
