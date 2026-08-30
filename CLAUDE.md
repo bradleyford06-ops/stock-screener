@@ -77,6 +77,13 @@ Claude — responsible for all code, architecture, and technical decisions.
 - ALWAYS test email formatting before enabling scheduled sends
 
 ## Current Work Context
-**Status:** Project setup phase — folder structure and configuration created, screener not yet built.
-**Next step:** Build the core screener pipeline (ticker list → data fetch → technical analysis → scoring → email).
-**Phase:** 1 of 3 (Phase 2 = web dashboard, Phase 3 = position tracking / risk management is a separate project)
+**Status:** Both screeners running. Live dashboard at https://bradleyford06-ops.github.io/stock-screener/ — Canadian tab populated, US tab waiting for first successful run (Wednesday Sept 3).
+
+**Next steps:**
+1. Fix Position Trade exit logic in `screener/trade_tracker.py` — add 30-day minimum hold + -20% stop-loss before a Position Trade can exit
+2. Fix Canadian screener market cap filter — sub-$50M stocks appearing in results (check `screener/filters.py`)
+3. After Wednesday Sept 3: check US screener first run logs and review picks
+
+**Phase:** Dashboard (Phase 2) complete. Performance tracking live but exits not yet strategy-aware. US screener built, first live run pending.
+
+**Companion project:** `bradleyford06-ops/us-stock-screener` — US Small-Cap screener, same dashboard, runs Wednesdays 8AM ET.
