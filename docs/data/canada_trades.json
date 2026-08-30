@@ -1,0 +1,165 @@
+{
+  "active": [
+    {
+      "ticker": "HC.V",
+      "name": "Hypercharge Networks Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "entry_price": 0.1,
+      "entry_score": 55,
+      "entry_signals": {
+        "composite_score": 55
+      },
+      "entry_details": {
+        "composite_score": "Score 55/100 \u2014 RSI 60.9, volume 0.9x avg"
+      }
+    },
+    {
+      "ticker": "KRI.V",
+      "name": "Kobo Resources Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "entry_price": 0.255,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 60.2, volume 2.3x avg"
+      }
+    },
+    {
+      "ticker": "RAK.V",
+      "name": "Rackla Metals Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "entry_price": 0.165,
+      "entry_score": 49,
+      "entry_signals": {
+        "composite_score": 49
+      },
+      "entry_details": {
+        "composite_score": "Score 49/100 \u2014 RSI 62.9, volume 3.5x avg"
+      }
+    },
+    {
+      "ticker": "VM.V",
+      "name": "Voyageur Pharmaceuticals Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "entry_price": 0.14,
+      "entry_score": 47,
+      "entry_signals": {
+        "composite_score": 47
+      },
+      "entry_details": {
+        "composite_score": "Score 47/100 \u2014 RSI 74.4, volume 6.1x avg"
+      }
+    },
+    {
+      "ticker": "DBO.TO",
+      "name": "D-BOX Technologies Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-26",
+      "entry_price": 1.17,
+      "entry_score": 47,
+      "entry_signals": {
+        "composite_score": 47
+      },
+      "entry_details": {
+        "composite_score": "Score 47/100 \u2014 RSI 68.2, volume 0.4x avg"
+      }
+    },
+    {
+      "ticker": "FF.TO",
+      "name": "First Mining Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-26",
+      "entry_price": 0.68,
+      "entry_score": 47,
+      "entry_signals": {
+        "composite_score": 47
+      },
+      "entry_details": {
+        "composite_score": "Score 47/100 \u2014 RSI 68.8, volume 1.8x avg"
+      }
+    },
+    {
+      "ticker": "FFN.TO",
+      "name": "North American Financial 15 Split Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-26",
+      "entry_price": 11.77,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 93.5, volume 4.5x avg"
+      }
+    },
+    {
+      "ticker": "NXG.V",
+      "name": "NexgenRx Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "entry_price": 0.45,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 55.8, volume 3.3x avg"
+      }
+    },
+    {
+      "ticker": "BLN.TO",
+      "name": "Blackline Safety Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-26",
+      "entry_price": 9.04,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 61.2, volume 0.2x avg"
+      }
+    },
+    {
+      "ticker": "TTZ.V",
+      "name": "Total Telcom Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "entry_price": 0.51,
+      "entry_score": 42,
+      "entry_signals": {
+        "composite_score": 42
+      },
+      "entry_details": {
+        "composite_score": "Score 42/100 \u2014 RSI 61.1, volume 0.2x avg"
+      }
+    }
+  ],
+  "completed": []
+}

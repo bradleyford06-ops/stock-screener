@@ -313,17 +313,80 @@
   }
 
   /* ── Performance tab ── */
-  .perf-stub {
+  .stat-strip {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 10px;
+    margin-bottom: 24px;
+  }
+  .stat-tile {
     background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 48px 32px;
-    text-align: center;
+    border-radius: 8px;
+    padding: 16px 18px;
   }
-  .perf-stub .stub-icon { font-size: 36px; margin-bottom: 16px; }
-  .perf-stub h3 { font-family: 'Syne', sans-serif; font-weight: 700; font-size: 18px; margin-bottom: 8px; }
-  .perf-stub p { color: var(--text2); max-width: 480px; margin: 0 auto; line-height: 1.7; font-size: 14px; }
-  .perf-stub .coming { margin-top: 20px; display: inline-block; font-family: 'Syne', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); background: var(--accent-lo); padding: 6px 14px; border-radius: 4px; }
+  .stat-tile .stat-label {
+    font-family: 'Syne', sans-serif;
+    font-size: 10px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--text3);
+    margin-bottom: 6px;
+  }
+  .stat-tile .stat-value {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--text);
+    line-height: 1;
+  }
+  .stat-tile .stat-value.gain { color: var(--gain); }
+  .stat-tile .stat-value.loss { color: var(--loss); }
+
+  .signal-scorecard {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 8px;
+    margin-bottom: 24px;
+  }
+  .scorecard-row {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .scorecard-label {
+    font-family: 'Syne', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .04em;
+    color: var(--text2);
+  }
+  .scorecard-bar-wrap { display: flex; align-items: center; gap: 8px; }
+  .scorecard-bar-bg {
+    flex: 1;
+    height: 5px;
+    background: var(--surface2);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .scorecard-bar-fill {
+    height: 100%;
+    border-radius: 3px;
+    background: var(--gain);
+    transition: width .4s;
+  }
+  .scorecard-win-rate {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--text2);
+    white-space: nowrap;
+  }
+  .ret-pos { color: var(--gain); font-weight: 500; }
+  .ret-neg { color: var(--loss); font-weight: 500; }
 
   /* ── Empty/loading states ── */
   .state-card {
@@ -427,16 +490,56 @@
 
 <!-- Performance Record tab -->
 <div id="page-perf" class="page">
-  <div class="perf-stub">
-    <div class="stub-icon">📈</div>
-    <h3>Performance Record</h3>
-    <p>
-      This tab will track every completed trade — entry price when a stock first appeared on the list,
-      exit price when it dropped off. You'll see total return, win rate, and average hold time.
-      <br><br>
-      We're building the record now. Come back after the first quarter of data.
-    </p>
-    <div class="coming">Coming Q4 2026</div>
+  <div class="meta-bar">
+    <h2>Performance Record</h2>
+    <div class="meta-right">
+      <span class="badge badge-updated" style="font-size:11px;">Entry = appeared on list &nbsp;·&nbsp; Exit = dropped off list</span>
+    </div>
+  </div>
+
+  <!-- Summary stats -->
+  <div class="stat-strip" id="perf-stats">
+    <div class="stat-tile"><div class="stat-label">Completed Trades</div><div class="stat-value" id="stat-trades">—</div></div>
+    <div class="stat-tile"><div class="stat-label">Win Rate</div><div class="stat-value" id="stat-winrate">—</div></div>
+    <div class="stat-tile"><div class="stat-label">Avg Return</div><div class="stat-value" id="stat-avgret">—</div></div>
+    <div class="stat-tile"><div class="stat-label">Best Trade</div><div class="stat-value gain" id="stat-best">—</div></div>
+    <div class="stat-tile"><div class="stat-label">Worst Trade</div><div class="stat-value loss" id="stat-worst">—</div></div>
+    <div class="stat-tile"><div class="stat-label">Avg Hold Time</div><div class="stat-value" id="stat-hold">—</div></div>
+  </div>
+
+  <!-- Signal scorecard -->
+  <div class="section-title">Signal Attribution — Which Signals Led to Winners</div>
+  <div class="signal-scorecard" id="perf-scorecard">
+    <div class="state-card" style="grid-column:1/-1;padding:20px;"><p>Builds after first completed trades.</p></div>
+  </div>
+
+  <!-- Active positions -->
+  <div class="section-title" style="margin-top:24px;">Active Positions — Currently on the List</div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Ticker</th><th>Screener</th><th>Entry Date</th><th>Entry Price</th>
+          <th>Score at Entry</th><th>Top Signal</th><th>Days Held</th>
+        </tr>
+      </thead>
+      <tbody id="perf-active"></tbody>
+    </table>
+  </div>
+
+  <!-- Completed trades -->
+  <div class="section-title" style="margin-top:28px;">Completed Trades</div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Ticker</th><th>Screener</th><th>Entry</th><th>Exit</th>
+          <th>Entry $</th><th>Exit $</th><th>Return</th><th>Days</th>
+          <th>Score</th><th>Top Signal</th>
+        </tr>
+      </thead>
+      <tbody id="perf-completed"></tbody>
+    </table>
   </div>
 </div>
 
@@ -654,4 +757,124 @@ async function loadData(url, renderFn, updatedEl) {
 
 loadData('data/canada.json', renderCanada, 'ca-updated');
 loadData('data/us.json',     renderUS,     'us-updated');
+
+// ── Performance tab ──
+const SIGNAL_LABELS = {
+  insider:        'Insider Buying',
+  institutional:  'Institutional',
+  revenue:        'Revenue Growth',
+  momentum:       'Price Momentum',
+  short_interest: 'Short Interest',
+  balance_sheet:  'Balance Sheet',
+  composite_score:'Composite Score',
+};
+
+function daysSince(dateStr) {
+  const d = new Date(dateStr);
+  return Math.round((Date.now() - d.getTime()) / 86400000);
+}
+
+function renderPerformance(caTrades, usTrades) {
+  const active    = [...(caTrades.active || []), ...(usTrades.active || [])];
+  const completed = [...(caTrades.completed || []), ...(usTrades.completed || [])]
+    .sort((a, b) => new Date(b.exit_date) - new Date(a.exit_date));
+
+  // ── Stats ──
+  const withReturn = completed.filter(t => t.return_pct != null);
+  const winners    = withReturn.filter(t => t.return_pct > 0);
+  const winRate    = withReturn.length ? (winners.length / withReturn.length * 100) : null;
+  const avgRet     = withReturn.length ? withReturn.reduce((s, t) => s + t.return_pct, 0) / withReturn.length : null;
+  const best       = withReturn.length ? Math.max(...withReturn.map(t => t.return_pct)) : null;
+  const worst      = withReturn.length ? Math.min(...withReturn.map(t => t.return_pct)) : null;
+  const avgHold    = completed.filter(t => t.days_held).length
+    ? Math.round(completed.filter(t => t.days_held).reduce((s, t) => s + t.days_held, 0) / completed.filter(t => t.days_held).length)
+    : null;
+
+  document.getElementById('stat-trades').textContent  = completed.length || '—';
+  document.getElementById('stat-winrate').textContent = winRate != null ? winRate.toFixed(0) + '%' : '—';
+  document.getElementById('stat-avgret').textContent  = avgRet  != null ? (avgRet > 0 ? '+' : '') + avgRet.toFixed(1) + '%' : '—';
+  document.getElementById('stat-best').textContent    = best    != null ? '+' + best.toFixed(1) + '%' : '—';
+  document.getElementById('stat-worst').textContent   = worst   != null ? worst.toFixed(1) + '%' : '—';
+  document.getElementById('stat-hold').textContent    = avgHold != null ? avgHold + 'd' : '—';
+
+  // ── Signal scorecard ──
+  const scorecardEl = document.getElementById('perf-scorecard');
+  if (completed.length === 0) {
+    scorecardEl.innerHTML = '<div class="state-card" style="grid-column:1/-1;padding:20px;"><p>Builds after first completed trades.</p></div>';
+  } else {
+    const signalStats = {};
+    for (const trade of withReturn) {
+      const top = trade.top_signal;
+      if (!top) continue;
+      if (!signalStats[top]) signalStats[top] = { wins: 0, total: 0 };
+      signalStats[top].total++;
+      if (trade.return_pct > 0) signalStats[top].wins++;
+    }
+    if (!Object.keys(signalStats).length) {
+      scorecardEl.innerHTML = '<div class="state-card" style="grid-column:1/-1;padding:20px;"><p>Not enough data yet.</p></div>';
+    } else {
+      scorecardEl.innerHTML = Object.entries(signalStats).map(([sig, s]) => {
+        const wr = s.total ? (s.wins / s.total * 100) : 0;
+        return `
+          <div class="scorecard-row">
+            <div class="scorecard-label">${SIGNAL_LABELS[sig] || sig}</div>
+            <div class="scorecard-bar-wrap">
+              <div class="scorecard-bar-bg"><div class="scorecard-bar-fill" style="width:${wr}%"></div></div>
+              <div class="scorecard-win-rate">${wr.toFixed(0)}% win &nbsp;(${s.total} trades)</div>
+            </div>
+          </div>`;
+      }).join('');
+    }
+  }
+
+  // ── Active positions ──
+  const activeEl = document.getElementById('perf-active');
+  if (!active.length) {
+    activeEl.innerHTML = '<tr><td colspan="7" style="text-align:center;color:var(--text3);padding:20px;">No active positions yet.</td></tr>';
+  } else {
+    activeEl.innerHTML = active.map(t => `
+      <tr>
+        <td class="ticker-cell">${t.ticker}</td>
+        <td>${t.screener === 'us' ? 'US' : 'Canada'}</td>
+        <td>${t.entry_date}</td>
+        <td>$${fmt(t.entry_price)}</td>
+        <td>${t.entry_score || '—'}</td>
+        <td>${SIGNAL_LABELS[t.top_signal] || t.top_signal || '—'}</td>
+        <td>${daysSince(t.entry_date)}d</td>
+      </tr>`).join('');
+  }
+
+  // ── Completed trades ──
+  const completedEl = document.getElementById('perf-completed');
+  if (!completed.length) {
+    completedEl.innerHTML = '<tr><td colspan="10" style="text-align:center;color:var(--text3);padding:20px;">No completed trades yet — exits are recorded when a stock drops off the top 10.</td></tr>';
+  } else {
+    completedEl.innerHTML = completed.map(t => {
+      const retClass = t.return_pct > 0 ? 'ret-pos' : t.return_pct < 0 ? 'ret-neg' : '';
+      const retStr   = t.return_pct != null ? (t.return_pct > 0 ? '+' : '') + t.return_pct.toFixed(1) + '%' : '—';
+      return `
+        <tr>
+          <td class="ticker-cell">${t.ticker}</td>
+          <td>${t.screener === 'us' ? 'US' : 'Canada'}</td>
+          <td>${t.entry_date}</td>
+          <td>${t.exit_date}</td>
+          <td>$${fmt(t.entry_price)}</td>
+          <td>${t.exit_price ? '$' + fmt(t.exit_price) : '—'}</td>
+          <td class="${retClass}">${retStr}</td>
+          <td>${t.days_held != null ? t.days_held + 'd' : '—'}</td>
+          <td>${t.entry_score || '—'}</td>
+          <td>${SIGNAL_LABELS[t.top_signal] || t.top_signal || '—'}</td>
+        </tr>`;
+    }).join('');
+  }
+}
+
+async function loadPerformance() {
+  let caTrades = { active: [], completed: [] };
+  let usTrades = { active: [], completed: [] };
+  try { caTrades = await fetch('data/canada_trades.json').then(r => r.ok ? r.json() : caTrades); } catch {}
+  try { usTrades = await fetch('data/us_trades.json').then(r => r.ok ? r.json() : usTrades); } catch {}
+  renderPerformance(caTrades, usTrades);
+}
+loadPerformance();
 </script>

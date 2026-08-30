@@ -113,6 +113,9 @@ def run_screener(tickers_csv, skip_sentiment=False, cache_only=False):
     from screener.dashboard_export import export_dashboard_json
     export_dashboard_json(top_10)
 
+    from screener.trade_tracker import update_trades
+    update_trades(top_10)
+
     return top_10
 
 
