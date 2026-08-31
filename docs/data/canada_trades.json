@@ -1,70 +1,6 @@
 {
   "active": [
     {
-      "ticker": "HC.V",
-      "name": "Hypercharge Networks Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-26",
-      "entry_price": 0.1,
-      "entry_score": 55,
-      "entry_signals": {
-        "composite_score": 55
-      },
-      "entry_details": {
-        "composite_score": "Score 55/100 \u2014 RSI 60.9, volume 0.9x avg"
-      }
-    },
-    {
-      "ticker": "KRI.V",
-      "name": "Kobo Resources Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-26",
-      "entry_price": 0.255,
-      "entry_score": 52,
-      "entry_signals": {
-        "composite_score": 52
-      },
-      "entry_details": {
-        "composite_score": "Score 52/100 \u2014 RSI 60.2, volume 2.3x avg"
-      }
-    },
-    {
-      "ticker": "RAK.V",
-      "name": "Rackla Metals Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-26",
-      "entry_price": 0.165,
-      "entry_score": 49,
-      "entry_signals": {
-        "composite_score": 49
-      },
-      "entry_details": {
-        "composite_score": "Score 49/100 \u2014 RSI 62.9, volume 3.5x avg"
-      }
-    },
-    {
-      "ticker": "VM.V",
-      "name": "Voyageur Pharmaceuticals Ltd.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-26",
-      "entry_price": 0.14,
-      "entry_score": 47,
-      "entry_signals": {
-        "composite_score": 47
-      },
-      "entry_details": {
-        "composite_score": "Score 47/100 \u2014 RSI 74.4, volume 6.1x avg"
-      }
-    },
-    {
       "ticker": "DBO.TO",
       "name": "D-BOX Technologies Inc.",
       "screener": "canada",
@@ -78,39 +14,10 @@
       },
       "entry_details": {
         "composite_score": "Score 47/100 \u2014 RSI 68.2, volume 0.4x avg"
-      }
-    },
-    {
-      "ticker": "FF.TO",
-      "name": "First Mining Gold Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-08-26",
-      "entry_price": 0.68,
-      "entry_score": 47,
-      "entry_signals": {
-        "composite_score": 47
       },
-      "entry_details": {
-        "composite_score": "Score 47/100 \u2014 RSI 68.8, volume 1.8x avg"
-      }
-    },
-    {
-      "ticker": "FFN.TO",
-      "name": "North American Financial 15 Split Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-08-26",
-      "entry_price": 11.77,
-      "entry_score": 44,
-      "entry_signals": {
-        "composite_score": 44
-      },
-      "entry_details": {
-        "composite_score": "Score 44/100 \u2014 RSI 93.5, volume 4.5x avg"
-      }
+      "last_price": 1.1399999856948853,
+      "last_checked": "2026-08-31",
+      "on_list": false
     },
     {
       "ticker": "NXG.V",
@@ -126,7 +33,10 @@
       },
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 55.8, volume 3.3x avg"
-      }
+      },
+      "last_price": 0.6000000238418579,
+      "last_checked": "2026-08-31",
+      "on_list": false
     },
     {
       "ticker": "BLN.TO",
@@ -142,7 +52,10 @@
       },
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 61.2, volume 0.2x avg"
-      }
+      },
+      "last_price": 9.05,
+      "last_checked": "2026-08-31",
+      "on_list": false
     },
     {
       "ticker": "TTZ.V",
@@ -158,8 +71,334 @@
       },
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 61.1, volume 0.2x avg"
-      }
+      },
+      "last_price": 0.5699999928474426,
+      "last_checked": "2026-08-31",
+      "on_list": false
+    },
+    {
+      "ticker": "FOR.V",
+      "name": "Fortune Bay Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "entry_price": 0.9,
+      "entry_score": 56,
+      "entry_signals": {
+        "composite_score": 56
+      },
+      "entry_details": {
+        "composite_score": "Score 56/100 \u2014 RSI 71.8, volume 3.1x avg"
+      },
+      "last_price": 0.9,
+      "last_checked": "2026-08-31",
+      "on_list": true
+    },
+    {
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "entry_price": 0.57,
+      "entry_score": 55,
+      "entry_signals": {
+        "composite_score": 55
+      },
+      "entry_details": {
+        "composite_score": "Score 55/100 \u2014 RSI 62.4, volume 1.8x avg"
+      },
+      "last_price": 0.57,
+      "last_checked": "2026-08-31",
+      "on_list": true
+    },
+    {
+      "ticker": "VHI.TO",
+      "name": "Vitalhub Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-31",
+      "entry_price": 8.64,
+      "entry_score": 55,
+      "entry_signals": {
+        "composite_score": 55
+      },
+      "entry_details": {
+        "composite_score": "Score 55/100 \u2014 RSI 68.6, volume 0.9x avg"
+      },
+      "last_price": 8.64,
+      "last_checked": "2026-08-31",
+      "on_list": true
+    },
+    {
+      "ticker": "FRED.V",
+      "name": "Fredonia Mining Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "entry_price": 0.83,
+      "entry_score": 54,
+      "entry_signals": {
+        "composite_score": 54
+      },
+      "entry_details": {
+        "composite_score": "Score 54/100 \u2014 RSI 81.3, volume 7.2x avg"
+      },
+      "last_price": 0.83,
+      "last_checked": "2026-08-31",
+      "on_list": true
+    },
+    {
+      "ticker": "VIPR.V",
+      "name": "Silver Viper Minerals Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "entry_price": 0.475,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 68.3, volume 2.6x avg"
+      },
+      "last_price": 0.475,
+      "last_checked": "2026-08-31",
+      "on_list": true
+    },
+    {
+      "ticker": "NRC.V",
+      "name": "Nations Royalty Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "entry_price": 1.11,
+      "entry_score": 51,
+      "entry_signals": {
+        "composite_score": 51
+      },
+      "entry_details": {
+        "composite_score": "Score 51/100 \u2014 RSI 59.4, volume 2.2x avg"
+      },
+      "last_price": 1.11,
+      "last_checked": "2026-08-31",
+      "on_list": true
+    },
+    {
+      "ticker": "MNO.TO",
+      "name": "Meridian Mining Plc",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-31",
+      "entry_price": 1.85,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 67.0, volume 2.0x avg"
+      },
+      "last_price": 1.85,
+      "last_checked": "2026-08-31",
+      "on_list": true
+    },
+    {
+      "ticker": "THX.V",
+      "name": "Thor Explorations Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "entry_price": 1.33,
+      "entry_score": 49,
+      "entry_signals": {
+        "composite_score": 49
+      },
+      "entry_details": {
+        "composite_score": "Score 49/100 \u2014 RSI 63.0, volume 0.3x avg"
+      },
+      "last_price": 1.33,
+      "last_checked": "2026-08-31",
+      "on_list": true
+    },
+    {
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-31",
+      "entry_price": 16.93,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 74.8, volume 0.7x avg"
+      },
+      "last_price": 16.93,
+      "last_checked": "2026-08-31",
+      "on_list": true
+    },
+    {
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "entry_price": 3.09,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 64.8, volume 1.4x avg"
+      },
+      "last_price": 3.09,
+      "last_checked": "2026-08-31",
+      "on_list": true
     }
   ],
-  "completed": []
+  "completed": [
+    {
+      "ticker": "HC.V",
+      "name": "Hypercharge Networks Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-08-31",
+      "entry_price": 0.1,
+      "exit_price": 0.07,
+      "return_pct": -30.0,
+      "days_held": 5,
+      "entry_score": 55,
+      "entry_signals": {
+        "composite_score": 55
+      },
+      "entry_details": {
+        "composite_score": "Score 55/100 \u2014 RSI 60.9, volume 0.9x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "KRI.V",
+      "name": "Kobo Resources Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-08-31",
+      "entry_price": 0.255,
+      "exit_price": 0.215,
+      "return_pct": -15.69,
+      "days_held": 5,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 60.2, volume 2.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "RAK.V",
+      "name": "Rackla Metals Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-08-31",
+      "entry_price": 0.165,
+      "exit_price": 0.2625,
+      "return_pct": 59.09,
+      "days_held": 5,
+      "entry_score": 49,
+      "entry_signals": {
+        "composite_score": 49
+      },
+      "entry_details": {
+        "composite_score": "Score 49/100 \u2014 RSI 62.9, volume 3.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "VM.V",
+      "name": "Voyageur Pharmaceuticals Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-08-31",
+      "entry_price": 0.14,
+      "exit_price": 0.17,
+      "return_pct": 21.43,
+      "days_held": 5,
+      "entry_score": 47,
+      "entry_signals": {
+        "composite_score": 47
+      },
+      "entry_details": {
+        "composite_score": "Score 47/100 \u2014 RSI 74.4, volume 6.1x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "FF.TO",
+      "name": "First Mining Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-08-31",
+      "entry_price": 0.68,
+      "exit_price": 0.88,
+      "return_pct": 29.41,
+      "days_held": 5,
+      "entry_score": 47,
+      "entry_signals": {
+        "composite_score": 47
+      },
+      "entry_details": {
+        "composite_score": "Score 47/100 \u2014 RSI 68.8, volume 1.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "FFN.TO",
+      "name": "North American Financial 15 Split Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-08-31",
+      "entry_price": 11.77,
+      "exit_price": 9.88,
+      "return_pct": -16.06,
+      "days_held": 5,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 93.5, volume 4.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    }
+  ]
 }
