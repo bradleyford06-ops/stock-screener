@@ -15,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 47/100 \u2014 RSI 68.2, volume 0.4x avg"
       },
-      "last_price": 1.1399999856948853,
-      "last_checked": "2026-08-31",
+      "last_price": 1.100000023841858,
+      "last_checked": "2026-09-02",
       "on_list": false
     },
     {
@@ -34,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 55.8, volume 3.3x avg"
       },
-      "last_price": 0.6000000238418579,
-      "last_checked": "2026-08-31",
+      "last_price": 0.6200000047683716,
+      "last_checked": "2026-09-02",
       "on_list": false
     },
     {
@@ -54,7 +54,7 @@
         "composite_score": "Score 43/100 \u2014 RSI 61.2, volume 0.2x avg"
       },
       "last_price": 9.05,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-02",
       "on_list": false
     },
     {
@@ -72,28 +72,9 @@
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 61.1, volume 0.2x avg"
       },
-      "last_price": 0.5699999928474426,
-      "last_checked": "2026-08-31",
+      "last_price": 0.55,
+      "last_checked": "2026-09-02",
       "on_list": false
-    },
-    {
-      "ticker": "FOR.V",
-      "name": "Fortune Bay Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-31",
-      "entry_price": 0.9,
-      "entry_score": 56,
-      "entry_signals": {
-        "composite_score": 56
-      },
-      "entry_details": {
-        "composite_score": "Score 56/100 \u2014 RSI 71.8, volume 3.1x avg"
-      },
-      "last_price": 0.9,
-      "last_checked": "2026-08-31",
-      "on_list": true
     },
     {
       "ticker": "AXL.V",
@@ -111,7 +92,7 @@
         "composite_score": "Score 55/100 \u2014 RSI 62.4, volume 1.8x avg"
       },
       "last_price": 0.57,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-02",
       "on_list": true
     },
     {
@@ -129,47 +110,9 @@
       "entry_details": {
         "composite_score": "Score 55/100 \u2014 RSI 68.6, volume 0.9x avg"
       },
-      "last_price": 8.64,
-      "last_checked": "2026-08-31",
-      "on_list": true
-    },
-    {
-      "ticker": "FRED.V",
-      "name": "Fredonia Mining Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-31",
-      "entry_price": 0.83,
-      "entry_score": 54,
-      "entry_signals": {
-        "composite_score": 54
-      },
-      "entry_details": {
-        "composite_score": "Score 54/100 \u2014 RSI 81.3, volume 7.2x avg"
-      },
-      "last_price": 0.83,
-      "last_checked": "2026-08-31",
-      "on_list": true
-    },
-    {
-      "ticker": "VIPR.V",
-      "name": "Silver Viper Minerals Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-31",
-      "entry_price": 0.475,
-      "entry_score": 52,
-      "entry_signals": {
-        "composite_score": 52
-      },
-      "entry_details": {
-        "composite_score": "Score 52/100 \u2014 RSI 68.3, volume 2.6x avg"
-      },
-      "last_price": 0.475,
-      "last_checked": "2026-08-31",
-      "on_list": true
+      "last_price": 8.170000076293945,
+      "last_checked": "2026-09-02",
+      "on_list": false
     },
     {
       "ticker": "NRC.V",
@@ -186,8 +129,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 59.4, volume 2.2x avg"
       },
-      "last_price": 1.11,
-      "last_checked": "2026-08-31",
+      "last_price": 1.21,
+      "last_checked": "2026-09-02",
       "on_list": true
     },
     {
@@ -205,8 +148,8 @@
       "entry_details": {
         "composite_score": "Score 50/100 \u2014 RSI 67.0, volume 2.0x avg"
       },
-      "last_price": 1.85,
-      "last_checked": "2026-08-31",
+      "last_price": 1.88,
+      "last_checked": "2026-09-02",
       "on_list": true
     },
     {
@@ -224,9 +167,9 @@
       "entry_details": {
         "composite_score": "Score 49/100 \u2014 RSI 63.0, volume 0.3x avg"
       },
-      "last_price": 1.33,
-      "last_checked": "2026-08-31",
-      "on_list": true
+      "last_price": 1.3600000143051147,
+      "last_checked": "2026-09-02",
+      "on_list": false
     },
     {
       "ticker": "KITS.TO",
@@ -243,9 +186,9 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 74.8, volume 0.7x avg"
       },
-      "last_price": 16.93,
-      "last_checked": "2026-08-31",
-      "on_list": true
+      "last_price": 15.720000267028809,
+      "last_checked": "2026-09-02",
+      "on_list": false
     },
     {
       "ticker": "GG.V",
@@ -262,8 +205,141 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 64.8, volume 1.4x avg"
       },
-      "last_price": 3.09,
-      "last_checked": "2026-08-31",
+      "last_price": 2.9600000381469727,
+      "last_checked": "2026-09-02",
+      "on_list": false
+    },
+    {
+      "ticker": "CEMX.TO",
+      "name": "CEMATRIX Corporation",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-02",
+      "entry_price": 0.52,
+      "entry_score": 67,
+      "entry_signals": {
+        "composite_score": 67
+      },
+      "entry_details": {
+        "composite_score": "Score 67/100 \u2014 RSI 63.3, volume 6.4x avg"
+      },
+      "last_price": 0.52,
+      "last_checked": "2026-09-02",
+      "on_list": true
+    },
+    {
+      "ticker": "UGD.V",
+      "name": "Unigold Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-02",
+      "entry_price": 0.24,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 70.1, volume 5.5x avg"
+      },
+      "last_price": 0.24,
+      "last_checked": "2026-09-02",
+      "on_list": true
+    },
+    {
+      "ticker": "PNPN.V",
+      "name": "Power Metallic Mines Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-02",
+      "entry_price": 1.44,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 68.1, volume 1.8x avg"
+      },
+      "last_price": 1.44,
+      "last_checked": "2026-09-02",
+      "on_list": true
+    },
+    {
+      "ticker": "AZT.V",
+      "name": "Aztec Minerals Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-02",
+      "entry_price": 0.3575,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 68.1, volume 1.9x avg"
+      },
+      "last_price": 0.3575,
+      "last_checked": "2026-09-02",
+      "on_list": true
+    },
+    {
+      "ticker": "HI.V",
+      "name": "Highland Copper Company Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-02",
+      "entry_price": 0.17,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 63.5, volume 3.1x avg"
+      },
+      "last_price": 0.17,
+      "last_checked": "2026-09-02",
+      "on_list": true
+    },
+    {
+      "ticker": "SGN.V",
+      "name": "Scorpio Gold Corporation",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-02",
+      "entry_price": 0.355,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 64.6, volume 0.0x avg"
+      },
+      "last_price": 0.355,
+      "last_checked": "2026-09-02",
+      "on_list": true
+    },
+    {
+      "ticker": "WILD.TO",
+      "name": "WildBrain Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-02",
+      "entry_price": 1.69,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 71.1, volume 0.3x avg"
+      },
+      "last_price": 1.69,
+      "last_checked": "2026-09-02",
       "on_list": true
     }
   ],
@@ -396,6 +472,72 @@
       },
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 93.5, volume 4.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "FOR.V",
+      "name": "Fortune Bay Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "exit_date": "2026-09-02",
+      "entry_price": 0.9,
+      "exit_price": 0.93,
+      "return_pct": 3.33,
+      "days_held": 2,
+      "entry_score": 56,
+      "entry_signals": {
+        "composite_score": 56
+      },
+      "entry_details": {
+        "composite_score": "Score 56/100 \u2014 RSI 71.8, volume 3.1x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "FRED.V",
+      "name": "Fredonia Mining Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "exit_date": "2026-09-02",
+      "entry_price": 0.83,
+      "exit_price": 0.87,
+      "return_pct": 4.82,
+      "days_held": 2,
+      "entry_score": 54,
+      "entry_signals": {
+        "composite_score": 54
+      },
+      "entry_details": {
+        "composite_score": "Score 54/100 \u2014 RSI 81.3, volume 7.2x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "VIPR.V",
+      "name": "Silver Viper Minerals Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "exit_date": "2026-09-02",
+      "entry_price": 0.475,
+      "exit_price": 0.47,
+      "return_pct": -1.05,
+      "days_held": 2,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 68.3, volume 2.6x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
