@@ -1,0 +1,318 @@
+{
+  "last_updated": "2026-09-06",
+  "current": [
+    {
+      "rank": 1,
+      "ticker": "FSUN",
+      "score": 70,
+      "price": 40.92,
+      "market_cap": 1798449024,
+      "scores": {
+        "insider": 0,
+        "institutional": 15,
+        "revenue": 20,
+        "momentum": 15,
+        "short_interest": 10,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "No insider purchases in last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Strong acceleration: 65.0% revenue growth last quarter (accelerating)",
+        "momentum": "Price $40.92 is 1.2% below its 52-week high of $41.40. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Very low short interest (3.0% of float) \u2014 minimal bearish pressure",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($990M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 2,
+      "ticker": "LCLN",
+      "score": 70,
+      "price": 27.19,
+      "market_cap": 2860534016,
+      "scores": {
+        "insider": 0,
+        "institutional": 15,
+        "revenue": 20,
+        "momentum": 15,
+        "short_interest": 10,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "No insider purchases in last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Strong acceleration: 43.0% revenue growth last quarter (accelerating)",
+        "momentum": "Price $27.19 is 0.0% below its 52-week high of $27.19. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Very low short interest (1.8% of float) \u2014 minimal bearish pressure",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($251M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 3,
+      "ticker": "VIR",
+      "score": 64,
+      "price": 11.39,
+      "market_cap": 1926523648,
+      "scores": {
+        "insider": 0,
+        "institutional": 15,
+        "revenue": 20,
+        "momentum": 15,
+        "short_interest": 4,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "No insider purchases in last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Strong acceleration: 582868.3% revenue growth last quarter (accelerating)",
+        "momentum": "Price $11.39 is 2.1% below its 52-week high of $11.63. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Moderate short interest (11.7% of float)",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($279M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "BFLY",
+      "score": 63,
+      "price": 7.36,
+      "market_cap": 1959858944,
+      "scores": {
+        "insider": 20,
+        "institutional": 15,
+        "revenue": 15,
+        "momentum": 3,
+        "short_interest": 0,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "1 open-market purchase(s) by Phanstiel S. Louise totaling $999,510 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Healthy acceleration: 22.9% revenue growth last quarter (accelerating)",
+        "momentum": "Price $7.36 is 24.1% below its 52-week high of $9.70. Currently in below key moving averages.",
+        "short_interest": "High short interest (15.0% of float) \u2014 significant bearish pressure",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($125M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 5,
+      "ticker": "MGTX",
+      "score": 62,
+      "price": 13.89,
+      "market_cap": 1334037248,
+      "scores": {
+        "insider": 0,
+        "institutional": 15,
+        "revenue": 20,
+        "momentum": 13,
+        "short_interest": 7,
+        "balance_sheet": 7
+      },
+      "details": {
+        "insider": "No insider purchases in last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Strong acceleration: 109604.4% revenue growth last quarter (accelerating)",
+        "momentum": "Price $13.89 is 7.2% below its 52-week high of $14.97. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Low short interest (5.4% of float)",
+        "balance_sheet": "Healthy balance sheet \u2014 more cash than debt"
+      }
+    },
+    {
+      "rank": 6,
+      "ticker": "HGTY",
+      "score": 60,
+      "price": 13.55,
+      "market_cap": 4656087552,
+      "scores": {
+        "insider": 0,
+        "institutional": 15,
+        "revenue": 10,
+        "momentum": 15,
+        "short_interest": 10,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "No insider purchases in last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Moderate growth: 13.8% revenue growth last quarter (accelerating)",
+        "momentum": "Price $13.55 is 2.0% below its 52-week high of $13.82. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Very low short interest (2.0% of float) \u2014 minimal bearish pressure",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($298M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 7,
+      "ticker": "MMI",
+      "score": 59,
+      "price": 31.89,
+      "market_cap": 1207706240,
+      "scores": {
+        "insider": 0,
+        "institutional": 15,
+        "revenue": 15,
+        "momentum": 15,
+        "short_interest": 4,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "No insider purchases in last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Healthy acceleration: 18.3% revenue growth last quarter (accelerating)",
+        "momentum": "Price $31.89 is 2.6% below its 52-week high of $32.75. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Moderate short interest (7.0% of float)",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($152M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 8,
+      "ticker": "GABC",
+      "score": 58,
+      "price": 50.01,
+      "market_cap": 1879316096,
+      "scores": {
+        "insider": 15,
+        "institutional": 15,
+        "revenue": 2,
+        "momentum": 15,
+        "short_interest": 7,
+        "balance_sheet": 4
+      },
+      "details": {
+        "insider": "4 open-market purchase(s) by Ryan Christina M and Bawel Zachary W totaling $62,500 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Minimal growth: 4.0% revenue growth last quarter (accelerating)",
+        "momentum": "Price $50.01 is 2.7% below its 52-week high of $51.38. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Low short interest (3.3% of float)",
+        "balance_sheet": "Moderate debt load \u2014 manageable but watching"
+      }
+    },
+    {
+      "rank": 9,
+      "ticker": "OPK",
+      "score": 58,
+      "price": 1.64,
+      "market_cap": 1223978368,
+      "scores": {
+        "insider": 0,
+        "institutional": 15,
+        "revenue": 20,
+        "momentum": 15,
+        "short_interest": 4,
+        "balance_sheet": 4
+      },
+      "details": {
+        "insider": "No insider purchases in last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Strong acceleration: 31.7% revenue growth last quarter (accelerating)",
+        "momentum": "Price $1.64 is 3.0% below its 52-week high of $1.69. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Moderate short interest (8.1% of float)",
+        "balance_sheet": "Moderate debt load \u2014 manageable but watching"
+      }
+    },
+    {
+      "rank": 10,
+      "ticker": "OCSL",
+      "score": 58,
+      "price": 13.06,
+      "market_cap": 1150396928,
+      "scores": {
+        "insider": 0,
+        "institutional": 15,
+        "revenue": 20,
+        "momentum": 15,
+        "short_interest": 7,
+        "balance_sheet": 1
+      },
+      "details": {
+        "insider": "No insider purchases in last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Strong acceleration: 325.8% revenue growth last quarter (accelerating)",
+        "momentum": "Price $13.06 is 1.5% below its 52-week high of $13.26. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Low short interest (3.4% of float)",
+        "balance_sheet": "High debt relative to cash \u2014 balance sheet risk"
+      }
+    }
+  ],
+  "previous": [],
+  "history": [
+    {
+      "run_date": "2026-09-06",
+      "ticker": "FSUN",
+      "rank": 1,
+      "total_score": 70,
+      "price_at_recommendation": 40.92,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-06",
+      "ticker": "LCLN",
+      "rank": 2,
+      "total_score": 70,
+      "price_at_recommendation": 27.19,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-06",
+      "ticker": "VIR",
+      "rank": 3,
+      "total_score": 64,
+      "price_at_recommendation": 11.39,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-06",
+      "ticker": "BFLY",
+      "rank": 4,
+      "total_score": 63,
+      "price_at_recommendation": 7.36,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-06",
+      "ticker": "MGTX",
+      "rank": 5,
+      "total_score": 62,
+      "price_at_recommendation": 13.89,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-06",
+      "ticker": "HGTY",
+      "rank": 6,
+      "total_score": 60,
+      "price_at_recommendation": 13.55,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-06",
+      "ticker": "MMI",
+      "rank": 7,
+      "total_score": 59,
+      "price_at_recommendation": 31.89,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-06",
+      "ticker": "GABC",
+      "rank": 8,
+      "total_score": 58,
+      "price_at_recommendation": 50.01,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-06",
+      "ticker": "OPK",
+      "rank": 9,
+      "total_score": 58,
+      "price_at_recommendation": 1.64,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-06",
+      "ticker": "OCSL",
+      "rank": 10,
+      "total_score": 58,
+      "price_at_recommendation": 13.06,
+      "strategy": "Position Trade"
+    }
+  ]
+}
