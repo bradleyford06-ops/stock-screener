@@ -1,200 +1,300 @@
 {
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-09-07",
   "current": [
     {
       "rank": 1,
       "ticker": "NRC.V",
       "name": "Nations Royalty Corp.",
-      "score": 51,
-      "price": 1.2,
-      "market_cap": 186276768,
-      "strategy": "Position Trade",
+      "score": 64,
+      "price": 1.24,
+      "market_cap": 192486000,
+      "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 51
+        "composite_score": 64
       },
       "details": {
-        "composite_score": "Technical score 51/100 \u2014 RSI 65, volume 0.5x avg. Position Trade signal."
+        "composite_score": "Technical score 64/100 \u2014 RSI 68, volume 0.6x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "CYG.V",
-      "name": "Cygnus Metals Limited",
-      "score": 51,
-      "price": 0.18,
-      "market_cap": 220966576,
+      "ticker": "CANX.V",
+      "name": "CANEX Metals Inc.",
+      "score": 54,
+      "price": 0.4,
+      "market_cap": 105894336,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 51
+        "composite_score": 54
       },
       "details": {
-        "composite_score": "Technical score 51/100 \u2014 RSI 68, volume 4.2x avg. Swing Trade signal."
+        "composite_score": "Technical score 54/100 \u2014 RSI 70, volume 3.1x avg. Swing Trade signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "ROCK.V",
-      "name": "Trident Resources Corp.",
-      "score": 48,
-      "price": 4.54,
-      "market_cap": 186355072,
+      "ticker": "XXIX.V",
+      "name": "XXIX Metal Corp.",
+      "score": 50,
+      "price": 0.19,
+      "market_cap": 79514720,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 48
+        "composite_score": 50
       },
       "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 69, volume 0.7x avg. Swing Trade signal."
+        "composite_score": "Technical score 50/100 \u2014 RSI 68, volume 1.6x avg. Swing Trade signal."
       }
     },
     {
       "rank": 4,
-      "ticker": "ESM.TO",
-      "name": "Euro Sun Mining Inc.",
+      "ticker": "EPRX.TO",
+      "name": "Eupraxia Pharmaceuticals Inc.",
       "score": 48,
-      "price": 0.185,
-      "market_cap": 83431232,
+      "price": 11.64,
+      "market_cap": 769094080,
       "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 48
       },
       "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 67, volume 7.0x avg. Swing Trade signal."
+        "composite_score": "Technical score 48/100 \u2014 RSI 69, volume 1.7x avg. Swing Trade signal."
       }
     },
     {
       "rank": 5,
+      "ticker": "ROCK.V",
+      "name": "Trident Resources Corp.",
+      "score": 48,
+      "price": 4.47,
+      "market_cap": 183481744,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 48
+      },
+      "details": {
+        "composite_score": "Technical score 48/100 \u2014 RSI 68, volume 1.1x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 6,
+      "ticker": "ESM.TO",
+      "name": "Euro Sun Mining Inc.",
+      "score": 48,
+      "price": 0.18,
+      "market_cap": 81176336,
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 48
+      },
+      "details": {
+        "composite_score": "Technical score 48/100 \u2014 RSI 65, volume 8.3x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 7,
+      "ticker": "MOLY.TO",
+      "name": "Greenland Resources Inc.",
+      "score": 46,
+      "price": 1.77,
+      "market_cap": 239339088,
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 46
+      },
+      "details": {
+        "composite_score": "Technical score 46/100 \u2014 RSI 76, volume 3.6x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 8,
       "ticker": "KLDC.V",
       "name": "Kirkland Lake Discoveries Corp.",
       "score": 46,
-      "price": 0.42,
-      "market_cap": 86364264,
+      "price": 0.43,
+      "market_cap": 88420560,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
         "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 67, volume 0.9x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 6,
-      "ticker": "THX.V",
-      "name": "Thor Explorations Ltd.",
-      "score": 45,
-      "price": 1.37,
-      "market_cap": 913205184,
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 45
-      },
-      "details": {
-        "composite_score": "Technical score 45/100 \u2014 RSI 64, volume 0.1x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 7,
-      "ticker": "AXL.V",
-      "name": "Arrow Exploration Corp.",
-      "score": 44,
-      "price": 0.58,
-      "market_cap": 165801312,
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 44
-      },
-      "details": {
-        "composite_score": "Technical score 44/100 \u2014 RSI 62, volume 1.4x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 8,
-      "ticker": "AGAG.V",
-      "name": "Argenta Silver Corp.",
-      "score": 44,
-      "price": 0.58,
-      "market_cap": 168395744,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 44
-      },
-      "details": {
-        "composite_score": "Technical score 44/100 \u2014 RSI 63, volume 1.2x avg. Swing Trade signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 69, volume 1.5x avg. Swing Trade signal."
       }
     },
     {
       "rank": 9,
-      "ticker": "STGO.TO",
-      "name": "Steppe Gold Ltd.",
-      "score": 40,
-      "price": 1.85,
-      "market_cap": 467730304,
-      "strategy": "Position Trade",
-      "exchange": "TSX",
+      "ticker": "CYG.V",
+      "name": "Cygnus Metals Limited",
+      "score": 46,
+      "price": 0.175,
+      "market_cap": 216509216,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 40
+        "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 40/100 \u2014 RSI 64, volume 0.2x avg. Position Trade signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 66, volume 4.3x avg. Swing Trade signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "VGC.TO",
-      "name": "Valor Gold Corp.",
-      "score": 40,
-      "price": 4.91,
-      "market_cap": 270049984,
-      "strategy": "Position Trade",
-      "exchange": "TSX",
+      "ticker": "NILI.V",
+      "name": "Surge Battery Metals Inc.",
+      "score": 46,
+      "price": 1.01,
+      "market_cap": 253678704,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 40
+        "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 40/100 \u2014 RSI 64, volume 0.1x avg. Position Trade signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 74, volume 1.6x avg. Swing Trade signal."
       }
     }
   ],
   "previous": [
     {
-      "ticker": "CEMX.TO"
+      "ticker": "NRC.V"
     },
     {
-      "ticker": "NRC.V"
+      "ticker": "CYG.V"
+    },
+    {
+      "ticker": "ROCK.V"
+    },
+    {
+      "ticker": "ESM.TO"
+    },
+    {
+      "ticker": "KLDC.V"
+    },
+    {
+      "ticker": "THX.V"
     },
     {
       "ticker": "AXL.V"
     },
     {
-      "ticker": "UGD.V"
+      "ticker": "AGAG.V"
     },
     {
-      "ticker": "PNPN.V"
+      "ticker": "STGO.TO"
     },
     {
-      "ticker": "AZT.V"
-    },
-    {
-      "ticker": "MNO.TO"
-    },
-    {
-      "ticker": "HI.V"
-    },
-    {
-      "ticker": "SGN.V"
-    },
-    {
-      "ticker": "WILD.TO"
+      "ticker": "VGC.TO"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-09-07",
+      "ticker": "NRC.V",
+      "name": "Nations Royalty Corp.",
+      "rank": 1,
+      "score": 64,
+      "price_at_recommendation": 1.24,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-07",
+      "ticker": "CANX.V",
+      "name": "CANEX Metals Inc.",
+      "rank": 2,
+      "score": 54,
+      "price_at_recommendation": 0.4,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-07",
+      "ticker": "XXIX.V",
+      "name": "XXIX Metal Corp.",
+      "rank": 3,
+      "score": 50,
+      "price_at_recommendation": 0.19,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-07",
+      "ticker": "EPRX.TO",
+      "name": "Eupraxia Pharmaceuticals Inc.",
+      "rank": 4,
+      "score": 48,
+      "price_at_recommendation": 11.64,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-07",
+      "ticker": "ROCK.V",
+      "name": "Trident Resources Corp.",
+      "rank": 5,
+      "score": 48,
+      "price_at_recommendation": 4.47,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-07",
+      "ticker": "ESM.TO",
+      "name": "Euro Sun Mining Inc.",
+      "rank": 6,
+      "score": 48,
+      "price_at_recommendation": 0.18,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-07",
+      "ticker": "MOLY.TO",
+      "name": "Greenland Resources Inc.",
+      "rank": 7,
+      "score": 46,
+      "price_at_recommendation": 1.77,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-07",
+      "ticker": "KLDC.V",
+      "name": "Kirkland Lake Discoveries Corp.",
+      "rank": 8,
+      "score": 46,
+      "price_at_recommendation": 0.43,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-07",
+      "ticker": "CYG.V",
+      "name": "Cygnus Metals Limited",
+      "rank": 9,
+      "score": 46,
+      "price_at_recommendation": 0.175,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-07",
+      "ticker": "NILI.V",
+      "name": "Surge Battery Metals Inc.",
+      "rank": 10,
+      "score": 46,
+      "price_at_recommendation": 1.01,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
     {
       "run_date": "2026-09-04",
       "ticker": "NRC.V",

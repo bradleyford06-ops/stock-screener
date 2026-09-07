@@ -15,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 47/100 \u2014 RSI 68.2, volume 0.4x avg"
       },
-      "last_price": 1.100000023841858,
-      "last_checked": "2026-09-04",
+      "last_price": 1.1100000143051147,
+      "last_checked": "2026-09-07",
       "on_list": false
     },
     {
@@ -35,7 +35,7 @@
         "composite_score": "Score 44/100 \u2014 RSI 55.8, volume 3.3x avg"
       },
       "last_price": 0.6299999952316284,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-07",
       "on_list": false
     },
     {
@@ -54,7 +54,7 @@
         "composite_score": "Score 43/100 \u2014 RSI 61.2, volume 0.2x avg"
       },
       "last_price": 9.05,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-07",
       "on_list": false
     },
     {
@@ -72,28 +72,9 @@
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 61.1, volume 0.2x avg"
       },
-      "last_price": 0.55,
-      "last_checked": "2026-09-04",
+      "last_price": 0.550000011920929,
+      "last_checked": "2026-09-07",
       "on_list": false
-    },
-    {
-      "ticker": "AXL.V",
-      "name": "Arrow Exploration Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-31",
-      "entry_price": 0.57,
-      "entry_score": 55,
-      "entry_signals": {
-        "composite_score": 55
-      },
-      "entry_details": {
-        "composite_score": "Score 55/100 \u2014 RSI 62.4, volume 1.8x avg"
-      },
-      "last_price": 0.58,
-      "last_checked": "2026-09-04",
-      "on_list": true
     },
     {
       "ticker": "VHI.TO",
@@ -110,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 55/100 \u2014 RSI 68.6, volume 0.9x avg"
       },
-      "last_price": 8.020000457763672,
-      "last_checked": "2026-09-04",
+      "last_price": 8.039999961853027,
+      "last_checked": "2026-09-07",
       "on_list": false
     },
     {
@@ -129,8 +110,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 59.4, volume 2.2x avg"
       },
-      "last_price": 1.2,
-      "last_checked": "2026-09-04",
+      "last_price": 1.24,
+      "last_checked": "2026-09-07",
       "on_list": true
     },
     {
@@ -148,9 +129,9 @@
       "entry_details": {
         "composite_score": "Score 49/100 \u2014 RSI 63.0, volume 0.3x avg"
       },
-      "last_price": 1.37,
-      "last_checked": "2026-09-04",
-      "on_list": true
+      "last_price": 1.3799999952316284,
+      "last_checked": "2026-09-07",
+      "on_list": false
     },
     {
       "ticker": "KITS.TO",
@@ -167,8 +148,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 74.8, volume 0.7x avg"
       },
-      "last_price": 15.079999923706055,
-      "last_checked": "2026-09-04",
+      "last_price": 15.210000038146973,
+      "last_checked": "2026-09-07",
       "on_list": false
     },
     {
@@ -186,8 +167,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 64.8, volume 1.4x avg"
       },
-      "last_price": 3.180000066757202,
-      "last_checked": "2026-09-04",
+      "last_price": 3.140000104904175,
+      "last_checked": "2026-09-07",
       "on_list": false
     },
     {
@@ -206,7 +187,7 @@
         "composite_score": "Score 39/100 \u2014 RSI 71.1, volume 0.3x avg"
       },
       "last_price": 1.7000000476837158,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-07",
       "on_list": false
     },
     {
@@ -224,8 +205,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 68.0, volume 4.2x avg"
       },
-      "last_price": 0.18,
-      "last_checked": "2026-09-04",
+      "last_price": 0.175,
+      "last_checked": "2026-09-07",
       "on_list": true
     },
     {
@@ -243,8 +224,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 68.9, volume 0.7x avg"
       },
-      "last_price": 4.54,
-      "last_checked": "2026-09-04",
+      "last_price": 4.47,
+      "last_checked": "2026-09-07",
       "on_list": true
     },
     {
@@ -262,8 +243,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 67.0, volume 7.0x avg"
       },
-      "last_price": 0.185,
-      "last_checked": "2026-09-04",
+      "last_price": 0.18,
+      "last_checked": "2026-09-07",
       "on_list": true
     },
     {
@@ -281,27 +262,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 67.4, volume 0.9x avg"
       },
-      "last_price": 0.42,
-      "last_checked": "2026-09-04",
-      "on_list": true
-    },
-    {
-      "ticker": "AGAG.V",
-      "name": "Argenta Silver Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-04",
-      "entry_price": 0.58,
-      "entry_score": 44,
-      "entry_signals": {
-        "composite_score": 44
-      },
-      "entry_details": {
-        "composite_score": "Score 44/100 \u2014 RSI 62.7, volume 1.2x avg"
-      },
-      "last_price": 0.58,
-      "last_checked": "2026-09-04",
+      "last_price": 0.43,
+      "last_checked": "2026-09-07",
       "on_list": true
     },
     {
@@ -319,9 +281,9 @@
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 64.3, volume 0.2x avg"
       },
-      "last_price": 1.85,
-      "last_checked": "2026-09-04",
-      "on_list": true
+      "last_price": 1.850000023841858,
+      "last_checked": "2026-09-07",
+      "on_list": false
     },
     {
       "ticker": "VGC.TO",
@@ -338,8 +300,103 @@
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 63.5, volume 0.1x avg"
       },
-      "last_price": 4.91,
-      "last_checked": "2026-09-04",
+      "last_price": 4.869999885559082,
+      "last_checked": "2026-09-07",
+      "on_list": false
+    },
+    {
+      "ticker": "CANX.V",
+      "name": "CANEX Metals Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-07",
+      "entry_price": 0.4,
+      "entry_score": 54,
+      "entry_signals": {
+        "composite_score": 54
+      },
+      "entry_details": {
+        "composite_score": "Score 54/100 \u2014 RSI 70.1, volume 3.1x avg"
+      },
+      "last_price": 0.4,
+      "last_checked": "2026-09-07",
+      "on_list": true
+    },
+    {
+      "ticker": "XXIX.V",
+      "name": "XXIX Metal Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-07",
+      "entry_price": 0.19,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 68.3, volume 1.6x avg"
+      },
+      "last_price": 0.19,
+      "last_checked": "2026-09-07",
+      "on_list": true
+    },
+    {
+      "ticker": "EPRX.TO",
+      "name": "Eupraxia Pharmaceuticals Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-07",
+      "entry_price": 11.64,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 69.1, volume 1.7x avg"
+      },
+      "last_price": 11.64,
+      "last_checked": "2026-09-07",
+      "on_list": true
+    },
+    {
+      "ticker": "MOLY.TO",
+      "name": "Greenland Resources Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-07",
+      "entry_price": 1.77,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 76.4, volume 3.6x avg"
+      },
+      "last_price": 1.77,
+      "last_checked": "2026-09-07",
+      "on_list": true
+    },
+    {
+      "ticker": "NILI.V",
+      "name": "Surge Battery Metals Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-07",
+      "entry_price": 1.01,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 73.8, volume 1.6x avg"
+      },
+      "last_price": 1.01,
+      "last_checked": "2026-09-07",
       "on_list": true
     }
   ],
@@ -692,6 +749,50 @@
       },
       "entry_details": {
         "composite_score": "Score 45/100 \u2014 RSI 64.6, volume 0.0x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-31",
+      "exit_date": "2026-09-07",
+      "entry_price": 0.57,
+      "exit_price": 0.56,
+      "return_pct": -1.75,
+      "days_held": 7,
+      "entry_score": 55,
+      "entry_signals": {
+        "composite_score": 55
+      },
+      "entry_details": {
+        "composite_score": "Score 55/100 \u2014 RSI 62.4, volume 1.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "AGAG.V",
+      "name": "Argenta Silver Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-04",
+      "exit_date": "2026-09-07",
+      "entry_price": 0.58,
+      "exit_price": 0.585,
+      "return_pct": 0.86,
+      "days_held": 3,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 62.7, volume 1.2x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
