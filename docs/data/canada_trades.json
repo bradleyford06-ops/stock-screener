@@ -16,7 +16,7 @@
         "composite_score": "Score 47/100 \u2014 RSI 68.2, volume 0.4x avg"
       },
       "last_price": 1.059999942779541,
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -34,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 55.8, volume 3.3x avg"
       },
-      "last_price": 0.61,
-      "last_checked": "2026-09-11",
+      "last_price": 0.6100000143051147,
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -54,7 +54,7 @@
         "composite_score": "Score 43/100 \u2014 RSI 61.2, volume 0.2x avg"
       },
       "last_price": 9.05,
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -72,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 61.1, volume 0.2x avg"
       },
-      "last_price": 0.5299999713897705,
-      "last_checked": "2026-09-11",
+      "last_price": 0.49,
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -91,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 55/100 \u2014 RSI 68.6, volume 0.9x avg"
       },
-      "last_price": 7.480000019073486,
-      "last_checked": "2026-09-11",
+      "last_price": 7.679999828338623,
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -110,8 +110,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 59.4, volume 2.2x avg"
       },
-      "last_price": 1.32,
-      "last_checked": "2026-09-11",
+      "last_price": 1.24,
+      "last_checked": "2026-09-14",
       "on_list": true
     },
     {
@@ -129,8 +129,8 @@
       "entry_details": {
         "composite_score": "Score 49/100 \u2014 RSI 63.0, volume 0.3x avg"
       },
-      "last_price": 1.309999942779541,
-      "last_checked": "2026-09-11",
+      "last_price": 1.2649999856948853,
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -148,8 +148,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 74.8, volume 0.7x avg"
       },
-      "last_price": 14.739999771118164,
-      "last_checked": "2026-09-11",
+      "last_price": 15.510000228881836,
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -167,8 +167,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 64.8, volume 1.4x avg"
       },
-      "last_price": 3.13,
-      "last_checked": "2026-09-11",
+      "last_price": 2.7799999713897705,
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -186,8 +186,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 71.1, volume 0.3x avg"
       },
-      "last_price": 1.649999976158142,
-      "last_checked": "2026-09-11",
+      "last_price": 1.6299999952316284,
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -205,8 +205,8 @@
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 64.3, volume 0.2x avg"
       },
-      "last_price": 1.815000057220459,
-      "last_checked": "2026-09-11",
+      "last_price": 1.7699999809265137,
+      "last_checked": "2026-09-14",
       "on_list": false
     },
     {
@@ -224,28 +224,9 @@
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 63.5, volume 0.1x avg"
       },
-      "last_price": 4.710000038146973,
-      "last_checked": "2026-09-11",
+      "last_price": 4.519999980926514,
+      "last_checked": "2026-09-14",
       "on_list": false
-    },
-    {
-      "ticker": "XXIX.V",
-      "name": "XXIX Metal Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-07",
-      "entry_price": 0.19,
-      "entry_score": 50,
-      "entry_signals": {
-        "composite_score": 50
-      },
-      "entry_details": {
-        "composite_score": "Score 50/100 \u2014 RSI 68.3, volume 1.6x avg"
-      },
-      "last_price": 0.21,
-      "last_checked": "2026-09-11",
-      "on_list": true
     },
     {
       "ticker": "FLT.TO",
@@ -262,103 +243,8 @@
       "entry_details": {
         "composite_score": "Score 56/100 \u2014 RSI 68.7, volume 2.8x avg"
       },
-      "last_price": 0.62,
-      "last_checked": "2026-09-11",
-      "on_list": true
-    },
-    {
-      "ticker": "WM.TO",
-      "name": "Wallbridge Mining Company Limited",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-09-11",
-      "entry_price": 0.115,
-      "entry_score": 52,
-      "entry_signals": {
-        "composite_score": 52
-      },
-      "entry_details": {
-        "composite_score": "Score 52/100 \u2014 RSI 67.4, volume 1.4x avg"
-      },
-      "last_price": 0.115,
-      "last_checked": "2026-09-11",
-      "on_list": true
-    },
-    {
-      "ticker": "APGO.V",
-      "name": "Apollo Silver Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-11",
-      "entry_price": 3.74,
-      "entry_score": 51,
-      "entry_signals": {
-        "composite_score": 51
-      },
-      "entry_details": {
-        "composite_score": "Score 51/100 \u2014 RSI 68.7, volume 3.5x avg"
-      },
-      "last_price": 3.74,
-      "last_checked": "2026-09-11",
-      "on_list": true
-    },
-    {
-      "ticker": "SCY.V",
-      "name": "Scandium International Mining Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-11",
-      "entry_price": 0.18,
-      "entry_score": 51,
-      "entry_signals": {
-        "composite_score": 51
-      },
-      "entry_details": {
-        "composite_score": "Score 51/100 \u2014 RSI 62.0, volume 5.6x avg"
-      },
-      "last_price": 0.18,
-      "last_checked": "2026-09-11",
-      "on_list": true
-    },
-    {
-      "ticker": "NSE.V",
-      "name": "New Stratus Energy Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-11",
-      "entry_price": 0.83,
-      "entry_score": 50,
-      "entry_signals": {
-        "composite_score": 50
-      },
-      "entry_details": {
-        "composite_score": "Score 50/100 \u2014 RSI 72.5, volume 5.2x avg"
-      },
-      "last_price": 0.83,
-      "last_checked": "2026-09-11",
-      "on_list": true
-    },
-    {
-      "ticker": "NMC.V",
-      "name": "Nuvau Minerals Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-11",
-      "entry_price": 0.63,
-      "entry_score": 48,
-      "entry_signals": {
-        "composite_score": 48
-      },
-      "entry_details": {
-        "composite_score": "Score 48/100 \u2014 RSI 64.1, volume 0.2x avg"
-      },
-      "last_price": 0.63,
-      "last_checked": "2026-09-11",
+      "last_price": 0.645,
+      "last_checked": "2026-09-14",
       "on_list": true
     },
     {
@@ -376,8 +262,8 @@
       "entry_details": {
         "composite_score": "Score 47/100 \u2014 RSI 66.0, volume 0.3x avg"
       },
-      "last_price": 3.3,
-      "last_checked": "2026-09-11",
+      "last_price": 3.41,
+      "last_checked": "2026-09-14",
       "on_list": true
     },
     {
@@ -395,8 +281,122 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 64.8, volume 0.3x avg"
       },
-      "last_price": 0.64,
-      "last_checked": "2026-09-11",
+      "last_price": 0.7,
+      "last_checked": "2026-09-14",
+      "on_list": true
+    },
+    {
+      "ticker": "TRX.TO",
+      "name": "TRX Gold Corporation",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-14",
+      "entry_price": 1.79,
+      "entry_score": 61,
+      "entry_signals": {
+        "composite_score": 61
+      },
+      "entry_details": {
+        "composite_score": "Score 61/100 \u2014 RSI 64.4, volume 2.9x avg"
+      },
+      "last_price": 1.79,
+      "last_checked": "2026-09-14",
+      "on_list": true
+    },
+    {
+      "ticker": "CD.V",
+      "name": "Cantex Mine Development Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-14",
+      "entry_price": 0.33,
+      "entry_score": 58,
+      "entry_signals": {
+        "composite_score": 58
+      },
+      "entry_details": {
+        "composite_score": "Score 58/100 \u2014 RSI 68.0, volume 2.8x avg"
+      },
+      "last_price": 0.33,
+      "last_checked": "2026-09-14",
+      "on_list": true
+    },
+    {
+      "ticker": "AXO.V",
+      "name": "Axo Metals Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-14",
+      "entry_price": 1.05,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 68.5, volume 1.2x avg"
+      },
+      "last_price": 1.05,
+      "last_checked": "2026-09-14",
+      "on_list": true
+    },
+    {
+      "ticker": "RSS.V",
+      "name": "RESAAS Services Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-14",
+      "entry_price": 0.65,
+      "entry_score": 49,
+      "entry_signals": {
+        "composite_score": 49
+      },
+      "entry_details": {
+        "composite_score": "Score 49/100 \u2014 RSI 83.0, volume 1.8x avg"
+      },
+      "last_price": 0.65,
+      "last_checked": "2026-09-14",
+      "on_list": true
+    },
+    {
+      "ticker": "BYN.V",
+      "name": "Banyan Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-14",
+      "entry_price": 2.055,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 65.9, volume 2.5x avg"
+      },
+      "last_price": 2.055,
+      "last_checked": "2026-09-14",
+      "on_list": true
+    },
+    {
+      "ticker": "B.V",
+      "name": "BCM Resources Corporation",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-14",
+      "entry_price": 0.87,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 68.6, volume 0.6x avg"
+      },
+      "last_price": 0.87,
+      "last_checked": "2026-09-14",
       "on_list": true
     }
   ],
@@ -969,6 +969,138 @@
       },
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 73.8, volume 1.6x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "XXIX.V",
+      "name": "XXIX Metal Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-07",
+      "exit_date": "2026-09-14",
+      "entry_price": 0.19,
+      "exit_price": 0.205,
+      "return_pct": 7.89,
+      "days_held": 7,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 68.3, volume 1.6x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "WM.TO",
+      "name": "Wallbridge Mining Company Limited",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-11",
+      "exit_date": "2026-09-14",
+      "entry_price": 0.115,
+      "exit_price": 0.11,
+      "return_pct": -4.35,
+      "days_held": 3,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 67.4, volume 1.4x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "APGO.V",
+      "name": "Apollo Silver Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-11",
+      "exit_date": "2026-09-14",
+      "entry_price": 3.74,
+      "exit_price": 3.57,
+      "return_pct": -4.55,
+      "days_held": 3,
+      "entry_score": 51,
+      "entry_signals": {
+        "composite_score": 51
+      },
+      "entry_details": {
+        "composite_score": "Score 51/100 \u2014 RSI 68.7, volume 3.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "SCY.V",
+      "name": "Scandium International Mining Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-11",
+      "exit_date": "2026-09-14",
+      "entry_price": 0.18,
+      "exit_price": 0.165,
+      "return_pct": -8.33,
+      "days_held": 3,
+      "entry_score": 51,
+      "entry_signals": {
+        "composite_score": 51
+      },
+      "entry_details": {
+        "composite_score": "Score 51/100 \u2014 RSI 62.0, volume 5.6x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "NSE.V",
+      "name": "New Stratus Energy Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-11",
+      "exit_date": "2026-09-14",
+      "entry_price": 0.83,
+      "exit_price": 0.77,
+      "return_pct": -7.23,
+      "days_held": 3,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 72.5, volume 5.2x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "NMC.V",
+      "name": "Nuvau Minerals Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-11",
+      "exit_date": "2026-09-14",
+      "entry_price": 0.63,
+      "exit_price": 0.61,
+      "return_pct": -3.17,
+      "days_held": 3,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 64.1, volume 0.2x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
