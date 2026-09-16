@@ -1,58 +1,35 @@
 {
-  "last_updated": "2026-09-09",
+  "last_updated": "2026-09-16",
   "current": [
     {
       "rank": 1,
-      "ticker": "GLP",
-      "score": 78,
-      "price": 53.34,
-      "market_cap": 1805504640,
-      "scores": {
-        "insider": 22,
-        "institutional": 15,
-        "revenue": 15,
-        "momentum": 15,
-        "short_interest": 10,
-        "balance_sheet": 1
-      },
-      "details": {
-        "insider": "2 open-market purchase(s) by Global GP LLC totaling $896,400 in the last 90 days",
-        "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Healthy acceleration: 27.6% revenue growth last quarter (accelerating)",
-        "momentum": "Price $53.34 is 0.0% below its 52-week high of $53.34. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Very low short interest (0.8% of float) \u2014 minimal bearish pressure",
-        "balance_sheet": "High debt relative to cash \u2014 balance sheet risk"
-      }
-    },
-    {
-      "rank": 2,
       "ticker": "FSUN",
-      "score": 70,
-      "price": 39.83,
-      "market_cap": 1748785152,
+      "score": 67,
+      "price": 40.0,
+      "market_cap": 1758014720,
       "scores": {
         "insider": 0,
         "institutional": 15,
         "revenue": 20,
         "momentum": 15,
-        "short_interest": 10,
+        "short_interest": 7,
         "balance_sheet": 10
       },
       "details": {
         "insider": "No insider purchases in last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
         "revenue": "Strong acceleration: 65.0% revenue growth last quarter (accelerating)",
-        "momentum": "Price $39.83 is 3.8% below its 52-week high of $41.40. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Very low short interest (3.0% of float) \u2014 minimal bearish pressure",
+        "momentum": "Price $40.00 is 3.4% below its 52-week high of $41.40. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Low short interest (3.0% of float)",
         "balance_sheet": "Strong balance sheet \u2014 cash ($990M) is 2x+ total debt"
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "ticker": "OBK",
       "score": 67,
-      "price": 53.42,
-      "market_cap": 1647989760,
+      "price": 54.26,
+      "market_cap": 1673749376,
       "scores": {
         "insider": 15,
         "institutional": 15,
@@ -65,17 +42,17 @@
         "insider": "1 open-market purchase(s) by Jones Cecil W. totaling $199,282 in the last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
         "revenue": "Minimal growth: 2.4% revenue growth last quarter (decelerating)",
-        "momentum": "Price $53.42 is 2.8% below its 52-week high of $54.96. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Very low short interest (2.3% of float) \u2014 minimal bearish pressure",
+        "momentum": "Price $54.26 is 1.3% below its 52-week high of $54.96. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Very low short interest (2.4% of float) \u2014 minimal bearish pressure",
         "balance_sheet": "Strong balance sheet \u2014 cash ($547M) is 2x+ total debt"
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "ticker": "LILAK",
       "score": 65,
-      "price": 8.56,
-      "market_cap": 1677883392,
+      "price": 8.78,
+      "market_cap": 1720001920,
       "scores": {
         "insider": 25,
         "institutional": 15,
@@ -85,66 +62,135 @@
         "balance_sheet": 1
       },
       "details": {
-        "insider": "8 open-market purchase(s) by BRACKEN CHARLES H R and MALONE JOHN C totaling $18,259,905 in the last 90 days",
+        "insider": "12 open-market purchase(s) by PADDICK BRENDAN J and MALONE JOHN C totaling $47,887,775 in the last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
         "revenue": "Minimal growth: 1.8% revenue growth last quarter (accelerating)",
-        "momentum": "Price $8.56 is 1.3% below its 52-week high of $8.68. Currently in uptrend (price above 50 and 200-day average).",
+        "momentum": "Price $8.78 is 0.8% below its 52-week high of $8.85. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Low short interest (4.6% of float)",
+        "balance_sheet": "High debt relative to cash \u2014 balance sheet risk"
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "LILA",
+      "score": 65,
+      "price": 8.82,
+      "market_cap": 1727837952,
+      "scores": {
+        "insider": 25,
+        "institutional": 15,
+        "revenue": 2,
+        "momentum": 15,
+        "short_interest": 7,
+        "balance_sheet": 1
+      },
+      "details": {
+        "insider": "12 open-market purchase(s) by PADDICK BRENDAN J and Nair Balan totaling $20,956,688 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Minimal growth: 1.8% revenue growth last quarter (accelerating)",
+        "momentum": "Price $8.82 is 0.6% below its 52-week high of $8.88. Currently in uptrend (price above 50 and 200-day average).",
         "short_interest": "Low short interest (3.1% of float)",
         "balance_sheet": "High debt relative to cash \u2014 balance sheet risk"
       }
     },
     {
       "rank": 5,
-      "ticker": "LILA",
+      "ticker": "DMLP",
       "score": 65,
-      "price": 8.59,
-      "market_cap": 1682781056,
+      "price": 29.76,
+      "market_cap": 1460960256,
       "scores": {
-        "insider": 25,
+        "insider": 15,
+        "institutional": 15,
+        "revenue": 0,
+        "momentum": 15,
+        "short_interest": 10,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "1 open-market purchase(s) by MORIYAMA LESLIE A totaling $147,075 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Revenue declining: -4.8% revenue growth last quarter (decelerating)",
+        "momentum": "Price $29.76 is 2.1% below its 52-week high of $30.41. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Very low short interest (1.0% of float) \u2014 minimal bearish pressure",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($72M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 6,
+      "ticker": "BFLY",
+      "score": 63,
+      "price": 7.3,
+      "market_cap": 1943908480,
+      "scores": {
+        "insider": 20,
+        "institutional": 15,
+        "revenue": 15,
+        "momentum": 3,
+        "short_interest": 0,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "1 open-market purchase(s) by Phanstiel S. Louise totaling $999,510 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Healthy acceleration: 22.9% revenue growth last quarter (accelerating)",
+        "momentum": "Price $7.30 is 24.8% below its 52-week high of $9.70. Currently in below key moving averages.",
+        "short_interest": "High short interest (15.9% of float) \u2014 significant bearish pressure",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($125M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 7,
+      "ticker": "GABC",
+      "score": 63,
+      "price": 49.66,
+      "market_cap": 1866163584,
+      "scores": {
+        "insider": 20,
         "institutional": 15,
         "revenue": 2,
+        "momentum": 15,
+        "short_interest": 7,
+        "balance_sheet": 4
+      },
+      "details": {
+        "insider": "9 open-market purchase(s) by Stokes Ronnie R and Ryan Christina M totaling $157,500 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Minimal growth: 4.0% revenue growth last quarter (accelerating)",
+        "momentum": "Price $49.66 is 3.3% below its 52-week high of $51.38. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Low short interest (3.4% of float)",
+        "balance_sheet": "Moderate debt load \u2014 manageable but watching"
+      }
+    },
+    {
+      "rank": 8,
+      "ticker": "TRIN",
+      "score": 63,
+      "price": 17.77,
+      "market_cap": 1597752960,
+      "scores": {
+        "insider": 10,
+        "institutional": 15,
+        "revenue": 15,
         "momentum": 15,
         "short_interest": 7,
         "balance_sheet": 1
       },
       "details": {
-        "insider": "8 open-market purchase(s) by BRACKEN CHARLES H R and MALONE JOHN C totaling $18,259,905 in the last 90 days",
+        "insider": "1 open-market purchase(s) by Brown Kyle Steven totaling $41,424 in the last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Minimal growth: 1.8% revenue growth last quarter (accelerating)",
-        "momentum": "Price $8.59 is 2.1% below its 52-week high of $8.77. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Low short interest (3.2% of float)",
+        "revenue": "Healthy acceleration: 18.4% revenue growth last quarter (accelerating)",
+        "momentum": "Price $17.77 is 4.2% below its 52-week high of $18.55. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Low short interest (5.7% of float)",
         "balance_sheet": "High debt relative to cash \u2014 balance sheet risk"
       }
     },
     {
-      "rank": 6,
-      "ticker": "PEB",
-      "score": 62,
-      "price": 17.49,
-      "market_cap": 1973619200,
-      "scores": {
-        "insider": 25,
-        "institutional": 15,
-        "revenue": 15,
-        "momentum": 6,
-        "short_interest": 0,
-        "balance_sheet": 1
-      },
-      "details": {
-        "insider": "2 open-market purchase(s) by BORTZ JON E totaling $1,062,800 in the last 90 days",
-        "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Healthy acceleration: 17.8% revenue growth last quarter (accelerating)",
-        "momentum": "Price $17.49 is 11.4% below its 52-week high of $19.75. Currently in below key moving averages.",
-        "short_interest": "High short interest (19.0% of float) \u2014 significant bearish pressure",
-        "balance_sheet": "High debt relative to cash \u2014 balance sheet risk"
-      }
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "ticker": "VIR",
       "score": 62,
-      "price": 10.91,
-      "market_cap": 1845892224,
+      "price": 10.6,
+      "market_cap": 1793689216,
       "scores": {
         "insider": 0,
         "institutional": 15,
@@ -157,161 +203,115 @@
         "insider": "No insider purchases in last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
         "revenue": "Strong acceleration: 582868.3% revenue growth last quarter (accelerating)",
-        "momentum": "Price $10.91 is 6.2% below its 52-week high of $11.63. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Moderate short interest (11.7% of float)",
+        "momentum": "Price $10.60 is 8.9% below its 52-week high of $11.63. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Moderate short interest (12.8% of float)",
         "balance_sheet": "Strong balance sheet \u2014 cash ($279M) is 2x+ total debt"
       }
     },
     {
-      "rank": 8,
-      "ticker": "MGTX",
-      "score": 62,
-      "price": 13.53,
-      "market_cap": 1299461632,
+      "rank": 10,
+      "ticker": "NXDR",
+      "score": 61,
+      "price": 2.46,
+      "market_cap": 955051392,
       "scores": {
         "insider": 0,
         "institutional": 15,
-        "revenue": 20,
-        "momentum": 13,
-        "short_interest": 7,
-        "balance_sheet": 7
-      },
-      "details": {
-        "insider": "No insider purchases in last 90 days",
-        "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Strong acceleration: 109604.4% revenue growth last quarter (accelerating)",
-        "momentum": "Price $13.53 is 9.6% below its 52-week high of $14.97. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Low short interest (5.4% of float)",
-        "balance_sheet": "Healthy balance sheet \u2014 more cash than debt"
-      }
-    },
-    {
-      "rank": 9,
-      "ticker": "ZYME",
-      "score": 60,
-      "price": 27.5,
-      "market_cap": 1966511232,
-      "scores": {
-        "insider": 0,
-        "institutional": 15,
-        "revenue": 20,
+        "revenue": 15,
         "momentum": 11,
-        "short_interest": 4,
+        "short_interest": 10,
         "balance_sheet": 10
       },
       "details": {
         "insider": "No insider purchases in last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Strong acceleration: 90.6% revenue growth last quarter (accelerating)",
-        "momentum": "Price $27.50 is 11.4% below its 52-week high of $31.05. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Moderate short interest (9.6% of float)",
-        "balance_sheet": "Strong balance sheet \u2014 cash ($179M) is 2x+ total debt"
-      }
-    },
-    {
-      "rank": 10,
-      "ticker": "GABC",
-      "score": 58,
-      "price": 49.02,
-      "market_cap": 1842113152,
-      "scores": {
-        "insider": 20,
-        "institutional": 15,
-        "revenue": 2,
-        "momentum": 10,
-        "short_interest": 7,
-        "balance_sheet": 4
-      },
-      "details": {
-        "insider": "13 open-market purchase(s) by Stokes Ronnie R and Ellspermann Susan J totaling $161,500 in the last 90 days",
-        "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Minimal growth: 4.0% revenue growth last quarter (accelerating)",
-        "momentum": "Price $49.02 is 4.6% below its 52-week high of $51.38. Currently in below key moving averages.",
-        "short_interest": "Low short interest (3.3% of float)",
-        "balance_sheet": "Moderate debt load \u2014 manageable but watching"
+        "revenue": "Healthy acceleration: 20.9% revenue growth last quarter (accelerating)",
+        "momentum": "Price $2.46 is 11.0% below its 52-week high of $2.77. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Very low short interest (2.7% of float) \u2014 minimal bearish pressure",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($64M) is 2x+ total debt"
       }
     }
   ],
   "previous": [],
   "history": [
     {
-      "run_date": "2026-09-09",
-      "ticker": "GLP",
-      "rank": 1,
-      "total_score": 78,
-      "price_at_recommendation": 53.34,
-      "strategy": "Position Trade"
-    },
-    {
-      "run_date": "2026-09-09",
+      "run_date": "2026-09-16",
       "ticker": "FSUN",
-      "rank": 2,
-      "total_score": 70,
-      "price_at_recommendation": 39.83,
-      "strategy": "Position Trade"
-    },
-    {
-      "run_date": "2026-09-09",
-      "ticker": "OBK",
-      "rank": 3,
+      "rank": 1,
       "total_score": 67,
-      "price_at_recommendation": 53.42,
+      "price_at_recommendation": 40.0,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-09",
+      "run_date": "2026-09-16",
+      "ticker": "OBK",
+      "rank": 2,
+      "total_score": 67,
+      "price_at_recommendation": 54.26,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-16",
       "ticker": "LILAK",
+      "rank": 3,
+      "total_score": 65,
+      "price_at_recommendation": 8.78,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-16",
+      "ticker": "LILA",
       "rank": 4,
       "total_score": 65,
-      "price_at_recommendation": 8.56,
+      "price_at_recommendation": 8.82,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-09",
-      "ticker": "LILA",
+      "run_date": "2026-09-16",
+      "ticker": "DMLP",
       "rank": 5,
       "total_score": 65,
-      "price_at_recommendation": 8.59,
+      "price_at_recommendation": 29.76,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-09",
-      "ticker": "PEB",
+      "run_date": "2026-09-16",
+      "ticker": "BFLY",
       "rank": 6,
-      "total_score": 62,
-      "price_at_recommendation": 17.49,
+      "total_score": 63,
+      "price_at_recommendation": 7.3,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-09",
-      "ticker": "VIR",
-      "rank": 7,
-      "total_score": 62,
-      "price_at_recommendation": 10.91,
-      "strategy": "Position Trade"
-    },
-    {
-      "run_date": "2026-09-09",
-      "ticker": "MGTX",
-      "rank": 8,
-      "total_score": 62,
-      "price_at_recommendation": 13.53,
-      "strategy": "Position Trade"
-    },
-    {
-      "run_date": "2026-09-09",
-      "ticker": "ZYME",
-      "rank": 9,
-      "total_score": 60,
-      "price_at_recommendation": 27.5,
-      "strategy": "Position Trade"
-    },
-    {
-      "run_date": "2026-09-09",
+      "run_date": "2026-09-16",
       "ticker": "GABC",
+      "rank": 7,
+      "total_score": 63,
+      "price_at_recommendation": 49.66,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-16",
+      "ticker": "TRIN",
+      "rank": 8,
+      "total_score": 63,
+      "price_at_recommendation": 17.77,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-16",
+      "ticker": "VIR",
+      "rank": 9,
+      "total_score": 62,
+      "price_at_recommendation": 10.6,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-16",
+      "ticker": "NXDR",
       "rank": 10,
-      "total_score": 58,
-      "price_at_recommendation": 49.02,
+      "total_score": 61,
+      "price_at_recommendation": 2.46,
       "strategy": "Position Trade"
     }
   ]
