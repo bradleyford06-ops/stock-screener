@@ -1,200 +1,300 @@
 {
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-18",
   "current": [
     {
       "rank": 1,
-      "ticker": "TRX.TO",
-      "name": "TRX Gold Corporation",
-      "score": 61,
-      "price": 1.79,
-      "market_cap": 586178496,
+      "ticker": "EMPR.V",
+      "name": "Empress Royalty Corp.",
+      "score": 65,
+      "price": 1.04,
+      "market_cap": 142533408,
       "strategy": "Swing Trade",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 61
+        "composite_score": 65
       },
       "details": {
-        "composite_score": "Technical score 61/100 \u2014 RSI 64, volume 2.9x avg. Swing Trade signal."
+        "composite_score": "Technical score 65/100 \u2014 RSI 65, volume 5.7x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "CD.V",
-      "name": "Cantex Mine Development Corp.",
-      "score": 58,
-      "price": 0.33,
-      "market_cap": 52546340,
+      "ticker": "OMI.V",
+      "name": "Orosur Mining Inc.",
+      "score": 54,
+      "price": 0.415,
+      "market_cap": 166417104,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 58
+        "composite_score": 54
       },
       "details": {
-        "composite_score": "Technical score 58/100 \u2014 RSI 68, volume 2.8x avg. Swing Trade signal."
+        "composite_score": "Technical score 54/100 \u2014 RSI 72, volume 6.6x avg. Swing Trade signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "FLT.TO",
-      "name": "Volatus Aerospace Inc.",
-      "score": 52,
-      "price": 0.645,
-      "market_cap": 474329056,
+      "ticker": "SLG.V",
+      "name": "San Lorenzo Gold Corp.",
+      "score": 54,
+      "price": 7.25,
+      "market_cap": 787310272,
       "strategy": "Swing Trade",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 52
+        "composite_score": 54
       },
       "details": {
-        "composite_score": "Technical score 52/100 \u2014 RSI 71, volume 3.6x avg. Swing Trade signal."
+        "composite_score": "Technical score 54/100 \u2014 RSI 66, volume 1.1x avg. Swing Trade signal."
       }
     },
     {
       "rank": 4,
-      "ticker": "AXO.V",
-      "name": "Axo Metals Corp.",
-      "score": 52,
-      "price": 1.05,
-      "market_cap": 227065056,
+      "ticker": "XXIX.V",
+      "name": "XXIX Metal Corp.",
+      "score": 54,
+      "price": 0.22,
+      "market_cap": 92069672,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 52
+        "composite_score": 54
       },
       "details": {
-        "composite_score": "Technical score 52/100 \u2014 RSI 69, volume 1.2x avg. Swing Trade signal."
+        "composite_score": "Technical score 54/100 \u2014 RSI 70, volume 0.5x avg. Swing Trade signal."
       }
     },
     {
       "rank": 5,
-      "ticker": "NRC.V",
-      "name": "Nations Royalty Corp.",
-      "score": 51,
-      "price": 1.24,
-      "market_cap": 192486000,
-      "strategy": "Position Trade",
+      "ticker": "BRW.V",
+      "name": "Brunswick Exploration Inc.",
+      "score": 50,
+      "price": 0.205,
+      "market_cap": 57890384,
+      "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 51
+        "composite_score": 50
       },
       "details": {
-        "composite_score": "Technical score 51/100 \u2014 RSI 63, volume 0.5x avg. Position Trade signal."
+        "composite_score": "Technical score 50/100 \u2014 RSI 72, volume 3.7x avg. Swing Trade signal."
       }
     },
     {
       "rank": 6,
-      "ticker": "AXL.V",
-      "name": "Arrow Exploration Corp.",
-      "score": 49,
-      "price": 0.7,
-      "market_cap": 200105040,
+      "ticker": "REVX.V",
+      "name": "Rev Exploration Corp.",
+      "score": 50,
+      "price": 1.85,
+      "market_cap": 112222792,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 49
+        "composite_score": 50
       },
       "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 70, volume 1.7x avg. Swing Trade signal."
+        "composite_score": "Technical score 50/100 \u2014 RSI 64, volume 2.1x avg. Swing Trade signal."
       }
     },
     {
       "rank": 7,
-      "ticker": "RSS.V",
-      "name": "RESAAS Services Inc.",
+      "ticker": "NRC.V",
+      "name": "Nations Royalty Corp.",
       "score": 49,
-      "price": 0.65,
-      "market_cap": 54624048,
-      "strategy": "Swing Trade",
+      "price": 1.34,
+      "market_cap": 208009056,
+      "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
         "composite_score": 49
       },
       "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 83, volume 1.8x avg. Swing Trade signal."
+        "composite_score": "Technical score 49/100 \u2014 RSI 65, volume 0.2x avg. Position Trade signal."
       }
     },
     {
       "rank": 8,
-      "ticker": "BYN.V",
-      "name": "Banyan Gold Corp.",
-      "score": 45,
-      "price": 2.055,
-      "market_cap": 916407040,
+      "ticker": "TWM.TO",
+      "name": "Tidewater Midstream and Infrastructure Ltd.",
+      "score": 41,
+      "price": 23.72,
+      "market_cap": 520321920,
       "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 45
+        "composite_score": 41
       },
       "details": {
-        "composite_score": "Technical score 45/100 \u2014 RSI 66, volume 2.5x avg. Swing Trade signal."
+        "composite_score": "Technical score 41/100 \u2014 RSI 67, volume 0.5x avg. Swing Trade signal."
       }
     },
     {
       "rank": 9,
-      "ticker": "B.V",
-      "name": "BCM Resources Corporation",
+      "ticker": "GUD.TO",
+      "name": "Knight Therapeutics Inc.",
       "score": 43,
-      "price": 0.87,
-      "market_cap": 211507536,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "price": 10.16,
+      "market_cap": 998033216,
+      "strategy": "Position Trade",
+      "exchange": "TSX",
       "scores": {
         "composite_score": 43
       },
       "details": {
-        "composite_score": "Technical score 43/100 \u2014 RSI 69, volume 0.6x avg. Swing Trade signal."
+        "composite_score": "Technical score 43/100 \u2014 RSI 61, volume 0.3x avg. Position Trade signal."
       }
     },
     {
       "rank": 10,
       "ticker": "XLY.TO",
       "name": "Auxly Cannabis Group Inc.",
-      "score": 41,
-      "price": 3.41,
-      "market_cap": 352032832,
-      "strategy": "Position Trade",
+      "score": 43,
+      "price": 3.53,
+      "market_cap": 364421088,
+      "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 41
+        "composite_score": 43
       },
       "details": {
-        "composite_score": "Technical score 41/100 \u2014 RSI 71, volume 1.6x avg. Position Trade signal."
+        "composite_score": "Technical score 43/100 \u2014 RSI 72, volume 1.3x avg. Swing Trade signal."
       }
     }
   ],
   "previous": [
     {
+      "ticker": "TRX.TO"
+    },
+    {
+      "ticker": "CD.V"
+    },
+    {
       "ticker": "FLT.TO"
     },
     {
-      "ticker": "WM.TO"
-    },
-    {
-      "ticker": "APGO.V"
-    },
-    {
-      "ticker": "SCY.V"
-    },
-    {
-      "ticker": "NSE.V"
-    },
-    {
-      "ticker": "NMC.V"
-    },
-    {
-      "ticker": "XLY.TO"
-    },
-    {
-      "ticker": "XXIX.V"
+      "ticker": "AXO.V"
     },
     {
       "ticker": "NRC.V"
     },
     {
       "ticker": "AXL.V"
+    },
+    {
+      "ticker": "RSS.V"
+    },
+    {
+      "ticker": "BYN.V"
+    },
+    {
+      "ticker": "B.V"
+    },
+    {
+      "ticker": "XLY.TO"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-09-18",
+      "ticker": "EMPR.V",
+      "name": "Empress Royalty Corp.",
+      "rank": 1,
+      "score": 65,
+      "price_at_recommendation": 1.04,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-18",
+      "ticker": "OMI.V",
+      "name": "Orosur Mining Inc.",
+      "rank": 2,
+      "score": 54,
+      "price_at_recommendation": 0.415,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-18",
+      "ticker": "SLG.V",
+      "name": "San Lorenzo Gold Corp.",
+      "rank": 3,
+      "score": 54,
+      "price_at_recommendation": 7.25,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-18",
+      "ticker": "XXIX.V",
+      "name": "XXIX Metal Corp.",
+      "rank": 4,
+      "score": 54,
+      "price_at_recommendation": 0.22,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-18",
+      "ticker": "BRW.V",
+      "name": "Brunswick Exploration Inc.",
+      "rank": 5,
+      "score": 50,
+      "price_at_recommendation": 0.205,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-18",
+      "ticker": "REVX.V",
+      "name": "Rev Exploration Corp.",
+      "rank": 6,
+      "score": 50,
+      "price_at_recommendation": 1.85,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-18",
+      "ticker": "NRC.V",
+      "name": "Nations Royalty Corp.",
+      "rank": 7,
+      "score": 49,
+      "price_at_recommendation": 1.34,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-18",
+      "ticker": "TWM.TO",
+      "name": "Tidewater Midstream and Infrastructure Ltd.",
+      "rank": 8,
+      "score": 41,
+      "price_at_recommendation": 23.72,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-18",
+      "ticker": "GUD.TO",
+      "name": "Knight Therapeutics Inc.",
+      "rank": 9,
+      "score": 43,
+      "price_at_recommendation": 10.16,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-18",
+      "ticker": "XLY.TO",
+      "name": "Auxly Cannabis Group Inc.",
+      "rank": 10,
+      "score": 43,
+      "price_at_recommendation": 3.53,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
     {
       "run_date": "2026-09-14",
       "ticker": "TRX.TO",
