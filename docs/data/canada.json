@@ -1,200 +1,300 @@
 {
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-09-21",
   "current": [
     {
       "rank": 1,
-      "ticker": "EMPR.V",
-      "name": "Empress Royalty Corp.",
-      "score": 65,
-      "price": 1.04,
-      "market_cap": 142533408,
+      "ticker": "MOLY.TO",
+      "name": "Greenland Resources Inc.",
+      "score": 48,
+      "price": 1.86,
+      "market_cap": 251508880,
       "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 65
+        "composite_score": 48
       },
       "details": {
-        "composite_score": "Technical score 65/100 \u2014 RSI 65, volume 5.7x avg. Swing Trade signal."
+        "composite_score": "Technical score 48/100 \u2014 RSI 65, volume 6.7x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "OMI.V",
-      "name": "Orosur Mining Inc.",
-      "score": 54,
-      "price": 0.415,
-      "market_cap": 166417104,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "ticker": "FTG.TO",
+      "name": "Firan Technology Group Corporation",
+      "score": 35,
+      "price": 22.11,
+      "market_cap": 556583680,
+      "strategy": "Watch List",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 54
+        "composite_score": 35
       },
       "details": {
-        "composite_score": "Technical score 54/100 \u2014 RSI 72, volume 6.6x avg. Swing Trade signal."
+        "composite_score": "Technical score 35/100 \u2014 RSI 56, volume 0.1x avg. Watch List signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "SLG.V",
-      "name": "San Lorenzo Gold Corp.",
-      "score": 54,
-      "price": 7.25,
-      "market_cap": 787310272,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "ticker": "ACB.TO",
+      "name": "Aurora Cannabis Inc.",
+      "score": 35,
+      "price": 5.64,
+      "market_cap": 357068736,
+      "strategy": "Watch List",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 54
+        "composite_score": 35
       },
       "details": {
-        "composite_score": "Technical score 54/100 \u2014 RSI 66, volume 1.1x avg. Swing Trade signal."
+        "composite_score": "Technical score 35/100 \u2014 RSI 68, volume 0.8x avg. Watch List signal."
       }
     },
     {
       "rank": 4,
-      "ticker": "XXIX.V",
-      "name": "XXIX Metal Corp.",
-      "score": 54,
-      "price": 0.22,
-      "market_cap": 92069672,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "ticker": "EPRX.TO",
+      "name": "Eupraxia Pharmaceuticals Inc.",
+      "score": 35,
+      "price": 12.13,
+      "market_cap": 801470016,
+      "strategy": "Watch List",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 54
+        "composite_score": 35
       },
       "details": {
-        "composite_score": "Technical score 54/100 \u2014 RSI 70, volume 0.5x avg. Swing Trade signal."
+        "composite_score": "Technical score 35/100 \u2014 RSI 68, volume 0.8x avg. Watch List signal."
       }
     },
     {
       "rank": 5,
-      "ticker": "BRW.V",
-      "name": "Brunswick Exploration Inc.",
-      "score": 50,
-      "price": 0.205,
-      "market_cap": 57890384,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "ticker": "XLY.TO",
+      "name": "Auxly Cannabis Group Inc.",
+      "score": 34,
+      "price": 3.74,
+      "market_cap": 386100512,
+      "strategy": "Watch List",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 50
+        "composite_score": 34
       },
       "details": {
-        "composite_score": "Technical score 50/100 \u2014 RSI 72, volume 3.7x avg. Swing Trade signal."
+        "composite_score": "Technical score 34/100 \u2014 RSI 78, volume 1.7x avg. Watch List signal."
       }
     },
     {
       "rank": 6,
-      "ticker": "REVX.V",
-      "name": "Rev Exploration Corp.",
-      "score": 50,
-      "price": 1.85,
-      "market_cap": 112222792,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "ticker": "E.TO",
+      "name": "Evolution PowerX Corp.",
+      "score": 33,
+      "price": 1.6,
+      "market_cap": 129551640,
+      "strategy": "Watch List",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 50
+        "composite_score": 33
       },
       "details": {
-        "composite_score": "Technical score 50/100 \u2014 RSI 64, volume 2.1x avg. Swing Trade signal."
+        "composite_score": "Technical score 33/100 \u2014 RSI 58, volume 0.6x avg. Watch List signal."
       }
     },
     {
       "rank": 7,
-      "ticker": "NRC.V",
-      "name": "Nations Royalty Corp.",
-      "score": 49,
-      "price": 1.34,
-      "market_cap": 208009056,
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
+      "ticker": "CVVY.TO",
+      "name": "Cavvy Energy Ltd.",
+      "score": 30,
+      "price": 2.26,
+      "market_cap": 699153664,
+      "strategy": "Watch List",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 49
+        "composite_score": 30
       },
       "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 65, volume 0.2x avg. Position Trade signal."
+        "composite_score": "Technical score 30/100 \u2014 RSI 64, volume 1.0x avg. Watch List signal."
       }
     },
     {
       "rank": 8,
-      "ticker": "TWM.TO",
-      "name": "Tidewater Midstream and Infrastructure Ltd.",
-      "score": 41,
-      "price": 23.72,
-      "market_cap": 520321920,
-      "strategy": "Swing Trade",
+      "ticker": "JAG.TO",
+      "name": "Jaguar Mining Inc.",
+      "score": 29,
+      "price": 7.75,
+      "market_cap": 661314176,
+      "strategy": "Watch List",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 41
+        "composite_score": 29
       },
       "details": {
-        "composite_score": "Technical score 41/100 \u2014 RSI 67, volume 0.5x avg. Swing Trade signal."
+        "composite_score": "Technical score 29/100 \u2014 RSI 55, volume 0.3x avg. Watch List signal."
       }
     },
     {
       "rank": 9,
-      "ticker": "GUD.TO",
-      "name": "Knight Therapeutics Inc.",
-      "score": 43,
-      "price": 10.16,
-      "market_cap": 998033216,
-      "strategy": "Position Trade",
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "score": 29,
+      "price": 15.87,
+      "market_cap": 539679040,
+      "strategy": "Watch List",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 43
+        "composite_score": 29
       },
       "details": {
-        "composite_score": "Technical score 43/100 \u2014 RSI 61, volume 0.3x avg. Position Trade signal."
+        "composite_score": "Technical score 29/100 \u2014 RSI 59, volume 0.5x avg. Watch List signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "XLY.TO",
-      "name": "Auxly Cannabis Group Inc.",
-      "score": 43,
-      "price": 3.53,
-      "market_cap": 364421088,
-      "strategy": "Swing Trade",
+      "ticker": "GSY.TO",
+      "name": "goeasy Ltd.",
+      "score": 28,
+      "price": 44.94,
+      "market_cap": 720578880,
+      "strategy": "Watch List",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 43
+        "composite_score": 28
       },
       "details": {
-        "composite_score": "Technical score 43/100 \u2014 RSI 72, volume 1.3x avg. Swing Trade signal."
+        "composite_score": "Technical score 28/100 \u2014 RSI 58, volume 1.8x avg. Watch List signal."
       }
     }
   ],
   "previous": [
     {
-      "ticker": "TRX.TO"
+      "ticker": "EMPR.V"
     },
     {
-      "ticker": "CD.V"
+      "ticker": "OMI.V"
     },
     {
-      "ticker": "FLT.TO"
+      "ticker": "SLG.V"
     },
     {
-      "ticker": "AXO.V"
+      "ticker": "XXIX.V"
+    },
+    {
+      "ticker": "BRW.V"
+    },
+    {
+      "ticker": "REVX.V"
     },
     {
       "ticker": "NRC.V"
     },
     {
-      "ticker": "AXL.V"
+      "ticker": "TWM.TO"
     },
     {
-      "ticker": "RSS.V"
-    },
-    {
-      "ticker": "BYN.V"
-    },
-    {
-      "ticker": "B.V"
+      "ticker": "GUD.TO"
     },
     {
       "ticker": "XLY.TO"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-09-21",
+      "ticker": "MOLY.TO",
+      "name": "Greenland Resources Inc.",
+      "rank": 1,
+      "score": 48,
+      "price_at_recommendation": 1.86,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-21",
+      "ticker": "FTG.TO",
+      "name": "Firan Technology Group Corporation",
+      "rank": 2,
+      "score": 35,
+      "price_at_recommendation": 22.11,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-21",
+      "ticker": "ACB.TO",
+      "name": "Aurora Cannabis Inc.",
+      "rank": 3,
+      "score": 35,
+      "price_at_recommendation": 5.64,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-21",
+      "ticker": "EPRX.TO",
+      "name": "Eupraxia Pharmaceuticals Inc.",
+      "rank": 4,
+      "score": 35,
+      "price_at_recommendation": 12.13,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-21",
+      "ticker": "XLY.TO",
+      "name": "Auxly Cannabis Group Inc.",
+      "rank": 5,
+      "score": 34,
+      "price_at_recommendation": 3.74,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-21",
+      "ticker": "E.TO",
+      "name": "Evolution PowerX Corp.",
+      "rank": 6,
+      "score": 33,
+      "price_at_recommendation": 1.6,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-21",
+      "ticker": "CVVY.TO",
+      "name": "Cavvy Energy Ltd.",
+      "rank": 7,
+      "score": 30,
+      "price_at_recommendation": 2.26,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-21",
+      "ticker": "JAG.TO",
+      "name": "Jaguar Mining Inc.",
+      "rank": 8,
+      "score": 29,
+      "price_at_recommendation": 7.75,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-21",
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "rank": 9,
+      "score": 29,
+      "price_at_recommendation": 15.87,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-21",
+      "ticker": "GSY.TO",
+      "name": "goeasy Ltd.",
+      "rank": 10,
+      "score": 28,
+      "price_at_recommendation": 44.94,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
     {
       "run_date": "2026-09-18",
       "ticker": "EMPR.V",
