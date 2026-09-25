@@ -1,82 +1,6 @@
 {
   "active": [
     {
-      "ticker": "DBO.TO",
-      "name": "D-BOX Technologies Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-08-26",
-      "entry_price": 1.17,
-      "entry_score": 47,
-      "entry_signals": {
-        "composite_score": 47
-      },
-      "entry_details": {
-        "composite_score": "Score 47/100 \u2014 RSI 68.2, volume 0.4x avg"
-      },
-      "last_price": null,
-      "last_checked": "2026-09-21",
-      "on_list": false
-    },
-    {
-      "ticker": "NXG.V",
-      "name": "NexgenRx Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-26",
-      "entry_price": 0.45,
-      "entry_score": 44,
-      "entry_signals": {
-        "composite_score": 44
-      },
-      "entry_details": {
-        "composite_score": "Score 44/100 \u2014 RSI 55.8, volume 3.3x avg"
-      },
-      "last_price": null,
-      "last_checked": "2026-09-21",
-      "on_list": false
-    },
-    {
-      "ticker": "BLN.TO",
-      "name": "Blackline Safety Corp.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-08-26",
-      "entry_price": 9.04,
-      "entry_score": 43,
-      "entry_signals": {
-        "composite_score": 43
-      },
-      "entry_details": {
-        "composite_score": "Score 43/100 \u2014 RSI 61.2, volume 0.2x avg"
-      },
-      "last_price": null,
-      "last_checked": "2026-09-21",
-      "on_list": false
-    },
-    {
-      "ticker": "TTZ.V",
-      "name": "Total Telcom Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-08-26",
-      "entry_price": 0.51,
-      "entry_score": 42,
-      "entry_signals": {
-        "composite_score": 42
-      },
-      "entry_details": {
-        "composite_score": "Score 42/100 \u2014 RSI 61.1, volume 0.2x avg"
-      },
-      "last_price": null,
-      "last_checked": "2026-09-21",
-      "on_list": false
-    },
-    {
       "ticker": "VHI.TO",
       "name": "Vitalhub Corp.",
       "screener": "canada",
@@ -91,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 55/100 \u2014 RSI 68.6, volume 0.9x avg"
       },
-      "last_price": null,
-      "last_checked": "2026-09-21",
+      "last_price": 7.489999771118164,
+      "last_checked": "2026-09-25",
       "on_list": false
     },
     {
@@ -110,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 59.4, volume 2.2x avg"
       },
-      "last_price": null,
-      "last_checked": "2026-09-21",
+      "last_price": 1.3200000524520874,
+      "last_checked": "2026-09-25",
       "on_list": false
     },
     {
@@ -129,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 49/100 \u2014 RSI 63.0, volume 0.3x avg"
       },
-      "last_price": null,
-      "last_checked": "2026-09-21",
+      "last_price": 1.2400000095367432,
+      "last_checked": "2026-09-25",
       "on_list": false
     },
     {
@@ -148,9 +72,9 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 74.8, volume 0.7x avg"
       },
-      "last_price": 15.87,
-      "last_checked": "2026-09-21",
-      "on_list": true
+      "last_price": 15.8100004196167,
+      "last_checked": "2026-09-25",
+      "on_list": false
     },
     {
       "ticker": "GG.V",
@@ -167,27 +91,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 64.8, volume 1.4x avg"
       },
-      "last_price": null,
-      "last_checked": "2026-09-21",
-      "on_list": false
-    },
-    {
-      "ticker": "WILD.TO",
-      "name": "WildBrain Ltd.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-09-02",
-      "entry_price": 1.69,
-      "entry_score": 39,
-      "entry_signals": {
-        "composite_score": 39
-      },
-      "entry_details": {
-        "composite_score": "Score 39/100 \u2014 RSI 71.1, volume 0.3x avg"
-      },
-      "last_price": null,
-      "last_checked": "2026-09-21",
+      "last_price": 3.049999952316284,
+      "last_checked": "2026-09-25",
       "on_list": false
     },
     {
@@ -205,47 +110,9 @@
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 64.3, volume 0.2x avg"
       },
-      "last_price": null,
-      "last_checked": "2026-09-21",
+      "last_price": 1.7350000143051147,
+      "last_checked": "2026-09-25",
       "on_list": false
-    },
-    {
-      "ticker": "VGC.TO",
-      "name": "Valor Gold Corp.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-09-04",
-      "entry_price": 4.91,
-      "entry_score": 40,
-      "entry_signals": {
-        "composite_score": 40
-      },
-      "entry_details": {
-        "composite_score": "Score 40/100 \u2014 RSI 63.5, volume 0.1x avg"
-      },
-      "last_price": null,
-      "last_checked": "2026-09-21",
-      "on_list": false
-    },
-    {
-      "ticker": "XLY.TO",
-      "name": "Auxly Cannabis Group Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-09-11",
-      "entry_price": 3.3,
-      "entry_score": 47,
-      "entry_signals": {
-        "composite_score": 47
-      },
-      "entry_details": {
-        "composite_score": "Score 47/100 \u2014 RSI 66.0, volume 0.3x avg"
-      },
-      "last_price": 3.74,
-      "last_checked": "2026-09-21",
-      "on_list": true
     },
     {
       "ticker": "AXL.V",
@@ -262,8 +129,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 64.8, volume 0.3x avg"
       },
-      "last_price": null,
-      "last_checked": "2026-09-21",
+      "last_price": 0.6800000071525574,
+      "last_checked": "2026-09-25",
       "on_list": false
     },
     {
@@ -281,160 +148,198 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 60.6, volume 0.3x avg"
       },
-      "last_price": null,
-      "last_checked": "2026-09-21",
+      "last_price": 10.180000305175781,
+      "last_checked": "2026-09-25",
       "on_list": false
     },
     {
-      "ticker": "MOLY.TO",
-      "name": "Greenland Resources Inc.",
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
       "screener": "canada",
       "strategy": "Swing Trade",
       "exchange": "TSX",
-      "entry_date": "2026-09-21",
-      "entry_price": 1.86,
+      "entry_date": "2026-09-25",
+      "entry_price": 2.2,
+      "entry_score": 65,
+      "entry_signals": {
+        "composite_score": 65
+      },
+      "entry_details": {
+        "composite_score": "Score 65/100 \u2014 RSI 76.2, volume 6.8x avg"
+      },
+      "last_price": 2.2,
+      "last_checked": "2026-09-25",
+      "on_list": true
+    },
+    {
+      "ticker": "REVX.V",
+      "name": "Rev Exploration Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "entry_price": 1.93,
+      "entry_score": 60,
+      "entry_signals": {
+        "composite_score": 60
+      },
+      "entry_details": {
+        "composite_score": "Score 60/100 \u2014 RSI 61.6, volume 6.8x avg"
+      },
+      "last_price": 1.93,
+      "last_checked": "2026-09-25",
+      "on_list": true
+    },
+    {
+      "ticker": "ONE.V",
+      "name": "01 Quantum Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "entry_price": 0.55,
+      "entry_score": 53,
+      "entry_signals": {
+        "composite_score": 53
+      },
+      "entry_details": {
+        "composite_score": "Score 53/100 \u2014 RSI 66.1, volume 1.9x avg"
+      },
+      "last_price": 0.55,
+      "last_checked": "2026-09-25",
+      "on_list": true
+    },
+    {
+      "ticker": "ADY.V",
+      "name": "Adyton Resources Corporation",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "entry_price": 0.38,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 69.0, volume 2.4x avg"
+      },
+      "last_price": 0.38,
+      "last_checked": "2026-09-25",
+      "on_list": true
+    },
+    {
+      "ticker": "GRID.TO",
+      "name": "Tantalus Systems Holding Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-25",
+      "entry_price": 4.54,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 65.5, volume 0.7x avg"
+      },
+      "last_price": 4.54,
+      "last_checked": "2026-09-25",
+      "on_list": true
+    },
+    {
+      "ticker": "BUFF.V",
+      "name": "Buffalo Potash Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "entry_price": 0.94,
       "entry_score": 48,
       "entry_signals": {
         "composite_score": 48
       },
       "entry_details": {
-        "composite_score": "Score 48/100 \u2014 RSI 65.0, volume 6.7x avg"
+        "composite_score": "Score 48/100 \u2014 RSI 69.1, volume 1.2x avg"
       },
-      "last_price": 1.86,
-      "last_checked": "2026-09-21",
+      "last_price": 0.94,
+      "last_checked": "2026-09-25",
       "on_list": true
     },
     {
-      "ticker": "FTG.TO",
-      "name": "Firan Technology Group Corporation",
+      "ticker": "RAK.V",
+      "name": "Rackla Metals Inc.",
       "screener": "canada",
-      "strategy": "Watch List",
-      "exchange": "TSX",
-      "entry_date": "2026-09-21",
-      "entry_price": 22.11,
-      "entry_score": 35,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "entry_price": 0.3,
+      "entry_score": 48,
       "entry_signals": {
-        "composite_score": 35
+        "composite_score": 48
       },
       "entry_details": {
-        "composite_score": "Score 35/100 \u2014 RSI 55.6, volume 0.1x avg"
+        "composite_score": "Score 48/100 \u2014 RSI 68.4, volume 1.0x avg"
       },
-      "last_price": 22.11,
-      "last_checked": "2026-09-21",
+      "last_price": 0.3,
+      "last_checked": "2026-09-25",
       "on_list": true
     },
     {
-      "ticker": "ACB.TO",
-      "name": "Aurora Cannabis Inc.",
+      "ticker": "CEMX.TO",
+      "name": "CEMATRIX Corporation",
       "screener": "canada",
-      "strategy": "Watch List",
+      "strategy": "Position Trade",
       "exchange": "TSX",
-      "entry_date": "2026-09-21",
-      "entry_price": 5.64,
-      "entry_score": 35,
+      "entry_date": "2026-09-25",
+      "entry_price": 0.51,
+      "entry_score": 46,
       "entry_signals": {
-        "composite_score": 35
+        "composite_score": 46
       },
       "entry_details": {
-        "composite_score": "Score 35/100 \u2014 RSI 67.8, volume 0.8x avg"
+        "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 3.3x avg"
       },
-      "last_price": 5.64,
-      "last_checked": "2026-09-21",
+      "last_price": 0.51,
+      "last_checked": "2026-09-25",
       "on_list": true
     },
     {
-      "ticker": "EPRX.TO",
-      "name": "Eupraxia Pharmaceuticals Inc.",
+      "ticker": "TK.V",
+      "name": "Tinka Resources Limited",
       "screener": "canada",
-      "strategy": "Watch List",
-      "exchange": "TSX",
-      "entry_date": "2026-09-21",
-      "entry_price": 12.13,
-      "entry_score": 35,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "entry_price": 0.52,
+      "entry_score": 46,
       "entry_signals": {
-        "composite_score": 35
+        "composite_score": 46
       },
       "entry_details": {
-        "composite_score": "Score 35/100 \u2014 RSI 67.7, volume 0.8x avg"
+        "composite_score": "Score 46/100 \u2014 RSI 68.7, volume 0.5x avg"
       },
-      "last_price": 12.13,
-      "last_checked": "2026-09-21",
+      "last_price": 0.52,
+      "last_checked": "2026-09-25",
       "on_list": true
     },
     {
-      "ticker": "E.TO",
-      "name": "Evolution PowerX Corp.",
+      "ticker": "LOVE.TO",
+      "name": "Cannara Biotech Inc.",
       "screener": "canada",
-      "strategy": "Watch List",
+      "strategy": "Position Trade",
       "exchange": "TSX",
-      "entry_date": "2026-09-21",
-      "entry_price": 1.6,
-      "entry_score": 33,
+      "entry_date": "2026-09-25",
+      "entry_price": 2.18,
+      "entry_score": 45,
       "entry_signals": {
-        "composite_score": 33
+        "composite_score": 45
       },
       "entry_details": {
-        "composite_score": "Score 33/100 \u2014 RSI 57.8, volume 0.6x avg"
+        "composite_score": "Score 45/100 \u2014 RSI 76.6, volume 1.8x avg"
       },
-      "last_price": 1.6,
-      "last_checked": "2026-09-21",
-      "on_list": true
-    },
-    {
-      "ticker": "CVVY.TO",
-      "name": "Cavvy Energy Ltd.",
-      "screener": "canada",
-      "strategy": "Watch List",
-      "exchange": "TSX",
-      "entry_date": "2026-09-21",
-      "entry_price": 2.26,
-      "entry_score": 30,
-      "entry_signals": {
-        "composite_score": 30
-      },
-      "entry_details": {
-        "composite_score": "Score 30/100 \u2014 RSI 63.8, volume 1.0x avg"
-      },
-      "last_price": 2.26,
-      "last_checked": "2026-09-21",
-      "on_list": true
-    },
-    {
-      "ticker": "JAG.TO",
-      "name": "Jaguar Mining Inc.",
-      "screener": "canada",
-      "strategy": "Watch List",
-      "exchange": "TSX",
-      "entry_date": "2026-09-21",
-      "entry_price": 7.75,
-      "entry_score": 29,
-      "entry_signals": {
-        "composite_score": 29
-      },
-      "entry_details": {
-        "composite_score": "Score 29/100 \u2014 RSI 55.5, volume 0.3x avg"
-      },
-      "last_price": 7.75,
-      "last_checked": "2026-09-21",
-      "on_list": true
-    },
-    {
-      "ticker": "GSY.TO",
-      "name": "goeasy Ltd.",
-      "screener": "canada",
-      "strategy": "Watch List",
-      "exchange": "TSX",
-      "entry_date": "2026-09-21",
-      "entry_price": 44.94,
-      "entry_score": 28,
-      "entry_signals": {
-        "composite_score": 28
-      },
-      "entry_details": {
-        "composite_score": "Score 28/100 \u2014 RSI 57.8, volume 1.8x avg"
-      },
-      "last_price": 44.94,
-      "last_checked": "2026-09-21",
+      "last_price": 2.18,
+      "last_checked": "2026-09-25",
       "on_list": true
     }
   ],
@@ -1447,6 +1352,336 @@
       },
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 67.3, volume 0.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "DBO.TO",
+      "name": "D-BOX Technologies Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-09-25",
+      "entry_price": 1.17,
+      "exit_price": 1.105,
+      "return_pct": -5.56,
+      "days_held": 30,
+      "entry_score": 47,
+      "entry_signals": {
+        "composite_score": 47
+      },
+      "entry_details": {
+        "composite_score": "Score 47/100 \u2014 RSI 68.2, volume 0.4x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "NXG.V",
+      "name": "NexgenRx Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-09-25",
+      "entry_price": 0.45,
+      "exit_price": 0.59,
+      "return_pct": 31.11,
+      "days_held": 30,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 55.8, volume 3.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "BLN.TO",
+      "name": "Blackline Safety Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-09-25",
+      "entry_price": 9.04,
+      "exit_price": 9.05,
+      "return_pct": 0.11,
+      "days_held": 30,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 61.2, volume 0.2x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "TTZ.V",
+      "name": "Total Telcom Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-09-25",
+      "entry_price": 0.51,
+      "exit_price": 0.5,
+      "return_pct": -1.96,
+      "days_held": 30,
+      "entry_score": 42,
+      "entry_signals": {
+        "composite_score": 42
+      },
+      "entry_details": {
+        "composite_score": "Score 42/100 \u2014 RSI 61.1, volume 0.2x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "WILD.TO",
+      "name": "WildBrain Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-02",
+      "exit_date": "2026-09-25",
+      "entry_price": 1.69,
+      "exit_price": 1.14,
+      "return_pct": -32.54,
+      "days_held": 23,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 71.1, volume 0.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "stop_loss"
+    },
+    {
+      "ticker": "VGC.TO",
+      "name": "Valor Gold Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-04",
+      "exit_date": "2026-09-25",
+      "entry_price": 4.91,
+      "exit_price": 3.745,
+      "return_pct": -23.73,
+      "days_held": 21,
+      "entry_score": 40,
+      "entry_signals": {
+        "composite_score": 40
+      },
+      "entry_details": {
+        "composite_score": "Score 40/100 \u2014 RSI 63.5, volume 0.1x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "stop_loss"
+    },
+    {
+      "ticker": "XLY.TO",
+      "name": "Auxly Cannabis Group Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-11",
+      "exit_date": "2026-09-25",
+      "entry_price": 3.3,
+      "exit_price": 3.63,
+      "return_pct": 10.0,
+      "days_held": 14,
+      "entry_score": 47,
+      "entry_signals": {
+        "composite_score": 47
+      },
+      "entry_details": {
+        "composite_score": "Score 47/100 \u2014 RSI 66.0, volume 0.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "MOLY.TO",
+      "name": "Greenland Resources Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-21",
+      "exit_date": "2026-09-25",
+      "entry_price": 1.86,
+      "exit_price": 1.58,
+      "return_pct": -15.05,
+      "days_held": 4,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 65.0, volume 6.7x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "FTG.TO",
+      "name": "Firan Technology Group Corporation",
+      "screener": "canada",
+      "strategy": "Watch List",
+      "exchange": "TSX",
+      "entry_date": "2026-09-21",
+      "exit_date": "2026-09-25",
+      "entry_price": 22.11,
+      "exit_price": 25.03,
+      "return_pct": 13.21,
+      "days_held": 4,
+      "entry_score": 35,
+      "entry_signals": {
+        "composite_score": 35
+      },
+      "entry_details": {
+        "composite_score": "Score 35/100 \u2014 RSI 55.6, volume 0.1x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "ACB.TO",
+      "name": "Aurora Cannabis Inc.",
+      "screener": "canada",
+      "strategy": "Watch List",
+      "exchange": "TSX",
+      "entry_date": "2026-09-21",
+      "exit_date": "2026-09-25",
+      "entry_price": 5.64,
+      "exit_price": 5.8,
+      "return_pct": 2.84,
+      "days_held": 4,
+      "entry_score": 35,
+      "entry_signals": {
+        "composite_score": 35
+      },
+      "entry_details": {
+        "composite_score": "Score 35/100 \u2014 RSI 67.8, volume 0.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "EPRX.TO",
+      "name": "Eupraxia Pharmaceuticals Inc.",
+      "screener": "canada",
+      "strategy": "Watch List",
+      "exchange": "TSX",
+      "entry_date": "2026-09-21",
+      "exit_date": "2026-09-25",
+      "entry_price": 12.13,
+      "exit_price": 11.34,
+      "return_pct": -6.51,
+      "days_held": 4,
+      "entry_score": 35,
+      "entry_signals": {
+        "composite_score": 35
+      },
+      "entry_details": {
+        "composite_score": "Score 35/100 \u2014 RSI 67.7, volume 0.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "E.TO",
+      "name": "Evolution PowerX Corp.",
+      "screener": "canada",
+      "strategy": "Watch List",
+      "exchange": "TSX",
+      "entry_date": "2026-09-21",
+      "exit_date": "2026-09-25",
+      "entry_price": 1.6,
+      "exit_price": 1.59,
+      "return_pct": -0.62,
+      "days_held": 4,
+      "entry_score": 33,
+      "entry_signals": {
+        "composite_score": 33
+      },
+      "entry_details": {
+        "composite_score": "Score 33/100 \u2014 RSI 57.8, volume 0.6x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "CVVY.TO",
+      "name": "Cavvy Energy Ltd.",
+      "screener": "canada",
+      "strategy": "Watch List",
+      "exchange": "TSX",
+      "entry_date": "2026-09-21",
+      "exit_date": "2026-09-25",
+      "entry_price": 2.26,
+      "exit_price": 2.29,
+      "return_pct": 1.33,
+      "days_held": 4,
+      "entry_score": 30,
+      "entry_signals": {
+        "composite_score": 30
+      },
+      "entry_details": {
+        "composite_score": "Score 30/100 \u2014 RSI 63.8, volume 1.0x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "JAG.TO",
+      "name": "Jaguar Mining Inc.",
+      "screener": "canada",
+      "strategy": "Watch List",
+      "exchange": "TSX",
+      "entry_date": "2026-09-21",
+      "exit_date": "2026-09-25",
+      "entry_price": 7.75,
+      "exit_price": 7.6,
+      "return_pct": -1.94,
+      "days_held": 4,
+      "entry_score": 29,
+      "entry_signals": {
+        "composite_score": 29
+      },
+      "entry_details": {
+        "composite_score": "Score 29/100 \u2014 RSI 55.5, volume 0.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "GSY.TO",
+      "name": "goeasy Ltd.",
+      "screener": "canada",
+      "strategy": "Watch List",
+      "exchange": "TSX",
+      "entry_date": "2026-09-21",
+      "exit_date": "2026-09-25",
+      "entry_price": 44.94,
+      "exit_price": 42.66,
+      "return_pct": -5.07,
+      "days_held": 4,
+      "entry_score": 28,
+      "entry_signals": {
+        "composite_score": 28
+      },
+      "entry_details": {
+        "composite_score": "Score 28/100 \u2014 RSI 57.8, volume 1.8x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"

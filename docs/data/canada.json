@@ -1,200 +1,300 @@
 {
-  "last_updated": "2026-09-21",
+  "last_updated": "2026-09-25",
   "current": [
     {
       "rank": 1,
-      "ticker": "MOLY.TO",
-      "name": "Greenland Resources Inc.",
-      "score": 48,
-      "price": 1.86,
-      "market_cap": 251508880,
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
+      "score": 65,
+      "price": 2.2,
+      "market_cap": 148256096,
       "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 48
+        "composite_score": 65
       },
       "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 65, volume 6.7x avg. Swing Trade signal."
+        "composite_score": "Technical score 65/100 \u2014 RSI 76, volume 6.8x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "FTG.TO",
-      "name": "Firan Technology Group Corporation",
-      "score": 35,
-      "price": 22.11,
-      "market_cap": 556583680,
-      "strategy": "Watch List",
-      "exchange": "TSX",
+      "ticker": "REVX.V",
+      "name": "Rev Exploration Corp.",
+      "score": 60,
+      "price": 1.93,
+      "market_cap": 117075664,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 35
+        "composite_score": 60
       },
       "details": {
-        "composite_score": "Technical score 35/100 \u2014 RSI 56, volume 0.1x avg. Watch List signal."
+        "composite_score": "Technical score 60/100 \u2014 RSI 62, volume 6.8x avg. Swing Trade signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "ACB.TO",
-      "name": "Aurora Cannabis Inc.",
-      "score": 35,
-      "price": 5.64,
-      "market_cap": 357068736,
-      "strategy": "Watch List",
-      "exchange": "TSX",
+      "ticker": "ONE.V",
+      "name": "01 Quantum Inc.",
+      "score": 53,
+      "price": 0.55,
+      "market_cap": 60300012,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 35
+        "composite_score": 53
       },
       "details": {
-        "composite_score": "Technical score 35/100 \u2014 RSI 68, volume 0.8x avg. Watch List signal."
+        "composite_score": "Technical score 53/100 \u2014 RSI 66, volume 1.9x avg. Swing Trade signal."
       }
     },
     {
       "rank": 4,
-      "ticker": "EPRX.TO",
-      "name": "Eupraxia Pharmaceuticals Inc.",
-      "score": 35,
-      "price": 12.13,
-      "market_cap": 801470016,
-      "strategy": "Watch List",
-      "exchange": "TSX",
+      "ticker": "ADY.V",
+      "name": "Adyton Resources Corporation",
+      "score": 52,
+      "price": 0.38,
+      "market_cap": 119715912,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 35
+        "composite_score": 52
       },
       "details": {
-        "composite_score": "Technical score 35/100 \u2014 RSI 68, volume 0.8x avg. Watch List signal."
+        "composite_score": "Technical score 52/100 \u2014 RSI 69, volume 2.4x avg. Swing Trade signal."
       }
     },
     {
       "rank": 5,
-      "ticker": "XLY.TO",
-      "name": "Auxly Cannabis Group Inc.",
-      "score": 34,
-      "price": 3.74,
-      "market_cap": 386100512,
-      "strategy": "Watch List",
+      "ticker": "GRID.TO",
+      "name": "Tantalus Systems Holding Inc.",
+      "score": 50,
+      "price": 4.54,
+      "market_cap": 258630912,
+      "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 34
+        "composite_score": 50
       },
       "details": {
-        "composite_score": "Technical score 34/100 \u2014 RSI 78, volume 1.7x avg. Watch List signal."
+        "composite_score": "Technical score 50/100 \u2014 RSI 65, volume 0.7x avg. Swing Trade signal."
       }
     },
     {
       "rank": 6,
-      "ticker": "E.TO",
-      "name": "Evolution PowerX Corp.",
-      "score": 33,
-      "price": 1.6,
-      "market_cap": 129551640,
-      "strategy": "Watch List",
-      "exchange": "TSX",
+      "ticker": "BUFF.V",
+      "name": "Buffalo Potash Corp.",
+      "score": 48,
+      "price": 0.94,
+      "market_cap": 103073488,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 33
+        "composite_score": 48
       },
       "details": {
-        "composite_score": "Technical score 33/100 \u2014 RSI 58, volume 0.6x avg. Watch List signal."
+        "composite_score": "Technical score 48/100 \u2014 RSI 69, volume 1.2x avg. Swing Trade signal."
       }
     },
     {
       "rank": 7,
-      "ticker": "CVVY.TO",
-      "name": "Cavvy Energy Ltd.",
-      "score": 30,
-      "price": 2.26,
-      "market_cap": 699153664,
-      "strategy": "Watch List",
-      "exchange": "TSX",
+      "ticker": "RAK.V",
+      "name": "Rackla Metals Inc.",
+      "score": 48,
+      "price": 0.3,
+      "market_cap": 54734988,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 30
+        "composite_score": 48
       },
       "details": {
-        "composite_score": "Technical score 30/100 \u2014 RSI 64, volume 1.0x avg. Watch List signal."
+        "composite_score": "Technical score 48/100 \u2014 RSI 68, volume 1.0x avg. Swing Trade signal."
       }
     },
     {
       "rank": 8,
-      "ticker": "JAG.TO",
-      "name": "Jaguar Mining Inc.",
-      "score": 29,
-      "price": 7.75,
-      "market_cap": 661314176,
-      "strategy": "Watch List",
+      "ticker": "CEMX.TO",
+      "name": "CEMATRIX Corporation",
+      "score": 46,
+      "price": 0.51,
+      "market_cap": 76361016,
+      "strategy": "Position Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 29
+        "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 29/100 \u2014 RSI 55, volume 0.3x avg. Watch List signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 57, volume 3.3x avg. Position Trade signal."
       }
     },
     {
       "rank": 9,
-      "ticker": "KITS.TO",
-      "name": "Kits Eyecare Ltd.",
-      "score": 29,
-      "price": 15.87,
-      "market_cap": 539679040,
-      "strategy": "Watch List",
-      "exchange": "TSX",
+      "ticker": "TK.V",
+      "name": "Tinka Resources Limited",
+      "score": 46,
+      "price": 0.52,
+      "market_cap": 69561728,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 29
+        "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 29/100 \u2014 RSI 59, volume 0.5x avg. Watch List signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 69, volume 0.5x avg. Swing Trade signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "GSY.TO",
-      "name": "goeasy Ltd.",
-      "score": 28,
-      "price": 44.94,
-      "market_cap": 720578880,
-      "strategy": "Watch List",
+      "ticker": "LOVE.TO",
+      "name": "Cannara Biotech Inc.",
+      "score": 45,
+      "price": 2.18,
+      "market_cap": 215345088,
+      "strategy": "Position Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 28
+        "composite_score": 45
       },
       "details": {
-        "composite_score": "Technical score 28/100 \u2014 RSI 58, volume 1.8x avg. Watch List signal."
+        "composite_score": "Technical score 45/100 \u2014 RSI 77, volume 1.8x avg. Position Trade signal."
       }
     }
   ],
   "previous": [
     {
-      "ticker": "EMPR.V"
+      "ticker": "MOLY.TO"
     },
     {
-      "ticker": "OMI.V"
+      "ticker": "FTG.TO"
     },
     {
-      "ticker": "SLG.V"
+      "ticker": "ACB.TO"
     },
     {
-      "ticker": "XXIX.V"
-    },
-    {
-      "ticker": "BRW.V"
-    },
-    {
-      "ticker": "REVX.V"
-    },
-    {
-      "ticker": "NRC.V"
-    },
-    {
-      "ticker": "TWM.TO"
-    },
-    {
-      "ticker": "GUD.TO"
+      "ticker": "EPRX.TO"
     },
     {
       "ticker": "XLY.TO"
+    },
+    {
+      "ticker": "E.TO"
+    },
+    {
+      "ticker": "CVVY.TO"
+    },
+    {
+      "ticker": "JAG.TO"
+    },
+    {
+      "ticker": "KITS.TO"
+    },
+    {
+      "ticker": "GSY.TO"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-09-25",
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
+      "rank": 1,
+      "score": 65,
+      "price_at_recommendation": 2.2,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-25",
+      "ticker": "REVX.V",
+      "name": "Rev Exploration Corp.",
+      "rank": 2,
+      "score": 60,
+      "price_at_recommendation": 1.93,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-25",
+      "ticker": "ONE.V",
+      "name": "01 Quantum Inc.",
+      "rank": 3,
+      "score": 53,
+      "price_at_recommendation": 0.55,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-25",
+      "ticker": "ADY.V",
+      "name": "Adyton Resources Corporation",
+      "rank": 4,
+      "score": 52,
+      "price_at_recommendation": 0.38,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-25",
+      "ticker": "GRID.TO",
+      "name": "Tantalus Systems Holding Inc.",
+      "rank": 5,
+      "score": 50,
+      "price_at_recommendation": 4.54,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-25",
+      "ticker": "BUFF.V",
+      "name": "Buffalo Potash Corp.",
+      "rank": 6,
+      "score": 48,
+      "price_at_recommendation": 0.94,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-25",
+      "ticker": "RAK.V",
+      "name": "Rackla Metals Inc.",
+      "rank": 7,
+      "score": 48,
+      "price_at_recommendation": 0.3,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-25",
+      "ticker": "CEMX.TO",
+      "name": "CEMATRIX Corporation",
+      "rank": 8,
+      "score": 46,
+      "price_at_recommendation": 0.51,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-25",
+      "ticker": "TK.V",
+      "name": "Tinka Resources Limited",
+      "rank": 9,
+      "score": 46,
+      "price_at_recommendation": 0.52,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-25",
+      "ticker": "LOVE.TO",
+      "name": "Cannara Biotech Inc.",
+      "rank": 10,
+      "score": 45,
+      "price_at_recommendation": 2.18,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
     {
       "run_date": "2026-09-21",
       "ticker": "MOLY.TO",
