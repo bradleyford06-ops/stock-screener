@@ -1,200 +1,300 @@
 {
-  "last_updated": "2026-09-25",
+  "last_updated": "2026-09-28",
   "current": [
     {
       "rank": 1,
-      "ticker": "THNC.TO",
-      "name": "Thinkific Labs Inc.",
-      "score": 65,
-      "price": 2.2,
-      "market_cap": 148256096,
+      "ticker": "ONE.V",
+      "name": "01 Quantum Inc.",
+      "score": 64,
+      "price": 0.57,
+      "market_cap": 62492740,
       "strategy": "Swing Trade",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 65
+        "composite_score": 64
       },
       "details": {
-        "composite_score": "Technical score 65/100 \u2014 RSI 76, volume 6.8x avg. Swing Trade signal."
+        "composite_score": "Technical score 64/100 \u2014 RSI 69, volume 3.8x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "REVX.V",
-      "name": "Rev Exploration Corp.",
-      "score": 60,
-      "price": 1.93,
-      "market_cap": 117075664,
+      "ticker": "ATLE.V",
+      "name": "Atlas Energy Corp.",
+      "score": 58,
+      "price": 0.13,
+      "market_cap": 81827112,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 60
+        "composite_score": 58
       },
       "details": {
-        "composite_score": "Technical score 60/100 \u2014 RSI 62, volume 6.8x avg. Swing Trade signal."
+        "composite_score": "Technical score 58/100 \u2014 RSI 60, volume 6.6x avg. Swing Trade signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "ONE.V",
-      "name": "01 Quantum Inc.",
-      "score": 53,
-      "price": 0.55,
-      "market_cap": 60300012,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 53
-      },
-      "details": {
-        "composite_score": "Technical score 53/100 \u2014 RSI 66, volume 1.9x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 4,
-      "ticker": "ADY.V",
-      "name": "Adyton Resources Corporation",
-      "score": 52,
-      "price": 0.38,
-      "market_cap": 119715912,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 52
-      },
-      "details": {
-        "composite_score": "Technical score 52/100 \u2014 RSI 69, volume 2.4x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 5,
       "ticker": "GRID.TO",
       "name": "Tantalus Systems Holding Inc.",
       "score": 50,
-      "price": 4.54,
-      "market_cap": 258630912,
+      "price": 4.7,
+      "market_cap": 267745648,
       "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 50
       },
       "details": {
-        "composite_score": "Technical score 50/100 \u2014 RSI 65, volume 0.7x avg. Swing Trade signal."
+        "composite_score": "Technical score 50/100 \u2014 RSI 69, volume 1.3x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "ADY.V",
+      "name": "Adyton Resources Corporation",
+      "score": 50,
+      "price": 0.38,
+      "market_cap": 119715912,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 50
+      },
+      "details": {
+        "composite_score": "Technical score 50/100 \u2014 RSI 69, volume 7.6x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 5,
+      "ticker": "NRC.V",
+      "name": "Nations Royalty Corp.",
+      "score": 49,
+      "price": 1.33,
+      "market_cap": 206456752,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 49
+      },
+      "details": {
+        "composite_score": "Technical score 49/100 \u2014 RSI 61, volume 0.9x avg. Position Trade signal."
       }
     },
     {
       "rank": 6,
-      "ticker": "BUFF.V",
-      "name": "Buffalo Potash Corp.",
-      "score": 48,
-      "price": 0.94,
-      "market_cap": 103073488,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 48
-      },
-      "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 69, volume 1.2x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 7,
-      "ticker": "RAK.V",
-      "name": "Rackla Metals Inc.",
-      "score": 48,
-      "price": 0.3,
-      "market_cap": 54734988,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 48
-      },
-      "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 68, volume 1.0x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 8,
-      "ticker": "CEMX.TO",
-      "name": "CEMATRIX Corporation",
+      "ticker": "CGX.TO",
+      "name": "Cineplex Inc.",
       "score": 46,
-      "price": 0.51,
-      "market_cap": 76361016,
-      "strategy": "Position Trade",
+      "price": 13.14,
+      "market_cap": 827857216,
+      "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 57, volume 3.3x avg. Position Trade signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 62, volume 1.0x avg. Swing Trade signal."
       }
     },
     {
-      "rank": 9,
-      "ticker": "TK.V",
-      "name": "Tinka Resources Limited",
-      "score": 46,
-      "price": 0.52,
-      "market_cap": 69561728,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 46
-      },
-      "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 69, volume 0.5x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 10,
-      "ticker": "LOVE.TO",
-      "name": "Cannara Biotech Inc.",
+      "rank": 7,
+      "ticker": "S.TO",
+      "name": "Sherritt International Corporation",
       "score": 45,
-      "price": 2.18,
-      "market_cap": 215345088,
-      "strategy": "Position Trade",
+      "price": 0.305,
+      "market_cap": 214710064,
+      "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 45
       },
       "details": {
-        "composite_score": "Technical score 45/100 \u2014 RSI 77, volume 1.8x avg. Position Trade signal."
+        "composite_score": "Technical score 45/100 \u2014 RSI 60, volume 3.1x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 8,
+      "ticker": "BRW.V",
+      "name": "Brunswick Exploration Inc.",
+      "score": 45,
+      "price": 0.22,
+      "market_cap": 62126268,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 45
+      },
+      "details": {
+        "composite_score": "Technical score 45/100 \u2014 RSI 70, volume 0.9x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 9,
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
+      "score": 44,
+      "price": 1.88,
+      "market_cap": 126691576,
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 44
+      },
+      "details": {
+        "composite_score": "Technical score 44/100 \u2014 RSI 63, volume 1.2x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 10,
+      "ticker": "GCU.TO",
+      "name": "Gunnison Copper Corp.",
+      "score": 44,
+      "price": 0.47,
+      "market_cap": 237593408,
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 44
+      },
+      "details": {
+        "composite_score": "Technical score 44/100 \u2014 RSI 57, volume 0.9x avg. Position Trade signal."
       }
     }
   ],
   "previous": [
     {
-      "ticker": "MOLY.TO"
+      "ticker": "THNC.TO"
     },
     {
-      "ticker": "FTG.TO"
+      "ticker": "REVX.V"
     },
     {
-      "ticker": "ACB.TO"
+      "ticker": "ONE.V"
     },
     {
-      "ticker": "EPRX.TO"
+      "ticker": "ADY.V"
     },
     {
-      "ticker": "XLY.TO"
+      "ticker": "GRID.TO"
     },
     {
-      "ticker": "E.TO"
+      "ticker": "BUFF.V"
     },
     {
-      "ticker": "CVVY.TO"
+      "ticker": "RAK.V"
     },
     {
-      "ticker": "JAG.TO"
+      "ticker": "CEMX.TO"
     },
     {
-      "ticker": "KITS.TO"
+      "ticker": "TK.V"
     },
     {
-      "ticker": "GSY.TO"
+      "ticker": "LOVE.TO"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-09-28",
+      "ticker": "ONE.V",
+      "name": "01 Quantum Inc.",
+      "rank": 1,
+      "score": 64,
+      "price_at_recommendation": 0.57,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-28",
+      "ticker": "ATLE.V",
+      "name": "Atlas Energy Corp.",
+      "rank": 2,
+      "score": 58,
+      "price_at_recommendation": 0.13,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-28",
+      "ticker": "GRID.TO",
+      "name": "Tantalus Systems Holding Inc.",
+      "rank": 3,
+      "score": 50,
+      "price_at_recommendation": 4.7,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-28",
+      "ticker": "ADY.V",
+      "name": "Adyton Resources Corporation",
+      "rank": 4,
+      "score": 50,
+      "price_at_recommendation": 0.38,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-28",
+      "ticker": "NRC.V",
+      "name": "Nations Royalty Corp.",
+      "rank": 5,
+      "score": 49,
+      "price_at_recommendation": 1.33,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-28",
+      "ticker": "CGX.TO",
+      "name": "Cineplex Inc.",
+      "rank": 6,
+      "score": 46,
+      "price_at_recommendation": 13.14,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-28",
+      "ticker": "S.TO",
+      "name": "Sherritt International Corporation",
+      "rank": 7,
+      "score": 45,
+      "price_at_recommendation": 0.305,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-28",
+      "ticker": "BRW.V",
+      "name": "Brunswick Exploration Inc.",
+      "rank": 8,
+      "score": 45,
+      "price_at_recommendation": 0.22,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-09-28",
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
+      "rank": 9,
+      "score": 44,
+      "price_at_recommendation": 1.88,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-09-28",
+      "ticker": "GCU.TO",
+      "name": "Gunnison Copper Corp.",
+      "rank": 10,
+      "score": 44,
+      "price_at_recommendation": 0.47,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
     {
       "run_date": "2026-09-25",
       "ticker": "THNC.TO",

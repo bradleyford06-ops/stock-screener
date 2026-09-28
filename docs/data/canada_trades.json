@@ -15,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 55/100 \u2014 RSI 68.6, volume 0.9x avg"
       },
-      "last_price": 7.489999771118164,
-      "last_checked": "2026-09-25",
+      "last_price": 7.380000114440918,
+      "last_checked": "2026-09-28",
       "on_list": false
     },
     {
@@ -34,9 +34,9 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 59.4, volume 2.2x avg"
       },
-      "last_price": 1.3200000524520874,
-      "last_checked": "2026-09-25",
-      "on_list": false
+      "last_price": 1.33,
+      "last_checked": "2026-09-28",
+      "on_list": true
     },
     {
       "ticker": "THX.V",
@@ -53,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 49/100 \u2014 RSI 63.0, volume 0.3x avg"
       },
-      "last_price": 1.2400000095367432,
-      "last_checked": "2026-09-25",
+      "last_price": 1.190000057220459,
+      "last_checked": "2026-09-28",
       "on_list": false
     },
     {
@@ -72,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 74.8, volume 0.7x avg"
       },
-      "last_price": 15.8100004196167,
-      "last_checked": "2026-09-25",
+      "last_price": 16.020000457763672,
+      "last_checked": "2026-09-28",
       "on_list": false
     },
     {
@@ -91,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 64.8, volume 1.4x avg"
       },
-      "last_price": 3.049999952316284,
-      "last_checked": "2026-09-25",
+      "last_price": 2.9200000762939453,
+      "last_checked": "2026-09-28",
       "on_list": false
     },
     {
@@ -110,8 +110,8 @@
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 64.3, volume 0.2x avg"
       },
-      "last_price": 1.7350000143051147,
-      "last_checked": "2026-09-25",
+      "last_price": 1.649999976158142,
+      "last_checked": "2026-09-28",
       "on_list": false
     },
     {
@@ -130,7 +130,7 @@
         "composite_score": "Score 44/100 \u2014 RSI 64.8, volume 0.3x avg"
       },
       "last_price": 0.6800000071525574,
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-28",
       "on_list": false
     },
     {
@@ -148,8 +148,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 60.6, volume 0.3x avg"
       },
-      "last_price": 10.180000305175781,
-      "last_checked": "2026-09-25",
+      "last_price": 10.270000457763672,
+      "last_checked": "2026-09-28",
       "on_list": false
     },
     {
@@ -167,27 +167,8 @@
       "entry_details": {
         "composite_score": "Score 65/100 \u2014 RSI 76.2, volume 6.8x avg"
       },
-      "last_price": 2.2,
-      "last_checked": "2026-09-25",
-      "on_list": true
-    },
-    {
-      "ticker": "REVX.V",
-      "name": "Rev Exploration Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-25",
-      "entry_price": 1.93,
-      "entry_score": 60,
-      "entry_signals": {
-        "composite_score": 60
-      },
-      "entry_details": {
-        "composite_score": "Score 60/100 \u2014 RSI 61.6, volume 6.8x avg"
-      },
-      "last_price": 1.93,
-      "last_checked": "2026-09-25",
+      "last_price": 1.88,
+      "last_checked": "2026-09-28",
       "on_list": true
     },
     {
@@ -205,8 +186,8 @@
       "entry_details": {
         "composite_score": "Score 53/100 \u2014 RSI 66.1, volume 1.9x avg"
       },
-      "last_price": 0.55,
-      "last_checked": "2026-09-25",
+      "last_price": 0.57,
+      "last_checked": "2026-09-28",
       "on_list": true
     },
     {
@@ -225,7 +206,7 @@
         "composite_score": "Score 52/100 \u2014 RSI 69.0, volume 2.4x avg"
       },
       "last_price": 0.38,
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-28",
       "on_list": true
     },
     {
@@ -243,46 +224,8 @@
       "entry_details": {
         "composite_score": "Score 50/100 \u2014 RSI 65.5, volume 0.7x avg"
       },
-      "last_price": 4.54,
-      "last_checked": "2026-09-25",
-      "on_list": true
-    },
-    {
-      "ticker": "BUFF.V",
-      "name": "Buffalo Potash Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-25",
-      "entry_price": 0.94,
-      "entry_score": 48,
-      "entry_signals": {
-        "composite_score": 48
-      },
-      "entry_details": {
-        "composite_score": "Score 48/100 \u2014 RSI 69.1, volume 1.2x avg"
-      },
-      "last_price": 0.94,
-      "last_checked": "2026-09-25",
-      "on_list": true
-    },
-    {
-      "ticker": "RAK.V",
-      "name": "Rackla Metals Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-25",
-      "entry_price": 0.3,
-      "entry_score": 48,
-      "entry_signals": {
-        "composite_score": 48
-      },
-      "entry_details": {
-        "composite_score": "Score 48/100 \u2014 RSI 68.4, volume 1.0x avg"
-      },
-      "last_price": 0.3,
-      "last_checked": "2026-09-25",
+      "last_price": 4.7,
+      "last_checked": "2026-09-28",
       "on_list": true
     },
     {
@@ -300,28 +243,9 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 3.3x avg"
       },
-      "last_price": 0.51,
-      "last_checked": "2026-09-25",
-      "on_list": true
-    },
-    {
-      "ticker": "TK.V",
-      "name": "Tinka Resources Limited",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-09-25",
-      "entry_price": 0.52,
-      "entry_score": 46,
-      "entry_signals": {
-        "composite_score": 46
-      },
-      "entry_details": {
-        "composite_score": "Score 46/100 \u2014 RSI 68.7, volume 0.5x avg"
-      },
-      "last_price": 0.52,
-      "last_checked": "2026-09-25",
-      "on_list": true
+      "last_price": 0.49000000953674316,
+      "last_checked": "2026-09-28",
+      "on_list": false
     },
     {
       "ticker": "LOVE.TO",
@@ -338,8 +262,103 @@
       "entry_details": {
         "composite_score": "Score 45/100 \u2014 RSI 76.6, volume 1.8x avg"
       },
-      "last_price": 2.18,
-      "last_checked": "2026-09-25",
+      "last_price": 2.1600000858306885,
+      "last_checked": "2026-09-28",
+      "on_list": false
+    },
+    {
+      "ticker": "ATLE.V",
+      "name": "Atlas Energy Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-28",
+      "entry_price": 0.13,
+      "entry_score": 58,
+      "entry_signals": {
+        "composite_score": 58
+      },
+      "entry_details": {
+        "composite_score": "Score 58/100 \u2014 RSI 60.4, volume 6.6x avg"
+      },
+      "last_price": 0.13,
+      "last_checked": "2026-09-28",
+      "on_list": true
+    },
+    {
+      "ticker": "CGX.TO",
+      "name": "Cineplex Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-28",
+      "entry_price": 13.14,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 61.7, volume 1.0x avg"
+      },
+      "last_price": 13.14,
+      "last_checked": "2026-09-28",
+      "on_list": true
+    },
+    {
+      "ticker": "S.TO",
+      "name": "Sherritt International Corporation",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-28",
+      "entry_price": 0.305,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 59.7, volume 3.1x avg"
+      },
+      "last_price": 0.305,
+      "last_checked": "2026-09-28",
+      "on_list": true
+    },
+    {
+      "ticker": "BRW.V",
+      "name": "Brunswick Exploration Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-28",
+      "entry_price": 0.22,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 69.7, volume 0.9x avg"
+      },
+      "last_price": 0.22,
+      "last_checked": "2026-09-28",
+      "on_list": true
+    },
+    {
+      "ticker": "GCU.TO",
+      "name": "Gunnison Copper Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-28",
+      "entry_price": 0.47,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 56.7, volume 0.9x avg"
+      },
+      "last_price": 0.47,
+      "last_checked": "2026-09-28",
       "on_list": true
     }
   ],
@@ -1682,6 +1701,94 @@
       },
       "entry_details": {
         "composite_score": "Score 28/100 \u2014 RSI 57.8, volume 1.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "REVX.V",
+      "name": "Rev Exploration Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "exit_date": "2026-09-28",
+      "entry_price": 1.93,
+      "exit_price": 1.84,
+      "return_pct": -4.66,
+      "days_held": 3,
+      "entry_score": 60,
+      "entry_signals": {
+        "composite_score": 60
+      },
+      "entry_details": {
+        "composite_score": "Score 60/100 \u2014 RSI 61.6, volume 6.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "BUFF.V",
+      "name": "Buffalo Potash Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "exit_date": "2026-09-28",
+      "entry_price": 0.94,
+      "exit_price": 0.93,
+      "return_pct": -1.06,
+      "days_held": 3,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 69.1, volume 1.2x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "RAK.V",
+      "name": "Rackla Metals Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "exit_date": "2026-09-28",
+      "entry_price": 0.3,
+      "exit_price": 0.325,
+      "return_pct": 8.33,
+      "days_held": 3,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 68.4, volume 1.0x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "TK.V",
+      "name": "Tinka Resources Limited",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-09-25",
+      "exit_date": "2026-09-28",
+      "entry_price": 0.52,
+      "exit_price": 0.5,
+      "return_pct": -3.85,
+      "days_held": 3,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 68.7, volume 0.5x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
