@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-23",
+  "last_updated": "2026-09-30",
   "current": [
     {
       "rank": 1,
       "ticker": "MNR",
-      "score": 74,
-      "price": 10.74,
-      "market_cap": 1793022464,
+      "score": 71,
+      "price": 10.23,
+      "market_cap": 1708713728,
       "scores": {
         "insider": 25,
         "institutional": 15,
         "revenue": 20,
-        "momentum": 3,
+        "momentum": 0,
         "short_interest": 10,
         "balance_sheet": 1
       },
@@ -19,40 +19,132 @@
         "insider": "2 open-market purchase(s) by McMullen William Wallace and WARD TOM L. totaling $2,388,893 in the last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
         "revenue": "Strong acceleration: 42.0% revenue growth last quarter (accelerating)",
-        "momentum": "Price $10.74 is 22.6% below its 52-week high of $13.87. Currently in below key moving averages.",
-        "short_interest": "Very low short interest (1.9% of float) \u2014 minimal bearish pressure",
+        "momentum": "Price $10.23 is 26.2% below its 52-week high of $13.87. Currently in below key moving averages.",
+        "short_interest": "Very low short interest (2.1% of float) \u2014 minimal bearish pressure",
         "balance_sheet": "High debt relative to cash \u2014 balance sheet risk"
       }
     },
     {
       "rank": 2,
-      "ticker": "FSUN",
+      "ticker": "CCB",
+      "score": 69,
+      "price": 39.62,
+      "market_cap": 605414976,
+      "scores": {
+        "insider": 25,
+        "institutional": 15,
+        "revenue": 15,
+        "momentum": 0,
+        "short_interest": 4,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "3 open-market purchase(s) by HOVDE STEVEN D and Sprink Eric M totaling $1,115,844 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Healthy acceleration: 21.9% revenue growth last quarter (accelerating)",
+        "momentum": "Price $39.62 is 66.7% below its 52-week high of $118.97. Currently in below key moving averages.",
+        "short_interest": "Moderate short interest (8.8% of float)",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($1008M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 3,
+      "ticker": "FSBC",
+      "score": 68,
+      "price": 42.07,
+      "market_cap": 1031764608,
+      "scores": {
+        "insider": 25,
+        "institutional": 15,
+        "revenue": 5,
+        "momentum": 6,
+        "short_interest": 7,
+        "balance_sheet": 10
+      },
+      "details": {
+        "insider": "5 open-market purchase(s) by Ramos Kevin Francis and Deary-Bell Shannon totaling $2,029,984 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Slow growth: 6.2% revenue growth last quarter (accelerating)",
+        "momentum": "Price $42.07 is 14.9% below its 52-week high of $49.42. Currently in below key moving averages.",
+        "short_interest": "Low short interest (4.6% of float)",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($685M) is 2x+ total debt"
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "SENS",
+      "score": 66,
+      "price": 10.33,
+      "market_cap": 547775168,
+      "scores": {
+        "insider": 15,
+        "institutional": 15,
+        "revenue": 15,
+        "momentum": 13,
+        "short_interest": 4,
+        "balance_sheet": 4
+      },
+      "details": {
+        "insider": "1 open-market purchase(s) by ROEDER DOUGLAS A totaling $125,300 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Healthy acceleration: 23.7% revenue growth last quarter (accelerating)",
+        "momentum": "Price $10.33 is 8.6% below its 52-week high of $11.30. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Moderate short interest (9.8% of float)",
+        "balance_sheet": "Moderate debt load \u2014 manageable but watching"
+      }
+    },
+    {
+      "rank": 5,
+      "ticker": "COUR",
       "score": 65,
-      "price": 38.99,
-      "market_cap": 1711427328,
+      "price": 5.04,
+      "market_cap": 1331254016,
+      "scores": {
+        "insider": 25,
+        "institutional": 15,
+        "revenue": 20,
+        "momentum": 0,
+        "short_interest": 4,
+        "balance_sheet": 1
+      },
+      "details": {
+        "insider": "1 open-market purchase(s) by Pale Fire Capital SE totaling $11,355,072 in the last 90 days",
+        "institutional": "10 institutional holders on record (top holders include quality funds)",
+        "revenue": "Strong acceleration: 52.6% revenue growth last quarter (accelerating)",
+        "momentum": "Price $5.04 is 57.0% below its 52-week high of $11.71. Currently in below key moving averages.",
+        "short_interest": "Moderate short interest (10.0% of float)",
+        "balance_sheet": "High debt relative to cash \u2014 balance sheet risk"
+      }
+    },
+    {
+      "rank": 6,
+      "ticker": "KMDA",
+      "score": 65,
+      "price": 8.48,
+      "market_cap": 489671904,
       "scores": {
         "insider": 0,
         "institutional": 15,
-        "revenue": 20,
-        "momentum": 13,
-        "short_interest": 7,
+        "revenue": 15,
+        "momentum": 15,
+        "short_interest": 10,
         "balance_sheet": 10
       },
       "details": {
         "insider": "No insider purchases in last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Strong acceleration: 65.0% revenue growth last quarter (accelerating)",
-        "momentum": "Price $38.99 is 5.8% below its 52-week high of $41.40. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Low short interest (3.0% of float)",
-        "balance_sheet": "Strong balance sheet \u2014 cash ($990M) is 2x+ total debt"
+        "revenue": "Healthy acceleration: 21.4% revenue growth last quarter (accelerating)",
+        "momentum": "Price $8.48 is 4.3% below its 52-week high of $8.87. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Very low short interest (0.5% of float) \u2014 minimal bearish pressure",
+        "balance_sheet": "Strong balance sheet \u2014 cash ($29M) is 2x+ total debt"
       }
     },
     {
-      "rank": 3,
+      "rank": 7,
       "ticker": "SILC",
       "score": 65,
-      "price": 48.69,
-      "market_cap": 279736224,
+      "price": 53.44,
+      "market_cap": 307123616,
       "scores": {
         "insider": 0,
         "institutional": 15,
@@ -65,17 +157,17 @@
         "insider": "No insider purchases in last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
         "revenue": "Healthy acceleration: 24.7% revenue growth last quarter (accelerating)",
-        "momentum": "Price $48.69 is 4.5% below its 52-week high of $50.98. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Very low short interest (2.5% of float) \u2014 minimal bearish pressure",
+        "momentum": "Price $53.44 is 0.0% below its 52-week high of $53.44. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Very low short interest (2.0% of float) \u2014 minimal bearish pressure",
         "balance_sheet": "Strong balance sheet \u2014 cash ($25M) is 2x+ total debt"
       }
     },
     {
-      "rank": 4,
+      "rank": 8,
       "ticker": "VIR",
       "score": 64,
-      "price": 11.12,
-      "market_cap": 1886757760,
+      "price": 11.14,
+      "market_cap": 1885065728,
       "scores": {
         "insider": 0,
         "institutional": 15,
@@ -88,45 +180,45 @@
         "insider": "No insider purchases in last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
         "revenue": "Strong acceleration: 582868.3% revenue growth last quarter (accelerating)",
-        "momentum": "Price $11.12 is 4.4% below its 52-week high of $11.63. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Moderate short interest (12.8% of float)",
+        "momentum": "Price $11.14 is 4.2% below its 52-week high of $11.63. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Moderate short interest (11.8% of float)",
         "balance_sheet": "Strong balance sheet \u2014 cash ($279M) is 2x+ total debt"
       }
     },
     {
-      "rank": 5,
-      "ticker": "SENS",
+      "rank": 9,
+      "ticker": "ABSI",
       "score": 64,
-      "price": 9.8,
-      "market_cap": 516843840,
+      "price": 10.81,
+      "market_cap": 1857721728,
       "scores": {
         "insider": 15,
         "institutional": 15,
-        "revenue": 15,
-        "momentum": 11,
-        "short_interest": 4,
-        "balance_sheet": 4
+        "revenue": 20,
+        "momentum": 13,
+        "short_interest": 0,
+        "balance_sheet": 1
       },
       "details": {
-        "insider": "1 open-market purchase(s) by ROEDER DOUGLAS A totaling $125,300 in the last 90 days",
+        "insider": "1 open-market purchase(s) by Szela Mary T totaling $148,866 in the last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Healthy acceleration: 23.7% revenue growth last quarter (accelerating)",
-        "momentum": "Price $9.80 is 13.3% below its 52-week high of $11.30. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Moderate short interest (10.1% of float)",
-        "balance_sheet": "Moderate debt load \u2014 manageable but watching"
+        "revenue": "Strong acceleration: 47.9% revenue growth last quarter (accelerating)",
+        "momentum": "Price $10.81 is 7.0% below its 52-week high of $11.62. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "High short interest (26.4% of float) \u2014 significant bearish pressure",
+        "balance_sheet": "High debt relative to cash \u2014 balance sheet risk"
       }
     },
     {
-      "rank": 6,
+      "rank": 10,
       "ticker": "ASC",
-      "score": 62,
-      "price": 17.63,
-      "market_cap": 721390272,
+      "score": 64,
+      "price": 18.55,
+      "market_cap": 756684544,
       "scores": {
         "insider": 0,
         "institutional": 15,
         "revenue": 20,
-        "momentum": 13,
+        "momentum": 15,
         "short_interest": 7,
         "balance_sheet": 7
       },
@@ -134,184 +226,92 @@
         "insider": "No insider purchases in last 90 days",
         "institutional": "10 institutional holders on record (top holders include quality funds)",
         "revenue": "Strong acceleration: 32.2% revenue growth last quarter (accelerating)",
-        "momentum": "Price $17.63 is 7.5% below its 52-week high of $19.06. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Low short interest (5.7% of float)",
+        "momentum": "Price $18.55 is 2.7% below its 52-week high of $19.06. Currently in uptrend (price above 50 and 200-day average).",
+        "short_interest": "Low short interest (6.3% of float)",
         "balance_sheet": "Healthy balance sheet \u2014 more cash than debt"
-      }
-    },
-    {
-      "rank": 7,
-      "ticker": "GPRK",
-      "score": 62,
-      "price": 11.07,
-      "market_cap": 717747072,
-      "scores": {
-        "insider": 0,
-        "institutional": 15,
-        "revenue": 20,
-        "momentum": 13,
-        "short_interest": 10,
-        "balance_sheet": 4
-      },
-      "details": {
-        "insider": "No insider purchases in last 90 days",
-        "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Strong acceleration: 43.7% revenue growth last quarter (accelerating)",
-        "momentum": "Price $11.07 is 7.5% below its 52-week high of $11.97. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Very low short interest (2.4% of float) \u2014 minimal bearish pressure",
-        "balance_sheet": "Moderate debt load \u2014 manageable but watching"
-      }
-    },
-    {
-      "rank": 8,
-      "ticker": "KMDA",
-      "score": 62,
-      "price": 8.74,
-      "market_cap": 504388032,
-      "scores": {
-        "insider": 0,
-        "institutional": 15,
-        "revenue": 15,
-        "momentum": 12,
-        "short_interest": 10,
-        "balance_sheet": 10
-      },
-      "details": {
-        "insider": "No insider purchases in last 90 days",
-        "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Healthy acceleration: 21.4% revenue growth last quarter (accelerating)",
-        "momentum": "Price $8.74 is 1.3% below its 52-week high of $8.85. Currently in mixed trend.",
-        "short_interest": "Very low short interest (0.5% of float) \u2014 minimal bearish pressure",
-        "balance_sheet": "Strong balance sheet \u2014 cash ($29M) is 2x+ total debt"
-      }
-    },
-    {
-      "rank": 9,
-      "ticker": "ZYME",
-      "score": 60,
-      "price": 27.7,
-      "market_cap": 1980806016,
-      "scores": {
-        "insider": 0,
-        "institutional": 15,
-        "revenue": 20,
-        "momentum": 11,
-        "short_interest": 4,
-        "balance_sheet": 10
-      },
-      "details": {
-        "insider": "No insider purchases in last 90 days",
-        "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Strong acceleration: 90.6% revenue growth last quarter (accelerating)",
-        "momentum": "Price $27.70 is 10.8% below its 52-week high of $31.05. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Moderate short interest (10.0% of float)",
-        "balance_sheet": "Strong balance sheet \u2014 cash ($179M) is 2x+ total debt"
-      }
-    },
-    {
-      "rank": 10,
-      "ticker": "RDWR",
-      "score": 60,
-      "price": 29.96,
-      "market_cap": 1260791296,
-      "scores": {
-        "insider": 10,
-        "institutional": 15,
-        "revenue": 2,
-        "momentum": 13,
-        "short_interest": 10,
-        "balance_sheet": 10
-      },
-      "details": {
-        "insider": "1 open-market purchase(s) by Avidan Guy totaling $50,420 in the last 90 days",
-        "institutional": "10 institutional holders on record (top holders include quality funds)",
-        "revenue": "Minimal growth: 3.1% revenue growth last quarter (accelerating)",
-        "momentum": "Price $29.96 is 6.8% below its 52-week high of $32.13. Currently in uptrend (price above 50 and 200-day average).",
-        "short_interest": "Very low short interest (2.5% of float) \u2014 minimal bearish pressure",
-        "balance_sheet": "Strong balance sheet \u2014 cash ($85M) is 2x+ total debt"
       }
     }
   ],
   "previous": [],
   "history": [
     {
-      "run_date": "2026-09-23",
+      "run_date": "2026-09-30",
       "ticker": "MNR",
       "rank": 1,
-      "total_score": 74,
-      "price_at_recommendation": 10.74,
+      "total_score": 71,
+      "price_at_recommendation": 10.23,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-23",
-      "ticker": "FSUN",
+      "run_date": "2026-09-30",
+      "ticker": "CCB",
       "rank": 2,
-      "total_score": 65,
-      "price_at_recommendation": 38.99,
+      "total_score": 69,
+      "price_at_recommendation": 39.62,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-23",
-      "ticker": "SILC",
+      "run_date": "2026-09-30",
+      "ticker": "FSBC",
       "rank": 3,
-      "total_score": 65,
-      "price_at_recommendation": 48.69,
+      "total_score": 68,
+      "price_at_recommendation": 42.07,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-23",
-      "ticker": "VIR",
-      "rank": 4,
-      "total_score": 64,
-      "price_at_recommendation": 11.12,
-      "strategy": "Position Trade"
-    },
-    {
-      "run_date": "2026-09-23",
+      "run_date": "2026-09-30",
       "ticker": "SENS",
+      "rank": 4,
+      "total_score": 66,
+      "price_at_recommendation": 10.33,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-30",
+      "ticker": "COUR",
       "rank": 5,
-      "total_score": 64,
-      "price_at_recommendation": 9.8,
+      "total_score": 65,
+      "price_at_recommendation": 5.04,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-23",
-      "ticker": "ASC",
-      "rank": 6,
-      "total_score": 62,
-      "price_at_recommendation": 17.63,
-      "strategy": "Position Trade"
-    },
-    {
-      "run_date": "2026-09-23",
-      "ticker": "GPRK",
-      "rank": 7,
-      "total_score": 62,
-      "price_at_recommendation": 11.07,
-      "strategy": "Position Trade"
-    },
-    {
-      "run_date": "2026-09-23",
+      "run_date": "2026-09-30",
       "ticker": "KMDA",
+      "rank": 6,
+      "total_score": 65,
+      "price_at_recommendation": 8.48,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-30",
+      "ticker": "SILC",
+      "rank": 7,
+      "total_score": 65,
+      "price_at_recommendation": 53.44,
+      "strategy": "Position Trade"
+    },
+    {
+      "run_date": "2026-09-30",
+      "ticker": "VIR",
       "rank": 8,
-      "total_score": 62,
-      "price_at_recommendation": 8.74,
+      "total_score": 64,
+      "price_at_recommendation": 11.14,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-23",
-      "ticker": "ZYME",
+      "run_date": "2026-09-30",
+      "ticker": "ABSI",
       "rank": 9,
-      "total_score": 60,
-      "price_at_recommendation": 27.7,
+      "total_score": 64,
+      "price_at_recommendation": 10.81,
       "strategy": "Position Trade"
     },
     {
-      "run_date": "2026-09-23",
-      "ticker": "RDWR",
+      "run_date": "2026-09-30",
+      "ticker": "ASC",
       "rank": 10,
-      "total_score": 60,
-      "price_at_recommendation": 29.96,
+      "total_score": 64,
+      "price_at_recommendation": 18.55,
       "strategy": "Position Trade"
     }
   ]
