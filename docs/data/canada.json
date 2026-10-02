@@ -1,200 +1,300 @@
 {
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-10-02",
   "current": [
     {
       "rank": 1,
-      "ticker": "ONE.V",
-      "name": "01 Quantum Inc.",
-      "score": 64,
-      "price": 0.57,
-      "market_cap": 62492740,
+      "ticker": "ADY.V",
+      "name": "Adyton Resources Corporation",
+      "score": 52,
+      "price": 0.43,
+      "market_cap": 140262512,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 64
+        "composite_score": 52
       },
       "details": {
-        "composite_score": "Technical score 64/100 \u2014 RSI 69, volume 3.8x avg. Swing Trade signal."
+        "composite_score": "Technical score 52/100 \u2014 RSI 78, volume 8.9x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "ATLE.V",
-      "name": "Atlas Energy Corp.",
-      "score": 58,
-      "price": 0.13,
-      "market_cap": 81827112,
+      "ticker": "LVG.V",
+      "name": "Lake Victoria Gold Ltd.",
+      "score": 47,
+      "price": 0.345,
+      "market_cap": 69878008,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 58
+        "composite_score": 47
       },
       "details": {
-        "composite_score": "Technical score 58/100 \u2014 RSI 60, volume 6.6x avg. Swing Trade signal."
+        "composite_score": "Technical score 47/100 \u2014 RSI 60, volume 0.9x avg. Swing Trade signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "GRID.TO",
-      "name": "Tantalus Systems Holding Inc.",
-      "score": 50,
-      "price": 4.7,
-      "market_cap": 267745648,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 50
-      },
-      "details": {
-        "composite_score": "Technical score 50/100 \u2014 RSI 69, volume 1.3x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 4,
-      "ticker": "ADY.V",
-      "name": "Adyton Resources Corporation",
-      "score": 50,
-      "price": 0.38,
-      "market_cap": 119715912,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 50
-      },
-      "details": {
-        "composite_score": "Technical score 50/100 \u2014 RSI 69, volume 7.6x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 5,
-      "ticker": "NRC.V",
-      "name": "Nations Royalty Corp.",
-      "score": 49,
-      "price": 1.33,
-      "market_cap": 206456752,
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 49
-      },
-      "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 61, volume 0.9x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 6,
-      "ticker": "CGX.TO",
-      "name": "Cineplex Inc.",
+      "ticker": "E.TO",
+      "name": "Enterprise Group, Inc.",
       "score": 46,
-      "price": 13.14,
-      "market_cap": 827857216,
+      "price": 1.72,
+      "market_cap": 139268016,
       "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 62, volume 1.0x avg. Swing Trade signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 66, volume 1.5x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "ONE.V",
+      "name": "01 Quantum Inc.",
+      "score": 43,
+      "price": 0.66,
+      "market_cap": 72360016,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 43
+      },
+      "details": {
+        "composite_score": "Technical score 43/100 \u2014 RSI 73, volume 0.5x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 5,
+      "ticker": "BUFF.V",
+      "name": "Buffalo Potash Corp.",
+      "score": 43,
+      "price": 0.95,
+      "market_cap": 104170016,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 43
+      },
+      "details": {
+        "composite_score": "Technical score 43/100 \u2014 RSI 62, volume 1.4x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 6,
+      "ticker": "RAK.V",
+      "name": "Rackla Metals Inc.",
+      "score": 41,
+      "price": 0.34,
+      "market_cap": 62032984,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 41
+      },
+      "details": {
+        "composite_score": "Technical score 41/100 \u2014 RSI 69, volume 1.5x avg. Swing Trade signal."
       }
     },
     {
       "rank": 7,
-      "ticker": "S.TO",
-      "name": "Sherritt International Corporation",
-      "score": 45,
-      "price": 0.305,
-      "market_cap": 214710064,
+      "ticker": "STC.TO",
+      "name": "Sangoma Technologies Corporation",
+      "score": 40,
+      "price": 6.99,
+      "market_cap": 234188336,
       "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 45
+        "composite_score": 40
       },
       "details": {
-        "composite_score": "Technical score 45/100 \u2014 RSI 60, volume 3.1x avg. Swing Trade signal."
+        "composite_score": "Technical score 40/100 \u2014 RSI 81, volume 2.5x avg. Swing Trade signal."
       }
     },
     {
       "rank": 8,
-      "ticker": "BRW.V",
-      "name": "Brunswick Exploration Inc.",
-      "score": 45,
-      "price": 0.22,
-      "market_cap": 62126268,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "ticker": "MCB.TO",
+      "name": "McCoy Global Inc.",
+      "score": 39,
+      "price": 2.25,
+      "market_cap": 61150112,
+      "strategy": "Position Trade",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 45
+        "composite_score": 39
       },
       "details": {
-        "composite_score": "Technical score 45/100 \u2014 RSI 70, volume 0.9x avg. Swing Trade signal."
+        "composite_score": "Technical score 39/100 \u2014 RSI 51, volume 9.9x avg. Position Trade signal."
       }
     },
     {
       "rank": 9,
-      "ticker": "THNC.TO",
-      "name": "Thinkific Labs Inc.",
-      "score": 44,
-      "price": 1.88,
-      "market_cap": 126691576,
+      "ticker": "GWM.V",
+      "name": "Galway Metals Inc.",
+      "score": 39,
+      "price": 1.01,
+      "market_cap": 137233552,
       "strategy": "Position Trade",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 44
+        "composite_score": 39
       },
       "details": {
-        "composite_score": "Technical score 44/100 \u2014 RSI 63, volume 1.2x avg. Position Trade signal."
+        "composite_score": "Technical score 39/100 \u2014 RSI 68, volume 0.2x avg. Position Trade signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "GCU.TO",
-      "name": "Gunnison Copper Corp.",
-      "score": 44,
-      "price": 0.47,
-      "market_cap": 237593408,
+      "ticker": "GRID.TO",
+      "name": "Tantalus Systems Holding Inc.",
+      "score": 39,
+      "price": 4.69,
+      "market_cap": 267175984,
       "strategy": "Position Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 44
+        "composite_score": 39
       },
       "details": {
-        "composite_score": "Technical score 44/100 \u2014 RSI 57, volume 0.9x avg. Position Trade signal."
+        "composite_score": "Technical score 39/100 \u2014 RSI 64, volume 0.2x avg. Position Trade signal."
       }
     }
   ],
   "previous": [
     {
-      "ticker": "THNC.TO"
-    },
-    {
-      "ticker": "REVX.V"
-    },
-    {
       "ticker": "ONE.V"
     },
     {
-      "ticker": "ADY.V"
+      "ticker": "ATLE.V"
     },
     {
       "ticker": "GRID.TO"
     },
     {
-      "ticker": "BUFF.V"
+      "ticker": "ADY.V"
     },
     {
-      "ticker": "RAK.V"
+      "ticker": "NRC.V"
     },
     {
-      "ticker": "CEMX.TO"
+      "ticker": "CGX.TO"
     },
     {
-      "ticker": "TK.V"
+      "ticker": "S.TO"
     },
     {
-      "ticker": "LOVE.TO"
+      "ticker": "BRW.V"
+    },
+    {
+      "ticker": "THNC.TO"
+    },
+    {
+      "ticker": "GCU.TO"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-10-02",
+      "ticker": "ADY.V",
+      "name": "Adyton Resources Corporation",
+      "rank": 1,
+      "score": 52,
+      "price_at_recommendation": 0.43,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-02",
+      "ticker": "LVG.V",
+      "name": "Lake Victoria Gold Ltd.",
+      "rank": 2,
+      "score": 47,
+      "price_at_recommendation": 0.345,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-02",
+      "ticker": "E.TO",
+      "name": "Enterprise Group, Inc.",
+      "rank": 3,
+      "score": 46,
+      "price_at_recommendation": 1.72,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-02",
+      "ticker": "ONE.V",
+      "name": "01 Quantum Inc.",
+      "rank": 4,
+      "score": 43,
+      "price_at_recommendation": 0.66,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-02",
+      "ticker": "BUFF.V",
+      "name": "Buffalo Potash Corp.",
+      "rank": 5,
+      "score": 43,
+      "price_at_recommendation": 0.95,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-02",
+      "ticker": "RAK.V",
+      "name": "Rackla Metals Inc.",
+      "rank": 6,
+      "score": 41,
+      "price_at_recommendation": 0.34,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-02",
+      "ticker": "STC.TO",
+      "name": "Sangoma Technologies Corporation",
+      "rank": 7,
+      "score": 40,
+      "price_at_recommendation": 6.99,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-02",
+      "ticker": "MCB.TO",
+      "name": "McCoy Global Inc.",
+      "rank": 8,
+      "score": 39,
+      "price_at_recommendation": 2.25,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-02",
+      "ticker": "GWM.V",
+      "name": "Galway Metals Inc.",
+      "rank": 9,
+      "score": 39,
+      "price_at_recommendation": 1.01,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-02",
+      "ticker": "GRID.TO",
+      "name": "Tantalus Systems Holding Inc.",
+      "rank": 10,
+      "score": 39,
+      "price_at_recommendation": 4.69,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
     {
       "run_date": "2026-09-28",
       "ticker": "ONE.V",
