@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-10-09",
+  "last_updated": "2026-10-12",
   "current": [
     {
       "rank": 1,
       "ticker": "CVO.TO",
       "name": "Coveo Solutions Inc.",
       "score": 59,
-      "price": 4.69,
-      "market_cap": 435874848,
+      "price": 4.72,
+      "market_cap": 438662912,
       "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 59
       },
       "details": {
-        "composite_score": "Technical score 59/100 \u2014 RSI 64, volume 0.9x avg. Swing Trade signal."
+        "composite_score": "Technical score 59/100 \u2014 RSI 65, volume 1.2x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "LGN.V",
-      "name": "Logan Energy Corp.",
-      "score": 55,
-      "price": 1.26,
-      "market_cap": 871439936,
+      "ticker": "HSTR.V",
+      "name": "Heliostar Metals Ltd.",
+      "score": 53,
+      "price": 2.55,
+      "market_cap": 715527424,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 55
+        "composite_score": 53
       },
       "details": {
-        "composite_score": "Technical score 55/100 \u2014 RSI 68, volume 0.3x avg. Swing Trade signal."
+        "composite_score": "Technical score 53/100 \u2014 RSI 61, volume 1.0x avg. Swing Trade signal."
       }
     },
     {
@@ -46,155 +46,255 @@
         "composite_score": 53
       },
       "details": {
-        "composite_score": "Technical score 53/100 \u2014 RSI 65, volume 1.3x avg. Swing Trade signal."
+        "composite_score": "Technical score 53/100 \u2014 RSI 65, volume 1.5x avg. Swing Trade signal."
       }
     },
     {
       "rank": 4,
+      "ticker": "FTG.TO",
+      "name": "Firan Technology Group Corporation",
+      "score": 52,
+      "price": 34.95,
+      "market_cap": 879809984,
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 52
+      },
+      "details": {
+        "composite_score": "Technical score 52/100 \u2014 RSI 84, volume 6.1x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 5,
       "ticker": "TIG.V",
       "name": "Triumph Gold Corp.",
       "score": 52,
-      "price": 0.78,
-      "market_cap": 56572432,
+      "price": 0.79,
+      "market_cap": 57297720,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
         "composite_score": 52
       },
       "details": {
-        "composite_score": "Technical score 52/100 \u2014 RSI 62, volume 1.3x avg. Swing Trade signal."
+        "composite_score": "Technical score 52/100 \u2014 RSI 63, volume 1.9x avg. Swing Trade signal."
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "ticker": "GAU.TO",
       "name": "Galiano Gold Inc.",
       "score": 51,
-      "price": 3.14,
-      "market_cap": 821398144,
+      "price": 3.12,
+      "market_cap": 816166272,
       "strategy": "Position Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 51
       },
       "details": {
-        "composite_score": "Technical score 51/100 \u2014 RSI 59, volume 0.8x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 6,
-      "ticker": "FTG.TO",
-      "name": "Firan Technology Group Corporation",
-      "score": 48,
-      "price": 34.65,
-      "market_cap": 872257984,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 48
-      },
-      "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 83, volume 4.5x avg. Swing Trade signal."
+        "composite_score": "Technical score 51/100 \u2014 RSI 58, volume 1.2x avg. Position Trade signal."
       }
     },
     {
       "rank": 7,
+      "ticker": "MCB.TO",
+      "name": "McCoy Global Inc.",
+      "score": 49,
+      "price": 2.61,
+      "market_cap": 70934128,
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 49
+      },
+      "details": {
+        "composite_score": "Technical score 49/100 \u2014 RSI 70, volume 0.5x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 8,
+      "ticker": "CAD.V",
+      "name": "Colonial Coal International Corp.",
+      "score": 49,
+      "price": 2.42,
+      "market_cap": 448143008,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 49
+      },
+      "details": {
+        "composite_score": "Technical score 49/100 \u2014 RSI 67, volume 2.1x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 9,
+      "ticker": "LVG.V",
+      "name": "Lake Victoria Gold Ltd.",
+      "score": 49,
+      "price": 0.37,
+      "market_cap": 74941640,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 49
+      },
+      "details": {
+        "composite_score": "Technical score 49/100 \u2014 RSI 66, volume 2.7x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 10,
       "ticker": "NURS.V",
       "name": "Hydreight Technologies Inc.",
       "score": 48,
-      "price": 3.75,
-      "market_cap": 201267872,
+      "price": 3.64,
+      "market_cap": 195364016,
       "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
         "composite_score": 48
       },
       "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 58, volume 0.9x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 8,
-      "ticker": "PHX.TO",
-      "name": "PHX Energy Services Corp.",
-      "score": 46,
-      "price": 12.73,
-      "market_cap": 582538816,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 46
-      },
-      "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 64, volume 0.9x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 9,
-      "ticker": "CAD.V",
-      "name": "Colonial Coal International Corp.",
-      "score": 45,
-      "price": 2.44,
-      "market_cap": 451846656,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 45
-      },
-      "details": {
-        "composite_score": "Technical score 45/100 \u2014 RSI 68, volume 1.8x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 10,
-      "ticker": "ALDE.V",
-      "name": "Aldebaran Resources Inc.",
-      "score": 43,
-      "price": 3.53,
-      "market_cap": 654313152,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 43
-      },
-      "details": {
-        "composite_score": "Technical score 43/100 \u2014 RSI 64, volume 0.7x avg. Swing Trade signal."
+        "composite_score": "Technical score 48/100 \u2014 RSI 56, volume 1.2x avg. Position Trade signal."
       }
     }
   ],
   "previous": [
     {
-      "ticker": "ADY.V"
+      "ticker": "CVO.TO"
     },
     {
-      "ticker": "LVG.V"
+      "ticker": "LGN.V"
     },
     {
-      "ticker": "E.TO"
+      "ticker": "AXL.V"
     },
     {
-      "ticker": "ONE.V"
+      "ticker": "TIG.V"
     },
     {
-      "ticker": "BUFF.V"
+      "ticker": "GAU.TO"
     },
     {
-      "ticker": "RAK.V"
+      "ticker": "FTG.TO"
     },
     {
-      "ticker": "STC.TO"
+      "ticker": "NURS.V"
     },
     {
-      "ticker": "MCB.TO"
+      "ticker": "PHX.TO"
     },
     {
-      "ticker": "GWM.V"
+      "ticker": "CAD.V"
     },
     {
-      "ticker": "GRID.TO"
+      "ticker": "ALDE.V"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-10-12",
+      "ticker": "CVO.TO",
+      "name": "Coveo Solutions Inc.",
+      "rank": 1,
+      "score": 59,
+      "price_at_recommendation": 4.72,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-12",
+      "ticker": "HSTR.V",
+      "name": "Heliostar Metals Ltd.",
+      "rank": 2,
+      "score": 53,
+      "price_at_recommendation": 2.55,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-12",
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "rank": 3,
+      "score": 53,
+      "price_at_recommendation": 0.72,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-12",
+      "ticker": "FTG.TO",
+      "name": "Firan Technology Group Corporation",
+      "rank": 4,
+      "score": 52,
+      "price_at_recommendation": 34.95,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-12",
+      "ticker": "TIG.V",
+      "name": "Triumph Gold Corp.",
+      "rank": 5,
+      "score": 52,
+      "price_at_recommendation": 0.79,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-12",
+      "ticker": "GAU.TO",
+      "name": "Galiano Gold Inc.",
+      "rank": 6,
+      "score": 51,
+      "price_at_recommendation": 3.12,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-12",
+      "ticker": "MCB.TO",
+      "name": "McCoy Global Inc.",
+      "rank": 7,
+      "score": 49,
+      "price_at_recommendation": 2.61,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-12",
+      "ticker": "CAD.V",
+      "name": "Colonial Coal International Corp.",
+      "rank": 8,
+      "score": 49,
+      "price_at_recommendation": 2.42,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-12",
+      "ticker": "LVG.V",
+      "name": "Lake Victoria Gold Ltd.",
+      "rank": 9,
+      "score": 49,
+      "price_at_recommendation": 0.37,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-12",
+      "ticker": "NURS.V",
+      "name": "Hydreight Technologies Inc.",
+      "rank": 10,
+      "score": 48,
+      "price_at_recommendation": 3.64,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
     {
       "run_date": "2026-10-09",
       "ticker": "CVO.TO",

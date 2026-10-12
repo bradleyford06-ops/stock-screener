@@ -16,7 +16,7 @@
         "composite_score": "Score 44/100 \u2014 RSI 64.8, volume 0.3x avg"
       },
       "last_price": 0.72,
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-10-12",
       "on_list": true
     },
     {
@@ -34,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 60.6, volume 0.3x avg"
       },
-      "last_price": 10.859999656677246,
-      "last_checked": "2026-10-09",
+      "last_price": 10.829999923706055,
+      "last_checked": "2026-10-12",
       "on_list": false
     },
     {
@@ -53,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 3.3x avg"
       },
-      "last_price": 0.4950000047683716,
-      "last_checked": "2026-10-09",
+      "last_price": 0.5,
+      "last_checked": "2026-10-12",
       "on_list": false
     },
     {
@@ -72,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 45/100 \u2014 RSI 76.6, volume 1.8x avg"
       },
-      "last_price": 2.140000104904175,
-      "last_checked": "2026-10-09",
+      "last_price": 2.0799999237060547,
+      "last_checked": "2026-10-12",
       "on_list": false
     },
     {
@@ -91,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 56.7, volume 0.9x avg"
       },
-      "last_price": 0.46000000834465027,
-      "last_checked": "2026-10-09",
+      "last_price": 0.4650000035762787,
+      "last_checked": "2026-10-12",
       "on_list": false
     },
     {
@@ -110,9 +110,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 51.3, volume 9.9x avg"
       },
-      "last_price": 2.609999895095825,
-      "last_checked": "2026-10-09",
-      "on_list": false
+      "last_price": 2.61,
+      "last_checked": "2026-10-12",
+      "on_list": true
     },
     {
       "ticker": "GWM.V",
@@ -130,7 +130,7 @@
         "composite_score": "Score 39/100 \u2014 RSI 68.3, volume 0.2x avg"
       },
       "last_price": 1.0099999904632568,
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-10-12",
       "on_list": false
     },
     {
@@ -148,27 +148,8 @@
       "entry_details": {
         "composite_score": "Score 59/100 \u2014 RSI 63.9, volume 0.9x avg"
       },
-      "last_price": 4.69,
-      "last_checked": "2026-10-09",
-      "on_list": true
-    },
-    {
-      "ticker": "LGN.V",
-      "name": "Logan Energy Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-09",
-      "entry_price": 1.26,
-      "entry_score": 55,
-      "entry_signals": {
-        "composite_score": 55
-      },
-      "entry_details": {
-        "composite_score": "Score 55/100 \u2014 RSI 68.5, volume 0.3x avg"
-      },
-      "last_price": 1.26,
-      "last_checked": "2026-10-09",
+      "last_price": 4.72,
+      "last_checked": "2026-10-12",
       "on_list": true
     },
     {
@@ -186,8 +167,8 @@
       "entry_details": {
         "composite_score": "Score 52/100 \u2014 RSI 61.6, volume 1.3x avg"
       },
-      "last_price": 0.78,
-      "last_checked": "2026-10-09",
+      "last_price": 0.79,
+      "last_checked": "2026-10-12",
       "on_list": true
     },
     {
@@ -205,8 +186,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 58.6, volume 0.8x avg"
       },
-      "last_price": 3.14,
-      "last_checked": "2026-10-09",
+      "last_price": 3.12,
+      "last_checked": "2026-10-12",
       "on_list": true
     },
     {
@@ -224,8 +205,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 83.2, volume 4.5x avg"
       },
-      "last_price": 34.65,
-      "last_checked": "2026-10-09",
+      "last_price": 34.95,
+      "last_checked": "2026-10-12",
       "on_list": true
     },
     {
@@ -243,27 +224,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 58.3, volume 0.9x avg"
       },
-      "last_price": 3.75,
-      "last_checked": "2026-10-09",
-      "on_list": true
-    },
-    {
-      "ticker": "PHX.TO",
-      "name": "PHX Energy Services Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-09",
-      "entry_price": 12.73,
-      "entry_score": 46,
-      "entry_signals": {
-        "composite_score": 46
-      },
-      "entry_details": {
-        "composite_score": "Score 46/100 \u2014 RSI 64.1, volume 0.9x avg"
-      },
-      "last_price": 12.73,
-      "last_checked": "2026-10-09",
+      "last_price": 3.64,
+      "last_checked": "2026-10-12",
       "on_list": true
     },
     {
@@ -281,27 +243,46 @@
       "entry_details": {
         "composite_score": "Score 45/100 \u2014 RSI 68.0, volume 1.8x avg"
       },
-      "last_price": 2.44,
-      "last_checked": "2026-10-09",
+      "last_price": 2.42,
+      "last_checked": "2026-10-12",
       "on_list": true
     },
     {
-      "ticker": "ALDE.V",
-      "name": "Aldebaran Resources Inc.",
+      "ticker": "HSTR.V",
+      "name": "Heliostar Metals Ltd.",
       "screener": "canada",
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
-      "entry_date": "2026-10-09",
-      "entry_price": 3.53,
-      "entry_score": 43,
+      "entry_date": "2026-10-12",
+      "entry_price": 2.55,
+      "entry_score": 53,
       "entry_signals": {
-        "composite_score": 43
+        "composite_score": 53
       },
       "entry_details": {
-        "composite_score": "Score 43/100 \u2014 RSI 64.4, volume 0.7x avg"
+        "composite_score": "Score 53/100 \u2014 RSI 60.7, volume 1.0x avg"
       },
-      "last_price": 3.53,
-      "last_checked": "2026-10-09",
+      "last_price": 2.55,
+      "last_checked": "2026-10-12",
+      "on_list": true
+    },
+    {
+      "ticker": "LVG.V",
+      "name": "Lake Victoria Gold Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-12",
+      "entry_price": 0.37,
+      "entry_score": 49,
+      "entry_signals": {
+        "composite_score": 49
+      },
+      "entry_details": {
+        "composite_score": "Score 49/100 \u2014 RSI 66.2, volume 2.7x avg"
+      },
+      "last_price": 0.37,
+      "last_checked": "2026-10-12",
       "on_list": true
     }
   ],
@@ -2150,6 +2131,72 @@
       },
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 81.2, volume 2.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "LGN.V",
+      "name": "Logan Energy Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-10-12",
+      "entry_price": 1.26,
+      "exit_price": 1.24,
+      "return_pct": -1.59,
+      "days_held": 3,
+      "entry_score": 55,
+      "entry_signals": {
+        "composite_score": 55
+      },
+      "entry_details": {
+        "composite_score": "Score 55/100 \u2014 RSI 68.5, volume 0.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "PHX.TO",
+      "name": "PHX Energy Services Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-10-12",
+      "entry_price": 12.73,
+      "exit_price": 12.72,
+      "return_pct": -0.08,
+      "days_held": 3,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 64.1, volume 0.9x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "ALDE.V",
+      "name": "Aldebaran Resources Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-10-12",
+      "entry_price": 3.53,
+      "exit_price": 3.52,
+      "return_pct": -0.28,
+      "days_held": 3,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 64.4, volume 0.7x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
