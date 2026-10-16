@@ -1,164 +1,164 @@
 {
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-16",
   "current": [
     {
       "rank": 1,
-      "ticker": "CVO.TO",
-      "name": "Coveo Solutions Inc.",
-      "score": 59,
-      "price": 4.72,
-      "market_cap": 438662912,
+      "ticker": "TIG.V",
+      "name": "Triumph Gold Corp.",
+      "score": 54,
+      "price": 0.795,
+      "market_cap": 57660364,
       "strategy": "Swing Trade",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 59
+        "composite_score": 54
       },
       "details": {
-        "composite_score": "Technical score 59/100 \u2014 RSI 65, volume 1.2x avg. Swing Trade signal."
+        "composite_score": "Technical score 54/100 \u2014 RSI 61, volume 0.2x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "HSTR.V",
-      "name": "Heliostar Metals Ltd.",
+      "ticker": "RBY.TO",
+      "name": "Rubellite Energy Corp.",
       "score": 53,
-      "price": 2.55,
-      "market_cap": 715527424,
+      "price": 4.64,
+      "market_cap": 435890880,
       "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
         "composite_score": 53
       },
       "details": {
-        "composite_score": "Technical score 53/100 \u2014 RSI 61, volume 1.0x avg. Swing Trade signal."
+        "composite_score": "Technical score 53/100 \u2014 RSI 66, volume 1.1x avg. Swing Trade signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "AXL.V",
-      "name": "Arrow Exploration Corp.",
-      "score": 53,
-      "price": 0.72,
-      "market_cap": 205822336,
+      "ticker": "ROK.V",
+      "name": "ROK Resources Inc.",
+      "score": 50,
+      "price": 0.385,
+      "market_cap": 84249736,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 53
+        "composite_score": 50
       },
       "details": {
-        "composite_score": "Technical score 53/100 \u2014 RSI 65, volume 1.5x avg. Swing Trade signal."
+        "composite_score": "Technical score 50/100 \u2014 RSI 65, volume 1.2x avg. Swing Trade signal."
       }
     },
     {
       "rank": 4,
-      "ticker": "FTG.TO",
-      "name": "Firan Technology Group Corporation",
-      "score": 52,
-      "price": 34.95,
-      "market_cap": 879809984,
+      "ticker": "IPO.TO",
+      "name": "InPlay Oil Corp.",
+      "score": 45,
+      "price": 19.45,
+      "market_cap": 537783872,
       "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 52
+        "composite_score": 45
       },
       "details": {
-        "composite_score": "Technical score 52/100 \u2014 RSI 84, volume 6.1x avg. Swing Trade signal."
+        "composite_score": "Technical score 45/100 \u2014 RSI 77, volume 0.8x avg. Swing Trade signal."
       }
     },
     {
       "rank": 5,
-      "ticker": "TIG.V",
-      "name": "Triumph Gold Corp.",
-      "score": 52,
-      "price": 0.79,
-      "market_cap": 57297720,
+      "ticker": "ACX.TO",
+      "name": "ACT Energy Technologies Ltd.",
+      "score": 43,
+      "price": 8.485,
+      "market_cap": 327817088,
       "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 52
+        "composite_score": 43
       },
       "details": {
-        "composite_score": "Technical score 52/100 \u2014 RSI 63, volume 1.9x avg. Swing Trade signal."
+        "composite_score": "Technical score 43/100 \u2014 RSI 73, volume 3.1x avg. Swing Trade signal."
       }
     },
     {
       "rank": 6,
-      "ticker": "GAU.TO",
-      "name": "Galiano Gold Inc.",
-      "score": 51,
-      "price": 3.12,
-      "market_cap": 816166272,
+      "ticker": "ENGH.TO",
+      "name": "Enghouse Systems Limited",
+      "score": 42,
+      "price": 17.62,
+      "market_cap": 949734976,
       "strategy": "Position Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 51
+        "composite_score": 42
       },
       "details": {
-        "composite_score": "Technical score 51/100 \u2014 RSI 58, volume 1.2x avg. Position Trade signal."
+        "composite_score": "Technical score 42/100 \u2014 RSI 60, volume 0.5x avg. Position Trade signal."
       }
     },
     {
       "rank": 7,
-      "ticker": "MCB.TO",
-      "name": "McCoy Global Inc.",
-      "score": 49,
-      "price": 2.61,
-      "market_cap": 70934128,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "score": 42,
+      "price": 0.71,
+      "market_cap": 202963680,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 49
+        "composite_score": 42
       },
       "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 70, volume 0.5x avg. Swing Trade signal."
+        "composite_score": "Technical score 42/100 \u2014 RSI 62, volume 0.5x avg. Position Trade signal."
       }
     },
     {
       "rank": 8,
-      "ticker": "CAD.V",
-      "name": "Colonial Coal International Corp.",
-      "score": 49,
-      "price": 2.42,
-      "market_cap": 448143008,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "ticker": "DCBO.TO",
+      "name": "Docebo Inc.",
+      "score": 41,
+      "price": 38.85,
+      "market_cap": 969214016,
+      "strategy": "Position Trade",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 49
+        "composite_score": 41
       },
       "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 67, volume 2.1x avg. Swing Trade signal."
+        "composite_score": "Technical score 41/100 \u2014 RSI 69, volume 0.7x avg. Position Trade signal."
       }
     },
     {
       "rank": 9,
-      "ticker": "LVG.V",
-      "name": "Lake Victoria Gold Ltd.",
-      "score": 49,
-      "price": 0.37,
-      "market_cap": 74941640,
-      "strategy": "Swing Trade",
+      "ticker": "CCMM.V",
+      "name": "Coyote Copper Mines Inc.",
+      "score": 41,
+      "price": 0.52,
+      "market_cap": 68920616,
+      "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 49
+        "composite_score": 41
       },
       "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 66, volume 2.7x avg. Swing Trade signal."
+        "composite_score": "Technical score 41/100 \u2014 RSI 55, volume 1.7x avg. Position Trade signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "NURS.V",
-      "name": "Hydreight Technologies Inc.",
-      "score": 48,
-      "price": 3.64,
-      "market_cap": 195364016,
-      "strategy": "Position Trade",
+      "ticker": "INTR.V",
+      "name": "Intrepid Metals Corp.",
+      "score": 41,
+      "price": 0.91,
+      "market_cap": 112563800,
+      "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 48
+        "composite_score": 41
       },
       "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 56, volume 1.2x avg. Position Trade signal."
+        "composite_score": "Technical score 41/100 \u2014 RSI 61, volume 1.4x avg. Swing Trade signal."
       }
     }
   ],
@@ -167,10 +167,13 @@
       "ticker": "CVO.TO"
     },
     {
-      "ticker": "LGN.V"
+      "ticker": "HSTR.V"
     },
     {
       "ticker": "AXL.V"
+    },
+    {
+      "ticker": "FTG.TO"
     },
     {
       "ticker": "TIG.V"
@@ -179,22 +182,119 @@
       "ticker": "GAU.TO"
     },
     {
-      "ticker": "FTG.TO"
-    },
-    {
-      "ticker": "NURS.V"
-    },
-    {
-      "ticker": "PHX.TO"
+      "ticker": "MCB.TO"
     },
     {
       "ticker": "CAD.V"
     },
     {
-      "ticker": "ALDE.V"
+      "ticker": "LVG.V"
+    },
+    {
+      "ticker": "NURS.V"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-10-16",
+      "ticker": "TIG.V",
+      "name": "Triumph Gold Corp.",
+      "rank": 1,
+      "score": 54,
+      "price_at_recommendation": 0.795,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-16",
+      "ticker": "RBY.TO",
+      "name": "Rubellite Energy Corp.",
+      "rank": 2,
+      "score": 53,
+      "price_at_recommendation": 4.64,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-16",
+      "ticker": "ROK.V",
+      "name": "ROK Resources Inc.",
+      "rank": 3,
+      "score": 50,
+      "price_at_recommendation": 0.385,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-16",
+      "ticker": "IPO.TO",
+      "name": "InPlay Oil Corp.",
+      "rank": 4,
+      "score": 45,
+      "price_at_recommendation": 19.45,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-16",
+      "ticker": "ACX.TO",
+      "name": "ACT Energy Technologies Ltd.",
+      "rank": 5,
+      "score": 43,
+      "price_at_recommendation": 8.485,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-16",
+      "ticker": "ENGH.TO",
+      "name": "Enghouse Systems Limited",
+      "rank": 6,
+      "score": 42,
+      "price_at_recommendation": 17.62,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-16",
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "rank": 7,
+      "score": 42,
+      "price_at_recommendation": 0.71,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-16",
+      "ticker": "DCBO.TO",
+      "name": "Docebo Inc.",
+      "rank": 8,
+      "score": 41,
+      "price_at_recommendation": 38.85,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-16",
+      "ticker": "CCMM.V",
+      "name": "Coyote Copper Mines Inc.",
+      "rank": 9,
+      "score": 41,
+      "price_at_recommendation": 0.52,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-16",
+      "ticker": "INTR.V",
+      "name": "Intrepid Metals Corp.",
+      "rank": 10,
+      "score": 41,
+      "price_at_recommendation": 0.91,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
     {
       "run_date": "2026-10-12",
       "ticker": "CVO.TO",

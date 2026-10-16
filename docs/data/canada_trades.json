@@ -15,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 64.8, volume 0.3x avg"
       },
-      "last_price": 0.72,
-      "last_checked": "2026-10-12",
+      "last_price": 0.71,
+      "last_checked": "2026-10-16",
       "on_list": true
     },
     {
@@ -34,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 60.6, volume 0.3x avg"
       },
-      "last_price": 10.829999923706055,
-      "last_checked": "2026-10-12",
+      "last_price": 10.960000038146973,
+      "last_checked": "2026-10-16",
       "on_list": false
     },
     {
@@ -53,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 3.3x avg"
       },
-      "last_price": 0.5,
-      "last_checked": "2026-10-12",
+      "last_price": 0.48500001430511475,
+      "last_checked": "2026-10-16",
       "on_list": false
     },
     {
@@ -72,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 45/100 \u2014 RSI 76.6, volume 1.8x avg"
       },
-      "last_price": 2.0799999237060547,
-      "last_checked": "2026-10-12",
+      "last_price": 2.0,
+      "last_checked": "2026-10-16",
       "on_list": false
     },
     {
@@ -91,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 56.7, volume 0.9x avg"
       },
-      "last_price": 0.4650000035762787,
-      "last_checked": "2026-10-12",
+      "last_price": 0.4050000011920929,
+      "last_checked": "2026-10-16",
       "on_list": false
     },
     {
@@ -110,9 +110,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 51.3, volume 9.9x avg"
       },
-      "last_price": 2.61,
-      "last_checked": "2026-10-12",
-      "on_list": true
+      "last_price": 2.490000009536743,
+      "last_checked": "2026-10-16",
+      "on_list": false
     },
     {
       "ticker": "GWM.V",
@@ -129,28 +129,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 68.3, volume 0.2x avg"
       },
-      "last_price": 1.0099999904632568,
-      "last_checked": "2026-10-12",
+      "last_price": 0.9399999976158142,
+      "last_checked": "2026-10-16",
       "on_list": false
-    },
-    {
-      "ticker": "CVO.TO",
-      "name": "Coveo Solutions Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-09",
-      "entry_price": 4.69,
-      "entry_score": 59,
-      "entry_signals": {
-        "composite_score": 59
-      },
-      "entry_details": {
-        "composite_score": "Score 59/100 \u2014 RSI 63.9, volume 0.9x avg"
-      },
-      "last_price": 4.72,
-      "last_checked": "2026-10-12",
-      "on_list": true
     },
     {
       "ticker": "TIG.V",
@@ -167,8 +148,8 @@
       "entry_details": {
         "composite_score": "Score 52/100 \u2014 RSI 61.6, volume 1.3x avg"
       },
-      "last_price": 0.79,
-      "last_checked": "2026-10-12",
+      "last_price": 0.795,
+      "last_checked": "2026-10-16",
       "on_list": true
     },
     {
@@ -186,28 +167,9 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 58.6, volume 0.8x avg"
       },
-      "last_price": 3.12,
-      "last_checked": "2026-10-12",
-      "on_list": true
-    },
-    {
-      "ticker": "FTG.TO",
-      "name": "Firan Technology Group Corporation",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-09",
-      "entry_price": 34.65,
-      "entry_score": 48,
-      "entry_signals": {
-        "composite_score": 48
-      },
-      "entry_details": {
-        "composite_score": "Score 48/100 \u2014 RSI 83.2, volume 4.5x avg"
-      },
-      "last_price": 34.95,
-      "last_checked": "2026-10-12",
-      "on_list": true
+      "last_price": 3.119999885559082,
+      "last_checked": "2026-10-16",
+      "on_list": false
     },
     {
       "ticker": "NURS.V",
@@ -224,65 +186,160 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 58.3, volume 0.9x avg"
       },
-      "last_price": 3.64,
-      "last_checked": "2026-10-12",
-      "on_list": true
+      "last_price": 3.4100000858306885,
+      "last_checked": "2026-10-16",
+      "on_list": false
     },
     {
-      "ticker": "CAD.V",
-      "name": "Colonial Coal International Corp.",
+      "ticker": "RBY.TO",
+      "name": "Rubellite Energy Corp.",
       "screener": "canada",
       "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-09",
-      "entry_price": 2.44,
-      "entry_score": 45,
-      "entry_signals": {
-        "composite_score": 45
-      },
-      "entry_details": {
-        "composite_score": "Score 45/100 \u2014 RSI 68.0, volume 1.8x avg"
-      },
-      "last_price": 2.42,
-      "last_checked": "2026-10-12",
-      "on_list": true
-    },
-    {
-      "ticker": "HSTR.V",
-      "name": "Heliostar Metals Ltd.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-12",
-      "entry_price": 2.55,
+      "exchange": "TSX",
+      "entry_date": "2026-10-16",
+      "entry_price": 4.64,
       "entry_score": 53,
       "entry_signals": {
         "composite_score": 53
       },
       "entry_details": {
-        "composite_score": "Score 53/100 \u2014 RSI 60.7, volume 1.0x avg"
+        "composite_score": "Score 53/100 \u2014 RSI 65.5, volume 1.1x avg"
       },
-      "last_price": 2.55,
-      "last_checked": "2026-10-12",
+      "last_price": 4.64,
+      "last_checked": "2026-10-16",
       "on_list": true
     },
     {
-      "ticker": "LVG.V",
-      "name": "Lake Victoria Gold Ltd.",
+      "ticker": "ROK.V",
+      "name": "ROK Resources Inc.",
       "screener": "canada",
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
-      "entry_date": "2026-10-12",
-      "entry_price": 0.37,
-      "entry_score": 49,
+      "entry_date": "2026-10-16",
+      "entry_price": 0.385,
+      "entry_score": 50,
       "entry_signals": {
-        "composite_score": 49
+        "composite_score": 50
       },
       "entry_details": {
-        "composite_score": "Score 49/100 \u2014 RSI 66.2, volume 2.7x avg"
+        "composite_score": "Score 50/100 \u2014 RSI 64.5, volume 1.2x avg"
       },
-      "last_price": 0.37,
-      "last_checked": "2026-10-12",
+      "last_price": 0.385,
+      "last_checked": "2026-10-16",
+      "on_list": true
+    },
+    {
+      "ticker": "IPO.TO",
+      "name": "InPlay Oil Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-16",
+      "entry_price": 19.45,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 76.6, volume 0.8x avg"
+      },
+      "last_price": 19.45,
+      "last_checked": "2026-10-16",
+      "on_list": true
+    },
+    {
+      "ticker": "ACX.TO",
+      "name": "ACT Energy Technologies Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-16",
+      "entry_price": 8.485,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 73.3, volume 3.1x avg"
+      },
+      "last_price": 8.485,
+      "last_checked": "2026-10-16",
+      "on_list": true
+    },
+    {
+      "ticker": "ENGH.TO",
+      "name": "Enghouse Systems Limited",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-16",
+      "entry_price": 17.62,
+      "entry_score": 42,
+      "entry_signals": {
+        "composite_score": 42
+      },
+      "entry_details": {
+        "composite_score": "Score 42/100 \u2014 RSI 60.4, volume 0.5x avg"
+      },
+      "last_price": 17.62,
+      "last_checked": "2026-10-16",
+      "on_list": true
+    },
+    {
+      "ticker": "DCBO.TO",
+      "name": "Docebo Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-16",
+      "entry_price": 38.85,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 69.4, volume 0.7x avg"
+      },
+      "last_price": 38.85,
+      "last_checked": "2026-10-16",
+      "on_list": true
+    },
+    {
+      "ticker": "CCMM.V",
+      "name": "Coyote Copper Mines Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-16",
+      "entry_price": 0.52,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 55.2, volume 1.7x avg"
+      },
+      "last_price": 0.52,
+      "last_checked": "2026-10-16",
+      "on_list": true
+    },
+    {
+      "ticker": "INTR.V",
+      "name": "Intrepid Metals Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-16",
+      "entry_price": 0.91,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 60.8, volume 1.4x avg"
+      },
+      "last_price": 0.91,
+      "last_checked": "2026-10-16",
       "on_list": true
     }
   ],
@@ -2197,6 +2254,116 @@
       },
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 64.4, volume 0.7x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "CVO.TO",
+      "name": "Coveo Solutions Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-10-16",
+      "entry_price": 4.69,
+      "exit_price": 4.73,
+      "return_pct": 0.85,
+      "days_held": 7,
+      "entry_score": 59,
+      "entry_signals": {
+        "composite_score": 59
+      },
+      "entry_details": {
+        "composite_score": "Score 59/100 \u2014 RSI 63.9, volume 0.9x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "FTG.TO",
+      "name": "Firan Technology Group Corporation",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-10-16",
+      "entry_price": 34.65,
+      "exit_price": 34.41,
+      "return_pct": -0.69,
+      "days_held": 7,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 83.2, volume 4.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "CAD.V",
+      "name": "Colonial Coal International Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-10-16",
+      "entry_price": 2.44,
+      "exit_price": 2.27,
+      "return_pct": -6.97,
+      "days_held": 7,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 68.0, volume 1.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "HSTR.V",
+      "name": "Heliostar Metals Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-12",
+      "exit_date": "2026-10-16",
+      "entry_price": 2.55,
+      "exit_price": 2.56,
+      "return_pct": 0.39,
+      "days_held": 4,
+      "entry_score": 53,
+      "entry_signals": {
+        "composite_score": 53
+      },
+      "entry_details": {
+        "composite_score": "Score 53/100 \u2014 RSI 60.7, volume 1.0x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "LVG.V",
+      "name": "Lake Victoria Gold Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-12",
+      "exit_date": "2026-10-16",
+      "entry_price": 0.37,
+      "exit_price": 0.335,
+      "return_pct": -9.46,
+      "days_held": 4,
+      "entry_score": 49,
+      "entry_signals": {
+        "composite_score": 49
+      },
+      "entry_details": {
+        "composite_score": "Score 49/100 \u2014 RSI 66.2, volume 2.7x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
