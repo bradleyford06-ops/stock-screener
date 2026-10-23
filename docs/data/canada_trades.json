@@ -15,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 3.3x avg"
       },
-      "last_price": 0.48500001430511475,
-      "last_checked": "2026-10-19",
+      "last_price": 0.49000000953674316,
+      "last_checked": "2026-10-23",
       "on_list": false
     },
     {
@@ -34,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 45/100 \u2014 RSI 76.6, volume 1.8x avg"
       },
-      "last_price": 2.0,
-      "last_checked": "2026-10-19",
+      "last_price": 2.0399999618530273,
+      "last_checked": "2026-10-23",
       "on_list": false
     },
     {
@@ -53,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 56.7, volume 0.9x avg"
       },
-      "last_price": 0.4099999964237213,
-      "last_checked": "2026-10-19",
+      "last_price": 0.38499999046325684,
+      "last_checked": "2026-10-23",
       "on_list": false
     },
     {
@@ -72,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 51.3, volume 9.9x avg"
       },
-      "last_price": 2.4800000190734863,
-      "last_checked": "2026-10-19",
+      "last_price": 2.4600000381469727,
+      "last_checked": "2026-10-23",
       "on_list": false
     },
     {
@@ -91,28 +91,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 68.3, volume 0.2x avg"
       },
-      "last_price": 0.9700000286102295,
-      "last_checked": "2026-10-19",
+      "last_price": 0.8899999856948853,
+      "last_checked": "2026-10-23",
       "on_list": false
-    },
-    {
-      "ticker": "TIG.V",
-      "name": "Triumph Gold Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-09",
-      "entry_price": 0.78,
-      "entry_score": 52,
-      "entry_signals": {
-        "composite_score": 52
-      },
-      "entry_details": {
-        "composite_score": "Score 52/100 \u2014 RSI 61.6, volume 1.3x avg"
-      },
-      "last_price": 0.81,
-      "last_checked": "2026-10-19",
-      "on_list": true
     },
     {
       "ticker": "GAU.TO",
@@ -129,8 +110,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 58.6, volume 0.8x avg"
       },
-      "last_price": 3.259999990463257,
-      "last_checked": "2026-10-19",
+      "last_price": 2.8499999046325684,
+      "last_checked": "2026-10-23",
       "on_list": false
     },
     {
@@ -148,28 +129,9 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 58.3, volume 0.9x avg"
       },
-      "last_price": 3.3499999046325684,
-      "last_checked": "2026-10-19",
+      "last_price": 3.200000047683716,
+      "last_checked": "2026-10-23",
       "on_list": false
-    },
-    {
-      "ticker": "ROK.V",
-      "name": "ROK Resources Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-16",
-      "entry_price": 0.385,
-      "entry_score": 50,
-      "entry_signals": {
-        "composite_score": 50
-      },
-      "entry_details": {
-        "composite_score": "Score 50/100 \u2014 RSI 64.5, volume 1.2x avg"
-      },
-      "last_price": 0.38,
-      "last_checked": "2026-10-19",
-      "on_list": true
     },
     {
       "ticker": "ENGH.TO",
@@ -186,9 +148,9 @@
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 60.4, volume 0.5x avg"
       },
-      "last_price": 17.96,
-      "last_checked": "2026-10-19",
-      "on_list": true
+      "last_price": 19.020000457763672,
+      "last_checked": "2026-10-23",
+      "on_list": false
     },
     {
       "ticker": "DCBO.TO",
@@ -205,85 +167,9 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 69.4, volume 0.7x avg"
       },
-      "last_price": 40.0,
-      "last_checked": "2026-10-19",
+      "last_price": 43.310001373291016,
+      "last_checked": "2026-10-23",
       "on_list": false
-    },
-    {
-      "ticker": "CCMM.V",
-      "name": "Coyote Copper Mines Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-16",
-      "entry_price": 0.52,
-      "entry_score": 41,
-      "entry_signals": {
-        "composite_score": 41
-      },
-      "entry_details": {
-        "composite_score": "Score 41/100 \u2014 RSI 55.2, volume 1.7x avg"
-      },
-      "last_price": 0.4449999928474426,
-      "last_checked": "2026-10-19",
-      "on_list": false
-    },
-    {
-      "ticker": "MACK.V",
-      "name": "Mackay Gold & Silver Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-19",
-      "entry_price": 3.27,
-      "entry_score": 50,
-      "entry_signals": {
-        "composite_score": 50
-      },
-      "entry_details": {
-        "composite_score": "Score 50/100 \u2014 RSI 66.9, volume 2.8x avg"
-      },
-      "last_price": 3.27,
-      "last_checked": "2026-10-19",
-      "on_list": true
-    },
-    {
-      "ticker": "CCDS.V",
-      "name": "Carrier Connect Data Solutions Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-19",
-      "entry_price": 1.55,
-      "entry_score": 49,
-      "entry_signals": {
-        "composite_score": 49
-      },
-      "entry_details": {
-        "composite_score": "Score 49/100 \u2014 RSI 74.6, volume 6.0x avg"
-      },
-      "last_price": 1.55,
-      "last_checked": "2026-10-19",
-      "on_list": true
-    },
-    {
-      "ticker": "KC.V",
-      "name": "Kutcho Copper Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-19",
-      "entry_price": 0.4,
-      "entry_score": 48,
-      "entry_signals": {
-        "composite_score": 48
-      },
-      "entry_details": {
-        "composite_score": "Score 48/100 \u2014 RSI 65.1, volume 6.3x avg"
-      },
-      "last_price": 0.4,
-      "last_checked": "2026-10-19",
-      "on_list": true
     },
     {
       "ticker": "CVO.TO",
@@ -300,8 +186,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.3, volume 0.5x avg"
       },
-      "last_price": 4.82,
-      "last_checked": "2026-10-19",
+      "last_price": 4.85,
+      "last_checked": "2026-10-23",
       "on_list": true
     },
     {
@@ -319,8 +205,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 68.4, volume 0.8x avg"
       },
-      "last_price": 1.265,
-      "last_checked": "2026-10-19",
+      "last_price": 1.39,
+      "last_checked": "2026-10-23",
       "on_list": true
     },
     {
@@ -338,27 +224,160 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 68.5, volume 0.9x avg"
       },
-      "last_price": 4.36,
-      "last_checked": "2026-10-19",
+      "last_price": 4.440000057220459,
+      "last_checked": "2026-10-23",
+      "on_list": false
+    },
+    {
+      "ticker": "NOAL.V",
+      "name": "NOA Lithium Brines Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-23",
+      "entry_price": 0.225,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 64.1, volume 1.6x avg"
+      },
+      "last_price": 0.225,
+      "last_checked": "2026-10-23",
       "on_list": true
     },
     {
-      "ticker": "BNE.TO",
-      "name": "Bonterra Energy Corp.",
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
       "screener": "canada",
-      "strategy": "Swing Trade",
+      "strategy": "Position Trade",
       "exchange": "TSX",
-      "entry_date": "2026-10-19",
-      "entry_price": 6.7,
-      "entry_score": 43,
+      "entry_date": "2026-10-23",
+      "entry_price": 2.2,
+      "entry_score": 46,
       "entry_signals": {
-        "composite_score": 43
+        "composite_score": 46
       },
       "entry_details": {
-        "composite_score": "Score 43/100 \u2014 RSI 67.1, volume 2.0x avg"
+        "composite_score": "Score 46/100 \u2014 RSI 62.5, volume 0.0x avg"
       },
-      "last_price": 6.7,
-      "last_checked": "2026-10-19",
+      "last_price": 2.2,
+      "last_checked": "2026-10-23",
+      "on_list": true
+    },
+    {
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-23",
+      "entry_price": 0.79,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 73.8, volume 1.4x avg"
+      },
+      "last_price": 0.79,
+      "last_checked": "2026-10-23",
+      "on_list": true
+    },
+    {
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-23",
+      "entry_price": 17.05,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 58.6, volume 0.4x avg"
+      },
+      "last_price": 17.05,
+      "last_checked": "2026-10-23",
+      "on_list": true
+    },
+    {
+      "ticker": "TLT.V",
+      "name": "Theralase Technologies Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-23",
+      "entry_price": 0.25,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 85.2, volume 3.2x avg"
+      },
+      "last_price": 0.25,
+      "last_checked": "2026-10-23",
+      "on_list": true
+    },
+    {
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-23",
+      "entry_price": 1.1,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 54.4, volume 0.9x avg"
+      },
+      "last_price": 1.1,
+      "last_checked": "2026-10-23",
+      "on_list": true
+    },
+    {
+      "ticker": "RBY.TO",
+      "name": "Rubellite Energy Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-23",
+      "entry_price": 4.57,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 59.7, volume 2.1x avg"
+      },
+      "last_price": 4.57,
+      "last_checked": "2026-10-23",
+      "on_list": true
+    },
+    {
+      "ticker": "SRR.V",
+      "name": "Source Rock Royalties Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-23",
+      "entry_price": 1.12,
+      "entry_score": 38,
+      "entry_signals": {
+        "composite_score": 38
+      },
+      "entry_details": {
+        "composite_score": "Score 38/100 \u2014 RSI 58.9, volume 0.3x avg"
+      },
+      "last_price": 1.12,
+      "last_checked": "2026-10-23",
       "on_list": true
     }
   ],
@@ -2515,6 +2534,160 @@
       },
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 60.8, volume 1.4x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "TIG.V",
+      "name": "Triumph Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-10-23",
+      "entry_price": 0.78,
+      "exit_price": 0.75,
+      "return_pct": -3.85,
+      "days_held": 14,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 61.6, volume 1.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "ROK.V",
+      "name": "ROK Resources Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-16",
+      "exit_date": "2026-10-23",
+      "entry_price": 0.385,
+      "exit_price": 0.38,
+      "return_pct": -1.3,
+      "days_held": 7,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 64.5, volume 1.2x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "CCMM.V",
+      "name": "Coyote Copper Mines Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-16",
+      "exit_date": "2026-10-23",
+      "entry_price": 0.52,
+      "exit_price": 0.38,
+      "return_pct": -26.92,
+      "days_held": 7,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 55.2, volume 1.7x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "stop_loss"
+    },
+    {
+      "ticker": "MACK.V",
+      "name": "Mackay Gold & Silver Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-19",
+      "exit_date": "2026-10-23",
+      "entry_price": 3.27,
+      "exit_price": 3.07,
+      "return_pct": -6.12,
+      "days_held": 4,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 66.9, volume 2.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "CCDS.V",
+      "name": "Carrier Connect Data Solutions Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-19",
+      "exit_date": "2026-10-23",
+      "entry_price": 1.55,
+      "exit_price": 1.37,
+      "return_pct": -11.61,
+      "days_held": 4,
+      "entry_score": 49,
+      "entry_signals": {
+        "composite_score": 49
+      },
+      "entry_details": {
+        "composite_score": "Score 49/100 \u2014 RSI 74.6, volume 6.0x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "KC.V",
+      "name": "Kutcho Copper Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-19",
+      "exit_date": "2026-10-23",
+      "entry_price": 0.4,
+      "exit_price": 0.385,
+      "return_pct": -3.75,
+      "days_held": 4,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 65.1, volume 6.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "BNE.TO",
+      "name": "Bonterra Energy Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-19",
+      "exit_date": "2026-10-23",
+      "entry_price": 6.7,
+      "exit_price": 6.79,
+      "return_pct": 1.34,
+      "days_held": 4,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 67.1, volume 2.0x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"

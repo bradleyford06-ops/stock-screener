@@ -1,200 +1,300 @@
 {
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-23",
   "current": [
     {
       "rank": 1,
-      "ticker": "ENGH.TO",
-      "name": "Enghouse Systems Limited",
-      "score": 53,
-      "price": 17.96,
-      "market_cap": 968061184,
+      "ticker": "LGN.V",
+      "name": "Logan Energy Corp.",
+      "score": 51,
+      "price": 1.39,
+      "market_cap": 961350400,
       "strategy": "Swing Trade",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 53
+        "composite_score": 51
       },
       "details": {
-        "composite_score": "Technical score 53/100 \u2014 RSI 66, volume 0.3x avg. Swing Trade signal."
+        "composite_score": "Technical score 51/100 \u2014 RSI 79, volume 3.3x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "TIG.V",
-      "name": "Triumph Gold Corp.",
-      "score": 52,
-      "price": 0.81,
-      "market_cap": 58748296,
+      "ticker": "NOAL.V",
+      "name": "NOA Lithium Brines Inc.",
+      "score": 46,
+      "price": 0.225,
+      "market_cap": 63941944,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 52
+        "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 52/100 \u2014 RSI 63, volume 0.8x avg. Swing Trade signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 64, volume 1.6x avg. Swing Trade signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "MACK.V",
-      "name": "Mackay Gold & Silver Corp.",
-      "score": 50,
-      "price": 3.27,
-      "market_cap": 280183264,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 50
-      },
-      "details": {
-        "composite_score": "Technical score 50/100 \u2014 RSI 67, volume 2.8x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 4,
-      "ticker": "CCDS.V",
-      "name": "Carrier Connect Data Solutions Inc.",
-      "score": 49,
-      "price": 1.55,
-      "market_cap": 52296844,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 49
-      },
-      "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 75, volume 6.0x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 5,
-      "ticker": "KC.V",
-      "name": "Kutcho Copper Corp.",
-      "score": 48,
-      "price": 0.4,
-      "market_cap": 73886000,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 48
-      },
-      "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 65, volume 6.3x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 6,
-      "ticker": "CVO.TO",
-      "name": "Coveo Solutions Inc.",
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
       "score": 46,
-      "price": 4.82,
-      "market_cap": 447956672,
+      "price": 2.2,
+      "market_cap": 148256096,
       "strategy": "Position Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 62, volume 0.5x avg. Position Trade signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 63, volume 0.0x avg. Position Trade signal."
       }
     },
     {
-      "rank": 7,
-      "ticker": "LGN.V",
-      "name": "Logan Energy Corp.",
-      "score": 44,
-      "price": 1.265,
-      "market_cap": 874898048,
+      "rank": 4,
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "score": 45,
+      "price": 0.79,
+      "market_cap": 225832848,
       "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 44
+        "composite_score": 45
       },
       "details": {
-        "composite_score": "Technical score 44/100 \u2014 RSI 68, volume 0.8x avg. Position Trade signal."
+        "composite_score": "Technical score 45/100 \u2014 RSI 74, volume 1.4x avg. Position Trade signal."
       }
     },
     {
-      "rank": 8,
-      "ticker": "LTC.V",
-      "name": "Lotus Creek Exploration Inc.",
+      "rank": 5,
+      "ticker": "CVO.TO",
+      "name": "Coveo Solutions Inc.",
       "score": 43,
-      "price": 4.36,
-      "market_cap": 175359200,
+      "price": 4.85,
+      "market_cap": 450744736,
       "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 43
-      },
-      "details": {
-        "composite_score": "Technical score 43/100 \u2014 RSI 69, volume 0.9x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 9,
-      "ticker": "BNE.TO",
-      "name": "Bonterra Energy Corp.",
-      "score": 43,
-      "price": 6.7,
-      "market_cap": 240698784,
-      "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 43
       },
       "details": {
-        "composite_score": "Technical score 43/100 \u2014 RSI 67, volume 2.0x avg. Swing Trade signal."
+        "composite_score": "Technical score 43/100 \u2014 RSI 62, volume 0.3x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 6,
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "score": 41,
+      "price": 17.05,
+      "market_cap": 579806336,
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 41
+      },
+      "details": {
+        "composite_score": "Technical score 41/100 \u2014 RSI 59, volume 0.4x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 7,
+      "ticker": "TLT.V",
+      "name": "Theralase Technologies Inc.",
+      "score": 41,
+      "price": 0.25,
+      "market_cap": 77620832,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 41
+      },
+      "details": {
+        "composite_score": "Technical score 41/100 \u2014 RSI 85, volume 3.2x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 8,
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "score": 39,
+      "price": 1.1,
+      "market_cap": 183768224,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 39
+      },
+      "details": {
+        "composite_score": "Technical score 39/100 \u2014 RSI 54, volume 0.9x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 9,
+      "ticker": "RBY.TO",
+      "name": "Rubellite Energy Corp.",
+      "score": 39,
+      "price": 4.57,
+      "market_cap": 429314944,
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 39
+      },
+      "details": {
+        "composite_score": "Technical score 39/100 \u2014 RSI 60, volume 2.1x avg. Position Trade signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "ROK.V",
-      "name": "ROK Resources Inc.",
-      "score": 43,
-      "price": 0.38,
-      "market_cap": 83155584,
+      "ticker": "SRR.V",
+      "name": "Source Rock Royalties Ltd.",
+      "score": 38,
+      "price": 1.12,
+      "market_cap": 51052656,
       "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 43
+        "composite_score": 38
       },
       "details": {
-        "composite_score": "Technical score 43/100 \u2014 RSI 61, volume 2.8x avg. Position Trade signal."
+        "composite_score": "Technical score 38/100 \u2014 RSI 59, volume 0.3x avg. Position Trade signal."
       }
     }
   ],
   "previous": [
     {
-      "ticker": "TIG.V"
-    },
-    {
-      "ticker": "RBY.TO"
-    },
-    {
-      "ticker": "ROK.V"
-    },
-    {
-      "ticker": "IPO.TO"
-    },
-    {
-      "ticker": "ACX.TO"
-    },
-    {
       "ticker": "ENGH.TO"
     },
     {
-      "ticker": "AXL.V"
+      "ticker": "TIG.V"
     },
     {
-      "ticker": "DCBO.TO"
+      "ticker": "MACK.V"
     },
     {
-      "ticker": "CCMM.V"
+      "ticker": "CCDS.V"
     },
     {
-      "ticker": "INTR.V"
+      "ticker": "KC.V"
+    },
+    {
+      "ticker": "CVO.TO"
+    },
+    {
+      "ticker": "LGN.V"
+    },
+    {
+      "ticker": "LTC.V"
+    },
+    {
+      "ticker": "BNE.TO"
+    },
+    {
+      "ticker": "ROK.V"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-10-23",
+      "ticker": "LGN.V",
+      "name": "Logan Energy Corp.",
+      "rank": 1,
+      "score": 51,
+      "price_at_recommendation": 1.39,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-23",
+      "ticker": "NOAL.V",
+      "name": "NOA Lithium Brines Inc.",
+      "rank": 2,
+      "score": 46,
+      "price_at_recommendation": 0.225,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-23",
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
+      "rank": 3,
+      "score": 46,
+      "price_at_recommendation": 2.2,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-23",
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "rank": 4,
+      "score": 45,
+      "price_at_recommendation": 0.79,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-23",
+      "ticker": "CVO.TO",
+      "name": "Coveo Solutions Inc.",
+      "rank": 5,
+      "score": 43,
+      "price_at_recommendation": 4.85,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-23",
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "rank": 6,
+      "score": 41,
+      "price_at_recommendation": 17.05,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-23",
+      "ticker": "TLT.V",
+      "name": "Theralase Technologies Inc.",
+      "rank": 7,
+      "score": 41,
+      "price_at_recommendation": 0.25,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-23",
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "rank": 8,
+      "score": 39,
+      "price_at_recommendation": 1.1,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-23",
+      "ticker": "RBY.TO",
+      "name": "Rubellite Energy Corp.",
+      "rank": 9,
+      "score": 39,
+      "price_at_recommendation": 4.57,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-23",
+      "ticker": "SRR.V",
+      "name": "Source Rock Royalties Ltd.",
+      "rank": 10,
+      "score": 38,
+      "price_at_recommendation": 1.12,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
     {
       "run_date": "2026-10-19",
       "ticker": "ENGH.TO",
