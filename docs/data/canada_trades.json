@@ -1,44 +1,6 @@
 {
   "active": [
     {
-      "ticker": "CEMX.TO",
-      "name": "CEMATRIX Corporation",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-09-25",
-      "entry_price": 0.51,
-      "entry_score": 46,
-      "entry_signals": {
-        "composite_score": 46
-      },
-      "entry_details": {
-        "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 3.3x avg"
-      },
-      "last_price": 0.49000000953674316,
-      "last_checked": "2026-10-23",
-      "on_list": false
-    },
-    {
-      "ticker": "LOVE.TO",
-      "name": "Cannara Biotech Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-09-25",
-      "entry_price": 2.18,
-      "entry_score": 45,
-      "entry_signals": {
-        "composite_score": 45
-      },
-      "entry_details": {
-        "composite_score": "Score 45/100 \u2014 RSI 76.6, volume 1.8x avg"
-      },
-      "last_price": 2.0399999618530273,
-      "last_checked": "2026-10-23",
-      "on_list": false
-    },
-    {
       "ticker": "GCU.TO",
       "name": "Gunnison Copper Corp.",
       "screener": "canada",
@@ -53,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 56.7, volume 0.9x avg"
       },
-      "last_price": 0.38499999046325684,
-      "last_checked": "2026-10-23",
+      "last_price": 0.39500001072883606,
+      "last_checked": "2026-10-26",
       "on_list": false
     },
     {
@@ -72,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 51.3, volume 9.9x avg"
       },
-      "last_price": 2.4600000381469727,
-      "last_checked": "2026-10-23",
+      "last_price": 2.450000047683716,
+      "last_checked": "2026-10-26",
       "on_list": false
     },
     {
@@ -91,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 68.3, volume 0.2x avg"
       },
-      "last_price": 0.8899999856948853,
-      "last_checked": "2026-10-23",
+      "last_price": 0.8799999952316284,
+      "last_checked": "2026-10-26",
       "on_list": false
     },
     {
@@ -110,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 58.6, volume 0.8x avg"
       },
-      "last_price": 2.8499999046325684,
-      "last_checked": "2026-10-23",
+      "last_price": 2.799999952316284,
+      "last_checked": "2026-10-26",
       "on_list": false
     },
     {
@@ -129,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 58.3, volume 0.9x avg"
       },
-      "last_price": 3.200000047683716,
-      "last_checked": "2026-10-23",
+      "last_price": 3.1600000858306885,
+      "last_checked": "2026-10-26",
       "on_list": false
     },
     {
@@ -148,8 +110,8 @@
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 60.4, volume 0.5x avg"
       },
-      "last_price": 19.020000457763672,
-      "last_checked": "2026-10-23",
+      "last_price": 19.1200008392334,
+      "last_checked": "2026-10-26",
       "on_list": false
     },
     {
@@ -167,8 +129,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 69.4, volume 0.7x avg"
       },
-      "last_price": 43.310001373291016,
-      "last_checked": "2026-10-23",
+      "last_price": 42.70000076293945,
+      "last_checked": "2026-10-26",
       "on_list": false
     },
     {
@@ -186,8 +148,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.3, volume 0.5x avg"
       },
-      "last_price": 4.85,
-      "last_checked": "2026-10-23",
+      "last_price": 4.83,
+      "last_checked": "2026-10-26",
       "on_list": true
     },
     {
@@ -205,9 +167,9 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 68.4, volume 0.8x avg"
       },
-      "last_price": 1.39,
-      "last_checked": "2026-10-23",
-      "on_list": true
+      "last_price": 1.5549999475479126,
+      "last_checked": "2026-10-26",
+      "on_list": false
     },
     {
       "ticker": "LTC.V",
@@ -224,8 +186,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 68.5, volume 0.9x avg"
       },
-      "last_price": 4.440000057220459,
-      "last_checked": "2026-10-23",
+      "last_price": 4.360000133514404,
+      "last_checked": "2026-10-26",
       "on_list": false
     },
     {
@@ -244,7 +206,7 @@
         "composite_score": "Score 46/100 \u2014 RSI 64.1, volume 1.6x avg"
       },
       "last_price": 0.225,
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-10-26",
       "on_list": true
     },
     {
@@ -262,8 +224,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.5, volume 0.0x avg"
       },
-      "last_price": 2.2,
-      "last_checked": "2026-10-23",
+      "last_price": 2.28,
+      "last_checked": "2026-10-26",
       "on_list": true
     },
     {
@@ -281,9 +243,9 @@
       "entry_details": {
         "composite_score": "Score 45/100 \u2014 RSI 73.8, volume 1.4x avg"
       },
-      "last_price": 0.79,
-      "last_checked": "2026-10-23",
-      "on_list": true
+      "last_price": 0.7599999904632568,
+      "last_checked": "2026-10-26",
+      "on_list": false
     },
     {
       "ticker": "KITS.TO",
@@ -300,28 +262,9 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 58.6, volume 0.4x avg"
       },
-      "last_price": 17.05,
-      "last_checked": "2026-10-23",
-      "on_list": true
-    },
-    {
-      "ticker": "TLT.V",
-      "name": "Theralase Technologies Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-23",
-      "entry_price": 0.25,
-      "entry_score": 41,
-      "entry_signals": {
-        "composite_score": 41
-      },
-      "entry_details": {
-        "composite_score": "Score 41/100 \u2014 RSI 85.2, volume 3.2x avg"
-      },
-      "last_price": 0.25,
-      "last_checked": "2026-10-23",
-      "on_list": true
+      "last_price": 17.100000381469727,
+      "last_checked": "2026-10-26",
+      "on_list": false
     },
     {
       "ticker": "WI.V",
@@ -338,9 +281,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 54.4, volume 0.9x avg"
       },
-      "last_price": 1.1,
-      "last_checked": "2026-10-23",
-      "on_list": true
+      "last_price": 1.100000023841858,
+      "last_checked": "2026-10-26",
+      "on_list": false
     },
     {
       "ticker": "RBY.TO",
@@ -357,9 +300,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 59.7, volume 2.1x avg"
       },
-      "last_price": 4.57,
-      "last_checked": "2026-10-23",
-      "on_list": true
+      "last_price": 4.59499979019165,
+      "last_checked": "2026-10-26",
+      "on_list": false
     },
     {
       "ticker": "SRR.V",
@@ -376,8 +319,122 @@
       "entry_details": {
         "composite_score": "Score 38/100 \u2014 RSI 58.9, volume 0.3x avg"
       },
-      "last_price": 1.12,
-      "last_checked": "2026-10-23",
+      "last_price": 1.15,
+      "last_checked": "2026-10-26",
+      "on_list": true
+    },
+    {
+      "ticker": "CEI.V",
+      "name": "Coelacanth Energy Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-26",
+      "entry_price": 0.73,
+      "entry_score": 60,
+      "entry_signals": {
+        "composite_score": 60
+      },
+      "entry_details": {
+        "composite_score": "Score 60/100 \u2014 RSI 59.3, volume 21.7x avg"
+      },
+      "last_price": 0.73,
+      "last_checked": "2026-10-26",
+      "on_list": true
+    },
+    {
+      "ticker": "HLF.TO",
+      "name": "High Liner Foods Incorporated",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-26",
+      "entry_price": 26.76,
+      "entry_score": 51,
+      "entry_signals": {
+        "composite_score": 51
+      },
+      "entry_details": {
+        "composite_score": "Score 51/100 \u2014 RSI 96.1, volume 126.5x avg"
+      },
+      "last_price": 26.76,
+      "last_checked": "2026-10-26",
+      "on_list": true
+    },
+    {
+      "ticker": "PLSR.V",
+      "name": "Pulsar Helium Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-26",
+      "entry_price": 1.505,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 68.5, volume 2.3x avg"
+      },
+      "last_price": 1.505,
+      "last_checked": "2026-10-26",
+      "on_list": true
+    },
+    {
+      "ticker": "AVN.V",
+      "name": "Avanti Helium Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-26",
+      "entry_price": 0.47,
+      "entry_score": 49,
+      "entry_signals": {
+        "composite_score": 49
+      },
+      "entry_details": {
+        "composite_score": "Score 49/100 \u2014 RSI 62.3, volume 4.4x avg"
+      },
+      "last_price": 0.47,
+      "last_checked": "2026-10-26",
+      "on_list": true
+    },
+    {
+      "ticker": "PCRX.V",
+      "name": "PharmaCorp Rx Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-26",
+      "entry_price": 0.415,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 50.1, volume 8.1x avg"
+      },
+      "last_price": 0.415,
+      "last_checked": "2026-10-26",
+      "on_list": true
+    },
+    {
+      "ticker": "CFW.TO",
+      "name": "Calfrac Well Services Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-26",
+      "entry_price": 7.29,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 63.5, volume 5.4x avg"
+      },
+      "last_price": 7.29,
+      "last_checked": "2026-10-26",
       "on_list": true
     }
   ],
@@ -2688,6 +2745,72 @@
       },
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 67.1, volume 2.0x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "CEMX.TO",
+      "name": "CEMATRIX Corporation",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-25",
+      "exit_date": "2026-10-26",
+      "entry_price": 0.51,
+      "exit_price": 0.5,
+      "return_pct": -1.96,
+      "days_held": 31,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 3.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "LOVE.TO",
+      "name": "Cannara Biotech Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-09-25",
+      "exit_date": "2026-10-26",
+      "entry_price": 2.18,
+      "exit_price": 2.02,
+      "return_pct": -7.34,
+      "days_held": 31,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 76.6, volume 1.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "TLT.V",
+      "name": "Theralase Technologies Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-23",
+      "exit_date": "2026-10-26",
+      "entry_price": 0.25,
+      "exit_price": 0.2,
+      "return_pct": -20.0,
+      "days_held": 3,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 85.2, volume 3.2x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
