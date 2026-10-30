@@ -1,170 +1,182 @@
 {
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-30",
   "current": [
     {
       "rank": 1,
-      "ticker": "CEI.V",
-      "name": "Coelacanth Energy Inc.",
-      "score": 60,
-      "price": 0.73,
-      "market_cap": 463000064,
+      "ticker": "SRR.V",
+      "name": "Source Rock Royalties Ltd.",
+      "score": 57,
+      "price": 1.18,
+      "market_cap": 53787616,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 60
+        "composite_score": 57
       },
       "details": {
-        "composite_score": "Technical score 60/100 \u2014 RSI 59, volume 21.7x avg. Swing Trade signal."
+        "composite_score": "Technical score 57/100 \u2014 RSI 69, volume 0.9x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "SRR.V",
-      "name": "Source Rock Royalties Ltd.",
-      "score": 54,
-      "price": 1.15,
-      "market_cap": 52420136,
+      "ticker": "XLY.TO",
+      "name": "Auxly Cannabis Group Inc.",
+      "score": 50,
+      "price": 3.67,
+      "market_cap": 378874048,
       "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 54
+        "composite_score": 50
       },
       "details": {
-        "composite_score": "Technical score 54/100 \u2014 RSI 64, volume 0.6x avg. Swing Trade signal."
+        "composite_score": "Technical score 50/100 \u2014 RSI 68, volume 0.5x avg. Swing Trade signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "HLF.TO",
-      "name": "High Liner Foods Incorporated",
-      "score": 51,
-      "price": 26.76,
-      "market_cap": 749410368,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 51
-      },
-      "details": {
-        "composite_score": "Technical score 51/100 \u2014 RSI 96, volume 126.5x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 4,
-      "ticker": "PLSR.V",
-      "name": "Pulsar Helium Inc.",
+      "ticker": "NOAL.V",
+      "name": "NOA Lithium Brines Inc.",
       "score": 50,
-      "price": 1.505,
-      "market_cap": 322497632,
+      "price": 0.225,
+      "market_cap": 63941944,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
         "composite_score": 50
       },
       "details": {
-        "composite_score": "Technical score 50/100 \u2014 RSI 69, volume 2.3x avg. Swing Trade signal."
+        "composite_score": "Technical score 50/100 \u2014 RSI 62, volume 9.1x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "EOG.V",
+      "name": "Eco (Atlantic) Oil & Gas Ltd.",
+      "score": 48,
+      "price": 0.84,
+      "market_cap": 308875584,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 48
+      },
+      "details": {
+        "composite_score": "Technical score 48/100 \u2014 RSI 61, volume 2.9x avg. Swing Trade signal."
       }
     },
     {
       "rank": 5,
-      "ticker": "AVN.V",
-      "name": "Avanti Helium Corp.",
-      "score": 49,
-      "price": 0.47,
-      "market_cap": 60610688,
-      "strategy": "Swing Trade",
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "score": 45,
+      "price": 1.11,
+      "market_cap": 185438848,
+      "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 49
+        "composite_score": 45
       },
       "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 62, volume 4.4x avg. Swing Trade signal."
+        "composite_score": "Technical score 45/100 \u2014 RSI 56, volume 0.5x avg. Position Trade signal."
       }
     },
     {
       "rank": 6,
-      "ticker": "NOAL.V",
-      "name": "NOA Lithium Brines Inc.",
-      "score": 46,
-      "price": 0.225,
-      "market_cap": 60828516,
-      "strategy": "Swing Trade",
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "score": 44,
+      "price": 0.77,
+      "market_cap": 220115552,
+      "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 46
+        "composite_score": 44
       },
       "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 64, volume 0.0x avg. Swing Trade signal."
+        "composite_score": "Technical score 44/100 \u2014 RSI 66, volume 0.6x avg. Position Trade signal."
       }
     },
     {
       "rank": 7,
       "ticker": "THNC.TO",
       "name": "Thinkific Labs Inc.",
-      "score": 46,
-      "price": 2.28,
-      "market_cap": 153647232,
+      "score": 44,
+      "price": 2.2,
+      "market_cap": 148256096,
       "strategy": "Position Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 46
+        "composite_score": 44
       },
       "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 65, volume 0.1x avg. Position Trade signal."
+        "composite_score": "Technical score 44/100 \u2014 RSI 60, volume 0.3x avg. Position Trade signal."
       }
     },
     {
       "rank": 8,
-      "ticker": "PCRX.V",
-      "name": "PharmaCorp Rx Inc.",
-      "score": 46,
-      "price": 0.415,
-      "market_cap": 81747056,
+      "ticker": "VHI.TO",
+      "name": "Vitalhub Corp.",
+      "score": 39,
+      "price": 7.77,
+      "market_cap": 492145216,
       "strategy": "Position Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 46
+        "composite_score": 39
       },
       "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 50, volume 8.1x avg. Position Trade signal."
+        "composite_score": "Technical score 39/100 \u2014 RSI 56, volume 0.7x avg. Position Trade signal."
       }
     },
     {
       "rank": 9,
       "ticker": "CVO.TO",
       "name": "Coveo Solutions Inc.",
-      "score": 43,
-      "price": 4.83,
-      "market_cap": 448886016,
+      "score": 38,
+      "price": 4.8,
+      "market_cap": 446097920,
       "strategy": "Position Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 43
+        "composite_score": 38
       },
       "details": {
-        "composite_score": "Technical score 43/100 \u2014 RSI 61, volume 0.5x avg. Position Trade signal."
+        "composite_score": "Technical score 38/100 \u2014 RSI 58, volume 0.9x avg. Position Trade signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "CFW.TO",
-      "name": "Calfrac Well Services Ltd.",
-      "score": 43,
-      "price": 7.29,
-      "market_cap": 735871552,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
+      "ticker": "LTC.V",
+      "name": "Lotus Creek Exploration Inc.",
+      "score": 37,
+      "price": 4.75,
+      "market_cap": 191044992,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 43
+        "composite_score": 37
       },
       "details": {
-        "composite_score": "Technical score 43/100 \u2014 RSI 63, volume 5.4x avg. Swing Trade signal."
+        "composite_score": "Technical score 37/100 \u2014 RSI 75, volume 0.3x avg. Position Trade signal."
       }
     }
   ],
   "previous": [
     {
-      "ticker": "LGN.V"
+      "ticker": "CEI.V"
+    },
+    {
+      "ticker": "SRR.V"
+    },
+    {
+      "ticker": "HLF.TO"
+    },
+    {
+      "ticker": "PLSR.V"
+    },
+    {
+      "ticker": "AVN.V"
     },
     {
       "ticker": "NOAL.V"
@@ -173,28 +185,116 @@
       "ticker": "THNC.TO"
     },
     {
-      "ticker": "AXL.V"
+      "ticker": "PCRX.V"
     },
     {
       "ticker": "CVO.TO"
     },
     {
-      "ticker": "KITS.TO"
-    },
-    {
-      "ticker": "TLT.V"
-    },
-    {
-      "ticker": "WI.V"
-    },
-    {
-      "ticker": "RBY.TO"
-    },
-    {
-      "ticker": "SRR.V"
+      "ticker": "CFW.TO"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-10-30",
+      "ticker": "SRR.V",
+      "name": "Source Rock Royalties Ltd.",
+      "rank": 1,
+      "score": 57,
+      "price_at_recommendation": 1.18,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-30",
+      "ticker": "XLY.TO",
+      "name": "Auxly Cannabis Group Inc.",
+      "rank": 2,
+      "score": 50,
+      "price_at_recommendation": 3.67,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-30",
+      "ticker": "NOAL.V",
+      "name": "NOA Lithium Brines Inc.",
+      "rank": 3,
+      "score": 50,
+      "price_at_recommendation": 0.225,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-30",
+      "ticker": "EOG.V",
+      "name": "Eco (Atlantic) Oil & Gas Ltd.",
+      "rank": 4,
+      "score": 48,
+      "price_at_recommendation": 0.84,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-30",
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "rank": 5,
+      "score": 45,
+      "price_at_recommendation": 1.11,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-30",
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "rank": 6,
+      "score": 44,
+      "price_at_recommendation": 0.77,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-10-30",
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
+      "rank": 7,
+      "score": 44,
+      "price_at_recommendation": 2.2,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-30",
+      "ticker": "VHI.TO",
+      "name": "Vitalhub Corp.",
+      "rank": 8,
+      "score": 39,
+      "price_at_recommendation": 7.77,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-30",
+      "ticker": "CVO.TO",
+      "name": "Coveo Solutions Inc.",
+      "rank": 9,
+      "score": 38,
+      "price_at_recommendation": 4.8,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-10-30",
+      "ticker": "LTC.V",
+      "name": "Lotus Creek Exploration Inc.",
+      "rank": 10,
+      "score": 37,
+      "price_at_recommendation": 4.75,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
     {
       "run_date": "2026-10-26",
       "ticker": "CEI.V",
