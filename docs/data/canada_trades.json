@@ -1,44 +1,6 @@
 {
   "active": [
     {
-      "ticker": "MCB.TO",
-      "name": "McCoy Global Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-02",
-      "entry_price": 2.25,
-      "entry_score": 39,
-      "entry_signals": {
-        "composite_score": 39
-      },
-      "entry_details": {
-        "composite_score": "Score 39/100 \u2014 RSI 51.3, volume 9.9x avg"
-      },
-      "last_price": 2.509999990463257,
-      "last_checked": "2026-10-30",
-      "on_list": false
-    },
-    {
-      "ticker": "GWM.V",
-      "name": "Galway Metals Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-02",
-      "entry_price": 1.01,
-      "entry_score": 39,
-      "entry_signals": {
-        "composite_score": 39
-      },
-      "entry_details": {
-        "composite_score": "Score 39/100 \u2014 RSI 68.3, volume 0.2x avg"
-      },
-      "last_price": 0.8399999737739563,
-      "last_checked": "2026-10-30",
-      "on_list": false
-    },
-    {
       "ticker": "GAU.TO",
       "name": "Galiano Gold Inc.",
       "screener": "canada",
@@ -53,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 58.6, volume 0.8x avg"
       },
-      "last_price": 2.6600000858306885,
-      "last_checked": "2026-10-30",
+      "last_price": 2.7699999809265137,
+      "last_checked": "2026-11-02",
       "on_list": false
     },
     {
@@ -72,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 58.3, volume 0.9x avg"
       },
-      "last_price": 3.109999895095825,
-      "last_checked": "2026-10-30",
+      "last_price": 3.140000104904175,
+      "last_checked": "2026-11-02",
       "on_list": false
     },
     {
@@ -91,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 60.4, volume 0.5x avg"
       },
-      "last_price": 18.0,
-      "last_checked": "2026-10-30",
+      "last_price": 18.149999618530273,
+      "last_checked": "2026-11-02",
       "on_list": false
     },
     {
@@ -110,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 69.4, volume 0.7x avg"
       },
-      "last_price": 41.189998626708984,
-      "last_checked": "2026-10-30",
+      "last_price": 41.470001220703125,
+      "last_checked": "2026-11-02",
       "on_list": false
     },
     {
@@ -129,9 +91,9 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.3, volume 0.5x avg"
       },
-      "last_price": 4.8,
-      "last_checked": "2026-10-30",
-      "on_list": true
+      "last_price": 4.610000133514404,
+      "last_checked": "2026-11-02",
+      "on_list": false
     },
     {
       "ticker": "LGN.V",
@@ -148,8 +110,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 68.4, volume 0.8x avg"
       },
-      "last_price": 1.534999966621399,
-      "last_checked": "2026-10-30",
+      "last_price": 1.5,
+      "last_checked": "2026-11-02",
       "on_list": false
     },
     {
@@ -167,27 +129,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 68.5, volume 0.9x avg"
       },
-      "last_price": 4.75,
-      "last_checked": "2026-10-30",
-      "on_list": true
-    },
-    {
-      "ticker": "NOAL.V",
-      "name": "NOA Lithium Brines Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-23",
-      "entry_price": 0.225,
-      "entry_score": 46,
-      "entry_signals": {
-        "composite_score": 46
-      },
-      "entry_details": {
-        "composite_score": "Score 46/100 \u2014 RSI 64.1, volume 1.6x avg"
-      },
-      "last_price": 0.225,
-      "last_checked": "2026-10-30",
+      "last_price": 4.51,
+      "last_checked": "2026-11-02",
       "on_list": true
     },
     {
@@ -205,9 +148,9 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.5, volume 0.0x avg"
       },
-      "last_price": 2.2,
-      "last_checked": "2026-10-30",
-      "on_list": true
+      "last_price": 2.0899999141693115,
+      "last_checked": "2026-11-02",
+      "on_list": false
     },
     {
       "ticker": "AXL.V",
@@ -224,9 +167,9 @@
       "entry_details": {
         "composite_score": "Score 45/100 \u2014 RSI 73.8, volume 1.4x avg"
       },
-      "last_price": 0.77,
-      "last_checked": "2026-10-30",
-      "on_list": true
+      "last_price": 0.699999988079071,
+      "last_checked": "2026-11-02",
+      "on_list": false
     },
     {
       "ticker": "KITS.TO",
@@ -243,9 +186,9 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 58.6, volume 0.4x avg"
       },
-      "last_price": 16.700000762939453,
-      "last_checked": "2026-10-30",
-      "on_list": false
+      "last_price": 17.9,
+      "last_checked": "2026-11-02",
+      "on_list": true
     },
     {
       "ticker": "WI.V",
@@ -262,8 +205,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 54.4, volume 0.9x avg"
       },
-      "last_price": 1.11,
-      "last_checked": "2026-10-30",
+      "last_price": 1.17,
+      "last_checked": "2026-11-02",
       "on_list": true
     },
     {
@@ -281,8 +224,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 59.7, volume 2.1x avg"
       },
-      "last_price": 4.480000019073486,
-      "last_checked": "2026-10-30",
+      "last_price": 4.179999828338623,
+      "last_checked": "2026-11-02",
       "on_list": false
     },
     {
@@ -300,9 +243,9 @@
       "entry_details": {
         "composite_score": "Score 38/100 \u2014 RSI 58.9, volume 0.3x avg"
       },
-      "last_price": 1.18,
-      "last_checked": "2026-10-30",
-      "on_list": true
+      "last_price": 1.1100000143051147,
+      "last_checked": "2026-11-02",
+      "on_list": false
     },
     {
       "ticker": "PCRX.V",
@@ -319,8 +262,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 50.1, volume 8.1x avg"
       },
-      "last_price": 0.4000000059604645,
-      "last_checked": "2026-10-30",
+      "last_price": 0.4099999964237213,
+      "last_checked": "2026-11-02",
       "on_list": false
     },
     {
@@ -338,27 +281,8 @@
       "entry_details": {
         "composite_score": "Score 50/100 \u2014 RSI 67.6, volume 0.5x avg"
       },
-      "last_price": 3.67,
-      "last_checked": "2026-10-30",
-      "on_list": true
-    },
-    {
-      "ticker": "EOG.V",
-      "name": "Eco (Atlantic) Oil & Gas Ltd.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-30",
-      "entry_price": 0.84,
-      "entry_score": 48,
-      "entry_signals": {
-        "composite_score": 48
-      },
-      "entry_details": {
-        "composite_score": "Score 48/100 \u2014 RSI 60.7, volume 2.9x avg"
-      },
-      "last_price": 0.84,
-      "last_checked": "2026-10-30",
+      "last_price": 3.76,
+      "last_checked": "2026-11-02",
       "on_list": true
     },
     {
@@ -376,8 +300,103 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 56.2, volume 0.7x avg"
       },
-      "last_price": 7.77,
-      "last_checked": "2026-10-30",
+      "last_price": 7.75,
+      "last_checked": "2026-11-02",
+      "on_list": true
+    },
+    {
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-02",
+      "entry_price": 3.27,
+      "entry_score": 71,
+      "entry_signals": {
+        "composite_score": 71
+      },
+      "entry_details": {
+        "composite_score": "Score 71/100 \u2014 RSI 61.9, volume 2.7x avg"
+      },
+      "last_price": 3.27,
+      "last_checked": "2026-11-02",
+      "on_list": true
+    },
+    {
+      "ticker": "CGX.TO",
+      "name": "Cineplex Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-02",
+      "entry_price": 13.14,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 60.6, volume 3.3x avg"
+      },
+      "last_price": 13.14,
+      "last_checked": "2026-11-02",
+      "on_list": true
+    },
+    {
+      "ticker": "ADE.V",
+      "name": "Adex Mining Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-02",
+      "entry_price": 0.135,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 65.7, volume 5.7x avg"
+      },
+      "last_price": 0.135,
+      "last_checked": "2026-11-02",
+      "on_list": true
+    },
+    {
+      "ticker": "CCCM.V",
+      "name": "C3 Metals Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-02",
+      "entry_price": 0.67,
+      "entry_score": 40,
+      "entry_signals": {
+        "composite_score": 40
+      },
+      "entry_details": {
+        "composite_score": "Score 40/100 \u2014 RSI 57.4, volume 9.5x avg"
+      },
+      "last_price": 0.67,
+      "last_checked": "2026-11-02",
+      "on_list": true
+    },
+    {
+      "ticker": "GEO.TO",
+      "name": "Geodrill Limited",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-02",
+      "entry_price": 2.9,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 62.6, volume 0.6x avg"
+      },
+      "last_price": 2.9,
+      "last_checked": "2026-11-02",
       "on_list": true
     }
   ],
@@ -2886,6 +2905,94 @@
       },
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 63.5, volume 5.4x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "MCB.TO",
+      "name": "McCoy Global Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-02",
+      "exit_date": "2026-11-02",
+      "entry_price": 2.25,
+      "exit_price": 2.49,
+      "return_pct": 10.67,
+      "days_held": 31,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 51.3, volume 9.9x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "GWM.V",
+      "name": "Galway Metals Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-02",
+      "exit_date": "2026-11-02",
+      "entry_price": 1.01,
+      "exit_price": 0.84,
+      "return_pct": -16.83,
+      "days_held": 31,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 68.3, volume 0.2x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "NOAL.V",
+      "name": "NOA Lithium Brines Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-23",
+      "exit_date": "2026-11-02",
+      "entry_price": 0.225,
+      "exit_price": 0.225,
+      "return_pct": -0.0,
+      "days_held": 10,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 64.1, volume 1.6x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "EOG.V",
+      "name": "Eco (Atlantic) Oil & Gas Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-30",
+      "exit_date": "2026-11-02",
+      "entry_price": 0.84,
+      "exit_price": 0.81,
+      "return_pct": -3.57,
+      "days_held": 3,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 60.7, volume 2.9x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
