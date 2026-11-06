@@ -15,28 +15,9 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 58.6, volume 0.8x avg"
       },
-      "last_price": 2.7699999809265137,
-      "last_checked": "2026-11-02",
-      "on_list": false
-    },
-    {
-      "ticker": "NURS.V",
-      "name": "Hydreight Technologies Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-09",
-      "entry_price": 3.75,
-      "entry_score": 48,
-      "entry_signals": {
-        "composite_score": 48
-      },
-      "entry_details": {
-        "composite_score": "Score 48/100 \u2014 RSI 58.3, volume 0.9x avg"
-      },
-      "last_price": 3.140000104904175,
-      "last_checked": "2026-11-02",
-      "on_list": false
+      "last_price": 3.415,
+      "last_checked": "2026-11-06",
+      "on_list": true
     },
     {
       "ticker": "ENGH.TO",
@@ -53,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 60.4, volume 0.5x avg"
       },
-      "last_price": 18.149999618530273,
-      "last_checked": "2026-11-02",
+      "last_price": 18.1299991607666,
+      "last_checked": "2026-11-06",
       "on_list": false
     },
     {
@@ -72,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 69.4, volume 0.7x avg"
       },
-      "last_price": 41.470001220703125,
-      "last_checked": "2026-11-02",
+      "last_price": 41.79999923706055,
+      "last_checked": "2026-11-06",
       "on_list": false
     },
     {
@@ -91,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.3, volume 0.5x avg"
       },
-      "last_price": 4.610000133514404,
-      "last_checked": "2026-11-02",
+      "last_price": 4.659999847412109,
+      "last_checked": "2026-11-06",
       "on_list": false
     },
     {
@@ -110,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 68.4, volume 0.8x avg"
       },
-      "last_price": 1.5,
-      "last_checked": "2026-11-02",
+      "last_price": 1.5049999952316284,
+      "last_checked": "2026-11-06",
       "on_list": false
     },
     {
@@ -129,9 +110,9 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 68.5, volume 0.9x avg"
       },
-      "last_price": 4.51,
-      "last_checked": "2026-11-02",
-      "on_list": true
+      "last_price": 4.324999809265137,
+      "last_checked": "2026-11-06",
+      "on_list": false
     },
     {
       "ticker": "THNC.TO",
@@ -148,28 +129,9 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.5, volume 0.0x avg"
       },
-      "last_price": 2.0899999141693115,
-      "last_checked": "2026-11-02",
-      "on_list": false
-    },
-    {
-      "ticker": "AXL.V",
-      "name": "Arrow Exploration Corp.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-23",
-      "entry_price": 0.79,
-      "entry_score": 45,
-      "entry_signals": {
-        "composite_score": 45
-      },
-      "entry_details": {
-        "composite_score": "Score 45/100 \u2014 RSI 73.8, volume 1.4x avg"
-      },
-      "last_price": 0.699999988079071,
-      "last_checked": "2026-11-02",
-      "on_list": false
+      "last_price": 2.33,
+      "last_checked": "2026-11-06",
+      "on_list": true
     },
     {
       "ticker": "KITS.TO",
@@ -186,8 +148,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 58.6, volume 0.4x avg"
       },
-      "last_price": 17.9,
-      "last_checked": "2026-11-02",
+      "last_price": 19.16,
+      "last_checked": "2026-11-06",
       "on_list": true
     },
     {
@@ -205,8 +167,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 54.4, volume 0.9x avg"
       },
-      "last_price": 1.17,
-      "last_checked": "2026-11-02",
+      "last_price": 1.36,
+      "last_checked": "2026-11-06",
       "on_list": true
     },
     {
@@ -224,8 +186,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 59.7, volume 2.1x avg"
       },
-      "last_price": 4.179999828338623,
-      "last_checked": "2026-11-02",
+      "last_price": 3.75,
+      "last_checked": "2026-11-06",
       "on_list": false
     },
     {
@@ -243,8 +205,8 @@
       "entry_details": {
         "composite_score": "Score 38/100 \u2014 RSI 58.9, volume 0.3x avg"
       },
-      "last_price": 1.1100000143051147,
-      "last_checked": "2026-11-02",
+      "last_price": 1.090000033378601,
+      "last_checked": "2026-11-06",
       "on_list": false
     },
     {
@@ -263,27 +225,8 @@
         "composite_score": "Score 46/100 \u2014 RSI 50.1, volume 8.1x avg"
       },
       "last_price": 0.4099999964237213,
-      "last_checked": "2026-11-02",
+      "last_checked": "2026-11-06",
       "on_list": false
-    },
-    {
-      "ticker": "XLY.TO",
-      "name": "Auxly Cannabis Group Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-30",
-      "entry_price": 3.67,
-      "entry_score": 50,
-      "entry_signals": {
-        "composite_score": 50
-      },
-      "entry_details": {
-        "composite_score": "Score 50/100 \u2014 RSI 67.6, volume 0.5x avg"
-      },
-      "last_price": 3.76,
-      "last_checked": "2026-11-02",
-      "on_list": true
     },
     {
       "ticker": "VHI.TO",
@@ -300,9 +243,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 56.2, volume 0.7x avg"
       },
-      "last_price": 7.75,
-      "last_checked": "2026-11-02",
-      "on_list": true
+      "last_price": 7.840000152587891,
+      "last_checked": "2026-11-06",
+      "on_list": false
     },
     {
       "ticker": "GG.V",
@@ -319,8 +262,8 @@
       "entry_details": {
         "composite_score": "Score 71/100 \u2014 RSI 61.9, volume 2.7x avg"
       },
-      "last_price": 3.27,
-      "last_checked": "2026-11-02",
+      "last_price": 3.29,
+      "last_checked": "2026-11-06",
       "on_list": true
     },
     {
@@ -338,27 +281,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 60.6, volume 3.3x avg"
       },
-      "last_price": 13.14,
-      "last_checked": "2026-11-02",
-      "on_list": true
-    },
-    {
-      "ticker": "ADE.V",
-      "name": "Adex Mining Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-11-02",
-      "entry_price": 0.135,
-      "entry_score": 41,
-      "entry_signals": {
-        "composite_score": 41
-      },
-      "entry_details": {
-        "composite_score": "Score 41/100 \u2014 RSI 65.7, volume 5.7x avg"
-      },
-      "last_price": 0.135,
-      "last_checked": "2026-11-02",
+      "last_price": 13.98,
+      "last_checked": "2026-11-06",
       "on_list": true
     },
     {
@@ -376,9 +300,9 @@
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 57.4, volume 9.5x avg"
       },
-      "last_price": 0.67,
-      "last_checked": "2026-11-02",
-      "on_list": true
+      "last_price": 0.5899999737739563,
+      "last_checked": "2026-11-06",
+      "on_list": false
     },
     {
       "ticker": "GEO.TO",
@@ -395,8 +319,84 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 62.6, volume 0.6x avg"
       },
-      "last_price": 2.9,
-      "last_checked": "2026-11-02",
+      "last_price": 2.869999885559082,
+      "last_checked": "2026-11-06",
+      "on_list": false
+    },
+    {
+      "ticker": "KG.V",
+      "name": "Klondike Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-06",
+      "entry_price": 0.18,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 61.0, volume 2.8x avg"
+      },
+      "last_price": 0.18,
+      "last_checked": "2026-11-06",
+      "on_list": true
+    },
+    {
+      "ticker": "ARIC.V",
+      "name": "Awal\u00e9 Resources Limited",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-06",
+      "entry_price": 0.73,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 59.4, volume 0.9x avg"
+      },
+      "last_price": 0.73,
+      "last_checked": "2026-11-06",
+      "on_list": true
+    },
+    {
+      "ticker": "PAIN.V",
+      "name": "Vector Science and Therapeutics Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-06",
+      "entry_price": 2.15,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 69.0, volume 1.3x avg"
+      },
+      "last_price": 2.15,
+      "last_checked": "2026-11-06",
+      "on_list": true
+    },
+    {
+      "ticker": "GRA.TO",
+      "name": "NanoXplore Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-06",
+      "entry_price": 1.45,
+      "entry_score": 38,
+      "entry_signals": {
+        "composite_score": 38
+      },
+      "entry_details": {
+        "composite_score": "Score 38/100 \u2014 RSI 63.1, volume 1.2x avg"
+      },
+      "last_price": 1.45,
+      "last_checked": "2026-11-06",
       "on_list": true
     }
   ],
@@ -2993,6 +2993,94 @@
       },
       "entry_details": {
         "composite_score": "Score 48/100 \u2014 RSI 60.7, volume 2.9x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "NURS.V",
+      "name": "Hydreight Technologies Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-11-06",
+      "entry_price": 3.75,
+      "exit_price": 2.99,
+      "return_pct": -20.27,
+      "days_held": 28,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 58.3, volume 0.9x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "stop_loss"
+    },
+    {
+      "ticker": "AXL.V",
+      "name": "Arrow Exploration Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-23",
+      "exit_date": "2026-11-06",
+      "entry_price": 0.79,
+      "exit_price": 0.59,
+      "return_pct": -25.32,
+      "days_held": 14,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 73.8, volume 1.4x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "stop_loss"
+    },
+    {
+      "ticker": "XLY.TO",
+      "name": "Auxly Cannabis Group Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-30",
+      "exit_date": "2026-11-06",
+      "entry_price": 3.67,
+      "exit_price": 3.55,
+      "return_pct": -3.27,
+      "days_held": 7,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 67.6, volume 0.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "ADE.V",
+      "name": "Adex Mining Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-02",
+      "exit_date": "2026-11-06",
+      "entry_price": 0.135,
+      "exit_price": 0.125,
+      "return_pct": -7.41,
+      "days_held": 4,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 65.7, volume 5.7x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
