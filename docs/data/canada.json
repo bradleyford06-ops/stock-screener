@@ -1,200 +1,300 @@
 {
-  "last_updated": "2026-11-06",
+  "last_updated": "2026-11-09",
   "current": [
     {
       "rank": 1,
-      "ticker": "KITS.TO",
-      "name": "Kits Eyecare Ltd.",
-      "score": 62,
-      "price": 19.16,
-      "market_cap": 651559552,
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
+      "score": 71,
+      "price": 3.52,
+      "market_cap": 251922576,
       "strategy": "Swing Trade",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 62
+        "composite_score": 71
       },
       "details": {
-        "composite_score": "Technical score 62/100 \u2014 RSI 68, volume 1.6x avg. Swing Trade signal."
+        "composite_score": "Technical score 71/100 \u2014 RSI 66, volume 1.8x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "GG.V",
-      "name": "Golconda Gold Ltd.",
-      "score": 60,
-      "price": 3.29,
-      "market_cap": 235461712,
+      "ticker": "GAU.TO",
+      "name": "Galiano Gold Inc.",
+      "score": 64,
+      "price": 3.76,
+      "market_cap": 985324672,
       "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 60
+        "composite_score": 64
       },
       "details": {
-        "composite_score": "Technical score 60/100 \u2014 RSI 60, volume 0.4x avg. Swing Trade signal."
+        "composite_score": "Technical score 64/100 \u2014 RSI 70, volume 1.4x avg. Swing Trade signal."
       }
     },
     {
       "rank": 3,
-      "ticker": "GAU.TO",
-      "name": "Galiano Gold Inc.",
+      "ticker": "GEO.TO",
+      "name": "Geodrill Limited",
       "score": 59,
-      "price": 3.415,
-      "market_cap": 893335872,
+      "price": 3.12,
+      "market_cap": 148240928,
       "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 59
       },
       "details": {
-        "composite_score": "Technical score 59/100 \u2014 RSI 64, volume 1.5x avg. Swing Trade signal."
+        "composite_score": "Technical score 59/100 \u2014 RSI 69, volume 2.2x avg. Swing Trade signal."
       }
     },
     {
       "rank": 4,
-      "ticker": "THNC.TO",
-      "name": "Thinkific Labs Inc.",
-      "score": 58,
-      "price": 2.33,
-      "market_cap": 157016688,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 58
-      },
-      "details": {
-        "composite_score": "Technical score 58/100 \u2014 RSI 63, volume 15.7x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 5,
       "ticker": "WI.V",
       "name": "The Western Investment Company of Canada Limited",
       "score": 54,
-      "price": 1.36,
-      "market_cap": 227204352,
+      "price": 1.38,
+      "market_cap": 230545584,
       "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
         "composite_score": 54
       },
       "details": {
-        "composite_score": "Technical score 54/100 \u2014 RSI 79, volume 1.2x avg. Position Trade signal."
+        "composite_score": "Technical score 54/100 \u2014 RSI 80, volume 1.1x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 5,
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "score": 54,
+      "price": 19.52,
+      "market_cap": 663801792,
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 54
+      },
+      "details": {
+        "composite_score": "Technical score 54/100 \u2014 RSI 70, volume 1.0x avg. Swing Trade signal."
       }
     },
     {
       "rank": 6,
-      "ticker": "KG.V",
-      "name": "Klondike Gold Corp.",
-      "score": 48,
-      "price": 0.18,
-      "market_cap": 50695540,
+      "ticker": "BRAU.V",
+      "name": "Big Ridge Gold Corp.",
+      "score": 46,
+      "price": 0.59,
+      "market_cap": 187856048,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 48
+        "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 48/100 \u2014 RSI 61, volume 2.8x avg. Swing Trade signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 61, volume 1.8x avg. Swing Trade signal."
       }
     },
     {
       "rank": 7,
-      "ticker": "ARIC.V",
-      "name": "Awal\u00e9 Resources Limited",
-      "score": 41,
-      "price": 0.73,
-      "market_cap": 104723224,
+      "ticker": "MMY.V",
+      "name": "Monument Mining Limited",
+      "score": 46,
+      "price": 0.83,
+      "market_cap": 287535552,
       "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 41
+        "composite_score": 46
       },
       "details": {
-        "composite_score": "Technical score 41/100 \u2014 RSI 59, volume 0.9x avg. Position Trade signal."
+        "composite_score": "Technical score 46/100 \u2014 RSI 57, volume 2.3x avg. Position Trade signal."
       }
     },
     {
       "rank": 8,
-      "ticker": "CGX.TO",
-      "name": "Cineplex Inc.",
-      "score": 40,
-      "price": 13.98,
-      "market_cap": 880779584,
-      "strategy": "Watch List",
+      "ticker": "DNG.TO",
+      "name": "Dynacor Group Inc.",
+      "score": 45,
+      "price": 5.43,
+      "market_cap": 227781824,
+      "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 40
+        "composite_score": 45
       },
       "details": {
-        "composite_score": "Technical score 40/100 \u2014 RSI 73, volume 1.8x avg. Watch List signal."
+        "composite_score": "Technical score 45/100 \u2014 RSI 61, volume 0.6x avg. Swing Trade signal."
       }
     },
     {
       "rank": 9,
-      "ticker": "PAIN.V",
-      "name": "Vector Science and Therapeutics Corp.",
-      "score": 39,
-      "price": 2.15,
-      "market_cap": 336183008,
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
+      "ticker": "CHR.TO",
+      "name": "Chorus Aviation Inc.",
+      "score": 45,
+      "price": 32.93,
+      "market_cap": 743243392,
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 39
+        "composite_score": 45
       },
       "details": {
-        "composite_score": "Technical score 39/100 \u2014 RSI 69, volume 1.3x avg. Position Trade signal."
+        "composite_score": "Technical score 45/100 \u2014 RSI 67, volume 2.1x avg. Swing Trade signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "GRA.TO",
-      "name": "NanoXplore Inc.",
-      "score": 38,
-      "price": 1.45,
-      "market_cap": 263156720,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
+      "ticker": "THX.V",
+      "name": "Thor Explorations Ltd.",
+      "score": 44,
+      "price": 1.06,
+      "market_cap": 706567488,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 38
+        "composite_score": 44
       },
       "details": {
-        "composite_score": "Technical score 38/100 \u2014 RSI 63, volume 1.2x avg. Swing Trade signal."
+        "composite_score": "Technical score 44/100 \u2014 RSI 55, volume 0.6x avg. Position Trade signal."
       }
     }
   ],
   "previous": [
     {
+      "ticker": "KITS.TO"
+    },
+    {
       "ticker": "GG.V"
+    },
+    {
+      "ticker": "GAU.TO"
+    },
+    {
+      "ticker": "THNC.TO"
     },
     {
       "ticker": "WI.V"
     },
     {
-      "ticker": "KITS.TO"
+      "ticker": "KG.V"
     },
     {
-      "ticker": "XLY.TO"
+      "ticker": "ARIC.V"
     },
     {
       "ticker": "CGX.TO"
     },
     {
-      "ticker": "ADE.V"
+      "ticker": "PAIN.V"
     },
     {
-      "ticker": "CCCM.V"
-    },
-    {
-      "ticker": "VHI.TO"
-    },
-    {
-      "ticker": "GEO.TO"
-    },
-    {
-      "ticker": "LTC.V"
+      "ticker": "GRA.TO"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-11-09",
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
+      "rank": 1,
+      "score": 71,
+      "price_at_recommendation": 3.52,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-09",
+      "ticker": "GAU.TO",
+      "name": "Galiano Gold Inc.",
+      "rank": 2,
+      "score": 64,
+      "price_at_recommendation": 3.76,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-09",
+      "ticker": "GEO.TO",
+      "name": "Geodrill Limited",
+      "rank": 3,
+      "score": 59,
+      "price_at_recommendation": 3.12,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-09",
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "rank": 4,
+      "score": 54,
+      "price_at_recommendation": 1.38,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-09",
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "rank": 5,
+      "score": 54,
+      "price_at_recommendation": 19.52,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-09",
+      "ticker": "BRAU.V",
+      "name": "Big Ridge Gold Corp.",
+      "rank": 6,
+      "score": 46,
+      "price_at_recommendation": 0.59,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-09",
+      "ticker": "MMY.V",
+      "name": "Monument Mining Limited",
+      "rank": 7,
+      "score": 46,
+      "price_at_recommendation": 0.83,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-09",
+      "ticker": "DNG.TO",
+      "name": "Dynacor Group Inc.",
+      "rank": 8,
+      "score": 45,
+      "price_at_recommendation": 5.43,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-09",
+      "ticker": "CHR.TO",
+      "name": "Chorus Aviation Inc.",
+      "rank": 9,
+      "score": 45,
+      "price_at_recommendation": 32.93,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-09",
+      "ticker": "THX.V",
+      "name": "Thor Explorations Ltd.",
+      "rank": 10,
+      "score": 44,
+      "price_at_recommendation": 1.06,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
     {
       "run_date": "2026-11-06",
       "ticker": "KITS.TO",

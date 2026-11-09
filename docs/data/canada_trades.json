@@ -15,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 51/100 \u2014 RSI 58.6, volume 0.8x avg"
       },
-      "last_price": 3.415,
-      "last_checked": "2026-11-06",
+      "last_price": 3.76,
+      "last_checked": "2026-11-09",
       "on_list": true
     },
     {
@@ -34,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 60.4, volume 0.5x avg"
       },
-      "last_price": 18.1299991607666,
-      "last_checked": "2026-11-06",
+      "last_price": 18.030000686645508,
+      "last_checked": "2026-11-09",
       "on_list": false
     },
     {
@@ -53,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 69.4, volume 0.7x avg"
       },
-      "last_price": 41.79999923706055,
-      "last_checked": "2026-11-06",
+      "last_price": 44.099998474121094,
+      "last_checked": "2026-11-09",
       "on_list": false
     },
     {
@@ -72,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.3, volume 0.5x avg"
       },
-      "last_price": 4.659999847412109,
-      "last_checked": "2026-11-06",
+      "last_price": 4.800000190734863,
+      "last_checked": "2026-11-09",
       "on_list": false
     },
     {
@@ -91,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 68.4, volume 0.8x avg"
       },
-      "last_price": 1.5049999952316284,
-      "last_checked": "2026-11-06",
+      "last_price": 1.5099999904632568,
+      "last_checked": "2026-11-09",
       "on_list": false
     },
     {
@@ -110,8 +110,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 68.5, volume 0.9x avg"
       },
-      "last_price": 4.324999809265137,
-      "last_checked": "2026-11-06",
+      "last_price": 4.25,
+      "last_checked": "2026-11-09",
       "on_list": false
     },
     {
@@ -129,9 +129,9 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.5, volume 0.0x avg"
       },
-      "last_price": 2.33,
-      "last_checked": "2026-11-06",
-      "on_list": true
+      "last_price": 2.3299999237060547,
+      "last_checked": "2026-11-09",
+      "on_list": false
     },
     {
       "ticker": "KITS.TO",
@@ -148,8 +148,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 58.6, volume 0.4x avg"
       },
-      "last_price": 19.16,
-      "last_checked": "2026-11-06",
+      "last_price": 19.52,
+      "last_checked": "2026-11-09",
       "on_list": true
     },
     {
@@ -167,28 +167,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 54.4, volume 0.9x avg"
       },
-      "last_price": 1.36,
-      "last_checked": "2026-11-06",
+      "last_price": 1.38,
+      "last_checked": "2026-11-09",
       "on_list": true
-    },
-    {
-      "ticker": "RBY.TO",
-      "name": "Rubellite Energy Corp.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-23",
-      "entry_price": 4.57,
-      "entry_score": 39,
-      "entry_signals": {
-        "composite_score": 39
-      },
-      "entry_details": {
-        "composite_score": "Score 39/100 \u2014 RSI 59.7, volume 2.1x avg"
-      },
-      "last_price": 3.75,
-      "last_checked": "2026-11-06",
-      "on_list": false
     },
     {
       "ticker": "SRR.V",
@@ -205,8 +186,8 @@
       "entry_details": {
         "composite_score": "Score 38/100 \u2014 RSI 58.9, volume 0.3x avg"
       },
-      "last_price": 1.090000033378601,
-      "last_checked": "2026-11-06",
+      "last_price": 1.0700000524520874,
+      "last_checked": "2026-11-09",
       "on_list": false
     },
     {
@@ -224,8 +205,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 50.1, volume 8.1x avg"
       },
-      "last_price": 0.4099999964237213,
-      "last_checked": "2026-11-06",
+      "last_price": 0.39500001072883606,
+      "last_checked": "2026-11-09",
       "on_list": false
     },
     {
@@ -243,8 +224,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 56.2, volume 0.7x avg"
       },
-      "last_price": 7.840000152587891,
-      "last_checked": "2026-11-06",
+      "last_price": 8.029999732971191,
+      "last_checked": "2026-11-09",
       "on_list": false
     },
     {
@@ -262,27 +243,8 @@
       "entry_details": {
         "composite_score": "Score 71/100 \u2014 RSI 61.9, volume 2.7x avg"
       },
-      "last_price": 3.29,
-      "last_checked": "2026-11-06",
-      "on_list": true
-    },
-    {
-      "ticker": "CGX.TO",
-      "name": "Cineplex Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-11-02",
-      "entry_price": 13.14,
-      "entry_score": 43,
-      "entry_signals": {
-        "composite_score": 43
-      },
-      "entry_details": {
-        "composite_score": "Score 43/100 \u2014 RSI 60.6, volume 3.3x avg"
-      },
-      "last_price": 13.98,
-      "last_checked": "2026-11-06",
+      "last_price": 3.52,
+      "last_checked": "2026-11-09",
       "on_list": true
     },
     {
@@ -300,8 +262,8 @@
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 57.4, volume 9.5x avg"
       },
-      "last_price": 0.5899999737739563,
-      "last_checked": "2026-11-06",
+      "last_price": 0.6399999856948853,
+      "last_checked": "2026-11-09",
       "on_list": false
     },
     {
@@ -319,27 +281,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 62.6, volume 0.6x avg"
       },
-      "last_price": 2.869999885559082,
-      "last_checked": "2026-11-06",
-      "on_list": false
-    },
-    {
-      "ticker": "KG.V",
-      "name": "Klondike Gold Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-11-06",
-      "entry_price": 0.18,
-      "entry_score": 48,
-      "entry_signals": {
-        "composite_score": 48
-      },
-      "entry_details": {
-        "composite_score": "Score 48/100 \u2014 RSI 61.0, volume 2.8x avg"
-      },
-      "last_price": 0.18,
-      "last_checked": "2026-11-06",
+      "last_price": 3.12,
+      "last_checked": "2026-11-09",
       "on_list": true
     },
     {
@@ -357,9 +300,9 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 59.4, volume 0.9x avg"
       },
-      "last_price": 0.73,
-      "last_checked": "2026-11-06",
-      "on_list": true
+      "last_price": 0.7300000190734863,
+      "last_checked": "2026-11-09",
+      "on_list": false
     },
     {
       "ticker": "PAIN.V",
@@ -376,27 +319,103 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 69.0, volume 1.3x avg"
       },
-      "last_price": 2.15,
-      "last_checked": "2026-11-06",
+      "last_price": 2.140000104904175,
+      "last_checked": "2026-11-09",
+      "on_list": false
+    },
+    {
+      "ticker": "BRAU.V",
+      "name": "Big Ridge Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-09",
+      "entry_price": 0.59,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 60.5, volume 1.8x avg"
+      },
+      "last_price": 0.59,
+      "last_checked": "2026-11-09",
       "on_list": true
     },
     {
-      "ticker": "GRA.TO",
-      "name": "NanoXplore Inc.",
+      "ticker": "MMY.V",
+      "name": "Monument Mining Limited",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-09",
+      "entry_price": 0.83,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 2.3x avg"
+      },
+      "last_price": 0.83,
+      "last_checked": "2026-11-09",
+      "on_list": true
+    },
+    {
+      "ticker": "DNG.TO",
+      "name": "Dynacor Group Inc.",
       "screener": "canada",
       "strategy": "Swing Trade",
       "exchange": "TSX",
-      "entry_date": "2026-11-06",
-      "entry_price": 1.45,
-      "entry_score": 38,
+      "entry_date": "2026-11-09",
+      "entry_price": 5.43,
+      "entry_score": 45,
       "entry_signals": {
-        "composite_score": 38
+        "composite_score": 45
       },
       "entry_details": {
-        "composite_score": "Score 38/100 \u2014 RSI 63.1, volume 1.2x avg"
+        "composite_score": "Score 45/100 \u2014 RSI 61.3, volume 0.6x avg"
       },
-      "last_price": 1.45,
-      "last_checked": "2026-11-06",
+      "last_price": 5.43,
+      "last_checked": "2026-11-09",
+      "on_list": true
+    },
+    {
+      "ticker": "CHR.TO",
+      "name": "Chorus Aviation Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-09",
+      "entry_price": 32.93,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 67.3, volume 2.1x avg"
+      },
+      "last_price": 32.93,
+      "last_checked": "2026-11-09",
+      "on_list": true
+    },
+    {
+      "ticker": "THX.V",
+      "name": "Thor Explorations Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-09",
+      "entry_price": 1.06,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 55.5, volume 0.6x avg"
+      },
+      "last_price": 1.06,
+      "last_checked": "2026-11-09",
       "on_list": true
     }
   ],
@@ -3081,6 +3100,94 @@
       },
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 65.7, volume 5.7x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "RBY.TO",
+      "name": "Rubellite Energy Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-23",
+      "exit_date": "2026-11-09",
+      "entry_price": 4.57,
+      "exit_price": 3.46,
+      "return_pct": -24.29,
+      "days_held": 17,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 59.7, volume 2.1x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "stop_loss"
+    },
+    {
+      "ticker": "CGX.TO",
+      "name": "Cineplex Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-02",
+      "exit_date": "2026-11-09",
+      "entry_price": 13.14,
+      "exit_price": 14.42,
+      "return_pct": 9.74,
+      "days_held": 7,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 60.6, volume 3.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "KG.V",
+      "name": "Klondike Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-06",
+      "exit_date": "2026-11-09",
+      "entry_price": 0.18,
+      "exit_price": 0.165,
+      "return_pct": -8.33,
+      "days_held": 3,
+      "entry_score": 48,
+      "entry_signals": {
+        "composite_score": 48
+      },
+      "entry_details": {
+        "composite_score": "Score 48/100 \u2014 RSI 61.0, volume 2.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "GRA.TO",
+      "name": "NanoXplore Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-06",
+      "exit_date": "2026-11-09",
+      "entry_price": 1.45,
+      "exit_price": 1.39,
+      "return_pct": -4.14,
+      "days_held": 3,
+      "entry_score": 38,
+      "entry_signals": {
+        "composite_score": 38
+      },
+      "entry_details": {
+        "composite_score": "Score 38/100 \u2014 RSI 63.1, volume 1.2x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
