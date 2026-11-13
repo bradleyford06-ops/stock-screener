@@ -1,25 +1,6 @@
 {
   "active": [
     {
-      "ticker": "GAU.TO",
-      "name": "Galiano Gold Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-09",
-      "entry_price": 3.14,
-      "entry_score": 51,
-      "entry_signals": {
-        "composite_score": 51
-      },
-      "entry_details": {
-        "composite_score": "Score 51/100 \u2014 RSI 58.6, volume 0.8x avg"
-      },
-      "last_price": 3.76,
-      "last_checked": "2026-11-09",
-      "on_list": true
-    },
-    {
       "ticker": "ENGH.TO",
       "name": "Enghouse Systems Limited",
       "screener": "canada",
@@ -34,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 42/100 \u2014 RSI 60.4, volume 0.5x avg"
       },
-      "last_price": 18.030000686645508,
-      "last_checked": "2026-11-09",
+      "last_price": 18.1299991607666,
+      "last_checked": "2026-11-13",
       "on_list": false
     },
     {
@@ -53,8 +34,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 69.4, volume 0.7x avg"
       },
-      "last_price": 44.099998474121094,
-      "last_checked": "2026-11-09",
+      "last_price": 46.52000045776367,
+      "last_checked": "2026-11-13",
       "on_list": false
     },
     {
@@ -72,9 +53,9 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.3, volume 0.5x avg"
       },
-      "last_price": 4.800000190734863,
-      "last_checked": "2026-11-09",
-      "on_list": false
+      "last_price": 4.97,
+      "last_checked": "2026-11-13",
+      "on_list": true
     },
     {
       "ticker": "LGN.V",
@@ -91,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 68.4, volume 0.8x avg"
       },
-      "last_price": 1.5099999904632568,
-      "last_checked": "2026-11-09",
+      "last_price": 1.5700000524520874,
+      "last_checked": "2026-11-13",
       "on_list": false
     },
     {
@@ -110,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 68.5, volume 0.9x avg"
       },
-      "last_price": 4.25,
-      "last_checked": "2026-11-09",
+      "last_price": 4.289999961853027,
+      "last_checked": "2026-11-13",
       "on_list": false
     },
     {
@@ -130,7 +111,7 @@
         "composite_score": "Score 46/100 \u2014 RSI 62.5, volume 0.0x avg"
       },
       "last_price": 2.3299999237060547,
-      "last_checked": "2026-11-09",
+      "last_checked": "2026-11-13",
       "on_list": false
     },
     {
@@ -148,8 +129,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 58.6, volume 0.4x avg"
       },
-      "last_price": 19.52,
-      "last_checked": "2026-11-09",
+      "last_price": 19.09,
+      "last_checked": "2026-11-13",
       "on_list": true
     },
     {
@@ -167,8 +148,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 54.4, volume 0.9x avg"
       },
-      "last_price": 1.38,
-      "last_checked": "2026-11-09",
+      "last_price": 1.49,
+      "last_checked": "2026-11-13",
       "on_list": true
     },
     {
@@ -186,8 +167,8 @@
       "entry_details": {
         "composite_score": "Score 38/100 \u2014 RSI 58.9, volume 0.3x avg"
       },
-      "last_price": 1.0700000524520874,
-      "last_checked": "2026-11-09",
+      "last_price": 1.1200000047683716,
+      "last_checked": "2026-11-13",
       "on_list": false
     },
     {
@@ -205,8 +186,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 50.1, volume 8.1x avg"
       },
-      "last_price": 0.39500001072883606,
-      "last_checked": "2026-11-09",
+      "last_price": 0.4099999964237213,
+      "last_checked": "2026-11-13",
       "on_list": false
     },
     {
@@ -224,28 +205,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 56.2, volume 0.7x avg"
       },
-      "last_price": 8.029999732971191,
-      "last_checked": "2026-11-09",
+      "last_price": 7.0,
+      "last_checked": "2026-11-13",
       "on_list": false
-    },
-    {
-      "ticker": "GG.V",
-      "name": "Golconda Gold Ltd.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-11-02",
-      "entry_price": 3.27,
-      "entry_score": 71,
-      "entry_signals": {
-        "composite_score": 71
-      },
-      "entry_details": {
-        "composite_score": "Score 71/100 \u2014 RSI 61.9, volume 2.7x avg"
-      },
-      "last_price": 3.52,
-      "last_checked": "2026-11-09",
-      "on_list": true
     },
     {
       "ticker": "CCCM.V",
@@ -262,8 +224,8 @@
       "entry_details": {
         "composite_score": "Score 40/100 \u2014 RSI 57.4, volume 9.5x avg"
       },
-      "last_price": 0.6399999856948853,
-      "last_checked": "2026-11-09",
+      "last_price": 0.5799999833106995,
+      "last_checked": "2026-11-13",
       "on_list": false
     },
     {
@@ -281,8 +243,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 62.6, volume 0.6x avg"
       },
-      "last_price": 3.12,
-      "last_checked": "2026-11-09",
+      "last_price": 3.24,
+      "last_checked": "2026-11-13",
       "on_list": true
     },
     {
@@ -300,8 +262,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 59.4, volume 0.9x avg"
       },
-      "last_price": 0.7300000190734863,
-      "last_checked": "2026-11-09",
+      "last_price": 0.75,
+      "last_checked": "2026-11-13",
       "on_list": false
     },
     {
@@ -319,28 +281,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 69.0, volume 1.3x avg"
       },
-      "last_price": 2.140000104904175,
-      "last_checked": "2026-11-09",
+      "last_price": 2.890000104904175,
+      "last_checked": "2026-11-13",
       "on_list": false
-    },
-    {
-      "ticker": "BRAU.V",
-      "name": "Big Ridge Gold Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-11-09",
-      "entry_price": 0.59,
-      "entry_score": 46,
-      "entry_signals": {
-        "composite_score": 46
-      },
-      "entry_details": {
-        "composite_score": "Score 46/100 \u2014 RSI 60.5, volume 1.8x avg"
-      },
-      "last_price": 0.59,
-      "last_checked": "2026-11-09",
-      "on_list": true
     },
     {
       "ticker": "MMY.V",
@@ -357,47 +300,9 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 2.3x avg"
       },
-      "last_price": 0.83,
-      "last_checked": "2026-11-09",
-      "on_list": true
-    },
-    {
-      "ticker": "DNG.TO",
-      "name": "Dynacor Group Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-11-09",
-      "entry_price": 5.43,
-      "entry_score": 45,
-      "entry_signals": {
-        "composite_score": 45
-      },
-      "entry_details": {
-        "composite_score": "Score 45/100 \u2014 RSI 61.3, volume 0.6x avg"
-      },
-      "last_price": 5.43,
-      "last_checked": "2026-11-09",
-      "on_list": true
-    },
-    {
-      "ticker": "CHR.TO",
-      "name": "Chorus Aviation Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-11-09",
-      "entry_price": 32.93,
-      "entry_score": 45,
-      "entry_signals": {
-        "composite_score": 45
-      },
-      "entry_details": {
-        "composite_score": "Score 45/100 \u2014 RSI 67.3, volume 2.1x avg"
-      },
-      "last_price": 32.93,
-      "last_checked": "2026-11-09",
-      "on_list": true
+      "last_price": 0.7400000095367432,
+      "last_checked": "2026-11-13",
+      "on_list": false
     },
     {
       "ticker": "THX.V",
@@ -414,8 +319,122 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 55.5, volume 0.6x avg"
       },
-      "last_price": 1.06,
-      "last_checked": "2026-11-09",
+      "last_price": 1.0299999713897705,
+      "last_checked": "2026-11-13",
+      "on_list": false
+    },
+    {
+      "ticker": "TDG.V",
+      "name": "TDG Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-13",
+      "entry_price": 0.73,
+      "entry_score": 56,
+      "entry_signals": {
+        "composite_score": 56
+      },
+      "entry_details": {
+        "composite_score": "Score 56/100 \u2014 RSI 77.5, volume 8.9x avg"
+      },
+      "last_price": 0.73,
+      "last_checked": "2026-11-13",
+      "on_list": true
+    },
+    {
+      "ticker": "MRE.TO",
+      "name": "Martinrea International Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-13",
+      "entry_price": 10.92,
+      "entry_score": 51,
+      "entry_signals": {
+        "composite_score": 51
+      },
+      "entry_details": {
+        "composite_score": "Score 51/100 \u2014 RSI 69.7, volume 4.0x avg"
+      },
+      "last_price": 10.92,
+      "last_checked": "2026-11-13",
+      "on_list": true
+    },
+    {
+      "ticker": "SVE.V",
+      "name": "Silver One Resources Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-13",
+      "entry_price": 0.5,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 66.0, volume 1.5x avg"
+      },
+      "last_price": 0.5,
+      "last_checked": "2026-11-13",
+      "on_list": true
+    },
+    {
+      "ticker": "TNR.V",
+      "name": "TNR Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-13",
+      "entry_price": 0.3875,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 67.6, volume 0.6x avg"
+      },
+      "last_price": 0.3875,
+      "last_checked": "2026-11-13",
+      "on_list": true
+    },
+    {
+      "ticker": "EPRX.TO",
+      "name": "Eupraxia Pharmaceuticals Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-13",
+      "entry_price": 11.65,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 61.6, volume 0.7x avg"
+      },
+      "last_price": 11.65,
+      "last_checked": "2026-11-13",
+      "on_list": true
+    },
+    {
+      "ticker": "KFR.V",
+      "name": "Kingfisher Metals Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-13",
+      "entry_price": 1.19,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 63.8, volume 1.0x avg"
+      },
+      "last_price": 1.19,
+      "last_checked": "2026-11-13",
       "on_list": true
     }
   ],
@@ -3188,6 +3207,116 @@
       },
       "entry_details": {
         "composite_score": "Score 38/100 \u2014 RSI 63.1, volume 1.2x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "GAU.TO",
+      "name": "Galiano Gold Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-09",
+      "exit_date": "2026-11-13",
+      "entry_price": 3.14,
+      "exit_price": 3.22,
+      "return_pct": 2.55,
+      "days_held": 35,
+      "entry_score": 51,
+      "entry_signals": {
+        "composite_score": 51
+      },
+      "entry_details": {
+        "composite_score": "Score 51/100 \u2014 RSI 58.6, volume 0.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-02",
+      "exit_date": "2026-11-13",
+      "entry_price": 3.27,
+      "exit_price": 3.19,
+      "return_pct": -2.45,
+      "days_held": 11,
+      "entry_score": 71,
+      "entry_signals": {
+        "composite_score": 71
+      },
+      "entry_details": {
+        "composite_score": "Score 71/100 \u2014 RSI 61.9, volume 2.7x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "BRAU.V",
+      "name": "Big Ridge Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-09",
+      "exit_date": "2026-11-13",
+      "entry_price": 0.59,
+      "exit_price": 0.59,
+      "return_pct": -0.0,
+      "days_held": 4,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 60.5, volume 1.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "DNG.TO",
+      "name": "Dynacor Group Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-09",
+      "exit_date": "2026-11-13",
+      "entry_price": 5.43,
+      "exit_price": 5.66,
+      "return_pct": 4.24,
+      "days_held": 4,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 61.3, volume 0.6x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "CHR.TO",
+      "name": "Chorus Aviation Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-09",
+      "exit_date": "2026-11-13",
+      "entry_price": 32.93,
+      "exit_price": 36.2,
+      "return_pct": 9.93,
+      "days_held": 4,
+      "entry_score": 45,
+      "entry_signals": {
+        "composite_score": 45
+      },
+      "entry_details": {
+        "composite_score": "Score 45/100 \u2014 RSI 67.3, volume 2.1x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
