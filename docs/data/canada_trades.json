@@ -1,63 +1,6 @@
 {
   "active": [
     {
-      "ticker": "CVO.TO",
-      "name": "Coveo Solutions Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-19",
-      "entry_price": 4.82,
-      "entry_score": 46,
-      "entry_signals": {
-        "composite_score": 46
-      },
-      "entry_details": {
-        "composite_score": "Score 46/100 \u2014 RSI 62.3, volume 0.5x avg"
-      },
-      "last_price": 4.96,
-      "last_checked": "2026-11-16",
-      "on_list": true
-    },
-    {
-      "ticker": "LGN.V",
-      "name": "Logan Energy Corp.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-19",
-      "entry_price": 1.265,
-      "entry_score": 44,
-      "entry_signals": {
-        "composite_score": 44
-      },
-      "entry_details": {
-        "composite_score": "Score 44/100 \u2014 RSI 68.4, volume 0.8x avg"
-      },
-      "last_price": 1.5,
-      "last_checked": "2026-11-16",
-      "on_list": false
-    },
-    {
-      "ticker": "LTC.V",
-      "name": "Lotus Creek Exploration Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-19",
-      "entry_price": 4.36,
-      "entry_score": 43,
-      "entry_signals": {
-        "composite_score": 43
-      },
-      "entry_details": {
-        "composite_score": "Score 43/100 \u2014 RSI 68.5, volume 0.9x avg"
-      },
-      "last_price": 4.170000076293945,
-      "last_checked": "2026-11-16",
-      "on_list": false
-    },
-    {
       "ticker": "THNC.TO",
       "name": "Thinkific Labs Inc.",
       "screener": "canada",
@@ -72,8 +15,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 62.5, volume 0.0x avg"
       },
-      "last_price": 2.299999952316284,
-      "last_checked": "2026-11-16",
+      "last_price": 2.2799999713897705,
+      "last_checked": "2026-11-20",
       "on_list": false
     },
     {
@@ -91,9 +34,9 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 58.6, volume 0.4x avg"
       },
-      "last_price": 18.98,
-      "last_checked": "2026-11-16",
-      "on_list": true
+      "last_price": 17.43000030517578,
+      "last_checked": "2026-11-20",
+      "on_list": false
     },
     {
       "ticker": "WI.V",
@@ -110,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 54.4, volume 0.9x avg"
       },
-      "last_price": 1.46,
-      "last_checked": "2026-11-16",
+      "last_price": 1.35,
+      "last_checked": "2026-11-20",
       "on_list": true
     },
     {
@@ -129,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 38/100 \u2014 RSI 58.9, volume 0.3x avg"
       },
-      "last_price": 1.0800000429153442,
-      "last_checked": "2026-11-16",
+      "last_price": 1.090000033378601,
+      "last_checked": "2026-11-20",
       "on_list": false
     },
     {
@@ -148,46 +91,8 @@
       "entry_details": {
         "composite_score": "Score 46/100 \u2014 RSI 50.1, volume 8.1x avg"
       },
-      "last_price": 0.4000000059604645,
-      "last_checked": "2026-11-16",
-      "on_list": false
-    },
-    {
-      "ticker": "VHI.TO",
-      "name": "Vitalhub Corp.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-30",
-      "entry_price": 7.77,
-      "entry_score": 39,
-      "entry_signals": {
-        "composite_score": 39
-      },
-      "entry_details": {
-        "composite_score": "Score 39/100 \u2014 RSI 56.2, volume 0.7x avg"
-      },
-      "last_price": 6.62,
-      "last_checked": "2026-11-16",
-      "on_list": true
-    },
-    {
-      "ticker": "CCCM.V",
-      "name": "C3 Metals Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-11-02",
-      "entry_price": 0.67,
-      "entry_score": 40,
-      "entry_signals": {
-        "composite_score": 40
-      },
-      "entry_details": {
-        "composite_score": "Score 40/100 \u2014 RSI 57.4, volume 9.5x avg"
-      },
-      "last_price": 0.6299999952316284,
-      "last_checked": "2026-11-16",
+      "last_price": 0.4050000011920929,
+      "last_checked": "2026-11-20",
       "on_list": false
     },
     {
@@ -205,8 +110,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 62.6, volume 0.6x avg"
       },
-      "last_price": 3.059999942779541,
-      "last_checked": "2026-11-16",
+      "last_price": 2.9700000286102295,
+      "last_checked": "2026-11-20",
       "on_list": false
     },
     {
@@ -224,8 +129,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 59.4, volume 0.9x avg"
       },
-      "last_price": 0.7099999785423279,
-      "last_checked": "2026-11-16",
+      "last_price": 0.6299999952316284,
+      "last_checked": "2026-11-20",
       "on_list": false
     },
     {
@@ -243,27 +148,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 69.0, volume 1.3x avg"
       },
-      "last_price": 3.130000114440918,
-      "last_checked": "2026-11-16",
-      "on_list": false
-    },
-    {
-      "ticker": "MMY.V",
-      "name": "Monument Mining Limited",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-11-09",
-      "entry_price": 0.83,
-      "entry_score": 46,
-      "entry_signals": {
-        "composite_score": 46
-      },
-      "entry_details": {
-        "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 2.3x avg"
-      },
-      "last_price": 0.7200000286102295,
-      "last_checked": "2026-11-16",
+      "last_price": 2.5399999618530273,
+      "last_checked": "2026-11-20",
       "on_list": false
     },
     {
@@ -281,85 +167,9 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 55.5, volume 0.6x avg"
       },
-      "last_price": 0.9599999785423279,
-      "last_checked": "2026-11-16",
+      "last_price": 0.8799999952316284,
+      "last_checked": "2026-11-20",
       "on_list": false
-    },
-    {
-      "ticker": "TDG.V",
-      "name": "TDG Gold Corp.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-11-13",
-      "entry_price": 0.73,
-      "entry_score": 56,
-      "entry_signals": {
-        "composite_score": 56
-      },
-      "entry_details": {
-        "composite_score": "Score 56/100 \u2014 RSI 77.5, volume 8.9x avg"
-      },
-      "last_price": 0.74,
-      "last_checked": "2026-11-16",
-      "on_list": true
-    },
-    {
-      "ticker": "SVE.V",
-      "name": "Silver One Resources Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-11-13",
-      "entry_price": 0.5,
-      "entry_score": 50,
-      "entry_signals": {
-        "composite_score": 50
-      },
-      "entry_details": {
-        "composite_score": "Score 50/100 \u2014 RSI 66.0, volume 1.5x avg"
-      },
-      "last_price": 0.48,
-      "last_checked": "2026-11-16",
-      "on_list": true
-    },
-    {
-      "ticker": "IVQ.TO",
-      "name": "Invesque Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-11-16",
-      "entry_price": 0.14,
-      "entry_score": 52,
-      "entry_signals": {
-        "composite_score": 52
-      },
-      "entry_details": {
-        "composite_score": "Score 52/100 \u2014 RSI 74.2, volume 52.1x avg"
-      },
-      "last_price": 0.14,
-      "last_checked": "2026-11-16",
-      "on_list": true
-    },
-    {
-      "ticker": "RSI.TO",
-      "name": "Rogers Sugar Inc.",
-      "screener": "canada",
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-11-16",
-      "entry_price": 6.86,
-      "entry_score": 44,
-      "entry_signals": {
-        "composite_score": 44
-      },
-      "entry_details": {
-        "composite_score": "Score 44/100 \u2014 RSI 66.4, volume 2.1x avg"
-      },
-      "last_price": 6.86,
-      "last_checked": "2026-11-16",
-      "on_list": true
     },
     {
       "ticker": "RECO.V",
@@ -376,9 +186,9 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 57.3, volume 0.7x avg"
       },
-      "last_price": 0.58,
-      "last_checked": "2026-11-16",
-      "on_list": true
+      "last_price": 0.5199999809265137,
+      "last_checked": "2026-11-20",
+      "on_list": false
     },
     {
       "ticker": "MKO.V",
@@ -395,8 +205,160 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 32.8, volume 3.3x avg"
       },
-      "last_price": 9.79,
-      "last_checked": "2026-11-16",
+      "last_price": 8.76,
+      "last_checked": "2026-11-20",
+      "on_list": true
+    },
+    {
+      "ticker": "DRX.TO",
+      "name": "ADF Group Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-20",
+      "entry_price": 21.51,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 79.8, volume 1.8x avg"
+      },
+      "last_price": 21.51,
+      "last_checked": "2026-11-20",
+      "on_list": true
+    },
+    {
+      "ticker": "IPT.V",
+      "name": "IMPACT Silver Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-20",
+      "entry_price": 0.19,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 31.7, volume 5.0x avg"
+      },
+      "last_price": 0.19,
+      "last_checked": "2026-11-20",
+      "on_list": true
+    },
+    {
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-20",
+      "entry_price": 2.5,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 33.7, volume 3.8x avg"
+      },
+      "last_price": 2.5,
+      "last_checked": "2026-11-20",
+      "on_list": true
+    },
+    {
+      "ticker": "SM.V",
+      "name": "Sierra Madre Gold and Silver Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-20",
+      "entry_price": 1.13,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 41.4, volume 3.3x avg"
+      },
+      "last_price": 1.13,
+      "last_checked": "2026-11-20",
+      "on_list": true
+    },
+    {
+      "ticker": "RM.TO",
+      "name": "Roxmore Resources Inc.",
+      "screener": "canada",
+      "strategy": "Watch List",
+      "exchange": "TSX",
+      "entry_date": "2026-11-20",
+      "entry_price": 6.79,
+      "entry_score": 37,
+      "entry_signals": {
+        "composite_score": 37
+      },
+      "entry_details": {
+        "composite_score": "Score 37/100 \u2014 RSI 61.4, volume 2.1x avg"
+      },
+      "last_price": 6.79,
+      "last_checked": "2026-11-20",
+      "on_list": true
+    },
+    {
+      "ticker": "SBI.TO",
+      "name": "Serabi Gold plc",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-20",
+      "entry_price": 2.73,
+      "entry_score": 35,
+      "entry_signals": {
+        "composite_score": 35
+      },
+      "entry_details": {
+        "composite_score": "Score 35/100 \u2014 RSI 26.4, volume 2.9x avg"
+      },
+      "last_price": 2.73,
+      "last_checked": "2026-11-20",
+      "on_list": true
+    },
+    {
+      "ticker": "BRAU.V",
+      "name": "Big Ridge Gold Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-20",
+      "entry_price": 0.33,
+      "entry_score": 34,
+      "entry_signals": {
+        "composite_score": 34
+      },
+      "entry_details": {
+        "composite_score": "Score 34/100 \u2014 RSI 31.7, volume 11.1x avg"
+      },
+      "last_price": 0.33,
+      "last_checked": "2026-11-20",
+      "on_list": true
+    },
+    {
+      "ticker": "STGO.TO",
+      "name": "Steppe Gold Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-20",
+      "entry_price": 1.14,
+      "entry_score": 32,
+      "entry_signals": {
+        "composite_score": 32
+      },
+      "entry_details": {
+        "composite_score": "Score 32/100 \u2014 RSI 29.8, volume 3.1x avg"
+      },
+      "last_price": 1.14,
+      "last_checked": "2026-11-20",
       "on_list": true
     }
   ],
@@ -3411,6 +3373,226 @@
       },
       "entry_details": {
         "composite_score": "Score 45/100 \u2014 RSI 63.8, volume 1.0x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "CVO.TO",
+      "name": "Coveo Solutions Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-19",
+      "exit_date": "2026-11-20",
+      "entry_price": 4.82,
+      "exit_price": 4.2,
+      "return_pct": -12.86,
+      "days_held": 32,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 62.3, volume 0.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "LGN.V",
+      "name": "Logan Energy Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-19",
+      "exit_date": "2026-11-20",
+      "entry_price": 1.265,
+      "exit_price": 1.51,
+      "return_pct": 19.37,
+      "days_held": 32,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 68.4, volume 0.8x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "LTC.V",
+      "name": "Lotus Creek Exploration Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-19",
+      "exit_date": "2026-11-20",
+      "entry_price": 4.36,
+      "exit_price": 4.23,
+      "return_pct": -2.98,
+      "days_held": 32,
+      "entry_score": 43,
+      "entry_signals": {
+        "composite_score": 43
+      },
+      "entry_details": {
+        "composite_score": "Score 43/100 \u2014 RSI 68.5, volume 0.9x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "VHI.TO",
+      "name": "Vitalhub Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-30",
+      "exit_date": "2026-11-20",
+      "entry_price": 7.77,
+      "exit_price": 6.1,
+      "return_pct": -21.49,
+      "days_held": 21,
+      "entry_score": 39,
+      "entry_signals": {
+        "composite_score": 39
+      },
+      "entry_details": {
+        "composite_score": "Score 39/100 \u2014 RSI 56.2, volume 0.7x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "stop_loss"
+    },
+    {
+      "ticker": "CCCM.V",
+      "name": "C3 Metals Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-02",
+      "exit_date": "2026-11-20",
+      "entry_price": 0.67,
+      "exit_price": 0.485,
+      "return_pct": -27.61,
+      "days_held": 18,
+      "entry_score": 40,
+      "entry_signals": {
+        "composite_score": 40
+      },
+      "entry_details": {
+        "composite_score": "Score 40/100 \u2014 RSI 57.4, volume 9.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "stop_loss"
+    },
+    {
+      "ticker": "MMY.V",
+      "name": "Monument Mining Limited",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-09",
+      "exit_date": "2026-11-20",
+      "entry_price": 0.83,
+      "exit_price": 0.62,
+      "return_pct": -25.3,
+      "days_held": 11,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 57.1, volume 2.3x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "stop_loss"
+    },
+    {
+      "ticker": "TDG.V",
+      "name": "TDG Gold Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-13",
+      "exit_date": "2026-11-20",
+      "entry_price": 0.73,
+      "exit_price": 0.61,
+      "return_pct": -16.44,
+      "days_held": 7,
+      "entry_score": 56,
+      "entry_signals": {
+        "composite_score": 56
+      },
+      "entry_details": {
+        "composite_score": "Score 56/100 \u2014 RSI 77.5, volume 8.9x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "SVE.V",
+      "name": "Silver One Resources Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-13",
+      "exit_date": "2026-11-20",
+      "entry_price": 0.5,
+      "exit_price": 0.41,
+      "return_pct": -18.0,
+      "days_held": 7,
+      "entry_score": 50,
+      "entry_signals": {
+        "composite_score": 50
+      },
+      "entry_details": {
+        "composite_score": "Score 50/100 \u2014 RSI 66.0, volume 1.5x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "IVQ.TO",
+      "name": "Invesque Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-16",
+      "exit_date": "2026-11-20",
+      "entry_price": 0.14,
+      "exit_price": 0.14,
+      "return_pct": 0.0,
+      "days_held": 4,
+      "entry_score": 52,
+      "entry_signals": {
+        "composite_score": 52
+      },
+      "entry_details": {
+        "composite_score": "Score 52/100 \u2014 RSI 74.2, volume 52.1x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "RSI.TO",
+      "name": "Rogers Sugar Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-16",
+      "exit_date": "2026-11-20",
+      "entry_price": 6.86,
+      "exit_price": 6.64,
+      "return_pct": -3.21,
+      "days_held": 4,
+      "entry_score": 44,
+      "entry_signals": {
+        "composite_score": 44
+      },
+      "entry_details": {
+        "composite_score": "Score 44/100 \u2014 RSI 66.4, volume 2.1x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"

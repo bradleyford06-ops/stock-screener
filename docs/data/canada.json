@@ -1,200 +1,300 @@
 {
-  "last_updated": "2026-11-16",
+  "last_updated": "2026-11-20",
   "current": [
     {
       "rank": 1,
-      "ticker": "IVQ.TO",
-      "name": "Invesque Inc.",
-      "score": 52,
-      "price": 0.14,
-      "market_cap": 129152656,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 52
-      },
-      "details": {
-        "composite_score": "Technical score 52/100 \u2014 RSI 74, volume 52.1x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 2,
-      "ticker": "KITS.TO",
-      "name": "Kits Eyecare Ltd.",
-      "score": 49,
-      "price": 18.98,
-      "market_cap": 645438400,
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 49
-      },
-      "details": {
-        "composite_score": "Technical score 49/100 \u2014 RSI 61, volume 0.5x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 3,
-      "ticker": "WI.V",
-      "name": "The Western Investment Company of Canada Limited",
-      "score": 46,
-      "price": 1.46,
-      "market_cap": 243910544,
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 46
-      },
-      "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 77, volume 0.7x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 4,
-      "ticker": "CVO.TO",
-      "name": "Coveo Solutions Inc.",
-      "score": 46,
-      "price": 4.96,
-      "market_cap": 443133856,
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 46
-      },
-      "details": {
-        "composite_score": "Technical score 46/100 \u2014 RSI 62, volume 0.8x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 5,
-      "ticker": "RSI.TO",
-      "name": "Rogers Sugar Inc.",
+      "ticker": "DRX.TO",
+      "name": "ADF Group Inc.",
       "score": 44,
-      "price": 6.86,
-      "market_cap": 881810304,
-      "strategy": "Swing Trade",
+      "price": 21.51,
+      "market_cap": 614178368,
+      "strategy": "Position Trade",
       "exchange": "TSX",
       "scores": {
         "composite_score": 44
       },
       "details": {
-        "composite_score": "Technical score 44/100 \u2014 RSI 66, volume 2.1x avg. Swing Trade signal."
+        "composite_score": "Technical score 44/100 \u2014 RSI 80, volume 1.8x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 2,
+      "ticker": "IPT.V",
+      "name": "IMPACT Silver Corp.",
+      "score": 43,
+      "price": 0.19,
+      "market_cap": 66410908,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 43
+      },
+      "details": {
+        "composite_score": "Technical score 43/100 \u2014 RSI 32, volume 5.0x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 3,
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
+      "score": 43,
+      "price": 2.5,
+      "market_cap": 178503392,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 43
+      },
+      "details": {
+        "composite_score": "Technical score 43/100 \u2014 RSI 34, volume 3.8x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "SM.V",
+      "name": "Sierra Madre Gold and Silver Ltd.",
+      "score": 43,
+      "price": 1.13,
+      "market_cap": 295214560,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 43
+      },
+      "details": {
+        "composite_score": "Technical score 43/100 \u2014 RSI 41, volume 3.3x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 5,
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "score": 39,
+      "price": 1.35,
+      "market_cap": 225533728,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 39
+      },
+      "details": {
+        "composite_score": "Technical score 39/100 \u2014 RSI 59, volume 1.0x avg. Position Trade signal."
       }
     },
     {
       "rank": 6,
-      "ticker": "TDG.V",
-      "name": "TDG Gold Corp.",
-      "score": 42,
-      "price": 0.74,
-      "market_cap": 207136896,
-      "strategy": "Swing Trade",
-      "exchange": "TSX-V",
+      "ticker": "RM.TO",
+      "name": "Roxmore Resources Inc.",
+      "score": 37,
+      "price": 6.79,
+      "market_cap": 569638592,
+      "strategy": "Watch List",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 42
+        "composite_score": 37
       },
       "details": {
-        "composite_score": "Technical score 42/100 \u2014 RSI 78, volume 2.6x avg. Swing Trade signal."
+        "composite_score": "Technical score 37/100 \u2014 RSI 61, volume 2.1x avg. Watch List signal."
       }
     },
     {
       "rank": 7,
-      "ticker": "RECO.V",
-      "name": "Reconnaissance Energy Africa Ltd.",
-      "score": 41,
-      "price": 0.58,
-      "market_cap": 241258336,
+      "ticker": "SBI.TO",
+      "name": "Serabi Gold plc",
+      "score": 35,
+      "price": 2.73,
+      "market_cap": 208320192,
       "strategy": "Position Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 41
+        "composite_score": 35
       },
       "details": {
-        "composite_score": "Technical score 41/100 \u2014 RSI 57, volume 0.7x avg. Position Trade signal."
+        "composite_score": "Technical score 35/100 \u2014 RSI 26, volume 2.9x avg. Position Trade signal."
       }
     },
     {
       "rank": 8,
-      "ticker": "VHI.TO",
-      "name": "Vitalhub Corp.",
-      "score": 39,
-      "price": 6.62,
-      "market_cap": 419305184,
+      "ticker": "MKO.V",
+      "name": "Mako Mining Corp.",
+      "score": 35,
+      "price": 8.76,
+      "market_cap": 768165120,
       "strategy": "Position Trade",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 39
+        "composite_score": 35
       },
       "details": {
-        "composite_score": "Technical score 39/100 \u2014 RSI 35, volume 3.1x avg. Position Trade signal."
+        "composite_score": "Technical score 35/100 \u2014 RSI 27, volume 2.8x avg. Position Trade signal."
       }
     },
     {
       "rank": 9,
-      "ticker": "MKO.V",
-      "name": "Mako Mining Corp.",
-      "score": 39,
-      "price": 9.79,
-      "market_cap": 858485888,
+      "ticker": "BRAU.V",
+      "name": "Big Ridge Gold Corp.",
+      "score": 34,
+      "price": 0.33,
+      "market_cap": 105072032,
       "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
-        "composite_score": 39
+        "composite_score": 34
       },
       "details": {
-        "composite_score": "Technical score 39/100 \u2014 RSI 33, volume 3.3x avg. Position Trade signal."
+        "composite_score": "Technical score 34/100 \u2014 RSI 32, volume 11.1x avg. Position Trade signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "SVE.V",
-      "name": "Silver One Resources Inc.",
-      "score": 39,
-      "price": 0.48,
-      "market_cap": 169453120,
+      "ticker": "STGO.TO",
+      "name": "Steppe Gold Ltd.",
+      "score": 32,
+      "price": 1.14,
+      "market_cap": 288222976,
       "strategy": "Position Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 39
+        "composite_score": 32
       },
       "details": {
-        "composite_score": "Technical score 39/100 \u2014 RSI 62, volume 1.2x avg. Position Trade signal."
+        "composite_score": "Technical score 32/100 \u2014 RSI 30, volume 3.1x avg. Position Trade signal."
       }
     }
   ],
   "previous": [
     {
-      "ticker": "WI.V"
-    },
-    {
-      "ticker": "TDG.V"
-    },
-    {
-      "ticker": "GEO.TO"
-    },
-    {
-      "ticker": "MRE.TO"
-    },
-    {
-      "ticker": "SVE.V"
-    },
-    {
-      "ticker": "TNR.V"
+      "ticker": "IVQ.TO"
     },
     {
       "ticker": "KITS.TO"
     },
     {
+      "ticker": "WI.V"
+    },
+    {
       "ticker": "CVO.TO"
     },
     {
-      "ticker": "EPRX.TO"
+      "ticker": "RSI.TO"
     },
     {
-      "ticker": "KFR.V"
+      "ticker": "TDG.V"
+    },
+    {
+      "ticker": "RECO.V"
+    },
+    {
+      "ticker": "VHI.TO"
+    },
+    {
+      "ticker": "MKO.V"
+    },
+    {
+      "ticker": "SVE.V"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-11-20",
+      "ticker": "DRX.TO",
+      "name": "ADF Group Inc.",
+      "rank": 1,
+      "score": 44,
+      "price_at_recommendation": 21.51,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-20",
+      "ticker": "IPT.V",
+      "name": "IMPACT Silver Corp.",
+      "rank": 2,
+      "score": 43,
+      "price_at_recommendation": 0.19,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-20",
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
+      "rank": 3,
+      "score": 43,
+      "price_at_recommendation": 2.5,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-20",
+      "ticker": "SM.V",
+      "name": "Sierra Madre Gold and Silver Ltd.",
+      "rank": 4,
+      "score": 43,
+      "price_at_recommendation": 1.13,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-20",
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "rank": 5,
+      "score": 39,
+      "price_at_recommendation": 1.35,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-20",
+      "ticker": "RM.TO",
+      "name": "Roxmore Resources Inc.",
+      "rank": 6,
+      "score": 37,
+      "price_at_recommendation": 6.79,
+      "strategy": "Watch List",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-20",
+      "ticker": "SBI.TO",
+      "name": "Serabi Gold plc",
+      "rank": 7,
+      "score": 35,
+      "price_at_recommendation": 2.73,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-20",
+      "ticker": "MKO.V",
+      "name": "Mako Mining Corp.",
+      "rank": 8,
+      "score": 35,
+      "price_at_recommendation": 8.76,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-20",
+      "ticker": "BRAU.V",
+      "name": "Big Ridge Gold Corp.",
+      "rank": 9,
+      "score": 34,
+      "price_at_recommendation": 0.33,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-20",
+      "ticker": "STGO.TO",
+      "name": "Steppe Gold Ltd.",
+      "rank": 10,
+      "score": 32,
+      "price_at_recommendation": 1.14,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
     {
       "run_date": "2026-11-16",
       "ticker": "IVQ.TO",
