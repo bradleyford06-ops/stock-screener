@@ -1,44 +1,6 @@
 {
   "active": [
     {
-      "ticker": "THNC.TO",
-      "name": "Thinkific Labs Inc.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-23",
-      "entry_price": 2.2,
-      "entry_score": 46,
-      "entry_signals": {
-        "composite_score": 46
-      },
-      "entry_details": {
-        "composite_score": "Score 46/100 \u2014 RSI 62.5, volume 0.0x avg"
-      },
-      "last_price": 2.2799999713897705,
-      "last_checked": "2026-11-20",
-      "on_list": false
-    },
-    {
-      "ticker": "KITS.TO",
-      "name": "Kits Eyecare Ltd.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX",
-      "entry_date": "2026-10-23",
-      "entry_price": 17.05,
-      "entry_score": 41,
-      "entry_signals": {
-        "composite_score": 41
-      },
-      "entry_details": {
-        "composite_score": "Score 41/100 \u2014 RSI 58.6, volume 0.4x avg"
-      },
-      "last_price": 17.43000030517578,
-      "last_checked": "2026-11-20",
-      "on_list": false
-    },
-    {
       "ticker": "WI.V",
       "name": "The Western Investment Company of Canada Limited",
       "screener": "canada",
@@ -53,28 +15,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 54.4, volume 0.9x avg"
       },
-      "last_price": 1.35,
-      "last_checked": "2026-11-20",
+      "last_price": 1.43,
+      "last_checked": "2026-11-24",
       "on_list": true
-    },
-    {
-      "ticker": "SRR.V",
-      "name": "Source Rock Royalties Ltd.",
-      "screener": "canada",
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "entry_date": "2026-10-23",
-      "entry_price": 1.12,
-      "entry_score": 38,
-      "entry_signals": {
-        "composite_score": 38
-      },
-      "entry_details": {
-        "composite_score": "Score 38/100 \u2014 RSI 58.9, volume 0.3x avg"
-      },
-      "last_price": 1.090000033378601,
-      "last_checked": "2026-11-20",
-      "on_list": false
     },
     {
       "ticker": "PCRX.V",
@@ -92,7 +35,7 @@
         "composite_score": "Score 46/100 \u2014 RSI 50.1, volume 8.1x avg"
       },
       "last_price": 0.4050000011920929,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-24",
       "on_list": false
     },
     {
@@ -110,8 +53,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 62.6, volume 0.6x avg"
       },
-      "last_price": 2.9700000286102295,
-      "last_checked": "2026-11-20",
+      "last_price": 3.009999990463257,
+      "last_checked": "2026-11-24",
       "on_list": false
     },
     {
@@ -129,8 +72,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 59.4, volume 0.9x avg"
       },
-      "last_price": 0.6299999952316284,
-      "last_checked": "2026-11-20",
+      "last_price": 0.6399999856948853,
+      "last_checked": "2026-11-24",
       "on_list": false
     },
     {
@@ -148,8 +91,8 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 69.0, volume 1.3x avg"
       },
-      "last_price": 2.5399999618530273,
-      "last_checked": "2026-11-20",
+      "last_price": 2.5199999809265137,
+      "last_checked": "2026-11-24",
       "on_list": false
     },
     {
@@ -167,8 +110,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 55.5, volume 0.6x avg"
       },
-      "last_price": 0.8799999952316284,
-      "last_checked": "2026-11-20",
+      "last_price": 0.9300000071525574,
+      "last_checked": "2026-11-24",
       "on_list": false
     },
     {
@@ -186,8 +129,8 @@
       "entry_details": {
         "composite_score": "Score 41/100 \u2014 RSI 57.3, volume 0.7x avg"
       },
-      "last_price": 0.5199999809265137,
-      "last_checked": "2026-11-20",
+      "last_price": 0.5400000214576721,
+      "last_checked": "2026-11-24",
       "on_list": false
     },
     {
@@ -205,9 +148,9 @@
       "entry_details": {
         "composite_score": "Score 39/100 \u2014 RSI 32.8, volume 3.3x avg"
       },
-      "last_price": 8.76,
-      "last_checked": "2026-11-20",
-      "on_list": true
+      "last_price": 9.270000457763672,
+      "last_checked": "2026-11-24",
+      "on_list": false
     },
     {
       "ticker": "DRX.TO",
@@ -224,8 +167,8 @@
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 79.8, volume 1.8x avg"
       },
-      "last_price": 21.51,
-      "last_checked": "2026-11-20",
+      "last_price": 23.9,
+      "last_checked": "2026-11-24",
       "on_list": true
     },
     {
@@ -243,9 +186,9 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 31.7, volume 5.0x avg"
       },
-      "last_price": 0.19,
-      "last_checked": "2026-11-20",
-      "on_list": true
+      "last_price": 0.20000000298023224,
+      "last_checked": "2026-11-24",
+      "on_list": false
     },
     {
       "ticker": "GG.V",
@@ -262,8 +205,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 33.7, volume 3.8x avg"
       },
-      "last_price": 2.5,
-      "last_checked": "2026-11-20",
+      "last_price": 2.4,
+      "last_checked": "2026-11-24",
       "on_list": true
     },
     {
@@ -281,8 +224,8 @@
       "entry_details": {
         "composite_score": "Score 43/100 \u2014 RSI 41.4, volume 3.3x avg"
       },
-      "last_price": 1.13,
-      "last_checked": "2026-11-20",
+      "last_price": 0.96,
+      "last_checked": "2026-11-24",
       "on_list": true
     },
     {
@@ -300,8 +243,8 @@
       "entry_details": {
         "composite_score": "Score 37/100 \u2014 RSI 61.4, volume 2.1x avg"
       },
-      "last_price": 6.79,
-      "last_checked": "2026-11-20",
+      "last_price": 6.8,
+      "last_checked": "2026-11-24",
       "on_list": true
     },
     {
@@ -319,9 +262,9 @@
       "entry_details": {
         "composite_score": "Score 35/100 \u2014 RSI 26.4, volume 2.9x avg"
       },
-      "last_price": 2.73,
-      "last_checked": "2026-11-20",
-      "on_list": true
+      "last_price": 2.759999990463257,
+      "last_checked": "2026-11-24",
+      "on_list": false
     },
     {
       "ticker": "BRAU.V",
@@ -338,9 +281,9 @@
       "entry_details": {
         "composite_score": "Score 34/100 \u2014 RSI 31.7, volume 11.1x avg"
       },
-      "last_price": 0.33,
-      "last_checked": "2026-11-20",
-      "on_list": true
+      "last_price": 0.3700000047683716,
+      "last_checked": "2026-11-24",
+      "on_list": false
     },
     {
       "ticker": "STGO.TO",
@@ -357,8 +300,103 @@
       "entry_details": {
         "composite_score": "Score 32/100 \u2014 RSI 29.8, volume 3.1x avg"
       },
-      "last_price": 1.14,
-      "last_checked": "2026-11-20",
+      "last_price": 1.2000000476837158,
+      "last_checked": "2026-11-24",
+      "on_list": false
+    },
+    {
+      "ticker": "XLY.TO",
+      "name": "Auxly Cannabis Group Inc.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-24",
+      "entry_price": 3.92,
+      "entry_score": 62,
+      "entry_signals": {
+        "composite_score": 62
+      },
+      "entry_details": {
+        "composite_score": "Score 62/100 \u2014 RSI 66.1, volume 5.2x avg"
+      },
+      "last_price": 3.92,
+      "last_checked": "2026-11-24",
+      "on_list": true
+    },
+    {
+      "ticker": "KC.V",
+      "name": "Kutcho Copper Corp.",
+      "screener": "canada",
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-24",
+      "entry_price": 0.4,
+      "entry_score": 47,
+      "entry_signals": {
+        "composite_score": 47
+      },
+      "entry_details": {
+        "composite_score": "Score 47/100 \u2014 RSI 60.4, volume 1.4x avg"
+      },
+      "last_price": 0.4,
+      "last_checked": "2026-11-24",
+      "on_list": true
+    },
+    {
+      "ticker": "SOMA.V",
+      "name": "Soma Gold Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-11-24",
+      "entry_price": 0.465,
+      "entry_score": 33,
+      "entry_signals": {
+        "composite_score": 33
+      },
+      "entry_details": {
+        "composite_score": "Score 33/100 \u2014 RSI 46.9, volume 8.9x avg"
+      },
+      "last_price": 0.465,
+      "last_checked": "2026-11-24",
+      "on_list": true
+    },
+    {
+      "ticker": "MDP.TO",
+      "name": "Medexus Pharmaceuticals Inc.",
+      "screener": "canada",
+      "strategy": "Watch List",
+      "exchange": "TSX",
+      "entry_date": "2026-11-24",
+      "entry_price": 5.74,
+      "entry_score": 32,
+      "entry_signals": {
+        "composite_score": 32
+      },
+      "entry_details": {
+        "composite_score": "Score 32/100 \u2014 RSI 60.8, volume 1.8x avg"
+      },
+      "last_price": 5.74,
+      "last_checked": "2026-11-24",
+      "on_list": true
+    },
+    {
+      "ticker": "VHI.TO",
+      "name": "Vitalhub Corp.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-11-24",
+      "entry_price": 6.36,
+      "entry_score": 31,
+      "entry_signals": {
+        "composite_score": 31
+      },
+      "entry_details": {
+        "composite_score": "Score 31/100 \u2014 RSI 35.8, volume 0.6x avg"
+      },
+      "last_price": 6.36,
+      "last_checked": "2026-11-24",
       "on_list": true
     }
   ],
@@ -3593,6 +3631,72 @@
       },
       "entry_details": {
         "composite_score": "Score 44/100 \u2014 RSI 66.4, volume 2.1x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-23",
+      "exit_date": "2026-11-24",
+      "entry_price": 2.2,
+      "exit_price": 2.28,
+      "return_pct": 3.64,
+      "days_held": 32,
+      "entry_score": 46,
+      "entry_signals": {
+        "composite_score": 46
+      },
+      "entry_details": {
+        "composite_score": "Score 46/100 \u2014 RSI 62.5, volume 0.0x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "entry_date": "2026-10-23",
+      "exit_date": "2026-11-24",
+      "entry_price": 17.05,
+      "exit_price": 18.22,
+      "return_pct": 6.86,
+      "days_held": 32,
+      "entry_score": 41,
+      "entry_signals": {
+        "composite_score": 41
+      },
+      "entry_details": {
+        "composite_score": "Score 41/100 \u2014 RSI 58.6, volume 0.4x avg"
+      },
+      "top_signal": "composite_score",
+      "exit_reason": "dropped_off_list"
+    },
+    {
+      "ticker": "SRR.V",
+      "name": "Source Rock Royalties Ltd.",
+      "screener": "canada",
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "entry_date": "2026-10-23",
+      "exit_date": "2026-11-24",
+      "entry_price": 1.12,
+      "exit_price": 1.08,
+      "return_pct": -3.57,
+      "days_held": 32,
+      "entry_score": 38,
+      "entry_signals": {
+        "composite_score": 38
+      },
+      "entry_details": {
+        "composite_score": "Score 38/100 \u2014 RSI 58.9, volume 0.3x avg"
       },
       "top_signal": "composite_score",
       "exit_reason": "dropped_off_list"
