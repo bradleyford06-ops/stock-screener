@@ -1,173 +1,179 @@
 {
-  "last_updated": "2026-11-24",
+  "last_updated": "2026-11-27",
   "current": [
     {
       "rank": 1,
-      "ticker": "XLY.TO",
-      "name": "Auxly Cannabis Group Inc.",
-      "score": 62,
-      "price": 3.92,
-      "market_cap": 404682912,
+      "ticker": "DNG.TO",
+      "name": "Dynacor Group Inc.",
+      "score": 55,
+      "price": 5.85,
+      "market_cap": 245400320,
       "strategy": "Swing Trade",
       "exchange": "TSX",
       "scores": {
-        "composite_score": 62
+        "composite_score": 55
       },
       "details": {
-        "composite_score": "Technical score 62/100 \u2014 RSI 66, volume 5.2x avg. Swing Trade signal."
+        "composite_score": "Technical score 55/100 \u2014 RSI 68, volume 0.7x avg. Swing Trade signal."
       }
     },
     {
       "rank": 2,
-      "ticker": "DRX.TO",
-      "name": "ADF Group Inc.",
-      "score": 54,
-      "price": 23.9,
-      "market_cap": 682420416,
-      "strategy": "Swing Trade",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 54
-      },
-      "details": {
-        "composite_score": "Technical score 54/100 \u2014 RSI 85, volume 4.5x avg. Swing Trade signal."
-      }
-    },
-    {
-      "rank": 3,
-      "ticker": "WI.V",
-      "name": "The Western Investment Company of Canada Limited",
-      "score": 50,
-      "price": 1.43,
-      "market_cap": 238898672,
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 50
-      },
-      "details": {
-        "composite_score": "Technical score 50/100 \u2014 RSI 65, volume 1.1x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 4,
-      "ticker": "KC.V",
-      "name": "Kutcho Copper Corp.",
+      "ticker": "MLP.V",
+      "name": "Millennial Potash Corp.",
       "score": 47,
-      "price": 0.4,
-      "market_cap": 73886000,
+      "price": 2.39,
+      "market_cap": 282529568,
       "strategy": "Swing Trade",
       "exchange": "TSX-V",
       "scores": {
         "composite_score": 47
       },
       "details": {
-        "composite_score": "Technical score 47/100 \u2014 RSI 60, volume 1.4x avg. Swing Trade signal."
+        "composite_score": "Technical score 47/100 \u2014 RSI 64, volume 0.6x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 3,
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
+      "score": 44,
+      "price": 2.5,
+      "market_cap": 168539536,
+      "strategy": "Position Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 44
+      },
+      "details": {
+        "composite_score": "Technical score 44/100 \u2014 RSI 64, volume 0.7x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "score": 43,
+      "price": 1.43,
+      "market_cap": 238898672,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 43
+      },
+      "details": {
+        "composite_score": "Technical score 43/100 \u2014 RSI 62, volume 1.5x avg. Position Trade signal."
       }
     },
     {
       "rank": 5,
-      "ticker": "GG.V",
-      "name": "Golconda Gold Ltd.",
-      "score": 38,
-      "price": 2.4,
-      "market_cap": 171363264,
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "score": 41,
+      "price": 19.12,
+      "market_cap": 649445504,
       "strategy": "Position Trade",
-      "exchange": "TSX-V",
+      "exchange": "TSX",
       "scores": {
-        "composite_score": 38
+        "composite_score": 41
       },
       "details": {
-        "composite_score": "Technical score 38/100 \u2014 RSI 32, volume 2.7x avg. Position Trade signal."
+        "composite_score": "Technical score 41/100 \u2014 RSI 58, volume 1.2x avg. Position Trade signal."
       }
     },
     {
       "rank": 6,
       "ticker": "SM.V",
       "name": "Sierra Madre Gold and Silver Ltd.",
+      "score": 40,
+      "price": 1.23,
+      "market_cap": 321396128,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
+      "scores": {
+        "composite_score": 40
+      },
+      "details": {
+        "composite_score": "Technical score 40/100 \u2014 RSI 52, volume 0.6x avg. Position Trade signal."
+      }
+    },
+    {
+      "rank": 7,
+      "ticker": "MDP.TO",
+      "name": "Medexus Pharmaceuticals Inc.",
+      "score": 39,
+      "price": 6.85,
+      "market_cap": 213634160,
+      "strategy": "Swing Trade",
+      "exchange": "TSX",
+      "scores": {
+        "composite_score": 39
+      },
+      "details": {
+        "composite_score": "Technical score 39/100 \u2014 RSI 77, volume 2.3x avg. Swing Trade signal."
+      }
+    },
+    {
+      "rank": 8,
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
       "score": 38,
-      "price": 0.96,
-      "market_cap": 250801744,
+      "price": 2.33,
+      "market_cap": 166755552,
       "strategy": "Position Trade",
       "exchange": "TSX-V",
       "scores": {
         "composite_score": 38
       },
       "details": {
-        "composite_score": "Technical score 38/100 \u2014 RSI 34, volume 2.6x avg. Position Trade signal."
-      }
-    },
-    {
-      "rank": 7,
-      "ticker": "RM.TO",
-      "name": "Roxmore Resources Inc.",
-      "score": 33,
-      "price": 6.8,
-      "market_cap": 570477504,
-      "strategy": "Watch List",
-      "exchange": "TSX",
-      "scores": {
-        "composite_score": 33
-      },
-      "details": {
-        "composite_score": "Technical score 33/100 \u2014 RSI 62, volume 0.8x avg. Watch List signal."
-      }
-    },
-    {
-      "rank": 8,
-      "ticker": "SOMA.V",
-      "name": "Soma Gold Corp.",
-      "score": 33,
-      "price": 0.465,
-      "market_cap": 70628704,
-      "strategy": "Position Trade",
-      "exchange": "TSX-V",
-      "scores": {
-        "composite_score": 33
-      },
-      "details": {
-        "composite_score": "Technical score 33/100 \u2014 RSI 47, volume 8.9x avg. Position Trade signal."
+        "composite_score": "Technical score 38/100 \u2014 RSI 33, volume 2.3x avg. Position Trade signal."
       }
     },
     {
       "rank": 9,
-      "ticker": "MDP.TO",
-      "name": "Medexus Pharmaceuticals Inc.",
-      "score": 32,
-      "price": 5.74,
-      "market_cap": 179016064,
-      "strategy": "Watch List",
-      "exchange": "TSX",
+      "ticker": "IPT.V",
+      "name": "IMPACT Silver Corp.",
+      "score": 38,
+      "price": 0.22,
+      "market_cap": 76896840,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 32
+        "composite_score": 38
       },
       "details": {
-        "composite_score": "Technical score 32/100 \u2014 RSI 61, volume 1.8x avg. Watch List signal."
+        "composite_score": "Technical score 38/100 \u2014 RSI 51, volume 0.6x avg. Position Trade signal."
       }
     },
     {
       "rank": 10,
-      "ticker": "VHI.TO",
-      "name": "Vitalhub Corp.",
-      "score": 31,
-      "price": 6.36,
-      "market_cap": 402837024,
+      "ticker": "SIG.V",
+      "name": "Sitka Gold Corp.",
+      "score": 37,
+      "price": 0.96,
+      "market_cap": 416543360,
       "strategy": "Position Trade",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "scores": {
-        "composite_score": 31
+        "composite_score": 37
       },
       "details": {
-        "composite_score": "Technical score 31/100 \u2014 RSI 36, volume 0.6x avg. Position Trade signal."
+        "composite_score": "Technical score 37/100 \u2014 RSI 61, volume 0.7x avg. Position Trade signal."
       }
     }
   ],
   "previous": [
     {
+      "ticker": "XLY.TO"
+    },
+    {
       "ticker": "DRX.TO"
     },
     {
-      "ticker": "IPT.V"
+      "ticker": "WI.V"
+    },
+    {
+      "ticker": "KC.V"
     },
     {
       "ticker": "GG.V"
@@ -176,25 +182,119 @@
       "ticker": "SM.V"
     },
     {
-      "ticker": "WI.V"
-    },
-    {
       "ticker": "RM.TO"
     },
     {
-      "ticker": "SBI.TO"
+      "ticker": "SOMA.V"
     },
     {
-      "ticker": "MKO.V"
+      "ticker": "MDP.TO"
     },
     {
-      "ticker": "BRAU.V"
-    },
-    {
-      "ticker": "STGO.TO"
+      "ticker": "VHI.TO"
     }
   ],
   "history": [
+    {
+      "run_date": "2026-11-27",
+      "ticker": "DNG.TO",
+      "name": "Dynacor Group Inc.",
+      "rank": 1,
+      "score": 55,
+      "price_at_recommendation": 5.85,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-27",
+      "ticker": "MLP.V",
+      "name": "Millennial Potash Corp.",
+      "rank": 2,
+      "score": 47,
+      "price_at_recommendation": 2.39,
+      "strategy": "Swing Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-27",
+      "ticker": "THNC.TO",
+      "name": "Thinkific Labs Inc.",
+      "rank": 3,
+      "score": 44,
+      "price_at_recommendation": 2.5,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-27",
+      "ticker": "WI.V",
+      "name": "The Western Investment Company of Canada Limited",
+      "rank": 4,
+      "score": 43,
+      "price_at_recommendation": 1.43,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-27",
+      "ticker": "KITS.TO",
+      "name": "Kits Eyecare Ltd.",
+      "rank": 5,
+      "score": 41,
+      "price_at_recommendation": 19.12,
+      "strategy": "Position Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-27",
+      "ticker": "SM.V",
+      "name": "Sierra Madre Gold and Silver Ltd.",
+      "rank": 6,
+      "score": 40,
+      "price_at_recommendation": 1.23,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-27",
+      "ticker": "MDP.TO",
+      "name": "Medexus Pharmaceuticals Inc.",
+      "rank": 7,
+      "score": 39,
+      "price_at_recommendation": 6.85,
+      "strategy": "Swing Trade",
+      "exchange": "TSX"
+    },
+    {
+      "run_date": "2026-11-27",
+      "ticker": "GG.V",
+      "name": "Golconda Gold Ltd.",
+      "rank": 8,
+      "score": 38,
+      "price_at_recommendation": 2.33,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-27",
+      "ticker": "IPT.V",
+      "name": "IMPACT Silver Corp.",
+      "rank": 9,
+      "score": 38,
+      "price_at_recommendation": 0.22,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
+    {
+      "run_date": "2026-11-27",
+      "ticker": "SIG.V",
+      "name": "Sitka Gold Corp.",
+      "rank": 10,
+      "score": 37,
+      "price_at_recommendation": 0.96,
+      "strategy": "Position Trade",
+      "exchange": "TSX-V"
+    },
     {
       "run_date": "2026-11-24",
       "ticker": "XLY.TO",
